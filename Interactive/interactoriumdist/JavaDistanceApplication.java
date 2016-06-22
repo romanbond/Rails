@@ -17,9 +17,8 @@ public class JavaDistanceApplication {
             z = rand.nextInt(50) + 1; //Say it's 13
             //so then 37 links to 13
             System.out.println(y + " -- links -> " + z);
-        }   
+        }
     }*/
-    
     private static final String[] specialNames = {
         "",
         "thousand",
@@ -29,7 +28,7 @@ public class JavaDistanceApplication {
         "quadrillion",
         "quintillion"
     };
-    
+
     private static final String[] tensNames = {
         "",
         "ten",
@@ -42,7 +41,7 @@ public class JavaDistanceApplication {
         "eighty",
         "ninety"
     };
-    
+
     private static final String[] numNames = {
         "",
         "one",
@@ -65,39 +64,32 @@ public class JavaDistanceApplication {
         "eighteen",
         "nineteen"
     };
-    
+
     private String convertLessThanOneThousand(int number) {
         String current;
-        
         if (number % 100 < 20){
             current = numNames[number % 100];
             number /= 100;
-        }
-        else {
+        }else{
             current = numNames[number % 10];
             number /= 10;
-            
+
             current = tensNames[number % 10] + current;
             number /= 10;
         }
         if (number == 0) return current;
         return numNames[number] + "hundred" + current;
     }
-    
-    public String convert(int number) {
 
+    public String convert(int number) {
         if (number == 0) { return "zero"; }
-        
         String prefix = "";
-        
         if (number < 0) {
             number = -number;
             prefix = "negative";
         }
-        
         String current = "";
         int place = 0;
-        
         do {
             int n = number % 1000;
             if (n != 0){
@@ -107,18 +99,14 @@ public class JavaDistanceApplication {
             place++;
             number /= 1000;
         } while (number > 0);
-        
         return (prefix + current).trim();
     }
-    
+
     public static void main(String[] args) {
         JavaDistanceApplication obj = new JavaDistanceApplication();
         //System.out.println("*** " + obj.convert(123456789));
         //System.out.println("*** " + obj.convert(-55));
-        
-        
-        
-        System.out.println("TEST GEN ------------------------------------------------- TEST GEN");
+        //System.out.println("TEST GEN ------------------------------------------------- TEST GEN");
         Random rand = new Random();
         int x = 5000;
         int y = 0;
@@ -131,9 +119,7 @@ public class JavaDistanceApplication {
             z = rand.nextInt(50000) + 1; //Say it's 13
             //so then 37 links to 13
             System.out.println(obj.convert(y) + " -- links -> " + obj.convert(z)+";");
-        
+
         }
     }
 }
-
-//http://javahungry.blogspot.com/2014/05/convert-math-number-to-equivalent-readable-word-in-java-code-with-example.html
