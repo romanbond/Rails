@@ -1,0 +1,987 @@
+YAL001C.cytoplasm,YAL001C.nucleus
+YAL014C.cytoplasm,YAL014C.nucleus
+YAL016W.cytoplasm,YAL016W.nucleus
+YAL026C.early Golgi,YAL026C.late Golgi
+YAL029C.cytoplasm,YAL029C.bud neck
+YAL029C.cytoplasm,YAL029C.cell periphery
+YAL029C.bud neck,YAL029C.cell periphery
+YAL029C.cytoplasm,YAL029C.bud
+YAL029C.bud neck,YAL029C.bud
+YAL029C.cell periphery,YAL029C.bud
+YAL033W.cytoplasm,YAL033W.nucleus
+YAL041W.cytoplasm,YAL041W.nucleus
+YAL053W.late Golgi,YAL053W.bud neck
+YAL053W.late Golgi,YAL053W.cell periphery
+YAL053W.bud neck,YAL053W.cell periphery
+YAL053W.late Golgi,YAL053W.bud
+YAL053W.bud neck,YAL053W.bud
+YAL053W.cell periphery,YAL053W.bud
+YAL053W.late Golgi,YAL053W.punctate composite
+YAL053W.bud neck,YAL053W.punctate composite
+YAL053W.cell periphery,YAL053W.punctate composite
+YAL053W.bud,YAL053W.punctate composite
+YAL056W.cytoplasm,YAL056W.mitochondrion
+YAL061W.cytoplasm,YAL061W.nucleus
+YAR014C.cytoplasm,YAR014C.nucleus
+YAR015W.cytoplasm,YAR015W.nucleus
+YBL004W.cytoplasm,YBL004W.nucleolus
+YBL005W.cytoplasm,YBL005W.nucleus
+YBL007C.cytoplasm,YBL007C.actin
+YBL008W.cytoplasm,YBL008W.nucleus
+YBL014C.cytoplasm,YBL014C.nucleolus
+YBL016W.cytoplasm,YBL016W.nucleus
+YBL017C.endosome,YBL017C.punctate composite
+YBL019W.cytoplasm,YBL019W.nucleus
+YBL021C.cytoplasm,YBL021C.nucleus
+YBL023C.cytoplasm,YBL023C.nucleus
+YBL026W.cytoplasm,YBL026W.nucleus
+YBL036C.cytoplasm,YBL036C.nucleus
+YBL037W.bud neck,YBL037W.cell periphery
+YBL056W.cytoplasm,YBL056W.nucleus
+YBL058W.cytoplasm,YBL058W.nucleus
+YBL061C.cytoplasm,YBL061C.nucleus
+YBL061C.cytoplasm,YBL061C.bud neck
+YBL061C.nucleus,YBL061C.bud neck
+YBL071W-A.cytoplasm,YBL071W-A.nucleus
+YBL074C.cytoplasm,YBL074C.nucleus
+YBL084C.cytoplasm,YBL084C.nucleus
+YBL085W.cytoplasm,YBL085W.bud neck
+YBL085W.cytoplasm,YBL085W.cell periphery
+YBL085W.bud neck,YBL085W.cell periphery
+YBL085W.cytoplasm,YBL085W.bud
+YBL085W.bud neck,YBL085W.bud
+YBL085W.cell periphery,YBL085W.bud
+YBL103C.cytoplasm,YBL103C.nucleus
+YBL105C.cytoplasm,YBL105C.bud neck
+YBL105C.cytoplasm,YBL105C.bud
+YBL105C.bud neck,YBL105C.bud
+YBR001C.cytoplasm,YBR001C.mitochondrion
+YBR011C.cytoplasm,YBR011C.nucleus
+YBR017C.cytoplasm,YBR017C.nucleus
+YBR034C.cytoplasm,YBR034C.nucleus
+YBR055C.cytoplasm,YBR055C.nucleus
+YBR058C.cytoplasm,YBR058C.nucleus
+YBR059C.cytoplasm,YBR059C.bud neck
+YBR059C.cytoplasm,YBR059C.cell periphery
+YBR059C.bud neck,YBR059C.cell periphery
+YBR060C.cytoplasm,YBR060C.nucleus
+YBR066C.cytoplasm,YBR066C.nucleus
+YBR080C.early Golgi,YBR080C.Golgi
+YBR082C.cytoplasm,YBR082C.nucleus
+YBR083W.cytoplasm,YBR083W.nucleus
+YBR102C.bud neck,YBR102C.cell periphery
+YBR102C.bud neck,YBR102C.bud
+YBR102C.cell periphery,YBR102C.bud
+YBR105C.cytoplasm,YBR105C.nucleus
+YBR107C.nucleus,YBR107C.spindle pole
+YBR109C.bud neck,YBR109C.cell periphery
+YBR109C.bud neck,YBR109C.bud
+YBR109C.cell periphery,YBR109C.bud
+YBR114W.cytoplasm,YBR114W.nucleus
+YBR130C.cytoplasm,YBR130C.cell periphery
+YBR130C.cytoplasm,YBR130C.bud
+YBR130C.cell periphery,YBR130C.bud
+YBR133C.cytoplasm,YBR133C.bud neck
+YBR135W.cytoplasm,YBR135W.nucleus
+YBR142W.nucleus,YBR142W.nucleolus
+YBR156C.nucleus,YBR156C.microtubule
+YBR158W.cytoplasm,YBR158W.nucleus
+YBR160W.cytoplasm,YBR160W.nucleus
+YBR164C.early Golgi,YBR164C.punctate composite
+YBR170C.cytoplasm,YBR170C.nucleus
+YBR173C.cytoplasm,YBR173C.nucleus
+YBR175W.cytoplasm,YBR175W.nucleus
+YBR195C.cytoplasm,YBR195C.nucleus
+YBR200W.bud neck,YBR200W.cell periphery
+YBR200W.bud neck,YBR200W.bud
+YBR200W.cell periphery,YBR200W.bud
+YBR202W.cytoplasm,YBR202W.nucleus
+YBR223C.cytoplasm,YBR223C.nucleus
+YBR239C.cytoplasm,YBR239C.nucleus
+YBR247C.cytoplasm,YBR247C.nucleus
+YBR247C.cytoplasm,YBR247C.nucleolus
+YBR247C.nucleus,YBR247C.nucleolus
+YBR260C.cytoplasm,YBR260C.bud neck
+YBR260C.cytoplasm,YBR260C.bud
+YBR260C.bud neck,YBR260C.bud
+YBR278W.cytoplasm,YBR278W.nucleus
+YBR281C.cytoplasm,YBR281C.nucleus
+YBR288C.early Golgi,YBR288C.punctate composite
+YBR290W.ER,YBR290W.vacuole
+YCL024W.bud neck,YCL024W.cell periphery
+YCL024W.bud neck,YCL024W.bud
+YCL024W.cell periphery,YCL024W.bud
+YCL028W.cytoplasm,YCL028W.nucleus
+YCL029C.spindle pole,YCL029C.microtubule
+YCL031C.nucleus,YCL031C.nucleolus
+YCL034W.cytoplasm,YCL034W.nucleus
+YCL039W.cytoplasm,YCL039W.nucleus
+YCL040W.cytoplasm,YCL040W.punctate composite
+YCL059C.cytoplasm,YCL059C.nucleolus
+YCR002C.bud neck,YCR002C.cell periphery
+YCR009C.cytoplasm,YCR009C.actin
+YCR012W.cytoplasm,YCR012W.nucleus
+YCR030C.bud neck,YCR030C.cell periphery
+YCR030C.bud neck,YCR030C.punctate composite
+YCR030C.cell periphery,YCR030C.punctate composite
+YCR035C.nucleus,YCR035C.nucleolus
+YCR038C.bud neck,YCR038C.cell periphery
+YCR059C.cytoplasm,YCR059C.nucleus
+YCR060W.cytoplasm,YCR060W.nucleus
+YCR065W.cytoplasm,YCR065W.nucleus
+YCR092C.cytoplasm,YCR092C.nucleus
+YDL003W.cytoplasm,YDL003W.nucleus
+YDL017W.cytoplasm,YDL017W.nucleus
+YDL020C.cytoplasm,YDL020C.nucleus
+YDL047W.cytoplasm,YDL047W.nucleus
+YDL059C.cytoplasm,YDL059C.nucleus
+YDL060W.cytoplasm,YDL060W.nucleus
+YDL064W.cytoplasm,YDL064W.nucleus
+YDL097C.cytoplasm,YDL097C.nucleus
+YDL110C.cytoplasm,YDL110C.nucleus
+YDL111C.cytoplasm,YDL111C.nucleus
+YDL111C.cytoplasm,YDL111C.nucleolus
+YDL111C.nucleus,YDL111C.nucleolus
+YDL115C.cytoplasm,YDL115C.nucleus
+YDL117W.cytoplasm,YDL117W.bud neck
+YDL125C.cytoplasm,YDL125C.nucleus
+YDL126C.cytoplasm,YDL126C.nucleus
+YDL132W.cytoplasm,YDL132W.nucleus
+YDL134C.cytoplasm,YDL134C.nucleus
+YDL135C.cytoplasm,YDL135C.nucleus
+YDL137W.early Golgi,YDL137W.late Golgi
+YDL145C.early Golgi,YDL145C.Golgi
+YDL146W.cytoplasm,YDL146W.bud neck
+YDL146W.cytoplasm,YDL146W.cell periphery
+YDL146W.bud neck,YDL146W.cell periphery
+YDL146W.cytoplasm,YDL146W.bud
+YDL146W.bud neck,YDL146W.bud
+YDL146W.cell periphery,YDL146W.bud
+YDL155W.cytoplasm,YDL155W.nucleus
+YDL156W.cytoplasm,YDL156W.nucleus
+YDL164C.nucleus,YDL164C.mitochondrion
+YDL188C.cytoplasm,YDL188C.nucleus
+YDL189W.cytoplasm,YDL189W.punctate composite
+YDL190C.cytoplasm,YDL190C.nucleus
+YDL192W.early Golgi,YDL192W.late Golgi
+YDL192W.early Golgi,YDL192W.punctate composite
+YDL192W.late Golgi,YDL192W.punctate composite
+YDL220C.cytoplasm,YDL220C.nucleus
+YDL225W.bud neck,YDL225W.cell periphery
+YDL235C.cytoplasm,YDL235C.nucleus
+YDL240W.cytoplasm,YDL240W.bud neck
+YDL240W.cytoplasm,YDL240W.cell periphery
+YDL240W.bud neck,YDL240W.cell periphery
+YDR004W.cytoplasm,YDR004W.nucleus
+YDR005C.cytoplasm,YDR005C.nucleus
+YDR027C.early Golgi,YDR027C.punctate composite
+YDR043C.cytoplasm,YDR043C.nucleus
+YDR051C.cytoplasm,YDR051C.nucleus
+YDR052C.cytoplasm,YDR052C.nucleus
+YDR054C.cytoplasm,YDR054C.nucleus
+YDR075W.cytoplasm,YDR075W.nucleus
+YDR076W.cytoplasm,YDR076W.nucleus
+YDR080W.vacuolar membrane,YDR080W.vacuole
+YDR087C.nucleus,YDR087C.nucleolus
+YDR093W.cell periphery,YDR093W.bud
+YDR098C.cytoplasm,YDR098C.nucleus
+YDR099W.cytoplasm,YDR099W.nucleus
+YDR103W.cytoplasm,YDR103W.nucleus
+YDR118W.cytoplasm,YDR118W.nucleus
+YDR121W.cytoplasm,YDR121W.nucleus
+YDR130C.cytoplasm,YDR130C.nucleus
+YDR130C.cytoplasm,YDR130C.spindle pole
+YDR130C.nucleus,YDR130C.spindle pole
+YDR140W.cytoplasm,YDR140W.nucleus
+YDR141C.early Golgi,YDR141C.punctate composite
+YDR146C.cytoplasm,YDR146C.nucleus
+YDR155C.cytoplasm,YDR155C.nucleus
+YDR164C.cytoplasm,YDR164C.bud neck
+YDR164C.cytoplasm,YDR164C.bud
+YDR164C.bud neck,YDR164C.bud
+YDR166C.bud neck,YDR166C.cell periphery
+YDR166C.bud neck,YDR166C.bud
+YDR166C.cell periphery,YDR166C.bud
+YDR173C.cytoplasm,YDR173C.nucleus
+YDR181C.cytoplasm,YDR181C.nucleus
+YDR184C.cytoplasm,YDR184C.nucleus
+YDR189W.early Golgi,YDR189W.Golgi
+YDR217C.cytoplasm,YDR217C.nucleus
+YDR233C.ER,YDR233C.cell periphery
+YDR238C.early Golgi,YDR238C.Golgi
+YDR253C.cytoplasm,YDR253C.nucleus
+YDR264C.early Golgi,YDR264C.Golgi
+YDR280W.nucleus,YDR280W.nucleolus
+YDR288W.cytoplasm,YDR288W.nucleus
+YDR309C.cytoplasm,YDR309C.bud
+YDR318W.nucleus,YDR318W.spindle pole
+YDR325W.nucleus,YDR325W.nucleolus
+YDR328C.cytoplasm,YDR328C.nucleus
+YDR330W.cytoplasm,YDR330W.nucleus
+YDR335W.cytoplasm,YDR335W.nucleus
+YDR335W.cytoplasm,YDR335W.nuclear periphery
+YDR335W.nucleus,YDR335W.nuclear periphery
+YDR348C.bud neck,YDR348C.cell periphery
+YDR353W.cytoplasm,YDR353W.nucleus
+YDR358W.cytoplasm,YDR358W.late Golgi
+YDR361C.cytoplasm,YDR361C.nucleus
+YDR364C.cytoplasm,YDR364C.nucleus
+YDR365C.nucleus,YDR365C.nucleolus
+YDR369C.cytoplasm,YDR369C.nucleus
+YDR395W.cytoplasm,YDR395W.nucleus
+YDR409W.cytoplasm,YDR409W.nucleus
+YDR412W.nucleus,YDR412W.nucleolus
+YDR423C.cytoplasm,YDR423C.nucleus
+YDR425W.cytoplasm,YDR425W.endosome
+YDR425W.cytoplasm,YDR425W.lipid particle
+YDR425W.endosome,YDR425W.lipid particle
+YDR440W.cytoplasm,YDR440W.nucleus
+YDR443C.cytoplasm,YDR443C.nucleus
+YDR457W.nucleus,YDR457W.nucleolus
+YDR479C.cytoplasm,YDR479C.punctate composite
+YDR480W.cytoplasm,YDR480W.nucleus
+YDR496C.nucleus,YDR496C.nucleolus
+YDR499W.cytoplasm,YDR499W.nucleus
+YDR507C.cytoplasm,YDR507C.bud neck
+YDR507C.cytoplasm,YDR507C.bud
+YDR507C.bud neck,YDR507C.bud
+YDR510W.cytoplasm,YDR510W.nucleus
+YDR533C.cytoplasm,YDR533C.nucleus
+YEL009C.cytoplasm,YEL009C.nucleus
+YEL012W.cytoplasm,YEL012W.nucleus
+YEL019C.cytoplasm,YEL019C.nucleus
+YEL022W.cytoplasm,YEL022W.early Golgi
+YEL037C.cytoplasm,YEL037C.nucleus
+YEL055C.nucleus,YEL055C.nucleolus
+YEL058W.cytoplasm,YEL058W.nucleus
+YEL060C.cytoplasm,YEL060C.punctate composite
+YER002W.nucleus,YER002W.nucleolus
+YER005W.early Golgi,YER005W.Golgi
+YER006W.nucleus,YER006W.nucleolus
+YER008C.bud neck,YER008C.cell periphery
+YER008C.bud neck,YER008C.bud
+YER008C.cell periphery,YER008C.bud
+YER013W.cytoplasm,YER013W.nucleus
+YER021W.cytoplasm,YER021W.nucleus
+YER031C.cytoplasm,YER031C.nucleus
+YER038C.cytoplasm,YER038C.nucleus
+YER040W.cytoplasm,YER040W.nucleus
+YER054C.cytoplasm,YER054C.punctate composite
+YER059W.cytoplasm,YER059W.nucleus
+YER089C.cytoplasm,YER089C.nucleus
+YER095W.cytoplasm,YER095W.nucleus
+YER104W.cytoplasm,YER104W.nucleus
+YER107C.cytoplasm,YER107C.nuclear periphery
+YER110C.cytoplasm,YER110C.nucleus
+YER111C.cytoplasm,YER111C.nucleus
+YER112W.cytoplasm,YER112W.nucleus
+YER114C.cytoplasm,YER114C.bud neck
+YER114C.cytoplasm,YER114C.cell periphery
+YER114C.bud neck,YER114C.cell periphery
+YER114C.cytoplasm,YER114C.bud
+YER114C.bud neck,YER114C.bud
+YER114C.cell periphery,YER114C.bud
+YER114C.cytoplasm,YER114C.punctate composite
+YER114C.bud neck,YER114C.punctate composite
+YER114C.cell periphery,YER114C.punctate composite
+YER114C.bud,YER114C.punctate composite
+YER116C.cytoplasm,YER116C.nucleus
+YER118C.cytoplasm,YER118C.bud neck
+YER118C.cytoplasm,YER118C.cell periphery
+YER118C.bud neck,YER118C.cell periphery
+YER122C.early Golgi,YER122C.Golgi
+YER133W.cytoplasm,YER133W.nucleus
+YER133W.cytoplasm,YER133W.punctate composite
+YER133W.nucleus,YER133W.punctate composite
+YER147C.cytoplasm,YER147C.nucleus
+YER149C.cell periphery,YER149C.bud
+YER155C.cytoplasm,YER155C.bud neck
+YER157W.early Golgi,YER157W.Golgi
+YER162C.cytoplasm,YER162C.nucleus
+YER167W.cytoplasm,YER167W.nucleus
+YER171W.cytoplasm,YER171W.nucleus
+YER172C.cytoplasm,YER172C.nucleus
+YER173W.cytoplasm,YER173W.nucleus
+YER174C.cytoplasm,YER174C.nucleus
+YFL002C.nucleus,YFL002C.nucleolus
+YFL007W.cytoplasm,YFL007W.nucleus
+YFL008W.cytoplasm,YFL008W.nucleus
+YFL034C-B.cytoplasm,YFL034C-B.cell periphery
+YFL044C.cytoplasm,YFL044C.nucleus
+YFR001W.nucleus,YFR001W.nucleolus
+YFR004W.cytoplasm,YFR004W.nucleus
+YFR010W.cytoplasm,YFR010W.nucleus
+YFR011C.cytoplasm,YFR011C.mitochondrion
+YFR015C.cytoplasm,YFR015C.punctate composite
+YFR024C-A.cytoplasm,YFR024C-A.mitochondrion
+YFR024C-A.cytoplasm,YFR024C-A.bud neck
+YFR024C-A.mitochondrion,YFR024C-A.bud neck
+YFR024C-A.cytoplasm,YFR024C-A.cell periphery
+YFR024C-A.mitochondrion,YFR024C-A.cell periphery
+YFR024C-A.bud neck,YFR024C-A.cell periphery
+YFR027W.cytoplasm,YFR027W.nucleus
+YFR031C.cytoplasm,YFR031C.nucleus
+YFR034C.cytoplasm,YFR034C.nucleus
+YFR050C.cytoplasm,YFR050C.nucleus
+YFR051C.early Golgi,YFR051C.Golgi
+YGL011C.cytoplasm,YGL011C.nucleus
+YGL016W.cytoplasm,YGL016W.nucleus
+YGL016W.cytoplasm,YGL016W.nuclear periphery
+YGL016W.nucleus,YGL016W.nuclear periphery
+YGL019W.cytoplasm,YGL019W.nucleus
+YGL026C.cytoplasm,YGL026C.nucleus
+YGL035C.cytoplasm,YGL035C.nucleus
+YGL058W.cytoplasm,YGL058W.nucleus
+YGL071W.cytoplasm,YGL071W.nucleus
+YGL078C.nucleus,YGL078C.nucleolus
+YGL087C.cytoplasm,YGL087C.nucleus
+YGL090W.cytoplasm,YGL090W.nucleus
+YGL095C.early Golgi,YGL095C.late Golgi
+YGL111W.nucleus,YGL111W.nucleolus
+YGL113W.cytoplasm,YGL113W.nucleus
+YGL116W.cytoplasm,YGL116W.nucleus
+YGL125W.cytoplasm,YGL125W.nucleus
+YGL128C.cytoplasm,YGL128C.nucleus
+YGL130W.cytoplasm,YGL130W.nucleus
+YGL137W.early Golgi,YGL137W.Golgi
+YGL155W.cytoplasm,YGL155W.nucleus
+YGL162W.cytoplasm,YGL162W.nucleus
+YGL163C.cytoplasm,YGL163C.nucleus
+YGL174W.cytoplasm,YGL174W.nucleus
+YGL181W.cytoplasm,YGL181W.actin
+YGL194C.cytoplasm,YGL194C.nucleus
+YGL201C.cytoplasm,YGL201C.nucleus
+YGL210W.cytoplasm,YGL210W.nucleus
+YGL212W.cytoplasm,YGL212W.vacuole
+YGL220W.cytoplasm,YGL220W.nucleus
+YGL227W.cytoplasm,YGL227W.nucleus
+YGL233W.cytoplasm,YGL233W.bud neck
+YGL233W.cytoplasm,YGL233W.cell periphery
+YGL233W.bud neck,YGL233W.cell periphery
+YGL238W.cytoplasm,YGL238W.nucleus
+YGL240W.cytoplasm,YGL240W.nucleus
+YGL241W.cytoplasm,YGL241W.nucleus
+YGL254W.cytoplasm,YGL254W.nucleus
+YGR003W.cytoplasm,YGR003W.nucleus
+YGR010W.cytoplasm,YGR010W.nucleus
+YGR013W.cytoplasm,YGR013W.nucleus
+YGR017W.cytoplasm,YGR017W.nucleus
+YGR024C.cytoplasm,YGR024C.nucleus
+YGR040W.cytoplasm,YGR040W.nucleus
+YGR041W.bud neck,YGR041W.bud
+YGR047C.cytoplasm,YGR047C.nucleus
+YGR048W.cytoplasm,YGR048W.nucleus
+YGR052W.cytoplasm,YGR052W.nucleus
+YGR060W.ER,YGR060W.vacuole
+YGR090W.nucleus,YGR090W.nucleolus
+YGR091W.cytoplasm,YGR091W.nucleus
+YGR092W.cytoplasm,YGR092W.bud neck
+YGR095C.cytoplasm,YGR095C.nucleus
+YGR095C.cytoplasm,YGR095C.nucleolus
+YGR095C.nucleus,YGR095C.nucleolus
+YGR098C.cytoplasm,YGR098C.nucleus
+YGR103W.nucleus,YGR103W.nucleolus
+YGR120C.early Golgi,YGR120C.Golgi
+YGR135W.cytoplasm,YGR135W.nucleus
+YGR136W.cytoplasm,YGR136W.nucleus
+YGR140W.nucleus,YGR140W.spindle pole
+YGR140W.nucleus,YGR140W.microtubule
+YGR140W.spindle pole,YGR140W.microtubule
+YGR152C.cytoplasm,YGR152C.nucleus
+YGR158C.cytoplasm,YGR158C.nucleus
+YGR161C.cytoplasm,YGR161C.nucleus
+YGR178C.cytoplasm,YGR178C.nucleus
+YGR180C.cytoplasm,YGR180C.nucleus
+YGR188C.nucleus,YGR188C.spindle pole
+YGR188C.nucleus,YGR188C.microtubule
+YGR188C.spindle pole,YGR188C.microtubule
+YGR191W.ER,YGR191W.cell periphery
+YGR191W.ER,YGR191W.bud
+YGR191W.cell periphery,YGR191W.bud
+YGR191W.ER,YGR191W.vacuole
+YGR191W.cell periphery,YGR191W.vacuole
+YGR191W.bud,YGR191W.vacuole
+YGR192C.cytoplasm,YGR192C.nucleus
+YGR195W.nucleus,YGR195W.nucleolus
+YGR204W.cytoplasm,YGR204W.nucleus
+YGR208W.cytoplasm,YGR208W.nucleus
+YGR209C.cytoplasm,YGR209C.nucleus
+YGR229C.late Golgi,YGR229C.punctate composite
+YGR232W.cytoplasm,YGR232W.nucleus
+YGR233C.cytoplasm,YGR233C.nucleus
+YGR238C.cell periphery,YGR238C.bud
+YGR241C.bud neck,YGR241C.cell periphery
+YGR241C.bud neck,YGR241C.bud
+YGR241C.cell periphery,YGR241C.bud
+YGR253C.cytoplasm,YGR253C.nucleus
+YGR258C.cytoplasm,YGR258C.nucleus
+YGR261C.early Golgi,YGR261C.punctate composite
+YGR261C.early Golgi,YGR261C.Golgi
+YGR261C.punctate composite,YGR261C.Golgi
+YGR262C.cytoplasm,YGR262C.nucleus
+YGR268C.cytoplasm,YGR268C.nucleus
+YGR278W.cytoplasm,YGR278W.nucleus
+YHL007C.cytoplasm,YHL007C.bud
+YHL030W.cytoplasm,YHL030W.nucleus
+YHR009C.cytoplasm,YHR009C.nucleus
+YHR010W.cytoplasm,YHR010W.nucleolus
+YHR027C.cytoplasm,YHR027C.nucleus
+YHR030C.cytoplasm,YHR030C.nucleus
+YHR031C.cytoplasm,YHR031C.nucleus
+YHR034C.cytoplasm,YHR034C.nucleus
+YHR041C.cytoplasm,YHR041C.nucleus
+YHR052W.nucleus,YHR052W.nucleolus
+YHR058C.cytoplasm,YHR058C.nucleus
+YHR061C.cytoplasm,YHR061C.nucleus
+YHR066W.nucleus,YHR066W.nucleolus
+YHR069C.cytoplasm,YHR069C.nucleus
+YHR069C.cytoplasm,YHR069C.nucleolus
+YHR069C.nucleus,YHR069C.nucleolus
+YHR074W.cytoplasm,YHR074W.nucleus
+YHR086W.cytoplasm,YHR086W.nucleus
+YHR104W.cytoplasm,YHR104W.nucleus
+YHR107C.bud neck,YHR107C.cell periphery
+YHR118C.cytoplasm,YHR118C.nucleus
+YHR121W.cytoplasm,YHR121W.nucleus
+YHR135C.cytoplasm,YHR135C.nucleus
+YHR137W.cytoplasm,YHR137W.nucleus
+YHR143W-A.cytoplasm,YHR143W-A.nucleolus
+YHR149C.cytoplasm,YHR149C.bud neck
+YHR149C.cytoplasm,YHR149C.cell periphery
+YHR149C.bud neck,YHR149C.cell periphery
+YHR149C.cytoplasm,YHR149C.bud
+YHR149C.bud neck,YHR149C.bud
+YHR149C.cell periphery,YHR149C.bud
+YHR158C.bud neck,YHR158C.cell periphery
+YHR158C.bud neck,YHR158C.bud
+YHR158C.cell periphery,YHR158C.bud
+YHR161C.bud neck,YHR161C.cell periphery
+YHR161C.bud neck,YHR161C.bud
+YHR161C.cell periphery,YHR161C.bud
+YHR165C.cytoplasm,YHR165C.nucleus
+YHR167W.cytoplasm,YHR167W.nucleus
+YHR178W.cytoplasm,YHR178W.nucleus
+YHR179W.cytoplasm,YHR179W.nucleus
+YHR195W.nucleus,YHR195W.spindle pole
+YHR200W.cytoplasm,YHR200W.nucleus
+YIL017C.cytoplasm,YIL017C.nucleus
+YIL033C.cytoplasm,YIL033C.nucleus
+YIL035C.cytoplasm,YIL035C.nucleus
+YIL045W.cytoplasm,YIL045W.punctate composite
+YIL046W.cytoplasm,YIL046W.nucleus
+YIL053W.cytoplasm,YIL053W.nucleus
+YIL061C.cytoplasm,YIL061C.nucleus
+YIL068C.bud neck,YIL068C.cell periphery
+YIL068C.bud neck,YIL068C.bud
+YIL068C.cell periphery,YIL068C.bud
+YIL075C.cytoplasm,YIL075C.nucleus
+YIL076W.early Golgi,YIL076W.Golgi
+YIL079C.cytoplasm,YIL079C.nucleus
+YIL097W.cytoplasm,YIL097W.nucleus
+YIL106W.cytoplasm,YIL106W.spindle pole
+YIL132C.cytoplasm,YIL132C.nucleus
+YIL140W.bud neck,YIL140W.cell periphery
+YIL140W.bud neck,YIL140W.bud
+YIL140W.cell periphery,YIL140W.bud
+YIL140W.bud neck,YIL140W.vacuole
+YIL140W.cell periphery,YIL140W.vacuole
+YIL140W.bud,YIL140W.vacuole
+YIL148W.cytoplasm,YIL148W.nucleus
+YIL150C.cytoplasm,YIL150C.nucleus
+YIL153W.cytoplasm,YIL153W.nucleus
+YIR002C.cytoplasm,YIR002C.nucleus
+YIR005W.cytoplasm,YIR005W.nucleus
+YIR009W.cytoplasm,YIR009W.nucleus
+YIR011C.cytoplasm,YIR011C.nucleus
+YIR012W.cytoplasm,YIR012W.nucleus
+YIR017C.cytoplasm,YIR017C.nucleus
+YJL013C.cytoplasm,YJL013C.nucleus
+YJL024C.early Golgi,YJL024C.punctate composite
+YJL026W.cytoplasm,YJL026W.nucleus
+YJL029C.early Golgi,YJL029C.punctate composite
+YJL030W.cytoplasm,YJL030W.nucleus
+YJL035C.cytoplasm,YJL035C.nucleus
+YJL047C.cytoplasm,YJL047C.nucleus
+YJL050W.nucleus,YJL050W.nucleolus
+YJL060W.cytoplasm,YJL060W.mitochondrion
+YJL085W.bud neck,YJL085W.cell periphery
+YJL085W.bud neck,YJL085W.bud
+YJL085W.cell periphery,YJL085W.bud
+YJL090C.cytoplasm,YJL090C.nucleus
+YJL097W.ER,YJL097W.vacuole
+YJL110C.cytoplasm,YJL110C.nucleus
+YJL143W.cytoplasm,YJL143W.nucleus
+YJL146W.cytoplasm,YJL146W.nucleus
+YJL154C.endosome,YJL154C.vacuolar membrane
+YJL164C.cytoplasm,YJL164C.nucleus
+YJL194W.cytoplasm,YJL194W.nucleus
+YJR005W.bud neck,YJR005W.cell periphery
+YJR017C.cytoplasm,YJR017C.nucleus
+YJR022W.cytoplasm,YJR022W.nucleus
+YJR035W.cytoplasm,YJR035W.nucleus
+YJR043C.cytoplasm,YJR043C.nucleus
+YJR049C.cytoplasm,YJR049C.nucleus
+YJR050W.cytoplasm,YJR050W.nucleus
+YJR052W.cytoplasm,YJR052W.nucleus
+YJR058C.bud neck,YJR058C.cell periphery
+YJR067C.cytoplasm,YJR067C.nucleus
+YJR070C.cytoplasm,YJR070C.nucleus
+YJR073C.ER,YJR073C.vacuole
+YJR076C.bud neck,YJR076C.cell periphery
+YJR084W.cytoplasm,YJR084W.nucleus
+YJR086W.cytoplasm,YJR086W.punctate composite
+YJR089W.nucleus,YJR089W.spindle pole
+YJR089W.nucleus,YJR089W.microtubule
+YJR089W.spindle pole,YJR089W.microtubule
+YJR104C.cytoplasm,YJR104C.nucleus
+YJR132W.cytoplasm,YJR132W.nucleus
+YJR134C.early Golgi,YJR134C.Golgi
+YJR135C.nucleus,YJR135C.spindle pole
+YJR148W.cytoplasm,YJR148W.nucleus
+YKL006C-A.cytoplasm,YKL006C-A.nucleus
+YKL009W.nucleus,YKL009W.nucleolus
+YKL010C.cytoplasm,YKL010C.nucleus
+YKL038W.cytoplasm,YKL038W.nucleus
+YKL041W.endosome,YKL041W.punctate composite
+YKL049C.nucleus,YKL049C.spindle pole
+YKL067W.cytoplasm,YKL067W.nucleus
+YKL074C.cytoplasm,YKL074C.nucleus
+YKL079W.cytoplasm,YKL079W.bud
+YKL086W.cytoplasm,YKL086W.nucleus
+YKL103C.cytoplasm,YKL103C.punctate composite
+YKL114C.nucleus,YKL114C.mitochondrion
+YKL117W.cytoplasm,YKL117W.nucleus
+YKL125W.nucleus,YKL125W.nucleolus
+YKL129C.cytoplasm,YKL129C.actin
+YKL130C.cytoplasm,YKL130C.nucleus
+YKL139W.cytoplasm,YKL139W.nucleus
+YKL149C.cytoplasm,YKL149C.nucleus
+YKL164C.cytoplasm,YKL164C.nucleus
+YKL166C.cytoplasm,YKL166C.nucleus
+YKL183W.cytoplasm,YKL183W.nucleus
+YKL189W.cytoplasm,YKL189W.nucleus
+YKL193C.cytoplasm,YKL193C.nucleus
+YKL210W.cytoplasm,YKL210W.nucleus
+YKL213C.cytoplasm,YKL213C.nucleus
+YKL214C.cytoplasm,YKL214C.nucleus
+YKR001C.cytoplasm,YKR001C.endosome
+YKR001C.cytoplasm,YKR001C.punctate composite
+YKR001C.endosome,YKR001C.punctate composite
+YKR014C.cytoplasm,YKR014C.nucleus
+YKR018C.cytoplasm,YKR018C.nucleus
+YKR022C.cytoplasm,YKR022C.nucleus
+YKR022C.cytoplasm,YKR022C.ER
+YKR022C.nucleus,YKR022C.ER
+YKR038C.cytoplasm,YKR038C.nucleus
+YKR055W.cytoplasm,YKR055W.nucleus
+YKR060W.nucleus,YKR060W.nucleolus
+YKR079C.cytoplasm,YKR079C.nucleus
+YKR081C.nucleus,YKR081C.nucleolus
+YKR086W.cytoplasm,YKR086W.nucleus
+YKR090W.cytoplasm,YKR090W.bud neck
+YKR090W.cytoplasm,YKR090W.cell periphery
+YKR090W.bud neck,YKR090W.cell periphery
+YKR090W.cytoplasm,YKR090W.bud
+YKR090W.bud neck,YKR090W.bud
+YKR090W.cell periphery,YKR090W.bud
+YLL001W.mitochondrion,YLL001W.punctate composite
+YLL008W.cytoplasm,YLL008W.nucleus
+YLL008W.cytoplasm,YLL008W.nucleolus
+YLL008W.nucleus,YLL008W.nucleolus
+YLL024C.cytoplasm,YLL024C.nucleus
+YLL034C.nucleus,YLL034C.nucleolus
+YLL039C.cytoplasm,YLL039C.nucleus
+YLR002C.nucleus,YLR002C.nucleolus
+YLR016C.cytoplasm,YLR016C.nucleus
+YLR032W.cytoplasm,YLR032W.nucleus
+YLR035C.cytoplasm,YLR035C.nucleus
+YLR043C.cytoplasm,YLR043C.nucleus
+YLR044C.cytoplasm,YLR044C.nucleus
+YLR067C.mitochondrion,YLR067C.punctate composite
+YLR074C.nucleus,YLR074C.ER
+YLR079W.cytoplasm,YLR079W.nucleus
+YLR085C.cytoplasm,YLR085C.nucleus
+YLR102C.cytoplasm,YLR102C.nucleus
+YLR106C.cytoplasm,YLR106C.nucleus
+YLR109W.cytoplasm,YLR109W.nucleus
+YLR127C.cytoplasm,YLR127C.nucleus
+YLR129W.cytoplasm,YLR129W.nucleus
+YLR131C.cytoplasm,YLR131C.nucleus
+YLR131C.cytoplasm,YLR131C.bud
+YLR131C.nucleus,YLR131C.bud
+YLR132C.cytoplasm,YLR132C.nucleus
+YLR132C.cytoplasm,YLR132C.mitochondrion
+YLR132C.nucleus,YLR132C.mitochondrion
+YLR134W.cytoplasm,YLR134W.nucleus
+YLR135W.cytoplasm,YLR135W.nucleus
+YLR144C.cytoplasm,YLR144C.nucleus
+YLR145W.cytoplasm,YLR145W.nucleus
+YLR154C.cytoplasm,YLR154C.nucleus
+YLR166C.bud neck,YLR166C.cell periphery
+YLR166C.bud neck,YLR166C.bud
+YLR166C.cell periphery,YLR166C.bud
+YLR178C.cytoplasm,YLR178C.nucleus
+YLR179C.cytoplasm,YLR179C.nucleus
+YLR183C.cytoplasm,YLR183C.nucleus
+YLR186W.cytoplasm,YLR186W.nucleus
+YLR187W.cytoplasm,YLR187W.bud neck
+YLR187W.cytoplasm,YLR187W.cell periphery
+YLR187W.bud neck,YLR187W.cell periphery
+YLR187W.cytoplasm,YLR187W.bud
+YLR187W.bud neck,YLR187W.bud
+YLR187W.cell periphery,YLR187W.bud
+YLR196W.cytoplasm,YLR196W.nucleus
+YLR196W.cytoplasm,YLR196W.nucleolus
+YLR196W.nucleus,YLR196W.nucleolus
+YLR210W.nucleus,YLR210W.spindle pole
+YLR228C.cytoplasm,YLR228C.nucleus
+YLR234W.cytoplasm,YLR234W.nucleus
+YLR244C.cytoplasm,YLR244C.nucleus
+YLR258W.cytoplasm,YLR258W.nucleus
+YLR258W.cytoplasm,YLR258W.punctate composite
+YLR258W.nucleus,YLR258W.punctate composite
+YLR265C.cytoplasm,YLR265C.nucleus
+YLR270W.cytoplasm,YLR270W.nucleus
+YLR272C.cytoplasm,YLR272C.nucleus
+YLR272C.cytoplasm,YLR272C.nucleolus
+YLR272C.nucleus,YLR272C.nucleolus
+YLR291C.cytoplasm,YLR291C.punctate composite
+YLR313C.bud neck,YLR313C.bud
+YLR316C.cytoplasm,YLR316C.nucleus
+YLR319C.cytoplasm,YLR319C.bud neck
+YLR319C.cytoplasm,YLR319C.cell periphery
+YLR319C.bud neck,YLR319C.cell periphery
+YLR327C.cytoplasm,YLR327C.nucleus
+YLR328W.cytoplasm,YLR328W.nucleus
+YLR337C.punctate composite,YLR337C.actin
+YLR347C.cytoplasm,YLR347C.punctate composite
+YLR347C.cytoplasm,YLR347C.nuclear periphery
+YLR347C.punctate composite,YLR347C.nuclear periphery
+YLR353W.bud neck,YLR353W.cell periphery
+YLR353W.bud neck,YLR353W.bud
+YLR353W.cell periphery,YLR353W.bud
+YLR371W.cytoplasm,YLR371W.bud neck
+YLR371W.cytoplasm,YLR371W.bud
+YLR371W.bud neck,YLR371W.bud
+YLR376C.cytoplasm,YLR376C.nucleus
+YLR383W.cytoplasm,YLR383W.nucleus
+YLR401C.cytoplasm,YLR401C.nucleus
+YLR421C.cytoplasm,YLR421C.nucleus
+YLR424W.cytoplasm,YLR424W.nucleus
+YLR435W.cytoplasm,YLR435W.nucleus
+YLR438C-A.cytoplasm,YLR438C-A.nucleus
+YLR449W.nucleus,YLR449W.nucleolus
+YLR453C.cytoplasm,YLR453C.nucleus
+YML001W.cytoplasm,YML001W.nucleus
+YML007W.cytoplasm,YML007W.nucleus
+YML016C.cytoplasm,YML016C.cell periphery
+YML022W.cytoplasm,YML022W.nucleus
+YML027W.cytoplasm,YML027W.nucleus
+YML028W.cytoplasm,YML028W.punctate composite
+YML043C.nucleolus,YML043C.microtubule
+YML051W.cytoplasm,YML051W.nucleus
+YML058W.cytoplasm,YML058W.nucleus
+YML064C.spindle pole,YML064C.punctate composite
+YML074C.nucleus,YML074C.nucleolus
+YML085C.cytoplasm,YML085C.spindle pole
+YML085C.cytoplasm,YML085C.punctate composite
+YML085C.spindle pole,YML085C.punctate composite
+YML085C.cytoplasm,YML085C.microtubule
+YML085C.spindle pole,YML085C.microtubule
+YML085C.punctate composite,YML085C.microtubule
+YML093W.nucleus,YML093W.nucleolus
+YML095C.cytoplasm,YML095C.nucleus
+YML098W.cytoplasm,YML098W.nucleus
+YML099C.cytoplasm,YML099C.nucleus
+YML106W.cytoplasm,YML106W.nucleus
+YML112W.cytoplasm,YML112W.nucleus
+YML115C.vacuole,YML115C.Golgi
+YML124C.cytoplasm,YML124C.nucleus
+YML124C.cytoplasm,YML124C.spindle pole
+YML124C.nucleus,YML124C.spindle pole
+YMR001C.nucleus,YMR001C.bud neck
+YMR023C.cytoplasm,YMR023C.mitochondrion
+YMR029C.cytoplasm,YMR029C.ER
+YMR036C.cytoplasm,YMR036C.nucleus
+YMR037C.cytoplasm,YMR037C.nucleus
+YMR038C.cytoplasm,YMR038C.nucleus
+YMR047C.cytoplasm,YMR047C.nucleus
+YMR049C.nucleus,YMR049C.nucleolus
+YMR054W.early Golgi,YMR054W.late Golgi
+YMR067C.cytoplasm,YMR067C.nucleus
+YMR077C.endosome,YMR077C.vacuolar membrane
+YMR078C.cytoplasm,YMR078C.nucleus
+YMR079W.cytoplasm,YMR079W.nucleus
+YMR080C.cytoplasm,YMR080C.punctate composite
+YMR093W.nucleus,YMR093W.nucleolus
+YMR099C.cytoplasm,YMR099C.nucleus
+YMR104C.cytoplasm,YMR104C.nucleus
+YMR124W.cytoplasm,YMR124W.bud neck
+YMR124W.cytoplasm,YMR124W.cell periphery
+YMR124W.bud neck,YMR124W.cell periphery
+YMR124W.cytoplasm,YMR124W.bud
+YMR124W.bud neck,YMR124W.bud
+YMR124W.cell periphery,YMR124W.bud
+YMR127C.cytoplasm,YMR127C.nucleus
+YMR131C.nucleus,YMR131C.nucleolus
+YMR135C.cytoplasm,YMR135C.nucleus
+YMR167W.cytoplasm,YMR167W.nucleus
+YMR170C.cytoplasm,YMR170C.nucleus
+YMR183C.endosome,YMR183C.punctate composite
+YMR190C.cytoplasm,YMR190C.nucleus
+YMR192W.cytoplasm,YMR192W.bud neck
+YMR192W.cytoplasm,YMR192W.bud
+YMR192W.bud neck,YMR192W.bud
+YMR199W.cytoplasm,YMR199W.nucleus
+YMR201C.cytoplasm,YMR201C.nucleus
+YMR213W.cytoplasm,YMR213W.nucleus
+YMR224C.cytoplasm,YMR224C.nucleus
+YMR227C.cytoplasm,YMR227C.nucleus
+YMR239C.nucleus,YMR239C.nucleolus
+YMR258C.cytoplasm,YMR258C.nucleus
+YMR268C.cytoplasm,YMR268C.nucleus
+YMR276W.cytoplasm,YMR276W.nucleus
+YMR284W.cytoplasm,YMR284W.nucleus
+YMR288W.cytoplasm,YMR288W.nucleus
+YMR299C.cytoplasm,YMR299C.punctate composite
+YMR308C.cytoplasm,YMR308C.nucleus
+YMR311C.cytoplasm,YMR311C.nucleus
+YMR314W.cytoplasm,YMR314W.nucleus
+YNL007C.cytoplasm,YNL007C.nucleus
+YNL042W.cytoplasm,YNL042W.nucleus
+YNL044W.early Golgi,YNL044W.Golgi
+YNL051W.early Golgi,YNL051W.Golgi
+YNL055C.cytoplasm,YNL055C.mitochondrion
+YNL059C.cytoplasm,YNL059C.nucleus
+YNL061W.nucleus,YNL061W.nucleolus
+YNL064C.cytoplasm,YNL064C.nucleus
+YNL072W.cytoplasm,YNL072W.nucleus
+YNL078W.bud neck,YNL078W.cell periphery
+YNL082W.cytoplasm,YNL082W.nucleus
+YNL085W.cytoplasm,YNL085W.punctate composite
+YNL090W.cytoplasm,YNL090W.nucleus
+YNL098C.cytoplasm,YNL098C.nucleus
+YNL104C.cytoplasm,YNL104C.mitochondrion
+YNL107W.cytoplasm,YNL107W.nucleus
+YNL110C.nucleus,YNL110C.nucleolus
+YNL112W.cytoplasm,YNL112W.nucleus
+YNL126W.spindle pole,YNL126W.punctate composite
+YNL135C.cytoplasm,YNL135C.nucleus
+YNL141W.cytoplasm,YNL141W.nucleus
+YNL154C.cytoplasm,YNL154C.nucleus
+YNL161W.cytoplasm,YNL161W.bud neck
+YNL166C.cytoplasm,YNL166C.bud neck
+YNL166C.cytoplasm,YNL166C.bud
+YNL166C.bud neck,YNL166C.bud
+YNL167C.cytoplasm,YNL167C.nucleus
+YNL172W.cytoplasm,YNL172W.nucleus
+YNL172W.cytoplasm,YNL172W.spindle pole
+YNL172W.nucleus,YNL172W.spindle pole
+YNL175C.nucleus,YNL175C.nucleolus
+YNL186W.cytoplasm,YNL186W.nucleus
+YNL189W.cytoplasm,YNL189W.nuclear periphery
+YNL218W.cytoplasm,YNL218W.nucleus
+YNL221C.cytoplasm,YNL221C.nucleus
+YNL223W.cytoplasm,YNL223W.nucleus
+YNL232W.cytoplasm,YNL232W.nucleus
+YNL232W.cytoplasm,YNL232W.nucleolus
+YNL232W.nucleus,YNL232W.nucleolus
+YNL233W.cytoplasm,YNL233W.bud neck
+YNL233W.cytoplasm,YNL233W.cell periphery
+YNL233W.bud neck,YNL233W.cell periphery
+YNL238W.early Golgi,YNL238W.punctate composite
+YNL250W.cytoplasm,YNL250W.nucleus
+YNL262W.cytoplasm,YNL262W.nucleus
+YNL271C.cytoplasm,YNL271C.bud neck
+YNL272C.cytoplasm,YNL272C.bud neck
+YNL272C.cytoplasm,YNL272C.bud
+YNL272C.bud neck,YNL272C.bud
+YNL274C.cytoplasm,YNL274C.nucleus
+YNL278W.cytoplasm,YNL278W.bud neck
+YNL278W.cytoplasm,YNL278W.cell periphery
+YNL278W.bud neck,YNL278W.cell periphery
+YNL278W.cytoplasm,YNL278W.bud
+YNL278W.bud neck,YNL278W.bud
+YNL278W.cell periphery,YNL278W.bud
+YNL281W.cytoplasm,YNL281W.nucleus
+YNL287W.early Golgi,YNL287W.Golgi
+YNL297C.early Golgi,YNL297C.punctate composite
+YNL298W.cytoplasm,YNL298W.cell periphery
+YNL298W.cytoplasm,YNL298W.bud
+YNL298W.cell periphery,YNL298W.bud
+YNL307C.cytoplasm,YNL307C.nucleus
+YNL308C.cytoplasm,YNL308C.nucleolus
+YNL309W.cytoplasm,YNL309W.nucleus
+YNL330C.cytoplasm,YNL330C.nucleus
+YNR011C.cytoplasm,YNR011C.nucleus
+YNR012W.cytoplasm,YNR012W.nucleus
+YNR016C.cytoplasm,YNR016C.punctate composite
+YNR034W.cytoplasm,YNR034W.nucleus
+YNR038W.nucleus,YNR038W.nucleolus
+YNR046W.cytoplasm,YNR046W.nucleus
+YNR049C.cytoplasm,YNR049C.bud neck
+YNR049C.cytoplasm,YNR049C.bud
+YNR049C.bud neck,YNR049C.bud
+YNR052C.cytoplasm,YNR052C.mitochondrion
+YNR054C.cytoplasm,YNR054C.nucleolus
+YOL001W.cytoplasm,YOL001W.nucleus
+YOL006C.nucleus,YOL006C.nucleolus
+YOL010W.nucleus,YOL010W.nucleolus
+YOL017W.cytoplasm,YOL017W.nucleus
+YOL021C.cytoplasm,YOL021C.nucleus
+YOL021C.cytoplasm,YOL021C.nucleolus
+YOL021C.nucleus,YOL021C.nucleolus
+YOL034W.cytoplasm,YOL034W.nucleus
+YOL038W.cytoplasm,YOL038W.nucleus
+YOL062C.bud neck,YOL062C.cell periphery
+YOL067C.cytoplasm,YOL067C.nucleus
+YOL068C.cytoplasm,YOL068C.nucleus
+YOL070C.cytoplasm,YOL070C.bud neck
+YOL070C.cytoplasm,YOL070C.cell periphery
+YOL070C.bud neck,YOL070C.cell periphery
+YOL077C.nucleus,YOL077C.nucleolus
+YOL108C.cytoplasm,YOL108C.nucleus
+YOL112W.bud neck,YOL112W.cell periphery
+YOL112W.bud neck,YOL112W.bud
+YOL112W.cell periphery,YOL112W.bud
+YOL142W.nucleus,YOL142W.nucleolus
+YOR001W.nucleus,YOR001W.nucleolus
+YOR008C.cytoplasm,YOR008C.bud neck
+YOR008C.cytoplasm,YOR008C.bud
+YOR008C.bud neck,YOR008C.bud
+YOR008C.cytoplasm,YOR008C.vacuole
+YOR008C.bud neck,YOR008C.vacuole
+YOR008C.bud,YOR008C.vacuole
+YOR014W.cytoplasm,YOR014W.nucleus
+YOR023C.cytoplasm,YOR023C.nucleus
+YOR026W.cytoplasm,YOR026W.nucleus
+YOR028C.cytoplasm,YOR028C.nucleus
+YOR039W.cytoplasm,YOR039W.nucleus
+YOR057W.cytoplasm,YOR057W.nucleus
+YOR057W.cytoplasm,YOR057W.bud
+YOR057W.nucleus,YOR057W.bud
+YOR061W.cytoplasm,YOR061W.nucleus
+YOR078W.nucleus,YOR078W.nucleolus
+YOR083W.cytoplasm,YOR083W.nucleus
+YOR089C.cytoplasm,YOR089C.nucleus
+YOR101W.cytoplasm,YOR101W.nucleus
+YOR110W.cytoplasm,YOR110W.nucleus
+YOR122C.cytoplasm,YOR122C.nucleus
+YOR127W.cytoplasm,YOR127W.bud neck
+YOR127W.cytoplasm,YOR127W.cell periphery
+YOR127W.bud neck,YOR127W.cell periphery
+YOR138C.cytoplasm,YOR138C.nucleus
+YOR144C.cytoplasm,YOR144C.nucleus
+YOR148C.cytoplasm,YOR148C.nucleus
+YOR151C.cytoplasm,YOR151C.nucleus
+YOR156C.cytoplasm,YOR156C.nucleus
+YOR157C.cytoplasm,YOR157C.nucleus
+YOR160W.cytoplasm,YOR160W.nucleus
+YOR185C.cytoplasm,YOR185C.nucleus
+YOR188W.cytoplasm,YOR188W.bud neck
+YOR197W.cytoplasm,YOR197W.nucleus
+YOR206W.nucleus,YOR206W.nucleolus
+YOR208W.cytoplasm,YOR208W.nucleus
+YOR210W.nucleus,YOR210W.nucleolus
+YOR213C.cytoplasm,YOR213C.nucleus
+YOR261C.cytoplasm,YOR261C.nucleus
+YOR272W.nucleus,YOR272W.nucleolus
+YOR275C.cytoplasm,YOR275C.nucleus
+YOR279C.cytoplasm,YOR279C.nucleus
+YOR304C-A.cytoplasm,YOR304C-A.bud neck
+YOR304C-A.cytoplasm,YOR304C-A.cell periphery
+YOR304C-A.bud neck,YOR304C-A.cell periphery
+YOR304C-A.cytoplasm,YOR304C-A.bud
+YOR304C-A.bud neck,YOR304C-A.bud
+YOR304C-A.cell periphery,YOR304C-A.bud
+YOR315W.cytoplasm,YOR315W.nucleus
+YOR323C.cytoplasm,YOR323C.nucleus
+YOR326W.cytoplasm,YOR326W.bud neck
+YOR326W.cytoplasm,YOR326W.cell periphery
+YOR326W.bud neck,YOR326W.cell periphery
+YOR326W.cytoplasm,YOR326W.bud
+YOR326W.bud neck,YOR326W.bud
+YOR326W.cell periphery,YOR326W.bud
+YOR344C.cytoplasm,YOR344C.nucleus
+YOR346W.cytoplasm,YOR346W.nucleus
+YOR352W.cytoplasm,YOR352W.nucleus
+YOR355W.cytoplasm,YOR355W.nucleus
+YOR358W.cytoplasm,YOR358W.nucleus
+YOR362C.cytoplasm,YOR362C.nucleus
+YOR363C.cytoplasm,YOR363C.nucleus
+YOR370C.cytoplasm,YOR370C.nucleus
+YOR372C.cytoplasm,YOR372C.nucleus
+YOR375C.cytoplasm,YOR375C.nucleus
+YOR386W.cytoplasm,YOR386W.nucleus
+YPL008W.cytoplasm,YPL008W.nucleus
+YPL012W.cytoplasm,YPL012W.nucleus
+YPL024W.cytoplasm,YPL024W.nucleus
+YPL031C.cytoplasm,YPL031C.nucleus
+YPL038W.cytoplasm,YPL038W.nucleus
+YPL043W.nucleus,YPL043W.nucleolus
+YPL046C.cytoplasm,YPL046C.nucleus
+YPL066W.cytoplasm,YPL066W.bud neck
+YPL075W.cytoplasm,YPL075W.nucleus
+YPL084W.cytoplasm,YPL084W.endosome
+YPL089C.cytoplasm,YPL089C.nucleus
+YPL111W.cytoplasm,YPL111W.nucleus
+YPL115C.cytoplasm,YPL115C.bud neck
+YPL125W.cytoplasm,YPL125W.nucleus
+YPL137C.cytoplasm,YPL137C.ER
+YPL139C.cytoplasm,YPL139C.nucleus
+YPL151C.cytoplasm,YPL151C.nucleus
+YPL155C.spindle pole,YPL155C.microtubule
+YPL161C.cytoplasm,YPL161C.nucleus
+YPL166W.cytoplasm,YPL166W.nucleus
+YPL166W.cytoplasm,YPL166W.punctate composite
+YPL166W.nucleus,YPL166W.punctate composite
+YPL177C.cytoplasm,YPL177C.nucleus
+YPL194W.cytoplasm,YPL194W.nucleus
+YPL198W.cytoplasm,YPL198W.nucleolus
+YPL204W.cytoplasm,YPL204W.nucleus
+YPL204W.cytoplasm,YPL204W.bud neck
+YPL204W.nucleus,YPL204W.bud neck
+YPL204W.cytoplasm,YPL204W.bud
+YPL204W.nucleus,YPL204W.bud
+YPL204W.bud neck,YPL204W.bud
+YPL208W.cytoplasm,YPL208W.nucleus
+YPL211W.nucleus,YPL211W.nucleolus
+YPL219W.cytoplasm,YPL219W.nucleus
+YPL249C.cytoplasm,YPL249C.bud neck
+YPL249C.cytoplasm,YPL249C.cell periphery
+YPL249C.bud neck,YPL249C.cell periphery
+YPL249C.cytoplasm,YPL249C.bud
+YPL249C.bud neck,YPL249C.bud
+YPL249C.cell periphery,YPL249C.bud
+YPL256C.cytoplasm,YPL256C.nucleus
+YPR016C.nucleus,YPR016C.nucleolus
+YPR017C.cytoplasm,YPR017C.nucleus
+YPR019W.cytoplasm,YPR019W.nucleus
+YPR031W.cytoplasm,YPR031W.nucleus
+YPR032W.cytoplasm,YPR032W.cell periphery
+YPR032W.cytoplasm,YPR032W.bud
+YPR032W.cell periphery,YPR032W.bud
+YPR040W.cytoplasm,YPR040W.nucleus
+YPR051W.cytoplasm,YPR051W.nucleus
+YPR055W.cytoplasm,YPR055W.bud neck
+YPR055W.cytoplasm,YPR055W.cell periphery
+YPR055W.bud neck,YPR055W.cell periphery
+YPR055W.cytoplasm,YPR055W.bud
+YPR055W.bud neck,YPR055W.bud
+YPR055W.cell periphery,YPR055W.bud
+YPR066W.cytoplasm,YPR066W.punctate composite
+YPR069C.cytoplasm,YPR069C.nucleus
+YPR073C.cytoplasm,YPR073C.nucleus
+YPR103W.cytoplasm,YPR103W.nucleus
+YPR110C.nucleus,YPR110C.nucleolus
+YPR118W.cytoplasm,YPR118W.nucleus
+YPR141C.nucleus,YPR141C.spindle pole
+YPR141C.nucleus,YPR141C.microtubule
+YPR141C.spindle pole,YPR141C.microtubule
+YPR143W.nucleus,YPR143W.nucleolus
+YPR154W.cytoplasm,YPR154W.nucleus
+YPR168W.cytoplasm,YPR168W.nucleus
+YPR175W.cytoplasm,YPR175W.nucleus
+YPR178W.cytoplasm,YPR178W.nucleus
+YPR187W.cytoplasm,YPR187W.nucleus
+YPR190C.cytoplasm,YPR190C.nucleus

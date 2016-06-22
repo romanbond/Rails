@@ -1,0 +1,3715 @@
+_group1.nucleus,YER148W.nucleus
+_group1.nucleus,YMR039C.nucleus
+_group1.nucleolus,YBL025W.nucleolus
+_group1.unknown,YIL141W.unknown
+_group1.unknown,YJR087W.unknown
+_group1.nucleolus,YLR141W.nucleolus
+_group1.nucleolus,YMR270C.nucleolus
+_group1.unknown,YBR020W.unknown
+_group1.cytoplasm,YML051W.cytoplasm
+_group1.nucleus,YML051W.nucleus
+_group1.cytoplasm,YEL009C.cytoplasm
+_group1.nucleus,YEL009C.nucleus
+_group1.nucleus,YBR089C-A.nucleus
+_group1.unknown,YPL248C.unknown
+_group1.cytoplasm,YDR216W.cytoplasm
+_group1.nucleus,YPR086W.nucleus
+_group1.cytoplasm,YDR009W.cytoplasm
+_group1.cytoplasm,YOR298C-A.cytoplasm
+_group1.nucleus,YGR246C.nucleus
+_group1.nucleus,YNL039W.nucleus
+_group10.nuclear periphery,YKL068W.nuclear periphery
+_group10.cytoplasm,YMR080C.cytoplasm
+_group10.punctate composite,YMR080C.punctate composite
+_group10.nuclear periphery,YMR129W.nuclear periphery
+_group10.cytoplasm,YHR077C.cytoplasm
+_group10.cytoplasm,YGR072W.cytoplasm
+_group10.cytoplasm,YDR335W.cytoplasm
+_group10.nucleus,YDR335W.nucleus
+_group10.nuclear periphery,YDR335W.nuclear periphery
+_group10.nuclear periphery,YML103C.nuclear periphery
+_group10.cytoplasm,YJR132W.cytoplasm
+_group10.nucleus,YJR132W.nucleus
+_group10.cytoplasm,YPL125W.cytoplasm
+_group10.nucleus,YPL125W.nucleus
+_group10.cytoplasm,YLR363C.cytoplasm
+_group1002.nucleus,YDR464W.nucleus
+_group1002.cytoplasm,YER052C.cytoplasm
+_group1013.cytoplasm,YGR268C.cytoplasm
+_group1013.nucleus,YGR268C.nucleus
+_group1013.unknown,YHR016C.unknown
+_group1013.unknown,YBR108W.unknown
+_group1013.cytoplasm,YGR136W.cytoplasm
+_group1013.nucleus,YGR136W.nucleus
+_group1013.unknown,YJR083C.unknown
+_group1013.cytoplasm,YBR239C.cytoplasm
+_group1013.nucleus,YBR239C.nucleus
+_group1013.cytoplasm,YLR144C.cytoplasm
+_group1013.nucleus,YLR144C.nucleus
+_group1013.unknown,YGL144C.unknown
+_group1013.punctate composite,YOR042W.punctate composite
+_group1013.cytoplasm,YIL108W.cytoplasm
+_group1018.mitochondrion,YGR222W.mitochondrion
+_group1018.mitochondrion,YNR045W.mitochondrion
+_group1019.nucleus,YOR140W.nucleus
+_group1019.unknown,YGR249W.unknown
+_group1022.nuclear periphery,YKL186C.nuclear periphery
+_group1022.cytoplasm,YHR015W.cytoplasm
+_group1025.unknown,YHR073W.unknown
+_group1025.cytoplasm,YLR016C.cytoplasm
+_group1025.nucleus,YLR016C.nucleus
+_group1025.cytoplasm,YPR118W.cytoplasm
+_group1025.nucleus,YPR118W.nucleus
+_group1027.cytoplasm,YIL045W.cytoplasm
+_group1027.punctate composite,YIL045W.punctate composite
+_group1027.unknown,YLR273C.unknown
+_group1028.cytoplasm,YJR086W.cytoplasm
+_group1028.punctate composite,YJR086W.punctate composite
+_group1028.vacuole,YFL026W.vacuole
+_group1028.unknown,YGR115C.unknown
+_group1028.vacuolar membrane,YIL047C.vacuolar membrane
+_group1029.nucleolus,YHR089C.nucleolus
+_group1029.nucleolus,YDL208W.nucleolus
+_group1029.nucleolus,YHR072W-A.nucleolus
+_group1029.nucleus,YNL124W.nucleus
+_group1029.nucleus,YIL104C.nucleus
+_group1030.ER,YOL101C.ER
+_group1030.unknown,YOR105W.unknown
+_group1033.cytoplasm,YNL166C.cytoplasm
+_group1033.bud neck,YNL166C.bud neck
+_group1033.bud,YNL166C.bud
+_group1036.bud neck,YOL112W.bud neck
+_group1036.cell periphery,YOL112W.cell periphery
+_group1036.bud,YOL112W.bud
+_group1037.cytoplasm,YLR178C.cytoplasm
+_group1037.nucleus,YLR178C.nucleus
+_group1039.unknown,YOR020C.unknown
+_group1042.cytoplasm,YOR008C.cytoplasm
+_group1042.bud neck,YOR008C.bud neck
+_group1042.bud,YOR008C.bud
+_group1042.vacuole,YOR008C.vacuole
+_group1049.mitochondrion,YOL043C.mitochondrion
+_group1049.unknown,YPL164C.unknown
+_group1051.peroxisome,YKL197C.peroxisome
+_group1051.peroxisome,YNL329C.peroxisome
+_group1051.punctate composite,YOL044W.punctate composite
+_group1065.unknown,YAR064W.unknown
+_group1065.unknown,YBR213W.unknown
+_group1065.cytoplasm,YER023W.cytoplasm
+_group1065.unknown,YFL010W-A.unknown
+_group1065.cytoplasm,YFR014C.cytoplasm
+_group1065.unknown,YFR054C.unknown
+_group1065.unknown,YGL063W.unknown
+_group1065.cytoplasm,YGL229C.cytoplasm
+_group1065.cytoplasm,YGR034W.cytoplasm
+_group1065.unknown,YGR050C.unknown
+_group1065.unknown,YGR144W.unknown
+_group1065.unknown,YHR028C.unknown
+_group1065.ER,YJR073C.ER
+_group1065.vacuole,YJR073C.vacuole
+_group1065.vacuole,YKL175W.vacuole
+_group1065.vacuole,YLL051C.vacuole
+_group1065.unknown,YLR443W.unknown
+_group1065.ER,YMR200W.ER
+_group1065.cytoplasm,YMR250W.cytoplasm
+_group1065.vacuole,YNL066W.vacuole
+_group1065.unknown,YNL079C.unknown
+_group1065.unknown,YNL202W.unknown
+_group1065.cytoplasm,YOL016C.cytoplasm
+_group1065.unknown,YOR029W.unknown
+_group1080.cytoplasm,YBR140C.cytoplasm
+_group1106.mitochondrion,YBL013W.mitochondrion
+_group1106.nucleus,YAL019W.nucleus
+_group1106.unknown,YAL028W.unknown
+_group1106.unknown,YBR038W.unknown
+_group1106.cytoplasm,YBR138C.cytoplasm
+_group1106.cytoplasm,YCR065W.cytoplasm
+_group1106.nucleus,YCR065W.nucleus
+_group1106.cytoplasm,YDL189W.cytoplasm
+_group1106.punctate composite,YDL189W.punctate composite
+_group1106.cell periphery,YDR093W.cell periphery
+_group1106.bud,YDR093W.bud
+_group1106.bud neck,YDR348C.bud neck
+_group1106.cell periphery,YDR348C.cell periphery
+_group1106.unknown,YDR501W.unknown
+_group1106.unknown,YER041W.unknown
+_group1106.cytoplasm,YER167W.cytoplasm
+_group1106.nucleus,YER167W.nucleus
+_group1106.cytoplasm,YFL029C.cytoplasm
+_group1106.microtubule,YGL216W.microtubule
+_group1106.unknown,YGL235W.unknown
+_group1106.unknown,YGR035C.unknown
+_group1106.nucleus,YGR108W.nucleus
+_group1106.unknown,YGR109C.unknown
+_group1106.unknown,YGR221C.unknown
+_group1106.nucleus,YGR270W.nucleus
+_group1106.unknown,YHL035C.unknown
+_group1106.unknown,YHL050C.unknown
+_group1106.cytoplasm,YHR149C.cytoplasm
+_group1106.bud neck,YHR149C.bud neck
+_group1106.cell periphery,YHR149C.cell periphery
+_group1106.bud,YHR149C.bud
+_group1106.cytoplasm,YHR159W.cytoplasm
+_group1106.mitochondrion,YIL031W.mitochondrion
+_group1106.nucleus,YIL101C.nucleus
+_group1106.nucleus,YIL122W.nucleus
+_group1106.bud neck,YIL140W.bud neck
+_group1106.cell periphery,YIL140W.cell periphery
+_group1106.bud,YIL140W.bud
+_group1106.vacuole,YIL140W.vacuole
+_group1106.nucleus,YIR023W.nucleus
+_group1106.cytoplasm,YJL060W.cytoplasm
+_group1106.mitochondrion,YJL060W.mitochondrion
+_group1106.vacuole,YJR054W.vacuole
+_group1106.cytoplasm,YJR059W.cytoplasm
+_group1106.nucleus,YKL043W.nucleus
+_group1106.bud neck,YKL048C.bud neck
+_group1106.cytoplasm,YKL116C.cytoplasm
+_group1106.nucleus,YKL185W.nucleus
+_group1106.cytoplasm,YKR078W.cytoplasm
+_group1106.lipid particle,YKR089C.lipid particle
+_group1106.cytoplasm,YKR090W.cytoplasm
+_group1106.bud neck,YKR090W.bud neck
+_group1106.cell periphery,YKR090W.cell periphery
+_group1106.bud,YKR090W.bud
+_group1106.unknown,YKR091W.unknown
+_group1106.punctate composite,YLR035C-A.punctate composite
+_group1106.cytoplasm,YLR183C.cytoplasm
+_group1106.nucleus,YLR183C.nucleus
+_group1106.cytoplasm,YLR187W.cytoplasm
+_group1106.bud neck,YLR187W.bud neck
+_group1106.cell periphery,YLR187W.cell periphery
+_group1106.bud,YLR187W.bud
+_group1106.unknown,YLR190W.unknown
+_group1106.cell periphery,YLR219W.cell periphery
+_group1106.cytoplasm,YLR401C.cytoplasm
+_group1106.nucleus,YLR401C.nucleus
+_group1106.cytoplasm,YML027W.cytoplasm
+_group1106.nucleus,YML027W.nucleus
+_group1106.nuclear periphery,YML034W.nuclear periphery
+_group1106.unknown,YML119W.unknown
+_group1106.cytoplasm,YMR036C.cytoplasm
+_group1106.nucleus,YMR036C.nucleus
+_group1106.vacuole,YNL058C.vacuole
+_group1106.cytoplasm,YNL278W.cytoplasm
+_group1106.bud neck,YNL278W.bud neck
+_group1106.cell periphery,YNL278W.cell periphery
+_group1106.bud,YNL278W.bud
+_group1106.unknown,YNL321W.unknown
+_group1106.unknown,YNL339C.unknown
+_group1106.cytoplasm,YNR047W.cytoplasm
+_group1106.unknown,YOL036W.unknown
+_group1106.cytoplasm,YOL058W.cytoplasm
+_group1106.mitochondrion,YOR037W.mitochondrion
+_group1106.microtubule,YOR058C.microtubule
+_group1106.unknown,YOR066W.unknown
+_group1106.lipid particle,YOR081C.lipid particle
+_group1106.cell periphery,YOR104W.cell periphery
+_group1106.cytoplasm,YOR188W.cytoplasm
+_group1106.bud neck,YOR188W.bud neck
+_group1106.spindle pole,YOR195W.spindle pole
+_group1106.unknown,YPL250C.unknown
+_group1106.unknown,YPL267W.unknown
+_group1106.unknown,YPR030W.unknown
+_group1106.nuclear periphery,YPR174C.nuclear periphery
+_group111.unknown,YKR101W.unknown
+_group1144.vacuolar membrane,YDR135C.vacuolar membrane
+_group1144.cytoplasm,YGL181W.cytoplasm
+_group1144.actin,YGL181W.actin
+_group1144.mitochondrion,YLR188W.mitochondrion
+_group1148.ER,YPR091C.ER
+_group1155.nucleus,YMR277W.nucleus
+_group1158.unknown,YLL017W.unknown
+_group1159.unknown,YPR007C.unknown
+_group1160.unknown,YOR389W.unknown
+_group1161.mitochondrion,YGR082W.mitochondrion
+_group1161.mitochondrion,YNL121C.mitochondrion
+_group1161.unknown,YNL131W.unknown
+_group1161.mitochondrion,YHR083W.mitochondrion
+_group1161.mitochondrion,YMR060C.mitochondrion
+_group1161.unknown,YNL026W.unknown
+_group1161.cytoplasm,YNL055C.cytoplasm
+_group1161.mitochondrion,YNL055C.mitochondrion
+_group1161.mitochondrion,YOR045W.mitochondrion
+_group1161.unknown,YPR133W-A.unknown
+_group1162.cytoplasm,YBL051C.cytoplasm
+_group1162.cytoplasm,YDR217C.cytoplasm
+_group1162.nucleus,YDR217C.nucleus
+_group1162.nucleus,YDL101C.nucleus
+_group1162.cytoplasm,YML058W.cytoplasm
+_group1162.nucleus,YML058W.nucleus
+_group1162.nucleus,YPL127C.nucleus
+_group1163.cytoplasm,YEL012W.cytoplasm
+_group1163.nucleus,YEL012W.nucleus
+_group1163.ER,YMR022W.ER
+_group1163.ER,YER100W.ER
+_group12.cytoplasm,YBR118W.cytoplasm
+_group12.cytoplasm,YAL005C.cytoplasm
+_group12.unknown,YDR192C.unknown
+_group12.cytoplasm,YNL007C.cytoplasm
+_group12.nucleus,YNL007C.nucleus
+_group12.cytoplasm,YNL064C.cytoplasm
+_group12.nucleus,YNL064C.nucleus
+_group12.cytoplasm,YCL028W.cytoplasm
+_group12.nucleus,YCL028W.nucleus
+_group12.cytoplasm,YCL037C.cytoplasm
+_group12.unknown,YLR256W.unknown
+_group12.nuclear periphery,YDL207W.nuclear periphery
+_group12.mitochondrion,YEL024W.mitochondrion
+_group12.cytoplasm,YMR255W.cytoplasm
+_group12.nuclear periphery,YOR046C.nuclear periphery
+_group12.cytoplasm,YMR235C.cytoplasm
+_group120.cytoplasm,YDR181C.cytoplasm
+_group120.nucleus,YDR181C.nucleus
+_group120.cytoplasm,YMR127C.cytoplasm
+_group120.nucleus,YMR127C.nucleus
+_group148.unknown,YOR178C.unknown
+_group148.nucleus,YHR206W.nucleus
+_group148.cytoplasm,YDL235C.cytoplasm
+_group148.nucleus,YDL235C.nucleus
+_group148.cell periphery,YIL147C.cell periphery
+_group148.nucleus,YGL073W.nucleus
+_group148.ER,YIR004W.ER
+_group153.lipid particle,YLR100W.lipid particle
+_group153.ER,YER044C.ER
+_group153.ER,YGR060W.ER
+_group153.vacuole,YGR060W.vacuole
+_group153.ER,YGR175C.ER
+_group153.ER,YHR007C.ER
+_group153.lipid particle,YML008C.lipid particle
+_group153.ER,YGL001C.ER
+_group153.lipid particle,YHR072W.lipid particle
+_group161.nucleus,YDR073W.nucleus
+_group161.nucleus,YOR189W.nucleus
+_group166.cytoplasm,YOR056C.cytoplasm
+_group166.cytoplasm,YPL012W.cytoplasm
+_group166.nucleus,YPL012W.nucleus
+_group169.unknown,YNL188W.unknown
+_group169.spindle pole,YOR373W.spindle pole
+_group169.spindle pole,YDR356W.spindle pole
+_group169.spindle pole,YKL042W.spindle pole
+_group169.unknown,YDL239C.unknown
+_group169.spindle pole,YGL075C.spindle pole
+_group169.nuclear periphery,YKR095W.nuclear periphery
+_group169.spindle pole,YLL003W.spindle pole
+_group169.unknown,YOR177C.unknown
+_group169.spindle pole,YPL255W.spindle pole
+_group169.bud neck,YDL028C.bud neck
+_group169.unknown,YHR184W.unknown
+_group169.spindle pole,YNL225C.spindle pole
+_group169.unknown,YOL091W.unknown
+_group169.unknown,YOR257W.unknown
+_group169.nuclear periphery,YIL149C.nuclear periphery
+_group169.spindle pole,YPL124W.spindle pole
+_group169.cytoplasm,YLR185W.cytoplasm
+_group169.mitochondrion,YOR176W.mitochondrion
+_group170.cytoplasm,YDR499W.cytoplasm
+_group170.nucleus,YDR499W.nucleus
+_group182.unknown,YGR184C.unknown
+_group182.cytoplasm,YPL177C.cytoplasm
+_group182.nucleus,YPL177C.nucleus
+_group183.cytoplasm,YGL116W.cytoplasm
+_group183.nucleus,YGL116W.nucleus
+_group183.cytoplasm,YBR133C.cytoplasm
+_group183.bud neck,YBR133C.bud neck
+_group183.unknown,YJL187C.unknown
+_group183.bud neck,YKL101W.bud neck
+_group183.unknown,YDR113C.unknown
+_group183.unknown,YGL003C.unknown
+_group183.cytoplasm,YBR274W.cytoplasm
+_group183.cytoplasm,YGR098C.cytoplasm
+_group183.nucleus,YGR098C.nucleus
+_group183.cytoplasm,YJL013C.cytoplasm
+_group183.nucleus,YJL013C.nucleus
+_group184.unknown,YIL139C.unknown
+_group184.unknown,YOR368W.unknown
+_group189.cytoplasm,YGL016W.cytoplasm
+_group189.nucleus,YGL016W.nucleus
+_group189.nuclear periphery,YGL016W.nuclear periphery
+_group198.cytoplasm,YDR005C.cytoplasm
+_group198.nucleus,YDR005C.nucleus
+_group209.nucleolus,YNL299W.nucleolus
+_group219.unknown,YNR036C.unknown
+_group222.unknown,YNL289W.unknown
+_group222.cytoplasm,YJR072C.cytoplasm
+_group222.unknown,YOR032C.unknown
+_group228.cytoplasm,YAL014C.cytoplasm
+_group228.nucleus,YAL014C.nucleus
+_group228.unknown,YAL030W.unknown
+_group228.cytoplasm,YER143W.cytoplasm
+_group228.unknown,YGR009C.unknown
+_group228.endosome,YMR183C.endosome
+_group228.punctate composite,YMR183C.punctate composite
+_group228.cytoplasm,YNR049C.cytoplasm
+_group228.bud neck,YNR049C.bud neck
+_group228.bud,YNR049C.bud
+_group228.lipid particle,YPL232W.lipid particle
+_group228.cytoplasm,YML097C.cytoplasm
+_group228.unknown,YBL106C.unknown
+_group228.cytoplasm,YPR032W.cytoplasm
+_group228.cell periphery,YPR032W.cell periphery
+_group228.bud,YPR032W.bud
+_group228.unknown,YLR096W.unknown
+_group228.cytoplasm,YEL037C.cytoplasm
+_group228.nucleus,YEL037C.nucleus
+_group228.cytoplasm,YLL039C.cytoplasm
+_group228.nucleus,YLL039C.nucleus
+_group228.cytoplasm,YDL190C.cytoplasm
+_group228.nucleus,YDL190C.nucleus
+_group228.cytoplasm,YIL148W.cytoplasm
+_group228.nucleus,YIL148W.nucleus
+_group228.cytoplasm,YMR276W.cytoplasm
+_group228.nucleus,YMR276W.nucleus
+_group228.cytoplasm,YDR164C.cytoplasm
+_group228.bud neck,YDR164C.bud neck
+_group228.bud,YDR164C.bud
+_group228.vacuole,YOR327C.vacuole
+_group228.cytoplasm,YPL096W.cytoplasm
+_group228.unknown,YMR017W.unknown
+_group229.nucleus,YNL215W.nucleus
+_group232.nucleus,YKL108W.nucleus
+_group232.cytoplasm,YHR144C.cytoplasm
+_group232.cytoplasm,YJL090C.cytoplasm
+_group232.nucleus,YJL090C.nucleus
+_group233.cytoplasm,YIR009W.cytoplasm
+_group233.nucleus,YIR009W.nucleus
+_group233.cytoplasm,YNL091W.cytoplasm
+_group233.cytoplasm,YKL075C.cytoplasm
+_group240.cytoplasm,YAR015W.cytoplasm
+_group240.nucleus,YAR015W.nucleus
+_group240.cytoplasm,YBR155W.cytoplasm
+_group240.cytoplasm,YJR032W.cytoplasm
+_group240.ER,YBR290W.ER
+_group240.vacuole,YBR290W.vacuole
+_group240.unknown,YDL199C.unknown
+_group240.cytoplasm,YDR168W.cytoplasm
+_group240.cytoplasm,YDR214W.cytoplasm
+_group240.cytoplasm,YDR533C.cytoplasm
+_group240.nucleus,YDR533C.nucleus
+_group240.cytoplasm,YGR178C.cytoplasm
+_group240.nucleus,YGR178C.nucleus
+_group240.unknown,YFL011W.unknown
+_group240.cytoplasm,YHR121W.cytoplasm
+_group240.nucleus,YHR121W.nucleus
+_group240.cytoplasm,YKL117W.cytoplasm
+_group240.nucleus,YKL117W.nucleus
+_group240.cytoplasm,YNL281W.cytoplasm
+_group240.nucleus,YNL281W.nucleus
+_group240.unknown,YPR201W.unknown
+_group242.cytoplasm,YDR283C.cytoplasm
+_group242.unknown,YIL151C.unknown
+_group242.cytoplasm,YNL027W.cytoplasm
+_group253.cytoplasm,YPR040W.cytoplasm
+_group253.nucleus,YPR040W.nucleus
+_group257.cytoplasm,YER013W.cytoplasm
+_group257.nucleus,YER013W.nucleus
+_group257.cytoplasm,YKR086W.cytoplasm
+_group257.nucleus,YKR086W.nucleus
+_group260.cytoplasm,YKL038W.cytoplasm
+_group260.nucleus,YKL038W.nucleus
+_group260.unknown,YDL194W.unknown
+_group260.unknown,YDR277C.unknown
+_group260.unknown,YOR047C.unknown
+_group263.nucleus,YGR030C.nucleus
+_group263.nucleus,YDR478W.nucleus
+_group263.nucleus,YIR015W.nucleus
+_group263.cytoplasm,YLR145W.cytoplasm
+_group263.nucleus,YLR145W.nucleus
+_group269.cytoplasm,YDL059C.cytoplasm
+_group269.nucleus,YDL059C.nucleus
+_group269.mitochondrion,YGR049W.mitochondrion
+_group274.nucleus,YDR088C.nucleus
+_group28.unknown,YDR468C.unknown
+_group28.unknown,YBL049W.unknown
+_group28.unknown,YGR172C.unknown
+_group28.unknown,YOL018C.unknown
+_group28.unknown,YGL198W.unknown
+_group28.early Golgi,YNL044W.early Golgi
+_group28.Golgi,YNL044W.Golgi
+_group28.unknown,YNL263C.unknown
+_group28.punctate composite,YKR020W.punctate composite
+_group28.early Golgi,YDR100W.early Golgi
+_group28.cytoplasm,YGL161C.cytoplasm
+_group28.endosome,YDR323C.endosome
+_group28.early Golgi,YGL095C.early Golgi
+_group28.late Golgi,YGL095C.late Golgi
+_group28.cytoplasm,YNL304W.cytoplasm
+_group28.ER,YPR028W.ER
+_group281.nucleus,YKL112W.nucleus
+_group287.cytoplasm,YNL076W.cytoplasm
+_group296.unknown,YBL030C.unknown
+_group296.unknown,YEL020W-A.unknown
+_group296.unknown,YHR005C-A.unknown
+_group296.unknown,YBR091C.unknown
+_group296.unknown,YDL217C.unknown
+_group296.mitochondrion,YJL054W.mitochondrion
+_group296.mitochondrion,YOR297C.mitochondrion
+_group297.cytoplasm,YLR132C.cytoplasm
+_group297.nucleus,YLR132C.nucleus
+_group297.mitochondrion,YLR132C.mitochondrion
+_group297.nucleus,YNL245C.nucleus
+_group298.cytoplasm,YLR032W.cytoplasm
+_group298.nucleus,YLR032W.nucleus
+_group299.cytoplasm,YBR066C.cytoplasm
+_group299.nucleus,YBR066C.nucleus
+_group299.cytoplasm,YDR043C.cytoplasm
+_group299.nucleus,YDR043C.nucleus
+_group299.cytoplasm,YGL035C.cytoplasm
+_group299.nucleus,YGL035C.nucleus
+_group299.cytoplasm,YER129W.cytoplasm
+_group299.unknown,YNL257C.unknown
+_group299.unknown,YJL089W.unknown
+_group299.cytoplasm,YML006C.cytoplasm
+_group3.spindle pole,YMR055C.spindle pole
+_group3.bud neck,YPL242C.bud neck
+_group3.cytoplasm,YAL031C.cytoplasm
+_group3.vacuole,YCL027W.vacuole
+_group3.unknown,YAL040C.unknown
+_group3.nucleus,YJL157C.nucleus
+_group3.bud neck,YBR200W.bud neck
+_group3.cell periphery,YBR200W.cell periphery
+_group3.bud,YBR200W.bud
+_group3.cytoplasm,YGR152C.cytoplasm
+_group3.nucleus,YGR152C.nucleus
+_group3.unknown,YLR229C.unknown
+_group3.cytoplasm,YNL298W.cytoplasm
+_group3.cell periphery,YNL298W.cell periphery
+_group3.bud,YNL298W.bud
+_group3.cytoplasm,YBL039C.cytoplasm
+_group3.cytoplasm,YBL085W.cytoplasm
+_group3.bud neck,YBL085W.bud neck
+_group3.cell periphery,YBL085W.cell periphery
+_group3.bud,YBL085W.bud
+_group3.cytoplasm,YDR239C.cytoplasm
+_group3.bud neck,YER124C.bud neck
+_group3.unknown,YER158C.unknown
+_group3.cytoplasm,YBL105C.cytoplasm
+_group3.bud neck,YBL105C.bud neck
+_group3.bud,YBL105C.bud
+_group3.unknown,YPR165W.unknown
+_group3.cytoplasm,YNL271C.cytoplasm
+_group3.bud neck,YNL271C.bud neck
+_group3.cytoplasm,YHL007C.cytoplasm
+_group3.bud,YHL007C.bud
+_group3.unknown,YPR120C.unknown
+_group3.cytoplasm,YDR379W.cytoplasm
+_group3.cytoplasm,YDR389W.cytoplasm
+_group3.vacuole,YGR014W.vacuole
+_group3.cytoplasm,YOR127W.cytoplasm
+_group3.bud neck,YOR127W.bud neck
+_group3.cell periphery,YOR127W.cell periphery
+_group3.cytoplasm,YPL115C.cytoplasm
+_group3.bud neck,YPL115C.bud neck
+_group3.cytoplasm,YKR055W.cytoplasm
+_group3.nucleus,YKR055W.nucleus
+_group3.cytoplasm,YER118C.cytoplasm
+_group3.bud neck,YER118C.bud neck
+_group3.cell periphery,YER118C.cell periphery
+_group3.bud neck,YIL159W.bud neck
+_group3.cytoplasm,YDL135C.cytoplasm
+_group3.nucleus,YDL135C.nucleus
+_group3.cytoplasm,YDL240W.cytoplasm
+_group3.bud neck,YDL240W.bud neck
+_group3.cell periphery,YDL240W.cell periphery
+_group3.unknown,YDR085C.unknown
+_group3.cytoplasm,YDR309C.cytoplasm
+_group3.bud,YDR309C.bud
+_group3.cytoplasm,YKL086W.cytoplasm
+_group3.nucleus,YKL086W.nucleus
+_group3.cytoplasm,YOR122C.cytoplasm
+_group3.nucleus,YOR122C.nucleus
+_group3.cytoplasm,YNL152W.cytoplasm
+_group3.cytoplasm,YHR061C.cytoplasm
+_group3.nucleus,YHR061C.nucleus
+_group3.cytoplasm,YML028W.cytoplasm
+_group3.punctate composite,YML028W.punctate composite
+_group3.cytoplasm,YKL079W.cytoplasm
+_group3.bud,YKL079W.bud
+_group3.bud neck,YMR032W.bud neck
+_group3.cytoplasm,YPL161C.cytoplasm
+_group3.nucleus,YPL161C.nucleus
+_group3.unknown,YNL293W.unknown
+_group3.unknown,YOL113W.unknown
+_group3.cytoplasm,YNL090W.cytoplasm
+_group3.nucleus,YNL090W.nucleus
+_group3.unknown,YOR134W.unknown
+_group300.endosome,YDL113C.endosome
+_group309.unknown,YDR223W.unknown
+_group309.nucleus,YLR223C.nucleus
+_group309.nucleolus,YDR174W.nucleolus
+_group309.nucleus,YPR104C.nucleus
+_group31.unknown,YBR270C.unknown
+_group31.unknown,YNL047C.unknown
+_group31.unknown,YJR066W.unknown
+_group31.unknown,YER093C.unknown
+_group31.unknown,YKL203C.unknown
+_group31.punctate composite,YNL006W.punctate composite
+_group31.unknown,YOL078W.unknown
+_group31.vacuolar membrane,YHR186C.vacuolar membrane
+_group31.vacuolar membrane,YPL180W.vacuolar membrane
+_group31.punctate composite,YIL105C.punctate composite
+_group31.cytoplasm,YJL058C.cytoplasm
+_group31.unknown,YMR068W.unknown
+_group314.unknown,YIL072W.unknown
+_group314.unknown,YOR351C.unknown
+_group316.unknown,YKL109W.unknown
+_group317.unknown,YBR029C.unknown
+_group317.unknown,YDR386W.unknown
+_group317.unknown,YBR098W.unknown
+_group317.cytoplasm,YGL163C.cytoplasm
+_group317.nucleus,YGL163C.nucleus
+_group322.cytoplasm,YKL214C.cytoplasm
+_group322.nucleus,YKL214C.nucleus
+_group322.nucleus,YHR127W.nucleus
+_group322.nucleus,YNL175C.nucleus
+_group322.nucleolus,YNL175C.nucleolus
+_group328.cytoplasm,YMR260C.cytoplasm
+_group332.nucleus,YBL087C.nucleus
+_group332.unknown,YJR123W.unknown
+_group332.unknown,YOR096W.unknown
+_group340.cytoplasm,YGL071W.cytoplasm
+_group340.nucleus,YGL071W.nucleus
+_group340.nucleus,YPR052C.nucleus
+_group341.cytoplasm,YJR084W.cytoplasm
+_group341.nucleus,YJR084W.nucleus
+_group350.cytoplasm,YPR102C.cytoplasm
+_group350.cytoplasm,YGR085C.cytoplasm
+_group350.unknown,YOR294W.unknown
+_group359.cytoplasm,YBR216C.cytoplasm
+_group361.cytoplasm,YER068W.cytoplasm
+_group361.cytoplasm,YIL038C.cytoplasm
+_group361.mitochondrion,YKR036C.mitochondrion
+_group365.cytoplasm,YGL220W.cytoplasm
+_group365.nucleus,YGL220W.nucleus
+_group367.nucleus,YDR180W.nucleus
+_group367.cytoplasm,YER147C.cytoplasm
+_group367.nucleus,YER147C.nucleus
+_group368.unknown,YLR007W.unknown
+_group369.cytoplasm,YHR143W-A.cytoplasm
+_group369.nucleolus,YHR143W-A.nucleolus
+_group371.cytoplasm,YIL156W.cytoplasm
+_group373.cytoplasm,YKR072C.cytoplasm
+_group377.nucleus,YKL125W.nucleus
+_group377.nucleolus,YKL125W.nucleolus
+_group377.nucleolus,YML043C.nucleolus
+_group377.microtubule,YML043C.microtubule
+_group379.actin,YDL161W.actin
+_group379.unknown,YDR320C.unknown
+_group379.bud neck,YGR241C.bud neck
+_group379.cell periphery,YGR241C.cell periphery
+_group379.bud,YGR241C.bud
+_group379.bud neck,YHR161C.bud neck
+_group379.cell periphery,YHR161C.cell periphery
+_group379.bud,YHR161C.bud
+_group379.actin,YLR206W.actin
+_group383.unknown,YBR128C.unknown
+_group388.unknown,YCL066W.unknown
+_group388.nucleus,YNL068C.nucleus
+_group388.cytoplasm,YOR372C.cytoplasm
+_group388.nucleus,YOR372C.nucleus
+_group388.nucleus,YMR043W.nucleus
+_group388.unknown,YCL067C.unknown
+_group388.unknown,YCR097W.unknown
+_group388.unknown,YCR039C.unknown
+_group388.cytoplasm,YDR173C.cytoplasm
+_group388.nucleus,YDR173C.nucleus
+_group388.nucleus,YMR042W.nucleus
+_group388.cytoplasm,YML099C.cytoplasm
+_group388.nucleus,YML099C.nucleus
+_group391.cytoplasm,YDR358W.cytoplasm
+_group391.late Golgi,YDR358W.late Golgi
+_group392.vacuolar membrane,YFL048C.vacuolar membrane
+_group392.vacuole,YLR080W.vacuole
+_group395.cytoplasm,YGR258C.cytoplasm
+_group395.nucleus,YGR258C.nucleus
+_group395.nucleus,YOR033C.nucleus
+_group396.unknown,YPL174C.unknown
+_group396.unknown,YHR129C.unknown
+_group396.unknown,YMR294W.unknown
+_group397.unknown,YEL034W.unknown
+_group397.cytoplasm,YHR068W.cytoplasm
+_group397.cytoplasm,YJR070C.cytoplasm
+_group397.nucleus,YJR070C.nucleus
+_group397.cytoplasm,YPL111W.cytoplasm
+_group397.nucleus,YPL111W.nucleus
+_group399.nucleus,YML074C.nucleus
+_group399.nucleolus,YML074C.nucleolus
+_group399.cytoplasm,YPR073C.cytoplasm
+_group399.nucleus,YPR073C.nucleus
+_group403.unknown,YBL078C.unknown
+_group403.unknown,YHR171W.unknown
+_group403.cytoplasm,YNL223W.cytoplasm
+_group403.nucleus,YNL223W.nucleus
+_group403.cytoplasm,YNR007C.cytoplasm
+_group403.unknown,YBR217W.unknown
+_group403.unknown,YLL042C.unknown
+_group403.unknown,YMR159C.unknown
+_group403.unknown,YPL149W.unknown
+_group404.cytoplasm,YDR440W.cytoplasm
+_group404.nucleus,YDR440W.nucleus
+_group406.cytoplasm,YNL309W.cytoplasm
+_group406.nucleus,YNL309W.nucleus
+_group406.cytoplasm,YOR083W.cytoplasm
+_group406.nucleus,YOR083W.nucleus
+_group407.mitochondrion,YBR179C.mitochondrion
+_group407.unknown,YDR470C.unknown
+_group407.unknown,YOR211C.unknown
+_group411.unknown,YJL141C.unknown
+_group419.cytoplasm,YNL272C.cytoplasm
+_group419.bud neck,YNL272C.bud neck
+_group419.bud,YNL272C.bud
+_group441.ER,YDR086C.ER
+_group441.ER,YLR378C.ER
+_group446.unknown,YEL026W.unknown
+_group452.cytoplasm,YER036C.cytoplasm
+_group452.cytoplasm,YGL099W.cytoplasm
+_group452.cytoplasm,YHL033C.cytoplasm
+_group452.cytoplasm,YML073C.cytoplasm
+_group452.cytoplasm,YHR010W.cytoplasm
+_group452.nucleolus,YHR010W.nucleolus
+_group454.unknown,YKL138C-A.unknown
+_group455.cytoplasm,YOR275C.cytoplasm
+_group455.nucleus,YOR275C.nucleus
+_group458.cytoplasm,YDL122W.cytoplasm
+_group458.cytoplasm,YKR094C.cytoplasm
+_group458.unknown,YLR167W.unknown
+_group458.late Golgi,YHR108W.late Golgi
+_group458.late Golgi,YDR153C.late Golgi
+_group458.unknown,YJR125C.unknown
+_group463.unknown,YAR008W.unknown
+_group463.mitochondrion,YLR105C.mitochondrion
+_group463.mitochondrion,YMR059W.mitochondrion
+_group463.mitochondrion,YPL083C.mitochondrion
+_group464.cytoplasm,YER155C.cytoplasm
+_group464.bud neck,YER155C.bud neck
+_group467.unknown,Q0080.unknown
+_group467.unknown,Q0085.unknown
+_group467.unknown,Q0130.unknown
+_group467.mitochondrion,YPL078C.mitochondrion
+_group467.mitochondrion,YDR377W.mitochondrion
+_group468.cytoplasm,YNL053W.cytoplasm
+_group468.cytoplasm,YJL095W.cytoplasm
+_group468.bud neck,YLR313C.bud neck
+_group468.bud,YLR313C.bud
+_group468.cytoplasm,YPL089C.cytoplasm
+_group468.nucleus,YPL089C.nucleus
+_group468.cytoplasm,YHR030C.cytoplasm
+_group468.nucleus,YHR030C.nucleus
+_group468.cytoplasm,YGR185C.cytoplasm
+_group468.late Golgi,YGR229C.late Golgi
+_group468.punctate composite,YGR229C.punctate composite
+_group468.mitochondrion,YIL113W.mitochondrion
+_group468.cytoplasm,YOR208W.cytoplasm
+_group468.nucleus,YOR208W.nucleus
+_group468.unknown,YOR231W.unknown
+_group468.cytoplasm,YPL140C.cytoplasm
+_group469.bud neck,YCL014W.bud neck
+_group469.cytoplasm,YLR131C.cytoplasm
+_group469.nucleus,YLR131C.nucleus
+_group469.bud,YLR131C.bud
+_group471.cytoplasm,YMR232W.cytoplasm
+_group479.bud neck,YCR038C.bud neck
+_group479.cell periphery,YCR038C.cell periphery
+_group479.unknown,YER009W.unknown
+_group479.nucleus,YIL063C.nucleus
+_group479.cytoplasm,YGL164C.cytoplasm
+_group479.cytoplasm,YGL238W.cytoplasm
+_group479.nucleus,YGL238W.nucleus
+_group479.nuclear periphery,YKL205W.nuclear periphery
+_group482.unknown,YGL154C.unknown
+_group482.cytoplasm,YOR028C.cytoplasm
+_group482.nucleus,YOR028C.nucleus
+_group482.cytoplasm,YGL254W.cytoplasm
+_group482.nucleus,YGL254W.nucleus
+_group487.unknown,YDR078C.unknown
+_group487.unknown,YHL006C.unknown
+_group487.unknown,YIL152W.unknown
+_group487.cytoplasm,YLR376C.cytoplasm
+_group487.nucleus,YLR376C.nucleus
+_group487.ER,YHR060W.ER
+_group487.unknown,YKR034W.unknown
+_group487.cytoplasm,YIL132C.cytoplasm
+_group487.nucleus,YIL132C.nucleus
+_group487.cytoplasm,YJL110C.cytoplasm
+_group487.nucleus,YJL110C.nucleus
+_group492.cytoplasm,YCL034W.cytoplasm
+_group492.nucleus,YCL034W.nucleus
+_group492.cytoplasm,YBL075C.cytoplasm
+_group492.unknown,YJL100W.unknown
+_group492.cytoplasm,YPR154W.cytoplasm
+_group492.nucleus,YPR154W.nucleus
+_group492.actin,YFR024C.actin
+_group492.vacuole,YPR159W.vacuole
+_group492.cytoplasm,YOR197W.cytoplasm
+_group492.nucleus,YOR197W.nucleus
+_group494.spindle pole,YLR045C.spindle pole
+_group494.unknown,YNL148C.unknown
+_group494.spindle pole,YPL155C.spindle pole
+_group494.microtubule,YPL155C.microtubule
+_group494.spindle pole,YPL269W.spindle pole
+_group494.spindle pole,YCL029C.spindle pole
+_group494.microtubule,YCL029C.microtubule
+_group494.punctate composite,YDR150W.punctate composite
+_group494.microtubule,YER016W.microtubule
+_group494.cytoplasm,YML124C.cytoplasm
+_group494.nucleus,YML124C.nucleus
+_group494.spindle pole,YML124C.spindle pole
+_group500.cytoplasm,YOL100W.cytoplasm
+_group501.unknown,YIL118W.unknown
+_group502.nucleus,YBR275C.nucleus
+_group502.cytoplasm,YLR453C.cytoplasm
+_group502.nucleus,YLR453C.nucleus
+_group502.nucleus,YNL216W.nucleus
+_group502.unknown,YNL199C.unknown
+_group502.cytoplasm,YPL075W.cytoplasm
+_group502.nucleus,YPL075W.nucleus
+_group503.cytoplasm,YKL181W.cytoplasm
+_group503.cytoplasm,YHL011C.cytoplasm
+_group504.actin,YNL020C.actin
+_group504.punctate composite,YOR284W.punctate composite
+_group508.cytoplasm,YDL220C.cytoplasm
+_group508.nucleus,YDL220C.nucleus
+_group508.unknown,YDR082W.unknown
+_group508.unknown,YLR233C.unknown
+_group508.unknown,YLR010C.unknown
+_group510.vacuole,YEL065W.vacuole
+_group510.ER,YDR077W.ER
+_group510.mitochondrion,YOR330C.mitochondrion
+_group513.cytoplasm,YNL167C.cytoplasm
+_group513.nucleus,YNL167C.nucleus
+_group513.unknown,YBR182C.unknown
+_group513.cytoplasm,YDR423C.cytoplasm
+_group513.nucleus,YDR423C.nucleus
+_group513.unknown,YGL158W.unknown
+_group513.unknown,YJL093C.unknown
+_group519.nucleus,YER161C.nucleus
+_group521.cytoplasm,YCR059C.cytoplasm
+_group521.nucleus,YCR059C.nucleus
+_group521.actin,YOR367W.actin
+_group521.mitochondrion,YDL178W.mitochondrion
+_group521.actin,YGR080W.actin
+_group521.cytoplasm,YIL138C.cytoplasm
+_group521.unknown,YLL050C.unknown
+_group521.actin,YMR092C.actin
+_group522.cytoplasm,YIR011C.cytoplasm
+_group522.nucleus,YIR011C.nucleus
+_group524.early Golgi,YBR080C.early Golgi
+_group524.Golgi,YBR080C.Golgi
+_group524.cytoplasm,YLR043C.cytoplasm
+_group524.nucleus,YLR043C.nucleus
+_group524.cytoplasm,YLR109W.cytoplasm
+_group524.nucleus,YLR109W.nucleus
+_group524.unknown,YPR167C.unknown
+_group526.unknown,YAL025C.unknown
+_group526.nucleus,YER002W.nucleus
+_group526.nucleolus,YER002W.nucleolus
+_group526.unknown,YGL030W.unknown
+_group526.nucleolus,YOL041C.nucleolus
+_group526.nucleus,YPL043W.nucleus
+_group526.nucleolus,YPL043W.nucleolus
+_group526.cytoplasm,YPL131W.cytoplasm
+_group526.unknown,YKL082C.unknown
+_group526.unknown,YLR276C.unknown
+_group527.cytoplasm,YKL189W.cytoplasm
+_group527.nucleus,YKL189W.nucleus
+_group530.cytoplasm,YDL110C.cytoplasm
+_group530.nucleus,YDL110C.nucleus
+_group530.unknown,YLR125W.unknown
+_group530.unknown,YEL030W.unknown
+_group530.cytoplasm,YOR232W.cytoplasm
+_group530.mitochondrion,YFL016C.mitochondrion
+_group530.mitochondrion,YGR033C.mitochondrion
+_group530.mitochondrion,YNR017W.mitochondrion
+_group530.unknown,YGR181W.unknown
+_group530.mitochondrion,YIL022W.mitochondrion
+_group530.cytoplasm,YJL143W.cytoplasm
+_group530.nucleus,YJL143W.nucleus
+_group530.unknown,YML054C.unknown
+_group530.mitochondrion,YJL104W.mitochondrion
+_group530.unknown,YLR008C.unknown
+_group530.unknown,YJL064W.unknown
+_group530.mitochondrion,YPL063W.mitochondrion
+_group530.unknown,YJR135W-A.unknown
+_group530.mitochondrion,YLR369W.mitochondrion
+_group532.cytoplasm,YNL209W.cytoplasm
+_group535.cytoplasm,YAL056W.cytoplasm
+_group535.mitochondrion,YAL056W.mitochondrion
+_group535.cell periphery,YER020W.cell periphery
+_group535.unknown,YDL035C.unknown
+_group535.unknown,YJR094C.unknown
+_group535.unknown,YJL106W.unknown
+_group535.cytoplasm,YOR371C.cytoplasm
+_group537.cytoplasm,YBL061C.cytoplasm
+_group537.nucleus,YBL061C.nucleus
+_group537.bud neck,YBL061C.bud neck
+_group537.late Golgi,YBR023C.late Golgi
+_group537.cytoplasm,YNL233W.cytoplasm
+_group537.bud neck,YNL233W.bud neck
+_group537.cell periphery,YNL233W.cell periphery
+_group537.cytoplasm,YER054C.cytoplasm
+_group537.punctate composite,YER054C.punctate composite
+_group537.unknown,YBR050C.unknown
+_group537.cytoplasm,YDR130C.cytoplasm
+_group537.nucleus,YDR130C.nucleus
+_group537.spindle pole,YDR130C.spindle pole
+_group537.nucleus,YDR412W.nucleus
+_group537.nucleolus,YDR412W.nucleolus
+_group537.cytoplasm,YJL042W.cytoplasm
+_group537.cytoplasm,YOR227W.cytoplasm
+_group537.unknown,YOR329C.unknown
+_group537.cytoplasm,YPL074W.cytoplasm
+_group544.spindle pole,YDR320C-A.spindle pole
+_group547.punctate composite,YDR373W.punctate composite
+_group55.cytoplasm,YDR510W.cytoplasm
+_group55.nucleus,YDR510W.nucleus
+_group55.cytoplasm,YDR155C.cytoplasm
+_group55.nucleus,YDR155C.nucleus
+_group55.cytoplasm,YOL068C.cytoplasm
+_group55.nucleus,YOL068C.nucleus
+_group55.cytoplasm,YMR190C.cytoplasm
+_group55.nucleus,YMR190C.nucleus
+_group55.bud neck,YER032W.bud neck
+_group55.nucleus,YJL092W.nucleus
+_group55.cytoplasm,YNL042W.cytoplasm
+_group55.nucleus,YNL042W.nucleus
+_group55.cytoplasm,YDL064W.cytoplasm
+_group55.nucleus,YDL064W.nucleus
+_group55.nucleus,YNL088W.nucleus
+_group55.nucleolus,YCR087C-A.nucleolus
+_group55.cytoplasm,YDL055C.cytoplasm
+_group55.cytoplasm,YDR409W.cytoplasm
+_group55.nucleus,YDR409W.nucleus
+_group55.cytoplasm,YOR156C.cytoplasm
+_group55.nucleus,YOR156C.nucleus
+_group55.cytoplasm,YDR169C.cytoplasm
+_group55.unknown,YJL020C.unknown
+_group55.unknown,YDR446W.unknown
+_group55.cytoplasm,YGL026C.cytoplasm
+_group55.nucleus,YGL026C.nucleus
+_group55.cytoplasm,YIL053W.cytoplasm
+_group55.nucleus,YIL053W.nucleus
+_group55.nucleus,YML126C.nucleus
+_group55.ER,YPR183W.ER
+_group55.cytoplasm,YOR355W.cytoplasm
+_group55.nucleus,YOR355W.nucleus
+_group55.cytoplasm,YLR234W.cytoplasm
+_group55.nucleus,YLR234W.nucleus
+_group55.cytoplasm,YPL024W.cytoplasm
+_group55.nucleus,YPL024W.nucleus
+_group556.unknown,YHR128W.unknown
+_group556.cytoplasm,YNR012W.cytoplasm
+_group556.nucleus,YNR012W.nucleus
+_group559.ER,YOR198C.ER
+_group563.nucleus,YPR141C.nucleus
+_group563.spindle pole,YPR141C.spindle pole
+_group563.microtubule,YPR141C.microtubule
+_group563.microtubule,YMR198W.microtubule
+_group563.unknown,YPL253C.unknown
+_group565.unknown,YAR027W.unknown
+_group565.unknown,YAR030C.unknown
+_group570.mitochondrion,YBR039W.mitochondrion
+_group581.cytoplasm,YER116C.cytoplasm
+_group581.nucleus,YER116C.nucleus
+_group582.cytoplasm,YOL108C.cytoplasm
+_group582.nucleus,YOL108C.nucleus
+_group582.nucleus,YBR073W.nucleus
+_group582.unknown,YER179W.unknown
+_group582.nucleus,YDL106C.nucleus
+_group582.nucleus,YDR123C.nucleus
+_group582.cytoplasm,YDR146C.cytoplasm
+_group582.nucleus,YDR146C.nucleus
+_group582.mitochondrion,YLR067C.mitochondrion
+_group582.punctate composite,YLR067C.punctate composite
+_group582.cytoplasm,YFR034C.cytoplasm
+_group582.nucleus,YFR034C.nucleus
+_group582.nucleus,YKR099W.nucleus
+_group582.unknown,YDL127W.unknown
+_group582.nucleus,YDR079C-A.nucleus
+_group582.nucleus,YPL122C.nucleus
+_group582.nucleus,YOR191W.nucleus
+_group582.cytoplasm,YLR134W.cytoplasm
+_group582.nucleus,YLR134W.nucleus
+_group582.cytoplasm,YNR016C.cytoplasm
+_group582.punctate composite,YNR016C.punctate composite
+_group582.unknown,YPL121C.unknown
+_group582.cytoplasm,YOR344C.cytoplasm
+_group582.nucleus,YOR344C.nucleus
+_group583.punctate composite,YDL091C.punctate composite
+_group583.nuclear periphery,YJL048C.nuclear periphery
+_group583.ER,YML013W.ER
+_group584.cytoplasm,YDL081C.cytoplasm
+_group584.cytoplasm,YDR418W.cytoplasm
+_group584.cytoplasm,YDL130W.cytoplasm
+_group584.cytoplasm,YOL039W.cytoplasm
+_group587.ER,YEL027W.ER
+_group587.ER,YPL234C.ER
+_group588.unknown,YDR117C.unknown
+_group594.unknown,YER007W.unknown
+_group594.unknown,YOR349W.unknown
+_group594.cytoplasm,YOR265W.cytoplasm
+_group596.cytoplasm,YIL066C.cytoplasm
+_group599.cytoplasm,YMR095C.cytoplasm
+_group599.unknown,YNL333W.unknown
+_group599.unknown,YNL334C.unknown
+_group600.cytoplasm,YPL008W.cytoplasm
+_group600.nucleus,YPL008W.nucleus
+_group600.cytoplasm,YER173W.cytoplasm
+_group600.nucleus,YER173W.nucleus
+_group600.cytoplasm,YFR027W.cytoplasm
+_group600.nucleus,YFR027W.nucleus
+_group600.unknown,YJL019W.unknown
+_group601.mitochondrion,YGL068W.mitochondrion
+_group612.cell periphery,YLR138W.cell periphery
+_group612.vacuole,YML132W.vacuole
+_group616.early Golgi,YAL026C.early Golgi
+_group616.late Golgi,YAL026C.late Golgi
+_group621.unknown,YDR285W.unknown
+_group621.unknown,YLR394W.unknown
+_group621.cytoplasm,YDR004W.cytoplasm
+_group621.nucleus,YDR004W.nucleus
+_group621.cytoplasm,YDR076W.cytoplasm
+_group621.nucleus,YDR076W.nucleus
+_group626.cytoplasm,YBR208C.cytoplasm
+_group626.mitochondrion,YGR193C.mitochondrion
+_group629.nucleus,YGL013C.nucleus
+_group629.cytoplasm,YHR178W.cytoplasm
+_group629.nucleus,YHR178W.nucleus
+_group630.unknown,YOR005C.unknown
+_group630.cytoplasm,YGL090W.cytoplasm
+_group630.nucleus,YGL090W.nucleus
+_group630.cytoplasm,YLR265C.cytoplasm
+_group630.nucleus,YLR265C.nucleus
+_group632.cell periphery,YHR147C.cell periphery
+_group632.mitochondrion,YPL183W-A.mitochondrion
+_group634.unknown,YHL022C.unknown
+_group634.unknown,YHR157W.unknown
+_group634.unknown,YLR329W.unknown
+_group650.punctate composite,YAL055W.punctate composite
+_group650.peroxisome,YDR265W.peroxisome
+_group650.peroxisome,YGR133W.peroxisome
+_group650.peroxisome,YDR329C.peroxisome
+_group650.peroxisome,YLR191W.peroxisome
+_group650.cytoplasm,YDR023W.cytoplasm
+_group650.peroxisome,YGR239C.peroxisome
+_group650.unknown,YDR142C.unknown
+_group650.peroxisome,YDR244W.peroxisome
+_group650.peroxisome,YGL153W.peroxisome
+_group650.unknown,YHR160C.unknown
+_group650.unknown,YIL160C.unknown
+_group650.unknown,YJR012C.unknown
+_group650.peroxisome,YNL214W.peroxisome
+_group650.unknown,YGL205W.unknown
+_group650.unknown,YGR077C.unknown
+_group650.peroxisome,YJL210W.peroxisome
+_group650.peroxisome,YMR026C.peroxisome
+_group651.nucleus,YOR064C.nucleus
+_group655.lipid particle,YBR041W.lipid particle
+_group655.lipid particle,YMR246W.lipid particle
+_group655.ER,YOR317W.ER
+_group657.unknown,YBR044C.unknown
+_group657.unknown,YKL141W.unknown
+_group657.unknown,YKL148C.unknown
+_group657.mitochondrion,YLL041C.mitochondrion
+_group658.vacuolar membrane,YBR077C.vacuolar membrane
+_group658.vacuolar membrane,YKR007W.vacuolar membrane
+_group658.vacuolar membrane,YML121W.vacuolar membrane
+_group659.unknown,YCL051W.unknown
+_group659.unknown,YIL129C.unknown
+_group664.cytoplasm,YNL183C.cytoplasm
+_group666.mitochondrion,YCL009C.mitochondrion
+_group666.mitochondrion,YMR108W.mitochondrion
+_group668.unknown,YCL046W.unknown
+_group672.ER,YCR067C.ER
+_group673.nucleus,YKL049C.nucleus
+_group673.spindle pole,YKL049C.spindle pole
+_group673.cytoplasm,YNL307C.cytoplasm
+_group673.nucleus,YNL307C.nucleus
+_group673.cytoplasm,YJL194W.cytoplasm
+_group673.nucleus,YJL194W.nucleus
+_group673.unknown,YPL268W.unknown
+_group673.unknown,YDR306C.unknown
+_group673.unknown,YFL009W.unknown
+_group673.unknown,YGL249W.unknown
+_group673.unknown,YJL149W.unknown
+_group673.unknown,YLR097C.unknown
+_group673.unknown,YLR128W.unknown
+_group673.unknown,YLR352W.unknown
+_group673.unknown,YLR368W.unknown
+_group673.cytoplasm,YML088W.cytoplasm
+_group673.unknown,YOR080W.unknown
+_group673.nucleus,YDL227C.nucleus
+_group673.nucleus,YGR140W.nucleus
+_group673.spindle pole,YGR140W.spindle pole
+_group673.microtubule,YGR140W.microtubule
+_group673.spindle pole,YKL089W.spindle pole
+_group673.nucleus,YJR060W.nucleus
+_group673.unknown,YGL149W.unknown
+_group673.nucleus,YJR089W.nucleus
+_group673.spindle pole,YJR089W.spindle pole
+_group673.microtubule,YJR089W.microtubule
+_group673.unknown,YLR224W.unknown
+_group673.unknown,YMR094W.unknown
+_group673.microtubule,YMR168C.microtubule
+_group673.cytoplasm,YOR057W.cytoplasm
+_group673.nucleus,YOR057W.nucleus
+_group673.bud,YOR057W.bud
+_group673.cytoplasm,YIR017C.cytoplasm
+_group673.nucleus,YIR017C.nucleus
+_group673.nucleolus,YLR336C.nucleolus
+_group674.cytoplasm,YML024W.cytoplasm
+_group680.unknown,YLR238W.unknown
+_group680.cytoplasm,YDR200C.cytoplasm
+_group680.unknown,YFR008W.unknown
+_group680.ER,YMR052W.ER
+_group680.cytoplasm,YMR029C.cytoplasm
+_group680.ER,YMR029C.ER
+_group680.unknown,YNL127W.unknown
+_group685.nucleolus,YJL033W.nucleolus
+_group693.ER,YER011W.ER
+_group701.unknown,YHL031C.unknown
+_group701.unknown,YIL004C.unknown
+_group701.ER to Golgi,YIL109C.ER to Golgi
+_group701.late Golgi,YDR170C.late Golgi
+_group701.unknown,YLR078C.unknown
+_group701.unknown,YPL218W.unknown
+_group701.ER,YGR191W.ER
+_group701.cell periphery,YGR191W.cell periphery
+_group701.bud,YGR191W.bud
+_group701.vacuole,YGR191W.vacuole
+_group701.cytoplasm,YKL006C-A.cytoplasm
+_group701.nucleus,YKL006C-A.nucleus
+_group701.unknown,YPL187W.unknown
+_group702.unknown,YHR014W.unknown
+_group702.unknown,YHR185C.unknown
+_group702.cytoplasm,YIL007C.cytoplasm
+_group708.unknown,YIL065C.unknown
+_group708.mitochondrion,YJL112W.mitochondrion
+_group708.mitochondrion,YLL001W.mitochondrion
+_group708.punctate composite,YLL001W.punctate composite
+_group712.bud neck,YJR005W.bud neck
+_group712.cell periphery,YJR005W.cell periphery
+_group713.nucleus,YNR038W.nucleus
+_group713.nucleolus,YNR038W.nucleolus
+_group714.endosome,YMR077C.endosome
+_group714.vacuolar membrane,YMR077C.vacuolar membrane
+_group714.endosome,YKL041W.endosome
+_group714.punctate composite,YKL041W.punctate composite
+_group714.endosome,YKL002W.endosome
+_group715.unknown,YLL016W.unknown
+_group718.cytoplasm,YLR150W.cytoplasm
+_group718.nucleus,YPL212C.nucleus
+_group719.cell periphery,YLR332W.cell periphery
+_group719.unknown,YOL109W.unknown
+_group72.ER,YDR498C.ER
+_group721.unknown,YPR094W.unknown
+_group722.nucleus,YMR131C.nucleus
+_group722.nucleolus,YMR131C.nucleolus
+_group723.nucleus,YNL230C.nucleus
+_group729.unknown,YAL020C.unknown
+_group737.cytoplasm,YBR059C.cytoplasm
+_group737.bud neck,YBR059C.bud neck
+_group737.cell periphery,YBR059C.cell periphery
+_group738.cytoplasm,YGR024C.cytoplasm
+_group738.nucleus,YGR024C.nucleus
+_group740.unknown,YKL034W.unknown
+_group741.nucleus,YFR046C.nucleus
+_group741.unknown,YDR104C.unknown
+_group741.cytoplasm,YLR419W.cytoplasm
+_group745.cytoplasm,YNL191W.cytoplasm
+_group747.nuclear periphery,YDL088C.nuclear periphery
+_group748.mitochondrion,YDL120W.mitochondrion
+_group749.cytoplasm,YDL125C.cytoplasm
+_group749.nucleus,YDL125C.nucleus
+_group751.unknown,YDL153C.unknown
+_group752.unknown,YFL003C.unknown
+_group752.unknown,YDL154W.unknown
+_group760.cytoplasm,YER033C.cytoplasm
+_group762.cytoplasm,YGL060W.cytoplasm
+_group762.cytoplasm,YPL249C-A.cytoplasm
+_group765.endosome,YDR456W.endosome
+_group766.vacuolar membrane,YDR486C.vacuolar membrane
+_group766.endosome,YLR181C.endosome
+_group772.early Golgi,YER005W.early Golgi
+_group772.Golgi,YER005W.Golgi
+_group773.ER,YDL232W.ER
+_group773.unknown,YER087C-B.unknown
+_group773.unknown,YML019W.unknown
+_group773.unknown,YOR085W.unknown
+_group773.unknown,YOR103C.unknown
+_group773.ER,YGL226C-A.ER
+_group773.ER,YER019C-A.ER
+_group784.nuclear periphery,YJL039C.nuclear periphery
+_group785.cytoplasm,YFR011C.cytoplasm
+_group785.mitochondrion,YFR011C.mitochondrion
+_group786.cytoplasm,YPR184W.cytoplasm
+_group787.cytoplasm,YBL023C.cytoplasm
+_group787.nucleus,YBL023C.nucleus
+_group787.nucleus,YLR103C.nucleus
+_group787.cytoplasm,YBR202W.cytoplasm
+_group787.nucleus,YBR202W.nucleus
+_group787.cytoplasm,YDL017W.cytoplasm
+_group787.nucleus,YDL017W.nucleus
+_group787.unknown,YEL032W.unknown
+_group787.cytoplasm,YGL201C.cytoplasm
+_group787.nucleus,YGL201C.nucleus
+_group787.cytoplasm,YIL150C.cytoplasm
+_group787.nucleus,YIL150C.nucleus
+_group787.unknown,YLR274W.unknown
+_group787.cytoplasm,YPR019W.cytoplasm
+_group787.nucleus,YPR019W.nucleus
+_group787.nuclear periphery,YDL089W.nuclear periphery
+_group787.nucleolus,YDR439W.nucleolus
+_group787.nucleolus,YCR086W.nucleolus
+_group787.nucleus,YCL061C.nucleus
+_group787.nucleolus,YKR010C.nucleolus
+_group787.cytoplasm,YGL113W.cytoplasm
+_group787.nucleus,YGL113W.nucleus
+_group788.cytoplasm,YER131W.cytoplasm
+_group788.cytoplasm,YGL189C.cytoplasm
+_group793.unknown,YJR091C.unknown
+_group793.unknown,YJL107C.unknown
+_group794.Golgi,YJR031C.Golgi
+_group794.unknown,YKR030W.unknown
+_group794.early Golgi,YPL051W.early Golgi
+_group794.unknown,YER180C-A.unknown
+_group797.early Golgi,YMR054W.early Golgi
+_group797.late Golgi,YMR054W.late Golgi
+_group797.mitochondrion,YKL029C.mitochondrion
+_group801.nucleus,YKL114C.nucleus
+_group801.mitochondrion,YKL114C.mitochondrion
+_group805.cytoplasm,YNL116W.cytoplasm
+_group806.vacuolar membrane,YMR243C.vacuolar membrane
+_group807.unknown,YKL072W.unknown
+_group807.nucleus,YMR019W.nucleus
+_group807.unknown,YMR053C.unknown
+_group809.punctate composite,YOR109W.punctate composite
+_group812.unknown,YPR054W.unknown
+_group819.mitochondrion,YBL059W.mitochondrion
+_group819.unknown,YCR099C.unknown
+_group825.unknown,YBL088C.unknown
+_group826.unknown,YDL004W.unknown
+_group826.mitochondrion,YDR322C-A.mitochondrion
+_group828.unknown,Q0045.unknown
+_group828.unknown,Q0250.unknown
+_group828.unknown,Q0275.unknown
+_group828.unknown,YBR024W.unknown
+_group828.mitochondrion,YBR037C.mitochondrion
+_group828.mitochondrion,YER154W.mitochondrion
+_group834.cytoplasm,YGL162W.cytoplasm
+_group834.nucleus,YGL162W.nucleus
+_group834.nucleus,YLR176C.nucleus
+_group835.cytoplasm,YBR158W.cytoplasm
+_group835.nucleus,YBR158W.nucleus
+_group835.cytoplasm,YKL067W.cytoplasm
+_group835.nucleus,YKL067W.nucleus
+_group837.early Golgi,YBR164C.early Golgi
+_group837.punctate composite,YBR164C.punctate composite
+_group837.cytoplasm,YDL226C.cytoplasm
+_group837.cytoplasm,YLR309C.cytoplasm
+_group838.unknown,YBR168W.unknown
+_group838.unknown,YHR150W.unknown
+_group838.peroxisome,YLR324W.peroxisome
+_group838.cytoplasm,YDR479C.cytoplasm
+_group838.punctate composite,YDR479C.punctate composite
+_group838.unknown,YGR004W.unknown
+_group840.unknown,YJL172W.unknown
+_group842.unknown,YHL023C.unknown
+_group842.unknown,YLR123C.unknown
+_group843.mitochondrion,YPL135W.mitochondrion
+_group845.punctate composite,YCL056C.punctate composite
+_group845.mitochondrion,YDL157C.mitochondrion
+_group845.mitochondrion,YNL100W.mitochondrion
+_group846.unknown,YCL063W.unknown
+_group846.vacuole,YER150W.vacuole
+_group846.mitochondrion,YJL043W.mitochondrion
+_group852.cytoplasm,YDL020C.cytoplasm
+_group852.nucleus,YDL020C.nucleus
+_group853.unknown,YBL044W.unknown
+_group853.unknown,YJL159W.unknown
+_group853.unknown,YBR064W.unknown
+_group853.unknown,YDL023C.unknown
+_group855.peroxisome,YOL147C.peroxisome
+_group867.nucleolus,YFR028C.nucleolus
+_group867.microtubule,YPL209C.microtubule
+_group867.nucleus,YBR156C.nucleus
+_group867.microtubule,YBR156C.microtubule
+_group867.nucleolus,YJL076W.nucleolus
+_group867.nucleolus,YDR110W.nucleolus
+_group867.nucleolus,YDR026C.nucleolus
+_group868.endosome,YDR069C.endosome
+_group868.cytoplasm,YPL084W.cytoplasm
+_group868.endosome,YPL084W.endosome
+_group870.cytoplasm,YDR139C.cytoplasm
+_group870.cytoplasm,YGR003W.cytoplasm
+_group870.nucleus,YGR003W.nucleus
+_group870.unknown,YLR306W.unknown
+_group871.cytoplasm,YDR140W.cytoplasm
+_group871.nucleus,YDR140W.nucleus
+_group872.cytoplasm,YBL005W.cytoplasm
+_group872.nucleus,YBL005W.nucleus
+_group872.nucleus,YDR457W.nucleus
+_group872.nucleolus,YDR457W.nucleolus
+_group872.cytoplasm,YOR023C.cytoplasm
+_group872.nucleus,YOR023C.nucleus
+_group877.unknown,YNL069C.unknown
+_group881.cytoplasm,YMR216C.cytoplasm
+_group881.cytoplasm,YOR160W.cytoplasm
+_group881.nucleus,YOR160W.nucleus
+_group886.ER,YDR492W.ER
+_group886.cytoplasm,YJR067C.cytoplasm
+_group886.nucleus,YJR067C.nucleus
+_group886.unknown,YNL260C.unknown
+_group887.mitochondrion,YDR529C.mitochondrion
+_group890.mitochondrion,YER086W.mitochondrion
+_group893.unknown,YFR022W.unknown
+_group893.unknown,YIR033W.unknown
+_group893.cytoplasm,YKL020C.cytoplasm
+_group893.cytoplasm,YOR018W.cytoplasm
+_group893.unknown,YPR084W.unknown
+_group894.cytoplasm,YJR035W.cytoplasm
+_group894.nucleus,YJR035W.nucleus
+_group895.unknown,YIR016W.unknown
+_group897.unknown,YIL018W.unknown
+_group897.cytoplasm,YLR106C.cytoplasm
+_group897.nucleus,YLR106C.nucleus
+_group897.nucleus,YFR001W.nucleus
+_group897.nucleolus,YFR001W.nucleolus
+_group897.cytoplasm,YFR031C-A.cytoplasm
+_group897.cytoplasm,YKL180W.cytoplasm
+_group897.unknown,YLR009W.unknown
+_group9.nucleus,YHR195W.nucleus
+_group9.spindle pole,YHR195W.spindle pole
+_group9.vacuole,YLR093C.vacuole
+_group9.unknown,YOR106W.unknown
+_group9.ER,YDL015C.ER
+_group9.vacuolar membrane,YEL013W.vacuolar membrane
+_group9.cytoplasm,YPR185W.cytoplasm
+_group9.punctate composite,YGL180W.punctate composite
+_group9.cytoplasm,YGL212W.cytoplasm
+_group9.vacuole,YGL212W.vacuole
+_group903.unknown,YJL135W.unknown
+_group908.unknown,YDL179W.unknown
+_group908.cytoplasm,YER059W.cytoplasm
+_group908.nucleus,YER059W.nucleus
+_group908.cytoplasm,YGL134W.cytoplasm
+_group908.unknown,YGL215W.unknown
+_group908.unknown,YHR071W.unknown
+_group909.nucleus,YDR213W.nucleus
+_group909.mitochondrion,YGR021W.mitochondrion
+_group909.nucleus,YHR156C.nucleus
+_group910.cytoplasm,YKL183W.cytoplasm
+_group910.nucleus,YKL183W.nucleus
+_group911.cytoplasm,YGR100W.cytoplasm
+_group911.early Golgi,YJR134C.early Golgi
+_group911.Golgi,YJR134C.Golgi
+_group916.microtubule,YBL031W.microtubule
+_group916.vacuolar membrane,YDR229W.vacuolar membrane
+_group916.cytoplasm,YMR124W.cytoplasm
+_group916.bud neck,YMR124W.bud neck
+_group916.cell periphery,YMR124W.cell periphery
+_group916.bud,YMR124W.bud
+_group916.unknown,YMR180C.unknown
+_group919.unknown,YHL045W.unknown
+_group920.mitochondrion,YBR003W.mitochondrion
+_group920.unknown,YGL096W.unknown
+_group920.unknown,YHR035W.unknown
+_group920.unknown,YNL050C.unknown
+_group920.cytoplasm,YNR050C.cytoplasm
+_group928.ER,YHR079C.ER
+_group928.unknown,YJL034W.unknown
+_group928.vacuole,YKL073W.vacuole
+_group928.unknown,YMR214W.unknown
+_group931.cytoplasm,YJL130C.cytoplasm
+_group937.nucleolus,YKR092C.nucleolus
+_group942.nucleus,YKL160W.nucleus
+_group942.unknown,YKL036C.unknown
+_group943.unknown,YPL147W.unknown
+_group946.cytoplasm,YLR048W.cytoplasm
+_group946.cytoplasm,YNL301C.cytoplasm
+_group947.nucleolus,YLR051C.nucleolus
+_group948.cytoplasm,YKL056C.cytoplasm
+_group948.cytoplasm,YLR285W.cytoplasm
+_group948.unknown,YKL087C.unknown
+_group948.unknown,YLR053C.unknown
+_group949.cytoplasm,YEL054C.cytoplasm
+_group949.cytoplasm,YPL220W.cytoplasm
+_group950.unknown,YLR124W.unknown
+_group957.nucleus,YNL025C.nucleus
+_group957.cytoplasm,YGR097W.cytoplasm
+_group957.unknown,YLR261C.unknown
+_group957.unknown,YLR322W.unknown
+_group957.unknown,YLR358C.unknown
+_group957.unknown,YNL145W.unknown
+_group957.microtubule,YOL116W.microtubule
+_group961.cytoplasm,YLR327C.cytoplasm
+_group961.nucleus,YLR327C.nucleus
+_group968.cytoplasm,YOR167C.cytoplasm
+_group97.nucleus,YBR236C.nucleus
+_group97.nucleus,YJL168C.nucleus
+_group97.cytoplasm,YJR017C.cytoplasm
+_group97.nucleus,YJR017C.nucleus
+_group97.cytoplasm,YKL110C.cytoplasm
+_group978.cytoplasm,YBL019W.cytoplasm
+_group978.nucleus,YBL019W.nucleus
+_group978.cytoplasm,YHR031C.cytoplasm
+_group978.nucleus,YHR031C.nucleus
+_group980.cytoplasm,YBR233W.cytoplasm
+_group980.vacuole,YIL123W.vacuole
+_group986.cytoplasm,YDL146W.cytoplasm
+_group986.bud neck,YDL146W.bud neck
+_group986.cell periphery,YDL146W.cell periphery
+_group986.bud,YDL146W.bud
+_group986.unknown,YGR110W.unknown
+_group988.cytoplasm,YDR103W.cytoplasm
+_group988.nucleus,YDR103W.nucleus
+_group988.cytoplasm,YBL016W.cytoplasm
+_group988.nucleus,YBL016W.nucleus
+_group988.cytoplasm,YBR083W.cytoplasm
+_group988.nucleus,YBR083W.nucleus
+_group988.cytoplasm,YER075C.cytoplasm
+_group988.cytoplasm,YGL178W.cytoplasm
+_group988.spindle pole,YLR457C.spindle pole
+_group988.vacuole,YDL180W.vacuole
+_group988.cytoplasm,YLR452C.cytoplasm
+_group988.unknown,YDL186W.unknown
+_group988.cytoplasm,YER132C.cytoplasm
+_group988.unknown,YDR319C.unknown
+_group988.unknown,YER188W.unknown
+_group988.unknown,YGR018C.unknown
+_group988.early Golgi,YML038C.early Golgi
+_group988.endosome,YMR004W.endosome
+_group993.unknown,YDR259C.unknown
+_group993.cytoplasm,YLR228C.cytoplasm
+_group993.nucleus,YLR228C.nucleus
+_group993.cytoplasm,YPR115W.cytoplasm
+_group995.cytoplasm,YDR184C.cytoplasm
+_group995.nucleus,YDR184C.nucleus
+_group999.cytoplasm,YDR253C.cytoplasm
+_group999.nucleus,YDR253C.nucleus
+_group999.cytoplasm,YPL038W.cytoplasm
+_group999.nucleus,YPL038W.nucleus
+doubleton1.mitochondrion,YIR021W.mitochondrion
+doubleton1.unknown,Q0115.unknown
+doubleton10.unknown,YBR228W.unknown
+doubleton10.cytoplasm,YLR135W.cytoplasm
+doubleton10.nucleus,YLR135W.nucleus
+doubleton11.unknown,YBR240C.unknown
+doubleton11.nucleus,YDL080C.nucleus
+doubleton12.ER,YCL052C.ER
+doubleton12.cytoplasm,YEL060C.cytoplasm
+doubleton12.punctate composite,YEL060C.punctate composite
+doubleton13.mitochondrion,YDL142C.mitochondrion
+doubleton13.unknown,YHR019C.unknown
+doubleton14.ER,YDL212W.ER
+doubleton14.vacuole,YKR039W.vacuole
+doubleton15.mitochondrion,YDR204W.mitochondrion
+doubleton15.mitochondrion,YOL096C.mitochondrion
+doubleton16.ER,YDR205W.ER
+doubleton16.ER,YNR039C.ER
+doubleton17.punctate composite,YDR270W.punctate composite
+doubleton17.cytoplasm,YNL259C.cytoplasm
+doubleton18.nucleus,YDR397C.nucleus
+doubleton18.nucleus,YER159C.nucleus
+doubleton19.cytoplasm,YDR441C.cytoplasm
+doubleton19.cytoplasm,YML022W.cytoplasm
+doubleton19.nucleus,YML022W.nucleus
+doubleton2.cytoplasm,YPL160W.cytoplasm
+doubleton2.unknown,Q0120.unknown
+doubleton20.ER,YEL043W.ER
+doubleton20.ER,YGR089W.ER
+doubleton21.cytoplasm,YER038C.cytoplasm
+doubleton21.nucleus,YER038C.nucleus
+doubleton21.unknown,YML023C.unknown
+doubleton22.punctate composite,YFL036W.punctate composite
+doubleton22.unknown,YMR228W.unknown
+doubleton23.cytoplasm,YFR030W.cytoplasm
+doubleton23.cytoplasm,YJR137C.cytoplasm
+doubleton24.unknown,YGL183C.unknown
+doubleton24.unknown,YGL033W.unknown
+doubleton25.unknown,YGL053W.unknown
+doubleton25.unknown,YLR065C.unknown
+doubleton26.unknown,YGL236C.unknown
+doubleton26.cytoplasm,YMR023C.cytoplasm
+doubleton26.mitochondrion,YMR023C.mitochondrion
+doubleton27.bud neck,YGR041W.bud neck
+doubleton27.bud,YGR041W.bud
+doubleton27.bud neck,YLR353W.bud neck
+doubleton27.cell periphery,YLR353W.cell periphery
+doubleton27.bud,YLR353W.bud
+doubleton28.mitochondrion,YGR101W.mitochondrion
+doubleton28.mitochondrion,YKR066C.mitochondrion
+doubleton29.mitochondrion,YGR174C.mitochondrion
+doubleton29.mitochondrion,YPL215W.mitochondrion
+doubleton3.nucleus,YAL009W.nucleus
+doubleton3.punctate composite,YHR004C.punctate composite
+doubleton30.cytoplasm,YGR208W.cytoplasm
+doubleton30.nucleus,YGR208W.nucleus
+doubleton30.unknown,YKL177W.unknown
+doubleton31.ER,YGR263C.ER
+doubleton31.unknown,YOR180C.unknown
+doubleton32.unknown,YHL044W.unknown
+doubleton32.unknown,YKR035C.unknown
+doubleton33.ER,YIR022W.ER
+doubleton33.ER,YJR010C-A.ER
+doubleton34.unknown,YIR038C.unknown
+doubleton34.ER,YJL097W.ER
+doubleton34.vacuole,YJL097W.vacuole
+doubleton35.cytoplasm,YJL035C.cytoplasm
+doubleton35.nucleus,YJL035C.nucleus
+doubleton35.cytoplasm,YLR316C.cytoplasm
+doubleton35.nucleus,YLR316C.nucleus
+doubleton36.unknown,YJL199C.unknown
+doubleton36.unknown,YLR198C.unknown
+doubleton37.cytoplasm,YJR136C.cytoplasm
+doubleton37.cytoplasm,YKL033W.cytoplasm
+doubleton38.mitochondrion,YKL040C.mitochondrion
+doubleton38.mitochondrion,YLL027W.mitochondrion
+doubleton39.cell periphery,YKL051W.cell periphery
+doubleton39.unknown,YLR305C.unknown
+doubleton4.ER,YAL023C.ER
+doubleton4.ER,YDL095W.ER
+doubleton40.cytoplasm,YKR084C.cytoplasm
+doubleton40.cytoplasm,YNL001W.cytoplasm
+doubleton41.unknown,YLL059C.unknown
+doubleton41.nucleus,YML011C.nucleus
+doubleton42.mitochondrion,YLR204W.mitochondrion
+doubleton42.cytoplasm,YMR299C.cytoplasm
+doubleton42.punctate composite,YMR299C.punctate composite
+doubleton43.unknown,YLR207W.unknown
+doubleton43.ER,YOL013C.ER
+doubleton44.unknown,YLR246W.unknown
+doubleton44.unknown,YOL110W.unknown
+doubleton45.unknown,YLR317W.unknown
+doubleton45.unknown,YNL140C.unknown
+doubleton46.unknown,YLR366W.unknown
+doubleton46.cytoplasm,YMR242C.cytoplasm
+doubleton47.nucleus,YMR016C.nucleus
+doubleton47.cytoplasm,YMR037C.cytoplasm
+doubleton47.nucleus,YMR037C.nucleus
+doubleton48.cytoplasm,YNR011C.cytoplasm
+doubleton48.nucleus,YNR011C.nucleus
+doubleton48.cytoplasm,YOR148C.cytoplasm
+doubleton48.nucleus,YOR148C.nucleus
+doubleton5.unknown,YAL051W.unknown
+doubleton5.cytoplasm,YOR363C.cytoplasm
+doubleton5.nucleus,YOR363C.nucleus
+doubleton6.unknown,YAR033W.unknown
+doubleton6.unknown,YGL051W.unknown
+doubleton7.cytoplasm,YBL068W.cytoplasm
+doubleton7.cytoplasm,YOL061W.cytoplasm
+doubleton8.mitochondrion,YBL080C.mitochondrion
+doubleton8.mitochondrion,YMR293C.mitochondrion
+doubleton9.mitochondrion,YBR084W.mitochondrion
+doubleton9.cytoplasm,YGR204W.cytoplasm
+doubleton9.nucleus,YGR204W.nucleus
+hart et al 1.nucleus,YGR063C.nucleus
+hart et al 1.nucleolus,YOR340C.nucleolus
+hart et al 1.nucleolus,YPR010C.nucleolus
+hart et al 1.nucleus,YGL043W.nucleus
+hart et al 1.nucleus,YIL021W.nucleus
+hart et al 1.nucleus,YKR025W.nucleus
+hart et al 1.unknown,YBR154C.unknown
+hart et al 1.nucleus,YDL140C.nucleus
+hart et al 1.nucleus,YGL070C.nucleus
+hart et al 1.unknown,YGR005C.unknown
+hart et al 1.nucleus,YJL140W.nucleus
+hart et al 1.nucleus,YOR116C.nucleus
+hart et al 1.cytoplasm,YOR151C.cytoplasm
+hart et al 1.nucleus,YOR151C.nucleus
+hart et al 1.nucleus,YOR207C.nucleus
+hart et al 1.nucleolus,YOR341W.nucleolus
+hart et al 1.cytoplasm,YPR187W.cytoplasm
+hart et al 1.nucleus,YPR187W.nucleus
+hart et al 1.nucleus,YGR186W.nucleus
+hart et al 1.nucleus,YDR404C.nucleus
+hart et al 1.nucleus,YOL005C.nucleus
+hart et al 1.nucleus,YOR210W.nucleus
+hart et al 1.nucleolus,YOR210W.nucleolus
+hart et al 1.nucleus,YOR224C.nucleus
+hart et al 1.nucleus,YDL150W.nucleus
+hart et al 1.unknown,YNR003C.unknown
+hart et al 1.nucleus,YPR110C.nucleus
+hart et al 1.nucleolus,YPR110C.nucleolus
+hart et al 1.cytoplasm,YPR190C.cytoplasm
+hart et al 1.nucleus,YPR190C.nucleus
+hart et al 1.unknown,YDR045C.unknown
+hart et al 1.nucleus,YJL011C.nucleus
+hart et al 1.nucleolus,YDR156W.nucleolus
+hart et al 1.nucleolus,YJR063W.nucleolus
+hart et al 1.nucleolus,YNL113W.nucleolus
+hart et al 1.unknown,YKL144C.unknown
+hart et al 1.unknown,YNL151C.unknown
+hart et al 1.nucleolus,YJL148W.nucleolus
+hart et al 1.nucleolus,YNL248C.nucleolus
+hart et al 1.cytoplasm,YDL115C.cytoplasm
+hart et al 1.nucleus,YDL115C.nucleus
+hart et al 10.nuclear periphery,YAR002W.nuclear periphery
+hart et al 10.nuclear periphery,YLR335W.nuclear periphery
+hart et al 10.nuclear periphery,YOR098C.nuclear periphery
+hart et al 10.cytoplasm,YNL189W.cytoplasm
+hart et al 10.nuclear periphery,YNL189W.nuclear periphery
+hart et al 10.nucleus,YOR001W.nucleus
+hart et al 10.nucleolus,YOR001W.nucleolus
+hart et al 10.nucleus,YCR035C.nucleus
+hart et al 10.nucleolus,YCR035C.nucleolus
+hart et al 10.cytoplasm,YDL111C.cytoplasm
+hart et al 10.nucleus,YDL111C.nucleus
+hart et al 10.nucleolus,YDL111C.nucleolus
+hart et al 10.nucleus,YDR280W.nucleus
+hart et al 10.nucleolus,YDR280W.nucleolus
+hart et al 10.cytoplasm,YGR095C.cytoplasm
+hart et al 10.nucleus,YGR095C.nucleus
+hart et al 10.nucleolus,YGR095C.nucleolus
+hart et al 10.nucleus,YGR195W.nucleus
+hart et al 10.nucleolus,YGR195W.nucleolus
+hart et al 10.cytoplasm,YHR069C.cytoplasm
+hart et al 10.nucleus,YHR069C.nucleus
+hart et al 10.nucleolus,YHR069C.nucleolus
+hart et al 10.unknown,YHR081W.unknown
+hart et al 10.cytoplasm,YOL021C.cytoplasm
+hart et al 10.nucleus,YOL021C.nucleus
+hart et al 10.nucleolus,YOL021C.nucleolus
+hart et al 10.cytoplasm,YGR158C.cytoplasm
+hart et al 10.nucleus,YGR158C.nucleus
+hart et al 10.nuclear periphery,YPL020C.nuclear periphery
+hart et al 10.cytoplasm,YNL232W.cytoplasm
+hart et al 10.nucleus,YNL232W.nucleus
+hart et al 10.nucleolus,YNL232W.nucleolus
+hart et al 10.nucleus,YOL142W.nucleus
+hart et al 10.nucleolus,YOL142W.nucleolus
+hart et al 10.unknown,YOR076C.unknown
+hart et al 10.nucleus,YNR024W.nucleus
+hart et al 10.nuclear periphery,YGR202C.nuclear periphery
+hart et al 100.actin,YIL034C.actin
+hart et al 100.actin,YIR003W.actin
+hart et al 100.actin,YKL007W.actin
+hart et al 100.punctate composite,YER071C.punctate composite
+hart et al 101.spindle pole,YAL034W-A.spindle pole
+hart et al 101.spindle pole,YIR010W.spindle pole
+hart et al 101.spindle pole,YJR112W.spindle pole
+hart et al 101.spindle pole,YPL233W.spindle pole
+hart et al 102.cytoplasm,YDR092W.cytoplasm
+hart et al 102.cytoplasm,YGL087C.cytoplasm
+hart et al 102.nucleus,YGL087C.nucleus
+hart et al 102.cytoplasm,YMR140W.cytoplasm
+hart et al 102.cytoplasm,YHR137W.cytoplasm
+hart et al 102.nucleus,YHR137W.nucleus
+hart et al 103.cytoplasm,YCR009C.cytoplasm
+hart et al 103.actin,YCR009C.actin
+hart et al 103.cytoplasm,YMR192W.cytoplasm
+hart et al 103.bud neck,YMR192W.bud neck
+hart et al 103.bud,YMR192W.bud
+hart et al 103.cytoplasm,YPL249C.cytoplasm
+hart et al 103.bud neck,YPL249C.bud neck
+hart et al 103.cell periphery,YPL249C.cell periphery
+hart et al 103.bud,YPL249C.bud
+hart et al 103.unknown,YML123C.unknown
+hart et al 104.punctate composite,YOL149W.punctate composite
+hart et al 104.cytoplasm,YBR094W.cytoplasm
+hart et al 104.punctate composite,YNL118C.punctate composite
+hart et al 104.punctate composite,YEL015W.punctate composite
+hart et al 105.punctate composite,YLR423C.punctate composite
+hart et al 105.punctate composite,YPR049C.punctate composite
+hart et al 105.punctate composite,YDR022C.punctate composite
+hart et al 105.cytoplasm,YPL166W.cytoplasm
+hart et al 105.nucleus,YPL166W.nucleus
+hart et al 105.punctate composite,YPL166W.punctate composite
+hart et al 106.nucleus,YNL102W.nucleus
+hart et al 106.nucleus,YBL035C.nucleus
+hart et al 106.unknown,YIR008C.unknown
+hart et al 106.unknown,YKL045W.unknown
+hart et al 107.cytoplasm,YCL059C.cytoplasm
+hart et al 107.nucleolus,YCL059C.nucleolus
+hart et al 107.nucleolus,YGR159C.nucleolus
+hart et al 107.cytoplasm,YLR410W.cytoplasm
+hart et al 107.cytoplasm,YGR017W.cytoplasm
+hart et al 107.nucleus,YGR017W.nucleus
+hart et al 108.ER,YAL007C.ER
+hart et al 108.vacuolar membrane,YAR002C-A.vacuolar membrane
+hart et al 108.punctate composite,YGL200C.punctate composite
+hart et al 108.ER,YML012W.ER
+hart et al 109.cytoplasm,YGL213C.cytoplasm
+hart et al 109.cytoplasm,YLR398C.cytoplasm
+hart et al 109.cytoplasm,YPR189W.cytoplasm
+hart et al 109.cytoplasm,YKL023W.cytoplasm
+hart et al 11.cytoplasm,YER133W.cytoplasm
+hart et al 11.nucleus,YER133W.nucleus
+hart et al 11.punctate composite,YER133W.punctate composite
+hart et al 11.nucleus,YAL043C.nucleus
+hart et al 11.nucleus,YDR195W.nucleus
+hart et al 11.nucleus,YDR301W.nucleus
+hart et al 11.nucleus,YGR156W.nucleus
+hart et al 11.unknown,YJR093C.unknown
+hart et al 11.unknown,YKL018W.unknown
+hart et al 11.nucleus,YKL059C.nucleus
+hart et al 11.nucleus,YKR002W.nucleus
+hart et al 11.nucleus,YLR115W.nucleus
+hart et al 11.nucleus,YLR277C.nucleus
+hart et al 11.unknown,YNL222W.unknown
+hart et al 11.nucleus,YNL317W.nucleus
+hart et al 11.nucleus,YPR107C.nucleus
+hart et al 11.cytoplasm,YAR014C.cytoplasm
+hart et al 11.nucleus,YAR014C.nucleus
+hart et al 11.nucleus,YOR179C.nucleus
+hart et al 11.unknown,YFR003C.unknown
+hart et al 11.cytoplasm,YKL193C.cytoplasm
+hart et al 11.nucleus,YKL193C.nucleus
+hart et al 11.cytoplasm,YMR311C.cytoplasm
+hart et al 11.nucleus,YMR311C.nucleus
+hart et al 11.cytoplasm,YPL137C.cytoplasm
+hart et al 11.ER,YPL137C.ER
+hart et al 110.cytoplasm,YDR267C.cytoplasm
+hart et al 110.cytoplasm,YHR122W.cytoplasm
+hart et al 110.cytoplasm,YIL128W.cytoplasm
+hart et al 110.unknown,YNL240C.unknown
+hart et al 111.nucleus,YLR430W.nucleus
+hart et al 111.nucleus,YNL251C.nucleus
+hart et al 111.nucleus,YPL190C.nucleus
+hart et al 111.cytoplasm,YML117W.cytoplasm
+hart et al 112.ER,YBR171W.ER
+hart et al 112.ER,YLR292C.ER
+hart et al 112.ER,YOR254C.ER
+hart et al 112.ER,YPL094C.ER
+hart et al 113.cytoplasm,YOR089C.cytoplasm
+hart et al 113.nucleus,YOR089C.nucleus
+hart et al 113.cytoplasm,YOR370C.cytoplasm
+hart et al 113.nucleus,YOR370C.nucleus
+hart et al 113.cytoplasm,YER136W.cytoplasm
+hart et al 113.cytoplasm,YKR014C.cytoplasm
+hart et al 113.nucleus,YKR014C.nucleus
+hart et al 114.cytoplasm,YDR099W.cytoplasm
+hart et al 114.nucleus,YDR099W.nucleus
+hart et al 114.cytoplasm,YER177W.cytoplasm
+hart et al 114.cytoplasm,YFR017C.cytoplasm
+hart et al 114.cytoplasm,YDL117W.cytoplasm
+hart et al 114.bud neck,YDL117W.bud neck
+hart et al 115.nucleus,YDR228C.nucleus
+hart et al 115.nucleus,YMR061W.nucleus
+hart et al 115.unknown,YGL044C.unknown
+hart et al 115.unknown,YOR250C.unknown
+hart et al 116.unknown,YCL008C.unknown
+hart et al 116.unknown,YLR119W.unknown
+hart et al 116.punctate composite,YPL065W.punctate composite
+hart et al 116.endosome,YGR206W.endosome
+hart et al 117.actin,YIL095W.actin
+hart et al 117.cytoplasm,YDR028C.cytoplasm
+hart et al 117.cytoplasm,YDR422C.cytoplasm
+hart et al 117.cytoplasm,YNR034W.cytoplasm
+hart et al 117.nucleus,YNR034W.nucleus
+hart et al 118.unknown,YAL003W.unknown
+hart et al 118.cytoplasm,YKL081W.cytoplasm
+hart et al 118.cytoplasm,YPR080W.cytoplasm
+hart et al 118.cytoplasm,YPL048W.cytoplasm
+hart et al 119.cytoplasm,YPR175W.cytoplasm
+hart et al 119.nucleus,YPR175W.nucleus
+hart et al 119.cytoplasm,YBR278W.cytoplasm
+hart et al 119.nucleus,YBR278W.nucleus
+hart et al 119.cytoplasm,YDR121W.cytoplasm
+hart et al 119.nucleus,YDR121W.nucleus
+hart et al 119.cytoplasm,YNL262W.cytoplasm
+hart et al 119.nucleus,YNL262W.nucleus
+hart et al 12.cytoplasm,YER172C.cytoplasm
+hart et al 12.nucleus,YER172C.nucleus
+hart et al 12.cytoplasm,YJR022W.cytoplasm
+hart et al 12.nucleus,YJR022W.nucleus
+hart et al 12.cytoplasm,YBL074C.cytoplasm
+hart et al 12.nucleus,YBL074C.nucleus
+hart et al 12.cytoplasm,YHR165C.cytoplasm
+hart et al 12.nucleus,YHR165C.nucleus
+hart et al 12.nucleus,YKL173W.nucleus
+hart et al 12.cytoplasm,YBR055C.cytoplasm
+hart et al 12.nucleus,YBR055C.nucleus
+hart et al 12.nucleus,YOR308C.nucleus
+hart et al 12.cytoplasm,YPR178W.cytoplasm
+hart et al 12.nucleus,YPR178W.nucleus
+hart et al 12.nucleus,YBR152W.nucleus
+hart et al 12.nucleus,YGR075C.nucleus
+hart et al 12.nucleus,YDL030W.nucleus
+hart et al 12.nucleus,YJL203W.nucleus
+hart et al 12.nucleus,YDL043C.nucleus
+hart et al 12.nucleus,YDL098C.nucleus
+hart et al 12.nucleus,YPL213W.nucleus
+hart et al 12.nucleus,YDR473C.nucleus
+hart et al 12.nucleus,YFL017W-A.nucleus
+hart et al 12.cytoplasm,YGR091W.cytoplasm
+hart et al 12.nucleus,YGR091W.nucleus
+hart et al 12.unknown,YPR082C.unknown
+hart et al 12.cytoplasm,YML049C.cytoplasm
+hart et al 120.ER to Golgi,YHR098C.ER to Golgi
+hart et al 120.ER to Golgi,YPL085W.ER to Golgi
+hart et al 120.unknown,YPR181C.unknown
+hart et al 120.ER to Golgi,YNL049C.ER to Golgi
+hart et al 121.nuclear periphery,YDR227W.nuclear periphery
+hart et al 121.nuclear periphery,YLR442C.nuclear periphery
+hart et al 121.nuclear periphery,YDL042C.nuclear periphery
+hart et al 121.cytoplasm,YFL007W.cytoplasm
+hart et al 121.nucleus,YFL007W.nucleus
+hart et al 122.cytoplasm,YMR201C.cytoplasm
+hart et al 122.nucleus,YMR201C.nucleus
+hart et al 122.cytoplasm,YBR114W.cytoplasm
+hart et al 122.nucleus,YBR114W.nucleus
+hart et al 122.cytoplasm,YER162C.cytoplasm
+hart et al 122.nucleus,YER162C.nucleus
+hart et al 122.mitochondrion,YKL011C.mitochondrion
+hart et al 123.cytoplasm,YOR027W.cytoplasm
+hart et al 123.cytoplasm,YPL240C.cytoplasm
+hart et al 123.cytoplasm,YMR186W.cytoplasm
+hart et al 123.cytoplasm,YGR123C.cytoplasm
+hart et al 124.nucleus,YKR062W.nucleus
+hart et al 124.nucleus,YKL028W.nucleus
+hart et al 124.cytoplasm,YNL112W.cytoplasm
+hart et al 124.nucleus,YNL112W.nucleus
+hart et al 124.vacuole,YDR452W.vacuole
+hart et al 125.mitochondrion,YFL018C.mitochondrion
+hart et al 125.mitochondrion,YDR148C.mitochondrion
+hart et al 125.mitochondrion,YFR049W.mitochondrion
+hart et al 125.mitochondrion,YIL125W.mitochondrion
+hart et al 126.cytoplasm,YLR006C.cytoplasm
+hart et al 126.unknown,YCR073C.unknown
+hart et al 126.unknown,YDL013W.unknown
+hart et al 126.cytoplasm,YNR031C.cytoplasm
+hart et al 127.cytoplasm,YBR137W.cytoplasm
+hart et al 127.cytoplasm,YOR007C.cytoplasm
+hart et al 127.cytoplasm,YOR164C.cytoplasm
+hart et al 127.cytoplasm,YOL111C.cytoplasm
+hart et al 128.nucleus,YBL002W.nucleus
+hart et al 128.nucleus,YBL003C.nucleus
+hart et al 128.nucleus,YBR010W.nucleus
+hart et al 128.mitochondrion,YMR072W.mitochondrion
+hart et al 129.bud neck,YJR058C.bud neck
+hart et al 129.cell periphery,YJR058C.cell periphery
+hart et al 129.bud neck,YOL062C.bud neck
+hart et al 129.cell periphery,YOL062C.cell periphery
+hart et al 129.unknown,YNL270C.unknown
+hart et al 129.bud neck,YBL037W.bud neck
+hart et al 129.cell periphery,YBL037W.cell periphery
+hart et al 13.unknown,YBL041W.unknown
+hart et al 13.unknown,YER012W.unknown
+hart et al 13.cytoplasm,YPR103W.cytoplasm
+hart et al 13.nucleus,YPR103W.nucleus
+hart et al 13.nucleus,YML092C.nucleus
+hart et al 13.cytoplasm,YOR157C.cytoplasm
+hart et al 13.nucleus,YOR157C.nucleus
+hart et al 13.cytoplasm,YGR253C.cytoplasm
+hart et al 13.nucleus,YGR253C.nucleus
+hart et al 13.cytoplasm,YGL011C.cytoplasm
+hart et al 13.nucleus,YGL011C.nucleus
+hart et al 13.unknown,YER094C.unknown
+hart et al 13.cytoplasm,YFR050C.cytoplasm
+hart et al 13.nucleus,YFR050C.nucleus
+hart et al 13.cytoplasm,YGR135W.cytoplasm
+hart et al 13.nucleus,YGR135W.nucleus
+hart et al 13.nucleus,YJL001W.nucleus
+hart et al 13.cytoplasm,YMR314W.cytoplasm
+hart et al 13.nucleus,YMR314W.nucleus
+hart et al 13.cytoplasm,YOL038W.cytoplasm
+hart et al 13.nucleus,YOL038W.nucleus
+hart et al 13.cytoplasm,YOR362C.cytoplasm
+hart et al 13.nucleus,YOR362C.nucleus
+hart et al 13.cytoplasm,YLR263W.cytoplasm
+hart et al 13.mitochondrion,YJR051W.mitochondrion
+hart et al 13.punctate composite,YDR517W.punctate composite
+hart et al 13.late Golgi,YAL053W.late Golgi
+hart et al 13.bud neck,YAL053W.bud neck
+hart et al 13.cell periphery,YAL053W.cell periphery
+hart et al 13.bud,YAL053W.bud
+hart et al 13.punctate composite,YAL053W.punctate composite
+hart et al 130.ER,YDR233C.ER
+hart et al 130.cell periphery,YDR233C.cell periphery
+hart et al 130.vacuole,YPL154C.vacuole
+hart et al 130.cytoplasm,YJL146W.cytoplasm
+hart et al 130.nucleus,YJL146W.nucleus
+hart et al 130.cell periphery,YHR146W.cell periphery
+hart et al 131.endosome,YBR097W.endosome
+hart et al 131.endosome,YLR240W.endosome
+hart et al 131.endosome,YLR360W.endosome
+hart et al 131.vacuole,YPL120W.vacuole
+hart et al 132.unknown,YDL025C.unknown
+hart et al 132.cytoplasm,YAL049C.cytoplasm
+hart et al 132.cytoplasm,YHR009C.cytoplasm
+hart et al 132.nucleus,YHR009C.nucleus
+hart et al 132.unknown,YGR016W.unknown
+hart et al 133.cytoplasm,YDR328C.cytoplasm
+hart et al 133.nucleus,YDR328C.nucleus
+hart et al 133.vacuole,YDR131C.vacuole
+hart et al 133.cytoplasm,YMR258C.cytoplasm
+hart et al 133.nucleus,YMR258C.nucleus
+hart et al 134.unknown,YPR018W.unknown
+hart et al 134.cytoplasm,YBR195C.cytoplasm
+hart et al 134.nucleus,YBR195C.nucleus
+hart et al 134.nucleus,YML102W.nucleus
+hart et al 135.nucleus,YGL133W.nucleus
+hart et al 135.nucleus,YJL065C.nucleus
+hart et al 135.nucleus,YOR304W.nucleus
+hart et al 136.cytoplasm,YOR138C.cytoplasm
+hart et al 136.nucleus,YOR138C.nucleus
+hart et al 136.cytoplasm,YGR240C.cytoplasm
+hart et al 136.cytoplasm,YMR205C.cytoplasm
+hart et al 137.cytoplasm,YGL105W.cytoplasm
+hart et al 137.cytoplasm,YGR264C.cytoplasm
+hart et al 137.cytoplasm,YGL245W.cytoplasm
+hart et al 138.nucleus,YNL286W.nucleus
+hart et al 138.nucleus,YOR319W.nucleus
+hart et al 138.cytoplasm,YMR288W.cytoplasm
+hart et al 138.nucleus,YMR288W.nucleus
+hart et al 139.unknown,YJL005W.unknown
+hart et al 139.actin,YNL138W.actin
+hart et al 139.cytoplasm,YGR233C.cytoplasm
+hart et al 139.nucleus,YGR233C.nucleus
+hart et al 14.nucleus,YLR275W.nucleus
+hart et al 14.unknown,YLR147C.unknown
+hart et al 14.cytoplasm,YIL061C.cytoplasm
+hart et al 14.nucleus,YIL061C.nucleus
+hart et al 14.nucleus,YBR119W.nucleus
+hart et al 14.cytoplasm,YGR013W.cytoplasm
+hart et al 14.nucleus,YGR013W.nucleus
+hart et al 14.cytoplasm,YHR086W.cytoplasm
+hart et al 14.nucleus,YHR086W.nucleus
+hart et al 14.nucleus,YDL087C.nucleus
+hart et al 14.nucleus,YER029C.nucleus
+hart et al 14.nucleus,YGR074W.nucleus
+hart et al 14.nucleus,YPR182W.nucleus
+hart et al 14.nucleus,YKL012W.nucleus
+hart et al 14.nucleus,YDR235W.nucleus
+hart et al 14.nucleus,YDR240C.nucleus
+hart et al 14.nucleus,YMR125W.nucleus
+hart et al 14.unknown,YOR159C.unknown
+hart et al 14.nucleus,YLR298C.nucleus
+hart et al 14.nucleus,YML046W.nucleus
+hart et al 14.nucleus,YPR057W.nucleus
+hart et al 140.cytoplasm,YGR285C.cytoplasm
+hart et al 140.ER,YJL080C.ER
+hart et al 140.cytoplasm,YHR064C.cytoplasm
+hart et al 141.unknown,YLR262C.unknown
+hart et al 141.early Golgi,YDR137W.early Golgi
+hart et al 141.Golgi,YLR039C.Golgi
+hart et al 142.cytoplasm,YGR048W.cytoplasm
+hart et al 142.nucleus,YGR048W.nucleus
+hart et al 142.ER,YBR273C.ER
+hart et al 142.cytoplasm,YDR330W.cytoplasm
+hart et al 142.nucleus,YDR330W.nucleus
+hart et al 143.nucleus,YNL021W.nucleus
+hart et al 143.nucleus,YDR295C.nucleus
+hart et al 143.nucleus,YPR179C.nucleus
+hart et al 144.ER,YDL100C.ER
+hart et al 144.ER,YER083C.ER
+hart et al 144.ER,YGL020C.ER
+hart et al 145.cytoplasm,YFR015C.cytoplasm
+hart et al 145.punctate composite,YFR015C.punctate composite
+hart et al 145.cytoplasm,YLR258W.cytoplasm
+hart et al 145.nucleus,YLR258W.nucleus
+hart et al 145.punctate composite,YLR258W.punctate composite
+hart et al 145.cytoplasm,YJL137C.cytoplasm
+hart et al 146.late Golgi,YLR330W.late Golgi
+hart et al 146.late Golgi,YMR237W.late Golgi
+hart et al 146.late Golgi,YKR027W.late Golgi
+hart et al 147.unknown,YCR020C-A.unknown
+hart et al 147.cytoplasm,YEL053C.cytoplasm
+hart et al 147.cytoplasm,YPR051W.cytoplasm
+hart et al 147.nucleus,YPR051W.nucleus
+hart et al 148.cytoplasm,YER111C.cytoplasm
+hart et al 148.nucleus,YER111C.nucleus
+hart et al 148.nucleus,YLR182W.nucleus
+hart et al 148.nucleus,YDL056W.nucleus
+hart et al 149.unknown,YDR289C.unknown
+hart et al 149.nucleus,YGL246C.nucleus
+hart et al 149.nucleus,YOR048C.nucleus
+hart et al 15.nucleus,YOL145C.nucleus
+hart et al 15.nucleus,YOR123C.nucleus
+hart et al 15.cytoplasm,YDR172W.cytoplasm
+hart et al 15.cytoplasm,YBR143C.cytoplasm
+hart et al 15.nucleus,YBR279W.nucleus
+hart et al 15.nucleus,YGL244W.nucleus
+hart et al 15.nucleus,YLR418C.nucleus
+hart et al 15.cytoplasm,YGL019W.cytoplasm
+hart et al 15.nucleus,YGL019W.nucleus
+hart et al 15.cytoplasm,YOR039W.cytoplasm
+hart et al 15.nucleus,YOR039W.nucleus
+hart et al 15.cytoplasm,YOR061W.cytoplasm
+hart et al 15.nucleus,YOR061W.nucleus
+hart et al 15.nucleus,YER164W.nucleus
+hart et al 15.cytoplasm,YIL035C.cytoplasm
+hart et al 15.nucleus,YIL035C.nucleus
+hart et al 15.nucleus,YOL006C.nucleus
+hart et al 15.nucleolus,YOL006C.nucleolus
+hart et al 15.nucleus,YMR172W.nucleus
+hart et al 15.nucleus,YCL031C.nucleus
+hart et al 15.nucleolus,YCL031C.nucleolus
+hart et al 15.cell periphery,YLR407W.cell periphery
+hart et al 150.cytoplasm,YLL024C.cytoplasm
+hart et al 150.nucleus,YLL024C.nucleus
+hart et al 150.cytoplasm,YPL106C.cytoplasm
+hart et al 150.cytoplasm,YAL038W.cytoplasm
+hart et al 151.nucleus,YGR071C.nucleus
+hart et al 151.nucleus,YPL128C.nucleus
+hart et al 151.nucleus,YLR373C.nucleus
+hart et al 152.cytoplasm,YKL139W.cytoplasm
+hart et al 152.nucleus,YKL139W.nucleus
+hart et al 152.nucleus,YJL006C.nucleus
+hart et al 152.cytoplasm,YML112W.cytoplasm
+hart et al 152.nucleus,YML112W.nucleus
+hart et al 153.spindle pole,YAR019C.spindle pole
+hart et al 153.cytoplasm,YBR281C.cytoplasm
+hart et al 153.nucleus,YBR281C.nucleus
+hart et al 153.endosome,YIL173W.endosome
+hart et al 154.cytoplasm,YML095C.cytoplasm
+hart et al 154.nucleus,YML095C.nucleus
+hart et al 154.nucleus,YPL022W.nucleus
+hart et al 154.nucleus,YAL027W.nucleus
+hart et al 155.unknown,YLR433C.unknown
+hart et al 155.cytoplasm,YML057W.cytoplasm
+hart et al 155.cytoplasm,YKL190W.cytoplasm
+hart et al 156.cytoplasm,YNL186W.cytoplasm
+hart et al 156.nucleus,YNL186W.nucleus
+hart et al 156.nucleus,YGR090W.nucleus
+hart et al 156.nucleolus,YGR090W.nucleolus
+hart et al 156.nucleolus,YKL078W.nucleolus
+hart et al 157.cytoplasm,YNL135C.cytoplasm
+hart et al 157.nucleus,YNL135C.nucleus
+hart et al 157.unknown,YNL023C.unknown
+hart et al 157.cytoplasm,YIL161W.cytoplasm
+hart et al 158.mitochondrion,YBR221C.mitochondrion
+hart et al 158.mitochondrion,YER178W.mitochondrion
+hart et al 158.mitochondrion,YNL071W.mitochondrion
+hart et al 159.cytoplasm,YBL056W.cytoplasm
+hart et al 159.nucleus,YBL056W.nucleus
+hart et al 159.cytoplasm,YDR071C.cytoplasm
+hart et al 159.cytoplasm,YER089C.cytoplasm
+hart et al 159.nucleus,YER089C.nucleus
+hart et al 16.nucleus,YAL032C.nucleus
+hart et al 16.nucleus,YDL209C.nucleus
+hart et al 16.nucleus,YDR416W.nucleus
+hart et al 16.nucleus,YLL036C.nucleus
+hart et al 16.cytoplasm,YLR424W.cytoplasm
+hart et al 16.nucleus,YLR424W.nucleus
+hart et al 16.cytoplasm,YMR213W.cytoplasm
+hart et al 16.nucleus,YMR213W.nucleus
+hart et al 16.cytoplasm,YPL151C.cytoplasm
+hart et al 16.nucleus,YPL151C.nucleus
+hart et al 16.nucleus,YLR117C.nucleus
+hart et al 16.nucleus,YBR065C.nucleus
+hart et al 16.nucleus,YPR101W.nucleus
+hart et al 16.nucleus,YCR063W.nucleus
+hart et al 16.cytoplasm,YDR364C.cytoplasm
+hart et al 16.nucleus,YDR364C.nucleus
+hart et al 16.nucleus,YGR129W.nucleus
+hart et al 16.cytoplasm,YGR278W.cytoplasm
+hart et al 16.nucleus,YGR278W.nucleus
+hart et al 16.nucleus,YKL095W.nucleus
+hart et al 16.cytoplasm,YGL128C.cytoplasm
+hart et al 16.nucleus,YGL128C.nucleus
+hart et al 160.cytoplasm,YJR043C.cytoplasm
+hart et al 160.nucleus,YJR043C.nucleus
+hart et al 160.nucleus,YDL102W.nucleus
+hart et al 160.nucleus,YJR006W.nucleus
+hart et al 161.cytoplasm,YGR234W.cytoplasm
+hart et al 161.mitochondrion,YLR259C.mitochondrion
+hart et al 161.cytoplasm,YNL085W.cytoplasm
+hart et al 161.punctate composite,YNL085W.punctate composite
+hart et al 162.nuclear periphery,YKR082W.nuclear periphery
+hart et al 162.ER to Golgi,YDL195W.ER to Golgi
+hart et al 162.cytoplasm,YHL039W.cytoplasm
+hart et al 163.cytoplasm,YDR369C.cytoplasm
+hart et al 163.nucleus,YDR369C.nucleus
+hart et al 163.cytoplasm,YMR224C.cytoplasm
+hart et al 163.nucleus,YMR224C.nucleus
+hart et al 163.cytoplasm,YNL250W.cytoplasm
+hart et al 163.nucleus,YNL250W.nucleus
+hart et al 164.mitochondrion,YJL208C.mitochondrion
+hart et al 164.cytoplasm,YKR079C.cytoplasm
+hart et al 164.nucleus,YKR079C.nucleus
+hart et al 164.cytoplasm,YMR099C.cytoplasm
+hart et al 164.nucleus,YMR099C.nucleus
+hart et al 165.cell periphery,YLL010C.cell periphery
+hart et al 165.cell periphery,YOR043W.cell periphery
+hart et al 165.unknown,YLR019W.unknown
+hart et al 166.cytoplasm,YLR310C.cytoplasm
+hart et al 166.cytoplasm,YGL197W.cytoplasm
+hart et al 166.unknown,YBR225W.unknown
+hart et al 167.cytoplasm,YDL090C.cytoplasm
+hart et al 167.vacuole,YKL019W.vacuole
+hart et al 167.cytoplasm,YGL155W.cytoplasm
+hart et al 167.nucleus,YGL155W.nucleus
+hart et al 168.cytoplasm,YBR173C.cytoplasm
+hart et al 168.nucleus,YBR173C.nucleus
+hart et al 168.cytoplasm,YLR199C.cytoplasm
+hart et al 168.cytoplasm,YKL206C.cytoplasm
+hart et al 169.cytoplasm,YMR167W.cytoplasm
+hart et al 169.nucleus,YMR167W.nucleus
+hart et al 169.cytoplasm,YNL082W.cytoplasm
+hart et al 169.nucleus,YNL082W.nucleus
+hart et al 169.cytoplasm,YLR035C.cytoplasm
+hart et al 169.nucleus,YLR035C.nucleus
+hart et al 17.nucleus,YBR009C.nucleus
+hart et al 17.nucleus,YJL115W.nucleus
+hart et al 17.nucleus,YML069W.nucleus
+hart et al 17.nucleus,YGL207W.nucleus
+hart et al 17.unknown,YEL056W.unknown
+hart et al 17.nucleus,YLL022C.nucleus
+hart et al 17.unknown,YNL031C.unknown
+hart et al 17.nucleus,YNL206C.nucleus
+hart et al 17.unknown,YPL001W.unknown
+hart et al 17.cytoplasm,YDL156W.cytoplasm
+hart et al 17.nucleus,YDL156W.nucleus
+hart et al 17.nucleus,YNL030W.nucleus
+hart et al 17.nucleus,YMR106C.nucleus
+hart et al 17.cytoplasm,YMR284W.cytoplasm
+hart et al 17.nucleus,YMR284W.nucleus
+hart et al 17.nucleus,YMR076C.nucleus
+hart et al 17.nucleus,YOL054W.nucleus
+hart et al 170.cytoplasm,YAL024C.cytoplasm
+hart et al 170.bud neck,YHR158C.bud neck
+hart et al 170.cell periphery,YHR158C.cell periphery
+hart et al 170.bud,YHR158C.bud
+hart et al 170.cell periphery,YGR238C.cell periphery
+hart et al 170.bud,YGR238C.bud
+hart et al 171.vacuole,YDR225W.vacuole
+hart et al 171.punctate composite,YBL047C.punctate composite
+hart et al 171.bud neck,YCR030C.bud neck
+hart et al 171.cell periphery,YCR030C.cell periphery
+hart et al 171.punctate composite,YCR030C.punctate composite
+hart et al 172.nucleus,YDR101C.nucleus
+hart et al 172.cytoplasm,YER126C.cytoplasm
+hart et al 172.nucleus,YJL122W.nucleus
+hart et al 173.nucleus,YPL129W.nucleus
+hart et al 173.nucleus,YCR042C.nucleus
+hart et al 173.nucleus,YML114C.nucleus
+hart et al 174.early Golgi,YJL029C.early Golgi
+hart et al 174.punctate composite,YJL029C.punctate composite
+hart et al 174.early Golgi,YDR027C.early Golgi
+hart et al 174.punctate composite,YDR027C.punctate composite
+hart et al 174.punctate composite,YDR484W.punctate composite
+hart et al 175.cytoplasm,YDR361C.cytoplasm
+hart et al 175.nucleus,YDR361C.nucleus
+hart et al 175.cytoplasm,YPL208W.cytoplasm
+hart et al 175.nucleus,YPL208W.nucleus
+hart et al 175.nucleus,YER117W.nucleus
+hart et al 176.vacuolar membrane,YBR127C.vacuolar membrane
+hart et al 176.unknown,YDR202C.unknown
+hart et al 176.cytoplasm,YDR171W.cytoplasm
+hart et al 177.cytoplasm,YBL021C.cytoplasm
+hart et al 177.nucleus,YBL021C.nucleus
+hart et al 177.nucleus,YGL237C.nucleus
+hart et al 177.cytoplasm,YOR358W.cytoplasm
+hart et al 177.nucleus,YOR358W.nucleus
+hart et al 178.cytoplasm,YFR009W.cytoplasm
+hart et al 178.cytoplasm,YGL195W.cytoplasm
+hart et al 178.unknown,YKL104C.unknown
+hart et al 179.cytoplasm,YIR001C.cytoplasm
+hart et al 179.cytoplasm,YGR250C.cytoplasm
+hart et al 179.cytoplasm,YNL016W.cytoplasm
+hart et al 18.nucleus,YHR066W.nucleus
+hart et al 18.nucleolus,YHR066W.nucleolus
+hart et al 18.cytoplasm,YIL050W.cytoplasm
+hart et al 18.cytoplasm,YPL031C.cytoplasm
+hart et al 18.nucleus,YPL031C.nucleus
+hart et al 18.early Golgi,YDL145C.early Golgi
+hart et al 18.Golgi,YDL145C.Golgi
+hart et al 18.early Golgi,YDR238C.early Golgi
+hart et al 18.Golgi,YDR238C.Golgi
+hart et al 18.early Golgi,YGL137W.early Golgi
+hart et al 18.Golgi,YGL137W.Golgi
+hart et al 18.early Golgi,YIL076W.early Golgi
+hart et al 18.Golgi,YIL076W.Golgi
+hart et al 18.early Golgi,YNL287W.early Golgi
+hart et al 18.Golgi,YNL287W.Golgi
+hart et al 18.early Golgi,YFR051C.early Golgi
+hart et al 18.Golgi,YFR051C.Golgi
+hart et al 18.early Golgi,YER122C.early Golgi
+hart et al 18.Golgi,YER122C.Golgi
+hart et al 18.cytoplasm,YOL001W.cytoplasm
+hart et al 18.nucleus,YOL001W.nucleus
+hart et al 18.punctate composite,YPL010W.punctate composite
+hart et al 18.cytoplasm,YPL219W.cytoplasm
+hart et al 18.nucleus,YPL219W.nucleus
+hart et al 18.nucleus,YPR143W.nucleus
+hart et al 18.nucleolus,YPR143W.nucleolus
+hart et al 18.unknown,YPL088W.unknown
+hart et al 180.cytoplasm,YLR028C.cytoplasm
+hart et al 180.cytoplasm,YMR120C.cytoplasm
+hart et al 180.cytoplasm,YCR073W-A.cytoplasm
+hart et al 181.punctate composite,YGL156W.punctate composite
+hart et al 181.punctate composite,YOL082W.punctate composite
+hart et al 181.cytoplasm,YKL103C.cytoplasm
+hart et al 181.punctate composite,YKL103C.punctate composite
+hart et al 182.cytoplasm,YJR104C.cytoplasm
+hart et al 182.nucleus,YJR104C.nucleus
+hart et al 182.cytoplasm,YMR038C.cytoplasm
+hart et al 182.nucleus,YMR038C.nucleus
+hart et al 182.cytoplasm,YOL081W.cytoplasm
+hart et al 183.cytoplasm,YMR304W.cytoplasm
+hart et al 183.cytoplasm,YLR436C.cytoplasm
+hart et al 183.cytoplasm,YBR058C.cytoplasm
+hart et al 183.nucleus,YBR058C.nucleus
+hart et al 184.cytoplasm,YNR054C.cytoplasm
+hart et al 184.nucleolus,YNR054C.nucleolus
+hart et al 184.nucleus,YDR365C.nucleus
+hart et al 184.nucleolus,YDR365C.nucleolus
+hart et al 184.cytoplasm,YDR025W.cytoplasm
+hart et al 185.mitochondrion,YBL099W.mitochondrion
+hart et al 185.mitochondrion,YJR121W.mitochondrion
+hart et al 185.mitochondrion,YNL315C.mitochondrion
+hart et al 186.cytoplasm,YGR092W.cytoplasm
+hart et al 186.bud neck,YGR092W.bud neck
+hart et al 186.cytoplasm,YIL106W.cytoplasm
+hart et al 186.spindle pole,YIL106W.spindle pole
+hart et al 186.cytoplasm,YPR111W.cytoplasm
+hart et al 187.cytoplasm,YHR216W.cytoplasm
+hart et al 187.cytoplasm,YML056C.cytoplasm
+hart et al 187.cytoplasm,YLR432W.cytoplasm
+hart et al 188.unknown,YJR102C.unknown
+hart et al 188.cytoplasm,YLR417W.cytoplasm
+hart et al 188.unknown,YPL002C.unknown
+hart et al 189.unknown,YDR488C.unknown
+hart et al 189.mitochondrion,YBL064C.mitochondrion
+hart et al 189.ER,YDR424C.ER
+hart et al 19.cytoplasm,YAL035W.cytoplasm
+hart et al 19.cytoplasm,YBL072C.cytoplasm
+hart et al 19.cytoplasm,YBR079C.cytoplasm
+hart et al 19.cytoplasm,YDR429C.cytoplasm
+hart et al 19.cytoplasm,YLR192C.cytoplasm
+hart et al 19.unknown,YMR146C.unknown
+hart et al 19.cytoplasm,YMR309C.cytoplasm
+hart et al 19.unknown,YNL244C.unknown
+hart et al 19.cytoplasm,YOR361C.cytoplasm
+hart et al 19.cytoplasm,YPR041W.cytoplasm
+hart et al 19.cytoplasm,YER102W.cytoplasm
+hart et al 19.unknown,YOR204W.unknown
+hart et al 19.cytoplasm,YDR091C.cytoplasm
+hart et al 19.cytoplasm,YPL105C.cytoplasm
+hart et al 190.nucleus,YDR279W.nucleus
+hart et al 190.cytoplasm,YLR154C.cytoplasm
+hart et al 190.nucleus,YLR154C.nucleus
+hart et al 190.cytoplasm,YNL072W.cytoplasm
+hart et al 190.nucleus,YNL072W.nucleus
+hart et al 191.cytoplasm,YPL194W.cytoplasm
+hart et al 191.nucleus,YPL194W.nucleus
+hart et al 191.unknown,YLR288C.unknown
+hart et al 191.mitochondrion,YPL029W.mitochondrion
+hart et al 192.cytoplasm,YOR212W.cytoplasm
+hart et al 192.cell periphery,YHR005C.cell periphery
+hart et al 192.early Golgi,YDR264C.early Golgi
+hart et al 192.Golgi,YDR264C.Golgi
+hart et al 193.cytoplasm,YJL128C.cytoplasm
+hart et al 193.unknown,YDL006W.unknown
+hart et al 193.unknown,YDR162C.unknown
+hart et al 194.actin,YCR088W.actin
+hart et al 194.cytoplasm,YNL094W.cytoplasm
+hart et al 194.actin,YDR129C.actin
+hart et al 195.unknown,YNL075W.unknown
+hart et al 195.cytoplasm,YKL035W.cytoplasm
+hart et al 195.unknown,YGL242C.unknown
+hart et al 196.nucleus,YDL105W.nucleus
+hart et al 196.cytoplasm,YDR288W.cytoplasm
+hart et al 196.nucleus,YDR288W.nucleus
+hart et al 196.cytoplasm,YOL034W.cytoplasm
+hart et al 196.nucleus,YOL034W.nucleus
+hart et al 197.cytoplasm,YEL019C.cytoplasm
+hart et al 197.nucleus,YEL019C.nucleus
+hart et al 197.cytoplasm,YLR435W.cytoplasm
+hart et al 197.nucleus,YLR435W.nucleus
+hart et al 197.cytoplasm,YLR383W.cytoplasm
+hart et al 197.nucleus,YLR383W.nucleus
+hart et al 198.punctate composite,YEL005C.punctate composite
+hart et al 198.endosome,YGL079W.endosome
+hart et al 198.endosome,YNL086W.endosome
+hart et al 199.cytoplasm,YMR012W.cytoplasm
+hart et al 199.cytoplasm,YJL144W.cytoplasm
+hart et al 199.cytoplasm,YNL234W.cytoplasm
+hart et al 2.cytoplasm,YDR052C.cytoplasm
+hart et al 2.nucleus,YDR052C.nucleus
+hart et al 2.cytoplasm,YHR200W.cytoplasm
+hart et al 2.nucleus,YHR200W.nucleus
+hart et al 2.cytoplasm,YFR004W.cytoplasm
+hart et al 2.nucleus,YFR004W.nucleus
+hart et al 2.cytoplasm,YER021W.cytoplasm
+hart et al 2.nucleus,YER021W.nucleus
+hart et al 2.nucleus,YKL145W.nucleus
+hart et al 2.nucleus,YLR278C.nucleus
+hart et al 2.nucleus,YGL048C.nucleus
+hart et al 2.unknown,YDR394W.unknown
+hart et al 2.unknown,YDL007W.unknown
+hart et al 2.nucleus,YDR363W-A.nucleus
+hart et al 2.cytoplasm,YHR027C.cytoplasm
+hart et al 2.nucleus,YHR027C.nucleus
+hart et al 2.cytoplasm,YDL097C.cytoplasm
+hart et al 2.nucleus,YDL097C.nucleus
+hart et al 2.nucleus,YDR427W.nucleus
+hart et al 2.nucleus,YFR052W.nucleus
+hart et al 2.cytoplasm,YIL075C.cytoplasm
+hart et al 2.nucleus,YIL075C.nucleus
+hart et al 2.cytoplasm,YOR261C.cytoplasm
+hart et al 2.nucleus,YOR261C.nucleus
+hart et al 2.nucleus,YPR108W.nucleus
+hart et al 2.nucleus,YDL147W.nucleus
+hart et al 2.cytoplasm,YJL204C.cytoplasm
+hart et al 2.nucleus,YOR117W.nucleus
+hart et al 2.nucleus,YOR259C.nucleus
+hart et al 2.cytoplasm,YGR232W.cytoplasm
+hart et al 2.nucleus,YGR232W.nucleus
+hart et al 2.cytoplasm,YLR421C.cytoplasm
+hart et al 2.nucleus,YLR421C.nucleus
+hart et al 2.cytoplasm,YFR010W.cytoplasm
+hart et al 2.nucleus,YFR010W.nucleus
+hart et al 2.cytoplasm,YHL030W.cytoplasm
+hart et al 2.nucleus,YHL030W.nucleus
+hart et al 2.mitochondrion,YJR062C.mitochondrion
+hart et al 2.vacuole,YKL165C.vacuole
+hart et al 2.unknown,YLR359W.unknown
+hart et al 2.unknown,YJR120W.unknown
+hart et al 2.nucleus,YDR314C.nucleus
+hart et al 2.cytoplasm,YIL107C.cytoplasm
+hart et al 20.nucleus,YBR142W.nucleus
+hart et al 20.nucleolus,YBR142W.nucleolus
+hart et al 20.nucleus,YHR052W.nucleus
+hart et al 20.nucleolus,YHR052W.nucleolus
+hart et al 20.nucleus,YOR206W.nucleus
+hart et al 20.nucleolus,YOR206W.nucleolus
+hart et al 20.nucleus,YDR496C.nucleus
+hart et al 20.nucleolus,YDR496C.nucleolus
+hart et al 20.nucleus,YLR002C.nucleus
+hart et al 20.nucleolus,YLR002C.nucleolus
+hart et al 20.nucleus,YMR049C.nucleus
+hart et al 20.nucleolus,YMR049C.nucleolus
+hart et al 20.unknown,YMR290C.unknown
+hart et al 20.nucleus,YOR272W.nucleus
+hart et al 20.nucleolus,YOR272W.nucleolus
+hart et al 20.cytoplasm,YLL008W.cytoplasm
+hart et al 20.nucleus,YLL008W.nucleus
+hart et al 20.nucleolus,YLL008W.nucleolus
+hart et al 20.nucleolus,YMR229C.nucleolus
+hart et al 20.nucleus,YOL077C.nucleus
+hart et al 20.nucleolus,YOL077C.nucleolus
+hart et al 20.nucleus,YLR449W.nucleus
+hart et al 20.nucleolus,YLR449W.nucleolus
+hart et al 20.cytoplasm,YLR196W.cytoplasm
+hart et al 20.nucleus,YLR196W.nucleus
+hart et al 20.nucleolus,YLR196W.nucleolus
+hart et al 200.mitochondrion,YBL045C.mitochondrion
+hart et al 200.mitochondrion,YPR191W.mitochondrion
+hart et al 201.nucleus,YDR390C.nucleus
+hart et al 201.nucleus,YPR180W.nucleus
+hart et al 202.cytoplasm,YDL126C.cytoplasm
+hart et al 202.nucleus,YDL126C.nucleus
+hart et al 202.cytoplasm,YKL213C.cytoplasm
+hart et al 202.nucleus,YKL213C.nucleus
+hart et al 203.endosome,YJL036W.endosome
+hart et al 203.cytoplasm,YDR425W.cytoplasm
+hart et al 203.endosome,YDR425W.endosome
+hart et al 203.lipid particle,YDR425W.lipid particle
+hart et al 204.cytoplasm,YER165W.cytoplasm
+hart et al 204.nucleus,YPL178W.nucleus
+hart et al 205.cytoplasm,YIL046W.cytoplasm
+hart et al 205.nucleus,YIL046W.nucleus
+hart et al 205.nucleus,YNL103W.nucleus
+hart et al 206.nucleolus,YGL120C.nucleolus
+hart et al 206.cytoplasm,YKR022C.cytoplasm
+hart et al 206.nucleus,YKR022C.nucleus
+hart et al 206.ER,YKR022C.ER
+hart et al 207.nucleus,YMR239C.nucleus
+hart et al 207.nucleolus,YMR239C.nucleolus
+hart et al 207.nucleus,YJL050W.nucleus
+hart et al 207.nucleolus,YJL050W.nucleolus
+hart et al 208.unknown,YFL022C.unknown
+hart et al 208.cytoplasm,YLR060W.cytoplasm
+hart et al 209.cytoplasm,YML035C.cytoplasm
+hart et al 209.cytoplasm,YJL070C.cytoplasm
+hart et al 21.cytoplasm,YBL026W.cytoplasm
+hart et al 21.nucleus,YBL026W.nucleus
+hart et al 21.cytoplasm,YCR077C.cytoplasm
+hart et al 21.cytoplasm,YDL160C.cytoplasm
+hart et al 21.unknown,YDR378C.unknown
+hart et al 21.cytoplasm,YER112W.cytoplasm
+hart et al 21.nucleus,YER112W.nucleus
+hart et al 21.unknown,YER146W.unknown
+hart et al 21.cytoplasm,YGL173C.cytoplasm
+hart et al 21.cytoplasm,YJL124C.cytoplasm
+hart et al 21.cytoplasm,YLR438C-A.cytoplasm
+hart et al 21.nucleus,YLR438C-A.nucleus
+hart et al 21.cytoplasm,YMR268C.cytoplasm
+hart et al 21.nucleus,YMR268C.nucleus
+hart et al 21.cytoplasm,YNL147W.cytoplasm
+hart et al 21.cytoplasm,YDL065C.cytoplasm
+hart et al 21.unknown,YKL188C.unknown
+hart et al 210.nucleus,YDL074C.nucleus
+hart et al 210.nucleus,YPL055C.nucleus
+hart et al 211.unknown,YBR229C.unknown
+hart et al 211.ER,YDR221W.ER
+hart et al 212.unknown,YLR355C.unknown
+hart et al 212.cytoplasm,YPL225W.cytoplasm
+hart et al 213.cytoplasm,YDR152W.cytoplasm
+hart et al 213.cytoplasm,YGR173W.cytoplasm
+hart et al 214.nucleus,YDL201W.nucleus
+hart et al 214.nucleus,YDR165W.nucleus
+hart et al 215.nucleus,YMR240C.nucleus
+hart et al 215.mitochondrion,YLR382C.mitochondrion
+hart et al 216.cytoplasm,YJR014W.cytoplasm
+hart et al 216.cytoplasm,YER007C-A.cytoplasm
+hart et al 217.mitochondrion,YHR024C.mitochondrion
+hart et al 217.mitochondrion,YLR163C.mitochondrion
+hart et al 218.cytoplasm,YDR353W.cytoplasm
+hart et al 218.nucleus,YDR353W.nucleus
+hart et al 218.mitochondrion,YHR106W.mitochondrion
+hart et al 219.cytoplasm,YNL104C.cytoplasm
+hart et al 219.mitochondrion,YNL104C.mitochondrion
+hart et al 219.mitochondrion,YOR108W.mitochondrion
+hart et al 22.cytoplasm,YNL330C.cytoplasm
+hart et al 22.nucleus,YNL330C.nucleus
+hart et al 22.nucleus,YPL181W.nucleus
+hart et al 22.nucleus,YDR207C.nucleus
+hart et al 22.mitochondrion,YOL004W.mitochondrion
+hart et al 22.nucleus,YIL084C.nucleus
+hart et al 22.nucleus,YNL097C.nucleus
+hart et al 22.nucleus,YMR263W.nucleus
+hart et al 22.cytoplasm,YPL139C.cytoplasm
+hart et al 22.nucleus,YPL139C.nucleus
+hart et al 22.nucleus,YMR075W.nucleus
+hart et al 22.nucleus,YDL076C.nucleus
+hart et al 22.unknown,YAL013W.unknown
+hart et al 22.nucleus,YBR095C.nucleus
+hart et al 220.cytoplasm,YOL076W.cytoplasm
+hart et al 220.cytoplasm,YPR131C.cytoplasm
+hart et al 221.cytoplasm,YER081W.cytoplasm
+hart et al 221.cytoplasm,YIL074C.cytoplasm
+hart et al 222.cytoplasm,YDR001C.cytoplasm
+hart et al 222.cytoplasm,YBR001C.cytoplasm
+hart et al 222.mitochondrion,YBR001C.mitochondrion
+hart et al 223.cytoplasm,YOR014W.cytoplasm
+hart et al 223.nucleus,YOR014W.nucleus
+hart et al 223.cytoplasm,YPL152W.cytoplasm
+hart et al 224.nucleus,YPL228W.nucleus
+hart et al 224.cytoplasm,YGL130W.cytoplasm
+hart et al 224.nucleus,YGL130W.nucleus
+hart et al 225.endosome,YHL002W.endosome
+hart et al 225.endosome,YNR006W.endosome
+hart et al 226.cytoplasm,YLR270W.cytoplasm
+hart et al 226.nucleus,YLR270W.nucleus
+hart et al 226.cytoplasm,YOR173W.cytoplasm
+hart et al 227.mitochondrion,YGR244C.mitochondrion
+hart et al 227.mitochondrion,YOR142W.mitochondrion
+hart et al 228.cytoplasm,YPL198W.cytoplasm
+hart et al 228.nucleolus,YPL198W.nucleolus
+hart et al 228.cytoplasm,YGL076C.cytoplasm
+hart et al 229.nucleus,YDR432W.nucleus
+hart et al 229.cytoplasm,YGL049C.cytoplasm
+hart et al 23.cytoplasm,YBL084C.cytoplasm
+hart et al 23.nucleus,YBL084C.nucleus
+hart et al 23.cytoplasm,YDR118W.cytoplasm
+hart et al 23.nucleus,YDR118W.nucleus
+hart et al 23.unknown,YDR260C.unknown
+hart et al 23.nucleus,YFR036W.nucleus
+hart et al 23.cytoplasm,YGL240W.cytoplasm
+hart et al 23.nucleus,YGL240W.nucleus
+hart et al 23.nucleus,YHR166C.nucleus
+hart et al 23.unknown,YIR025W.unknown
+hart et al 23.nucleus,YKL022C.nucleus
+hart et al 23.cytoplasm,YLR127C.cytoplasm
+hart et al 23.nucleus,YLR127C.nucleus
+hart et al 23.cytoplasm,YNL172W.cytoplasm
+hart et al 23.nucleus,YNL172W.nucleus
+hart et al 23.spindle pole,YNL172W.spindle pole
+hart et al 23.nucleus,YOR249C.nucleus
+hart et al 23.cytoplasm,YLR102C.cytoplasm
+hart et al 23.nucleus,YLR102C.nucleus
+hart et al 230.cytoplasm,YLR113W.cytoplasm
+hart et al 230.cytoplasm,YLR248W.cytoplasm
+hart et al 231.cytoplasm,YER090W.cytoplasm
+hart et al 231.cytoplasm,YKL211C.cytoplasm
+hart et al 232.nucleus,YNL062C.nucleus
+hart et al 232.nucleus,YJL125C.nucleus
+hart et al 233.cytoplasm,YKL025C.cytoplasm
+hart et al 233.cytoplasm,YGL094C.cytoplasm
+hart et al 234.unknown,YPL023C.unknown
+hart et al 234.cytoplasm,YGL125W.cytoplasm
+hart et al 234.nucleus,YGL125W.nucleus
+hart et al 235.nucleus,YLL002W.nucleus
+hart et al 235.nucleus,YNL246W.nucleus
+hart et al 236.unknown,YNL242W.unknown
+hart et al 236.unknown,YFR021W.unknown
+hart et al 237.cytoplasm,YJL155C.cytoplasm
+hart et al 237.cytoplasm,YLR345W.cytoplasm
+hart et al 238.vacuolar membrane,YLR447C.vacuolar membrane
+hart et al 238.vacuolar membrane,YOR270C.vacuolar membrane
+hart et al 239.cytoplasm,YBR260C.cytoplasm
+hart et al 239.bud neck,YBR260C.bud neck
+hart et al 239.bud,YBR260C.bud
+hart et al 239.unknown,YGR196C.unknown
+hart et al 24.nucleus,YDR318W.nucleus
+hart et al 24.spindle pole,YDR318W.spindle pole
+hart et al 24.nucleus,YPR046W.nucleus
+hart et al 24.nucleus,YBR107C.nucleus
+hart et al 24.spindle pole,YBR107C.spindle pole
+hart et al 24.spindle pole,YBR211C.spindle pole
+hart et al 24.microtubule,YDR254W.microtubule
+hart et al 24.spindle pole,YGR179C.spindle pole
+hart et al 24.spindle pole,YPL018W.spindle pole
+hart et al 24.unknown,YGR006W.unknown
+hart et al 24.spindle pole,YLR381W.spindle pole
+hart et al 24.unknown,YDR383C.unknown
+hart et al 24.spindle pole,YLR315W.spindle pole
+hart et al 24.nucleus,YJR135C.nucleus
+hart et al 24.spindle pole,YJR135C.spindle pole
+hart et al 240.cytoplasm,YNR046W.cytoplasm
+hart et al 240.nucleus,YNR046W.nucleus
+hart et al 240.cytoplasm,YOL124C.cytoplasm
+hart et al 241.nucleolus,YGR283C.nucleolus
+hart et al 241.nucleus,YMR310C.nucleus
+hart et al 242.early Golgi,YDL192W.early Golgi
+hart et al 242.late Golgi,YDL192W.late Golgi
+hart et al 242.punctate composite,YDL192W.punctate composite
+hart et al 242.early Golgi,YDL137W.early Golgi
+hart et al 242.late Golgi,YDL137W.late Golgi
+hart et al 243.cytoplasm,YHR102W.cytoplasm
+hart et al 243.cytoplasm,YOR353C.cytoplasm
+hart et al 244.cytoplasm,YJR109C.cytoplasm
+hart et al 244.cytoplasm,YOR303W.cytoplasm
+hart et al 245.cytoplasm,YLR362W.cytoplasm
+hart et al 245.cytoplasm,YCL032W.cytoplasm
+hart et al 246.cytoplasm,YMR308C.cytoplasm
+hart et al 246.nucleus,YMR308C.nucleus
+hart et al 246.nucleus,YHR152W.nucleus
+hart et al 247.cytoplasm,YKL210W.cytoplasm
+hart et al 247.nucleus,YKL210W.nucleus
+hart et al 247.unknown,YDR415C.unknown
+hart et al 248.early Golgi,YNL238W.early Golgi
+hart et al 248.punctate composite,YNL238W.punctate composite
+hart et al 248.unknown,YOL031C.unknown
+hart et al 249.cytoplasm,YBR125C.cytoplasm
+hart et al 249.cytoplasm,YDR186C.cytoplasm
+hart et al 25.late Golgi,YBR254C.late Golgi
+hart et al 25.cytoplasm,YDR108W.cytoplasm
+hart et al 25.late Golgi,YDR246W.late Golgi
+hart et al 25.late Golgi,YDR407C.late Golgi
+hart et al 25.late Golgi,YDR472W.late Golgi
+hart et al 25.punctate composite,YGR166W.punctate composite
+hart et al 25.late Golgi,YKR068C.late Golgi
+hart et al 25.unknown,YML077W.unknown
+hart et al 25.late Golgi,YMR218C.late Golgi
+hart et al 25.punctate composite,YOR115C.punctate composite
+hart et al 25.unknown,YCR014C.unknown
+hart et al 25.late Golgi,YJL044C.late Golgi
+hart et al 250.cytoplasm,YGL058W.cytoplasm
+hart et al 250.nucleus,YGL058W.nucleus
+hart et al 250.unknown,YCR066W.unknown
+hart et al 251.nucleolus,YDR060W.nucleolus
+hart et al 251.unknown,YOL120C.unknown
+hart et al 252.cytoplasm,YLR244C.cytoplasm
+hart et al 252.nucleus,YLR244C.nucleus
+hart et al 252.nucleus,YBR030W.nucleus
+hart et al 253.cytoplasm,YMR079W.cytoplasm
+hart et al 253.nucleus,YMR079W.nucleus
+hart et al 253.unknown,YHR076W.unknown
+hart et al 254.endosome,YKL061W.endosome
+hart et al 254.punctate composite,YDR357C.punctate composite
+hart et al 255.mitochondrion,YCR079W.mitochondrion
+hart et al 255.cytoplasm,YOR323C.cytoplasm
+hart et al 255.nucleus,YOR323C.nucleus
+hart et al 256.cytoplasm,YLL026W.cytoplasm
+hart et al 256.cytoplasm,YKL215C.cytoplasm
+hart et al 257.mitochondrion,YER017C.mitochondrion
+hart et al 257.mitochondrion,YMR089C.mitochondrion
+hart et al 258.cytoplasm,YPR145W.cytoplasm
+hart et al 258.cytoplasm,YGR124W.cytoplasm
+hart et al 259.nucleus,YKL058W.nucleus
+hart et al 259.unknown,YOR194C.unknown
+hart et al 26.unknown,YPL237W.unknown
+hart et al 26.cytoplasm,YDR211W.cytoplasm
+hart et al 26.cytoplasm,YGR083C.cytoplasm
+hart et al 26.cytoplasm,YJR007W.cytoplasm
+hart et al 26.cytoplasm,YKR026C.cytoplasm
+hart et al 26.cytoplasm,YLR291C.cytoplasm
+hart et al 26.punctate composite,YLR291C.punctate composite
+hart et al 26.cytoplasm,YOR260W.cytoplasm
+hart et al 26.cytoplasm,YER025W.cytoplasm
+hart et al 26.cytoplasm,YLR215C.cytoplasm
+hart et al 26.cytoplasm,YIR026C.cytoplasm
+hart et al 26.mitochondrion,YMR257C.mitochondrion
+hart et al 260.cytoplasm,YML085C.cytoplasm
+hart et al 260.spindle pole,YML085C.spindle pole
+hart et al 260.punctate composite,YML085C.punctate composite
+hart et al 260.microtubule,YML085C.microtubule
+hart et al 260.unknown,YFL037W.unknown
+hart et al 261.cytoplasm,YER151C.cytoplasm
+hart et al 261.cytoplasm,YNR051C.cytoplasm
+hart et al 262.cytoplasm,YKL074C.cytoplasm
+hart et al 262.nucleus,YKL074C.nucleus
+hart et al 262.nucleus,YLR116W.nucleus
+hart et al 263.cytoplasm,YLR146C.cytoplasm
+hart et al 263.cytoplasm,YPR069C.cytoplasm
+hart et al 263.nucleus,YPR069C.nucleus
+hart et al 264.cytoplasm,YHR193C.cytoplasm
+hart et al 264.cytoplasm,YPL037C.cytoplasm
+hart et al 265.nucleus,YPR161C.nucleus
+hart et al 265.nucleus,YLR226W.nucleus
+hart et al 266.unknown,YBL050W.unknown
+hart et al 266.unknown,YKL196C.unknown
+hart et al 267.late Golgi,YGL206C.late Golgi
+hart et al 267.late Golgi,YGR167W.late Golgi
+hart et al 268.cytoplasm,YBL103C.cytoplasm
+hart et al 268.nucleus,YBL103C.nucleus
+hart et al 268.cytoplasm,YOL067C.cytoplasm
+hart et al 268.nucleus,YOL067C.nucleus
+hart et al 269.unknown,YLL021W.unknown
+hart et al 269.cell periphery,YER149C.cell periphery
+hart et al 269.bud,YER149C.bud
+hart et al 27.cytoplasm,YGL252C.cytoplasm
+hart et al 27.cytoplasm,YDR054C.cytoplasm
+hart et al 27.nucleus,YDR054C.nucleus
+hart et al 27.unknown,YJR090C.unknown
+hart et al 27.cytoplasm,YJL047C.cytoplasm
+hart et al 27.nucleus,YJL047C.nucleus
+hart et al 27.unknown,YLR320W.unknown
+hart et al 27.unknown,YOL063C.unknown
+hart et al 27.mitochondrion,YGL143C.mitochondrion
+hart et al 27.nucleus,YDL164C.nucleus
+hart et al 27.mitochondrion,YDL164C.mitochondrion
+hart et al 27.cytoplasm,YDL215C.cytoplasm
+hart et al 27.nucleus,YHR154W.nucleus
+hart et al 270.nuclear periphery,YGL086W.nuclear periphery
+hart et al 270.cytoplasm,YJL030W.cytoplasm
+hart et al 270.nucleus,YJL030W.nucleus
+hart et al 271.mitochondrion,YGL187C.mitochondrion
+hart et al 271.mitochondrion,YNL052W.mitochondrion
+hart et al 272.unknown,YPL003W.unknown
+hart et al 272.cytoplasm,YPR066W.cytoplasm
+hart et al 272.punctate composite,YPR066W.punctate composite
+hart et al 273.cytoplasm,YHR204W.cytoplasm
+hart et al 273.vacuole,YCL043C.vacuole
+hart et al 274.cytoplasm,YJL180C.cytoplasm
+hart et al 274.mitochondrion,YIL098C.mitochondrion
+hart et al 275.nucleus,YBL052C.nucleus
+hart et al 275.cytoplasm,YPR031W.cytoplasm
+hart et al 275.nucleus,YPR031W.nucleus
+hart et al 276.unknown,YPR048W.unknown
+hart et al 276.cytoplasm,YKR071C.cytoplasm
+hart et al 277.cytoplasm,YLR216C.cytoplasm
+hart et al 277.cytoplasm,YHR074W.cytoplasm
+hart et al 277.nucleus,YHR074W.nucleus
+hart et al 278.cytoplasm,YNL154C.cytoplasm
+hart et al 278.nucleus,YNL154C.nucleus
+hart et al 278.cytoplasm,YHR135C.cytoplasm
+hart et al 278.nucleus,YHR135C.nucleus
+hart et al 279.nucleus,YBR112C.nucleus
+hart et al 279.nucleus,YCR084C.nucleus
+hart et al 28.cytoplasm,YGL253W.cytoplasm
+hart et al 28.nucleus,YDR138W.nucleus
+hart et al 28.nucleus,YCL011C.nucleus
+hart et al 28.nucleus,YDL084W.nucleus
+hart et al 28.nucleus,YDR381W.nucleus
+hart et al 28.cytoplasm,YHR167W.cytoplasm
+hart et al 28.nucleus,YHR167W.nucleus
+hart et al 28.nucleus,YML062C.nucleus
+hart et al 28.nucleus,YNL004W.nucleus
+hart et al 28.nucleus,YNL139C.nucleus
+hart et al 28.unknown,YNL253W.unknown
+hart et al 280.cytoplasm,YGR010W.cytoplasm
+hart et al 280.nucleus,YGR010W.nucleus
+hart et al 280.cytoplasm,YLR328W.cytoplasm
+hart et al 280.nucleus,YLR328W.nucleus
+hart et al 281.nucleus,YNR053C.nucleus
+hart et al 281.nucleus,YLR074C.nucleus
+hart et al 281.ER,YLR074C.ER
+hart et al 282.early Golgi,YNL297C.early Golgi
+hart et al 282.punctate composite,YNL297C.punctate composite
+hart et al 282.early Golgi,YDR141C.early Golgi
+hart et al 282.punctate composite,YDR141C.punctate composite
+hart et al 283.cytoplasm,YNL161W.cytoplasm
+hart et al 283.bud neck,YNL161W.bud neck
+hart et al 283.cytoplasm,YFL034C-B.cytoplasm
+hart et al 283.cell periphery,YFL034C-B.cell periphery
+hart et al 284.cytoplasm,YBL014C.cytoplasm
+hart et al 284.nucleolus,YBL014C.nucleolus
+hart et al 284.nucleolus,YJL025W.nucleolus
+hart et al 285.spindle pole,YML064C.spindle pole
+hart et al 285.punctate composite,YML064C.punctate composite
+hart et al 285.spindle pole,YJR053W.spindle pole
+hart et al 286.cytoplasm,YHR034C.cytoplasm
+hart et al 286.nucleus,YHR034C.nucleus
+hart et al 286.cytoplasm,YCR060W.cytoplasm
+hart et al 286.nucleus,YCR060W.nucleus
+hart et al 287.nucleus,YNL273W.nucleus
+hart et al 287.nucleus,YMR048W.nucleus
+hart et al 288.cytoplasm,YBR082C.cytoplasm
+hart et al 288.nucleus,YBR082C.nucleus
+hart et al 288.cytoplasm,YKL010C.cytoplasm
+hart et al 288.nucleus,YKL010C.nucleus
+hart et al 289.unknown,YBR280C.unknown
+hart et al 289.cytoplasm,YNL141W.cytoplasm
+hart et al 289.nucleus,YNL141W.nucleus
+hart et al 29.nucleus,YBR103W.nucleus
+hart et al 29.nucleus,YCR033W.nucleus
+hart et al 29.cytoplasm,YGL194C.cytoplasm
+hart et al 29.nucleus,YGL194C.nucleus
+hart et al 29.nucleus,YIL112W.nucleus
+hart et al 29.nucleus,YKR029C.nucleus
+hart et al 29.unknown,YGR296W.unknown
+hart et al 29.ER,YHR042W.ER
+hart et al 29.cytoplasm,YDL112W.cytoplasm
+hart et al 29.unknown,YEL064C.unknown
+hart et al 29.unknown,YMR155W.unknown
+hart et al 290.mitochondrion,YCL017C.mitochondrion
+hart et al 290.mitochondrion,YER048W-A.mitochondrion
+hart et al 291.cytoplasm,YNL098C.cytoplasm
+hart et al 291.nucleus,YNL098C.nucleus
+hart et al 291.cytoplasm,YOR101W.cytoplasm
+hart et al 291.nucleus,YOR101W.nucleus
+hart et al 292.nucleus,YBR188C.nucleus
+hart et al 292.cytoplasm,YJR050W.cytoplasm
+hart et al 292.nucleus,YJR050W.nucleus
+hart et al 293.endosome,YBR131W.endosome
+hart et al 293.late Golgi,YGL124C.late Golgi
+hart et al 294.cytoplasm,YOL087C.cytoplasm
+hart et al 294.unknown,YBL067C.unknown
+hart et al 295.mitochondrion,YBR268W.mitochondrion
+hart et al 295.mitochondrion,YNL185C.mitochondrion
+hart et al 296.nucleus,YCL016C.nucleus
+hart et al 296.unknown,YHR191C.unknown
+hart et al 297.vacuole,YLR386W.vacuole
+hart et al 297.unknown,YNL325C.unknown
+hart et al 298.nucleus,YLR354C.nucleus
+hart et al 298.nucleus,YGR043C.nucleus
+hart et al 299.unknown,YDR292C.unknown
+hart et al 299.ER,YKL154W.ER
+hart et al 3.mitochondrion,YBL090W.mitochondrion
+hart et al 3.mitochondrion,YHL004W.mitochondrion
+hart et al 3.unknown,YBR146W.unknown
+hart et al 3.mitochondrion,YBR251W.mitochondrion
+hart et al 3.mitochondrion,YDR041W.mitochondrion
+hart et al 3.mitochondrion,YJR113C.mitochondrion
+hart et al 3.mitochondrion,YKL155C.mitochondrion
+hart et al 3.mitochondrion,YNL306W.mitochondrion
+hart et al 3.unknown,YNR037C.unknown
+hart et al 3.mitochondrion,YMR188C.mitochondrion
+hart et al 3.mitochondrion,YDR175C.mitochondrion
+hart et al 3.mitochondrion,YDR337W.mitochondrion
+hart et al 3.mitochondrion,YDR347W.mitochondrion
+hart et al 3.unknown,YER050C.unknown
+hart et al 3.mitochondrion,YGL129C.mitochondrion
+hart et al 3.mitochondrion,YGR084C.mitochondrion
+hart et al 3.mitochondrion,YGR215W.mitochondrion
+hart et al 3.mitochondrion,YIL093C.mitochondrion
+hart et al 3.mitochondrion,YJR101W.mitochondrion
+hart et al 3.unknown,YMR158W.unknown
+hart et al 3.mitochondrion,YNL137C.mitochondrion
+hart et al 3.mitochondrion,YOR158W.mitochondrion
+hart et al 3.mitochondrion,YDR036C.mitochondrion
+hart et al 3.mitochondrion,YDL045W-A.mitochondrion
+hart et al 3.mitochondrion,YPL013C.mitochondrion
+hart et al 3.mitochondrion,YPL118W.mitochondrion
+hart et al 3.mitochondrion,YGR165W.mitochondrion
+hart et al 3.mitochondrion,YHR059W.mitochondrion
+hart et al 30.nucleus,YGR103W.nucleus
+hart et al 30.nucleolus,YGR103W.nucleolus
+hart et al 30.nucleus,YPL093W.nucleus
+hart et al 30.nucleus,YER006W.nucleus
+hart et al 30.nucleolus,YER006W.nucleolus
+hart et al 30.nucleus,YNL061W.nucleus
+hart et al 30.nucleolus,YNL061W.nucleolus
+hart et al 30.nucleus,YKL009W.nucleus
+hart et al 30.nucleolus,YKL009W.nucleolus
+hart et al 30.unknown,YNL002C.unknown
+hart et al 30.nucleus,YPR016C.nucleus
+hart et al 30.nucleolus,YPR016C.nucleolus
+hart et al 30.unknown,YKL172W.unknown
+hart et al 30.nucleus,YNL110C.nucleus
+hart et al 30.nucleolus,YNL110C.nucleolus
+hart et al 30.nucleus,YKR081C.nucleus
+hart et al 30.nucleolus,YKR081C.nucleolus
+hart et al 300.punctate composite,YGR130C.punctate composite
+hart et al 300.punctate composite,YMR031C.punctate composite
+hart et al 301.nucleolus,YOL144W.nucleolus
+hart et al 301.nucleolus,YLR221C.nucleolus
+hart et al 302.unknown,YLR340W.unknown
+hart et al 302.cytoplasm,YLR287C.cytoplasm
+hart et al 303.cytoplasm,YJR052W.cytoplasm
+hart et al 303.nucleus,YJR052W.nucleus
+hart et al 303.cytoplasm,YPL046C.cytoplasm
+hart et al 303.nucleus,YPL046C.nucleus
+hart et al 304.nuclear periphery,YBL079W.nuclear periphery
+hart et al 304.nuclear periphery,YMR153W.nuclear periphery
+hart et al 305.nucleus,YBR194W.nucleus
+hart et al 305.nucleus,YPR152C.nucleus
+hart et al 306.mitochondrion,YNL037C.mitochondrion
+hart et al 306.mitochondrion,YOR136W.mitochondrion
+hart et al 307.cytoplasm,YCL030C.cytoplasm
+hart et al 307.cytoplasm,YGR052W.cytoplasm
+hart et al 307.nucleus,YGR052W.nucleus
+hart et al 308.cytoplasm,YMR169C.cytoplasm
+hart et al 308.cytoplasm,YMR170C.cytoplasm
+hart et al 308.nucleus,YMR170C.nucleus
+hart et al 309.cytoplasm,YLR319C.cytoplasm
+hart et al 309.bud neck,YLR319C.bud neck
+hart et al 309.cell periphery,YLR319C.cell periphery
+hart et al 309.cytoplasm,YOR304C-A.cytoplasm
+hart et al 309.bud neck,YOR304C-A.bud neck
+hart et al 309.cell periphery,YOR304C-A.cell periphery
+hart et al 309.bud,YOR304C-A.bud
+hart et al 31.unknown,YOL086C.unknown
+hart et al 31.cytoplasm,YCR012W.cytoplasm
+hart et al 31.nucleus,YCR012W.nucleus
+hart et al 31.cytoplasm,YGR192C.cytoplasm
+hart et al 31.nucleus,YGR192C.nucleus
+hart et al 31.cytoplasm,YKL060C.cytoplasm
+hart et al 31.cytoplasm,YLR044C.cytoplasm
+hart et al 31.nucleus,YLR044C.nucleus
+hart et al 31.cytoplasm,YKL152C.cytoplasm
+hart et al 31.cytoplasm,YMR303C.cytoplasm
+hart et al 31.cytoplasm,YBR196C.cytoplasm
+hart et al 31.cytoplasm,YGR254W.cytoplasm
+hart et al 31.cytoplasm,YHR174W.cytoplasm
+hart et al 310.punctate composite,YIR006C.punctate composite
+hart et al 310.punctate composite,YNL084C.punctate composite
+hart et al 311.cytoplasm,YFR024C-A.cytoplasm
+hart et al 311.mitochondrion,YFR024C-A.mitochondrion
+hart et al 311.bud neck,YFR024C-A.bud neck
+hart et al 311.cell periphery,YFR024C-A.cell periphery
+hart et al 311.punctate composite,YNL243W.punctate composite
+hart et al 312.nucleus,YIL143C.nucleus
+hart et al 312.cytoplasm,YOR352W.cytoplasm
+hart et al 312.nucleus,YOR352W.nucleus
+hart et al 313.nucleus,YDR310C.nucleus
+hart et al 313.cytoplasm,YOR279C.cytoplasm
+hart et al 313.nucleus,YOR279C.nucleus
+hart et al 314.cytoplasm,YDR098C.cytoplasm
+hart et al 314.nucleus,YDR098C.nucleus
+hart et al 314.cytoplasm,YER174C.cytoplasm
+hart et al 314.nucleus,YER174C.nucleus
+hart et al 315.cytoplasm,YJR148W.cytoplasm
+hart et al 315.nucleus,YJR148W.nucleus
+hart et al 315.vacuolar membrane,YLL048C.vacuolar membrane
+hart et al 316.cytoplasm,YEL022W.cytoplasm
+hart et al 316.early Golgi,YEL022W.early Golgi
+hart et al 316.nucleus,YGR218W.nucleus
+hart et al 317.nucleus,YBR088C.nucleus
+hart et al 317.nucleus,YKL113C.nucleus
+hart et al 318.nucleolus,YKL014C.nucleolus
+hart et al 318.nucleolus,YJR041C.nucleolus
+hart et al 319.cytoplasm,YDR507C.cytoplasm
+hart et al 319.bud neck,YDR507C.bud neck
+hart et al 319.bud,YDR507C.bud
+hart et al 319.bud neck,YCL024W.bud neck
+hart et al 319.cell periphery,YCL024W.cell periphery
+hart et al 319.bud,YCL024W.bud
+hart et al 32.cytoplasm,YBL007C.cytoplasm
+hart et al 32.actin,YBL007C.actin
+hart et al 32.actin,YOR181W.actin
+hart et al 32.actin,YDR388W.actin
+hart et al 32.endosome,YBL017C.endosome
+hart et al 32.punctate composite,YBL017C.punctate composite
+hart et al 32.actin,YHR114W.actin
+hart et al 32.punctate composite,YLR337C.punctate composite
+hart et al 32.actin,YLR337C.actin
+hart et al 32.cytoplasm,YIR012W.cytoplasm
+hart et al 32.nucleus,YIR012W.nucleus
+hart et al 32.unknown,YLR081W.unknown
+hart et al 32.mitochondrion,YMR241W.mitochondrion
+hart et al 32.unknown,YNR065C.unknown
+hart et al 320.unknown,YMR197C.unknown
+hart et al 320.unknown,YOR036W.unknown
+hart et al 321.ER,YEL002C.ER
+hart et al 321.ER,YMR149W.ER
+hart et al 322.unknown,YAL062W.unknown
+hart et al 322.cytoplasm,YOR375C.cytoplasm
+hart et al 322.nucleus,YOR375C.nucleus
+hart et al 323.bud neck,YHR023W.bud neck
+hart et al 323.bud neck,YPR188C.bud neck
+hart et al 324.endosome,YLR025W.endosome
+hart et al 324.endosome,YPR173C.endosome
+hart et al 325.cytoplasm,YKL182W.cytoplasm
+hart et al 325.cytoplasm,YPL231W.cytoplasm
+hart et al 326.cytoplasm,YDR017C.cytoplasm
+hart et al 326.cytoplasm,YNL267W.cytoplasm
+hart et al 327.ER,YGL022W.ER
+hart et al 327.ER,YJL002C.ER
+hart et al 328.cytoplasm,YDR395W.cytoplasm
+hart et al 328.nucleus,YDR395W.nucleus
+hart et al 328.nucleus,YAL059W.nucleus
+hart et al 329.mitochondrion,YDR298C.mitochondrion
+hart et al 329.mitochondrion,YKL016C.mitochondrion
+hart et al 33.cytoplasm,YAL029C.cytoplasm
+hart et al 33.bud neck,YAL029C.bud neck
+hart et al 33.cell periphery,YAL029C.cell periphery
+hart et al 33.bud,YAL029C.bud
+hart et al 33.bud neck,YBR109C.bud neck
+hart et al 33.cell periphery,YBR109C.cell periphery
+hart et al 33.bud,YBR109C.bud
+hart et al 33.cytoplasm,YBR130C.cytoplasm
+hart et al 33.cell periphery,YBR130C.cell periphery
+hart et al 33.bud,YBR130C.bud
+hart et al 33.cytoplasm,YKL130C.cytoplasm
+hart et al 33.nucleus,YKL130C.nucleus
+hart et al 33.cytoplasm,YOR035C.cytoplasm
+hart et al 33.actin,YMR109W.actin
+hart et al 33.cytoplasm,YOR326W.cytoplasm
+hart et al 33.bud neck,YOR326W.bud neck
+hart et al 33.cell periphery,YOR326W.cell periphery
+hart et al 33.bud,YOR326W.bud
+hart et al 33.cytoplasm,YKL129C.cytoplasm
+hart et al 33.actin,YKL129C.actin
+hart et al 33.actin,YLR429W.actin
+hart et al 33.unknown,YGL106W.unknown
+hart et al 330.unknown,YOR145C.unknown
+hart et al 330.unknown,YPL266W.unknown
+hart et al 331.cytoplasm,YOR281C.cytoplasm
+hart et al 331.unknown,YJL111W.unknown
+hart et al 332.mitochondrion,YDL044C.mitochondrion
+hart et al 332.mitochondrion,YLR139C.mitochondrion
+hart et al 333.unknown,YAL042W.unknown
+hart et al 333.ER,YML067C.ER
+hart et al 334.cytoplasm,YBR267W.cytoplasm
+hart et al 334.cytoplasm,YHR170W.cytoplasm
+hart et al 335.cytoplasm,YOR091W.cytoplasm
+hart et al 335.cytoplasm,YAL036C.cytoplasm
+hart et al 336.nuclear periphery,YHL020C.nuclear periphery
+hart et al 336.ER,YER120W.ER
+hart et al 337.cytoplasm,YNL308C.cytoplasm
+hart et al 337.nucleolus,YNL308C.nucleolus
+hart et al 337.nucleolus,YLR175W.nucleolus
+hart et al 338.cytoplasm,YAL017W.cytoplasm
+hart et al 338.cytoplasm,YOL045W.cytoplasm
+hart et al 339.mitochondrion,YML091C.mitochondrion
+hart et al 339.unknown,YJL023C.unknown
+hart et al 34.nucleus,YAR007C.nucleus
+hart et al 34.unknown,YBR136W.unknown
+hart et al 34.nucleus,YHR164C.nucleus
+hart et al 34.nucleus,YJL173C.nucleus
+hart et al 34.nucleus,YML032C.nucleus
+hart et al 34.nucleus,YNL312W.nucleus
+hart et al 34.cytoplasm,YER095W.cytoplasm
+hart et al 34.nucleus,YER095W.nucleus
+hart et al 34.cytoplasm,YHL027W.cytoplasm
+hart et al 34.cytoplasm,YER104W.cytoplasm
+hart et al 34.nucleus,YER104W.nucleus
+hart et al 340.unknown,YJR045C.unknown
+hart et al 340.mitochondrion,YLR203C.mitochondrion
+hart et al 341.nucleus,YGR116W.nucleus
+hart et al 341.unknown,YPR133C.unknown
+hart et al 342.unknown,YMR203W.unknown
+hart et al 342.mitochondrion,YJL066C.mitochondrion
+hart et al 343.cytoplasm,YDL165W.cytoplasm
+hart et al 343.cytoplasm,YPR072W.cytoplasm
+hart et al 344.unknown,YOR054C.unknown
+hart et al 344.unknown,YDR436W.unknown
+hart et al 345.cytoplasm,YNL247W.cytoplasm
+hart et al 345.cytoplasm,YBL036C.cytoplasm
+hart et al 345.nucleus,YBL036C.nucleus
+hart et al 346.cytoplasm,YBR061C.cytoplasm
+hart et al 346.cytoplasm,YPL183C.cytoplasm
+hart et al 347.cytoplasm,YLR180W.cytoplasm
+hart et al 347.unknown,YDR502C.unknown
+hart et al 348.cytoplasm,YGR209C.cytoplasm
+hart et al 348.nucleus,YGR209C.nucleus
+hart et al 348.mitochondrion,YHR199C.mitochondrion
+hart et al 349.cytoplasm,YDR382W.cytoplasm
+hart et al 349.unknown,YOL127W.unknown
+hart et al 35.vacuolar membrane,YDL185W.vacuolar membrane
+hart et al 35.vacuolar membrane,YEL051W.vacuolar membrane
+hart et al 35.vacuolar membrane,YGR020C.vacuolar membrane
+hart et al 35.vacuolar membrane,YHR039C-A.vacuolar membrane
+hart et al 35.unknown,YJR033C.unknown
+hart et al 35.vacuolar membrane,YOR332W.vacuolar membrane
+hart et al 35.vacuolar membrane,YKL080W.vacuolar membrane
+hart et al 35.vacuolar membrane,YPR036W.vacuolar membrane
+hart et al 35.ER,YKL119C.ER
+hart et al 350.cytoplasm,YHR104W.cytoplasm
+hart et al 350.nucleus,YHR104W.nucleus
+hart et al 350.vacuolar membrane,YGL006W.vacuolar membrane
+hart et al 351.cytoplasm,YLR024C.cytoplasm
+hart et al 351.cytoplasm,YDR051C.cytoplasm
+hart et al 351.nucleus,YDR051C.nucleus
+hart et al 352.cytoplasm,YKL164C.cytoplasm
+hart et al 352.nucleus,YKL164C.nucleus
+hart et al 352.unknown,YDL069C.unknown
+hart et al 353.endosome,YDR313C.endosome
+hart et al 353.vacuole,YLR083C.vacuole
+hart et al 354.cytoplasm,YOR315W.cytoplasm
+hart et al 354.nucleus,YOR315W.nucleus
+hart et al 354.vacuolar membrane,YDL054C.vacuolar membrane
+hart et al 355.unknown,YOR154W.unknown
+hart et al 355.unknown,YER140W.unknown
+hart et al 356.unknown,YPR176C.unknown
+hart et al 356.unknown,YJL031C.unknown
+hart et al 357.cytoplasm,YBR034C.cytoplasm
+hart et al 357.nucleus,YBR034C.nucleus
+hart et al 357.cytoplasm,YML017W.cytoplasm
+hart et al 358.cytoplasm,YML016C.cytoplasm
+hart et al 358.cell periphery,YML016C.cell periphery
+hart et al 358.cytoplasm,YKL088W.cytoplasm
+hart et al 359.ER,YDL018C.ER
+hart et al 359.ER,YHR110W.ER
+hart et al 36.vacuole,YLR342W.vacuole
+hart et al 36.Golgi,YEL036C.Golgi
+hart et al 36.Golgi,YJL183W.Golgi
+hart et al 36.Golgi,YJR075W.Golgi
+hart et al 36.Golgi,YPL050C.Golgi
+hart et al 36.mitochondrion,YGR132C.mitochondrion
+hart et al 36.mitochondrion,YGR231C.mitochondrion
+hart et al 36.vacuole,YML115C.vacuole
+hart et al 36.Golgi,YML115C.Golgi
+hart et al 36.Golgi,YDR245W.Golgi
+hart et al 360.cytoplasm,YGL174W.cytoplasm
+hart et al 360.nucleus,YGL174W.nucleus
+hart et al 360.cytoplasm,YIR005W.cytoplasm
+hart et al 360.nucleus,YIR005W.nucleus
+hart et al 361.punctate composite,YBR052C.punctate composite
+hart et al 361.punctate composite,YDR032C.punctate composite
+hart et al 362.cytoplasm,YNL311C.cytoplasm
+hart et al 362.unknown,YHR115C.unknown
+hart et al 363.mitochondrion,YER153C.mitochondrion
+hart et al 363.cytoplasm,YNL274C.cytoplasm
+hart et al 363.nucleus,YNL274C.nucleus
+hart et al 364.cytoplasm,YKL126W.cytoplasm
+hart et al 364.cytoplasm,YMR104C.cytoplasm
+hart et al 364.nucleus,YMR104C.nucleus
+hart et al 365.cytoplasm,YNL218W.cytoplasm
+hart et al 365.nucleus,YNL218W.nucleus
+hart et al 365.cytoplasm,YEL058W.cytoplasm
+hart et al 365.nucleus,YEL058W.nucleus
+hart et al 366.cytoplasm,YAL041W.cytoplasm
+hart et al 366.nucleus,YAL041W.nucleus
+hart et al 366.cytoplasm,YER114C.cytoplasm
+hart et al 366.bud neck,YER114C.bud neck
+hart et al 366.cell periphery,YER114C.cell periphery
+hart et al 366.bud,YER114C.bud
+hart et al 366.punctate composite,YER114C.punctate composite
+hart et al 367.ER,YDR062W.ER
+hart et al 367.ER,YMR296C.ER
+hart et al 368.nucleus,YOL010W.nucleus
+hart et al 368.nucleolus,YOL010W.nucleolus
+hart et al 368.unknown,YPR112C.unknown
+hart et al 369.unknown,YDL075W.unknown
+hart et al 369.unknown,YGL103W.unknown
+hart et al 37.cytoplasm,YAL016W.cytoplasm
+hart et al 37.nucleus,YAL016W.nucleus
+hart et al 37.cytoplasm,YDL134C.cytoplasm
+hart et al 37.nucleus,YDL134C.nucleus
+hart et al 37.cytoplasm,YDL188C.cytoplasm
+hart et al 37.nucleus,YDL188C.nucleus
+hart et al 37.cytoplasm,YGL190C.cytoplasm
+hart et al 37.cytoplasm,YML109W.cytoplasm
+hart et al 37.cytoplasm,YMR273C.cytoplasm
+hart et al 37.cytoplasm,YOR386W.cytoplasm
+hart et al 37.nucleus,YOR386W.nucleus
+hart et al 37.cytoplasm,YGR161C.cytoplasm
+hart et al 37.nucleus,YGR161C.nucleus
+hart et al 370.cytoplasm,YOR213C.cytoplasm
+hart et al 370.nucleus,YOR213C.nucleus
+hart et al 370.nucleus,YOR229W.nucleus
+hart et al 371.unknown,YAR042W.unknown
+hart et al 371.punctate composite,YDL019C.punctate composite
+hart et al 372.cytoplasm,YHR179W.cytoplasm
+hart et al 372.nucleus,YHR179W.nucleus
+hart et al 372.unknown,YPL171C.unknown
+hart et al 373.cytoplasm,YER110C.cytoplasm
+hart et al 373.nucleus,YER110C.nucleus
+hart et al 373.unknown,YAL034C.unknown
+hart et al 374.spindle pole,YGL093W.spindle pole
+hart et al 374.spindle pole,YDR532C.spindle pole
+hart et al 375.cytoplasm,YER040W.cytoplasm
+hart et al 375.nucleus,YER040W.nucleus
+hart et al 375.cytoplasm,YNL229C.cytoplasm
+hart et al 376.cytoplasm,YKR018C.cytoplasm
+hart et al 376.nucleus,YKR018C.nucleus
+hart et al 376.cytoplasm,YIL078W.cytoplasm
+hart et al 377.vacuolar membrane,YDL008W.vacuolar membrane
+hart et al 377.cytoplasm,YER047C.cytoplasm
+hart et al 378.unknown,YBR045C.unknown
+hart et al 378.mitochondrion,YGL057C.mitochondrion
+hart et al 379.unknown,YLR026C.unknown
+hart et al 379.early Golgi,YDR189W.early Golgi
+hart et al 379.Golgi,YDR189W.Golgi
+hart et al 38.cytoplasm,YMR047C.cytoplasm
+hart et al 38.nucleus,YMR047C.nucleus
+hart et al 38.nuclear periphery,YGL172W.nuclear periphery
+hart et al 38.nuclear periphery,YGR119C.nuclear periphery
+hart et al 38.cytoplasm,YER107C.cytoplasm
+hart et al 38.nuclear periphery,YER107C.nuclear periphery
+hart et al 38.nuclear periphery,YIL115C.nuclear periphery
+hart et al 38.nuclear periphery,YJL041W.nuclear periphery
+hart et al 38.nuclear periphery,YFR002W.nuclear periphery
+hart et al 38.nuclear periphery,YJL061W.nuclear periphery
+hart et al 380.cytoplasm,YAL061W.cytoplasm
+hart et al 380.nucleus,YAL061W.nucleus
+hart et al 380.cytoplasm,YAL060W.cytoplasm
+hart et al 381.nuclear periphery,YDR159W.nuclear periphery
+hart et al 381.nuclear periphery,YOL072W.nuclear periphery
+hart et al 382.mitochondrion,YDR231C.mitochondrion
+hart et al 382.unknown,YNL192W.unknown
+hart et al 383.cytoplasm,YKL149C.cytoplasm
+hart et al 383.nucleus,YKL149C.nucleus
+hart et al 383.nucleus,YGR093W.nucleus
+hart et al 384.unknown,YEL041W.unknown
+hart et al 384.cytoplasm,YJR049C.cytoplasm
+hart et al 384.nucleus,YJR049C.nucleus
+hart et al 385.unknown,YHR124W.unknown
+hart et al 385.cytoplasm,YGR019W.cytoplasm
+hart et al 386.unknown,YFL059W.unknown
+hart et al 386.unknown,YMR096W.unknown
+hart et al 387.cytoplasm,YOR346W.cytoplasm
+hart et al 387.nucleus,YOR346W.nucleus
+hart et al 387.cytoplasm,YOR251C.cytoplasm
+hart et al 388.nucleus,YGR188C.nucleus
+hart et al 388.spindle pole,YGR188C.spindle pole
+hart et al 388.microtubule,YGR188C.microtubule
+hart et al 388.cytoplasm,YOR026W.cytoplasm
+hart et al 388.nucleus,YOR026W.nucleus
+hart et al 389.actin,YNL106C.actin
+hart et al 389.actin,YPR171W.actin
+hart et al 39.cytoplasm,YGL241W.cytoplasm
+hart et al 39.nucleus,YGL241W.nucleus
+hart et al 39.nucleus,YOL012C.nucleus
+hart et al 39.cytoplasm,YKR048C.cytoplasm
+hart et al 39.nucleus,YDR224C.nucleus
+hart et al 39.cytoplasm,YOL070C.cytoplasm
+hart et al 39.bud neck,YOL070C.bud neck
+hart et al 39.cell periphery,YOL070C.cell periphery
+hart et al 39.bud neck,YNL078W.bud neck
+hart et al 39.cell periphery,YNL078W.cell periphery
+hart et al 39.cytoplasm,YMR139W.cytoplasm
+hart et al 39.cytoplasm,YLR133W.cytoplasm
+hart et al 390.cytoplasm,YML106W.cytoplasm
+hart et al 390.nucleus,YML106W.nucleus
+hart et al 390.cytoplasm,YMR271C.cytoplasm
+hart et al 391.cytoplasm,YLR347C.cytoplasm
+hart et al 391.punctate composite,YLR347C.punctate composite
+hart et al 391.nuclear periphery,YLR347C.nuclear periphery
+hart et al 392.unknown,YDL014W.unknown
+hart et al 393.cytoplasm,YOR063W.cytoplasm
+hart et al 394.cytoplasm,YLR249W.cytoplasm
+hart et al 395.mitochondrion,YIL070C.mitochondrion
+hart et al 396.nucleus,YPL047W.nucleus
+hart et al 397.cytoplasm,YML007W.cytoplasm
+hart et al 397.nucleus,YML007W.nucleus
+hart et al 398.mitochondrion,YOR150W.mitochondrion
+hart et al 4.cytoplasm,YBL004W.cytoplasm
+hart et al 4.nucleolus,YBL004W.nucleolus
+hart et al 4.unknown,YJR002W.unknown
+hart et al 4.unknown,YDL148C.unknown
+hart et al 4.nucleolus,YDR324C.nucleolus
+hart et al 4.unknown,YER082C.unknown
+hart et al 4.nucleus,YPR144C.nucleus
+hart et al 4.nucleolus,YCR057C.nucleolus
+hart et al 4.nucleolus,YDR449C.nucleolus
+hart et al 4.nucleolus,YJL069C.nucleolus
+hart et al 4.cytoplasm,YLR129W.cytoplasm
+hart et al 4.nucleus,YLR129W.nucleus
+hart et al 4.nucleolus,YLR222C.nucleolus
+hart et al 4.nucleus,YLR409C.nucleus
+hart et al 4.cytoplasm,YLR186W.cytoplasm
+hart et al 4.nucleus,YLR186W.nucleus
+hart et al 4.nucleolus,YDR398W.nucleolus
+hart et al 4.nucleus,YMR093W.nucleus
+hart et al 4.nucleolus,YMR093W.nucleolus
+hart et al 4.nucleolus,YJL109C.nucleolus
+hart et al 4.unknown,YHR148W.unknown
+hart et al 4.nucleolus,YHR196W.nucleolus
+hart et al 4.nucleolus,YPL126W.nucleolus
+hart et al 4.nucleolus,YLL011W.nucleolus
+hart et al 4.nucleolus,YMR128W.nucleolus
+hart et al 4.nucleus,YEL055C.nucleus
+hart et al 4.nucleolus,YEL055C.nucleolus
+hart et al 4.nucleolus,YGR128C.nucleolus
+hart et al 4.nucleus,YML093W.nucleus
+hart et al 4.nucleolus,YML093W.nucleolus
+hart et al 4.unknown,YPL217C.unknown
+hart et al 4.nucleus,YKR060W.nucleus
+hart et al 4.nucleolus,YKR060W.nucleolus
+hart et al 4.cytoplasm,YGR210C.cytoplasm
+hart et al 40.punctate composite,YML071C.punctate composite
+hart et al 40.Golgi,YNL041C.Golgi
+hart et al 40.early Golgi,YNL051W.early Golgi
+hart et al 40.Golgi,YNL051W.Golgi
+hart et al 40.early Golgi,YPR105C.early Golgi
+hart et al 40.early Golgi,YER157W.early Golgi
+hart et al 40.Golgi,YER157W.Golgi
+hart et al 40.Golgi,YGL005C.Golgi
+hart et al 40.early Golgi,YGL223C.early Golgi
+hart et al 40.early Golgi,YGR120C.early Golgi
+hart et al 40.Golgi,YGR120C.Golgi
+hart et al 41.unknown,YGR113W.unknown
+hart et al 41.spindle pole,YBR233W-A.spindle pole
+hart et al 41.spindle pole,YDR016C.spindle pole
+hart et al 41.spindle pole,YDR201W.spindle pole
+hart et al 41.spindle pole,YGL061C.spindle pole
+hart et al 41.spindle pole,YKL052C.spindle pole
+hart et al 41.spindle pole,YKR037C.spindle pole
+hart et al 41.spindle pole,YKR083C.spindle pole
+hart et al 42.bud neck,YBR102C.bud neck
+hart et al 42.cell periphery,YBR102C.cell periphery
+hart et al 42.bud,YBR102C.bud
+hart et al 42.bud neck,YDR166C.bud neck
+hart et al 42.cell periphery,YDR166C.cell periphery
+hart et al 42.bud,YDR166C.bud
+hart et al 42.cytoplasm,YGL233W.cytoplasm
+hart et al 42.bud neck,YGL233W.bud neck
+hart et al 42.cell periphery,YGL233W.cell periphery
+hart et al 42.bud neck,YLR166C.bud neck
+hart et al 42.cell periphery,YLR166C.cell periphery
+hart et al 42.bud,YLR166C.bud
+hart et al 42.cytoplasm,YPR055W.cytoplasm
+hart et al 42.bud neck,YPR055W.bud neck
+hart et al 42.cell periphery,YPR055W.cell periphery
+hart et al 42.bud,YPR055W.bud
+hart et al 42.bud neck,YER008C.bud neck
+hart et al 42.cell periphery,YER008C.cell periphery
+hart et al 42.bud,YER008C.bud
+hart et al 42.bud neck,YIL068C.bud neck
+hart et al 42.cell periphery,YIL068C.cell periphery
+hart et al 42.bud,YIL068C.bud
+hart et al 42.bud neck,YJL085W.bud neck
+hart et al 42.cell periphery,YJL085W.cell periphery
+hart et al 42.bud,YJL085W.bud
+hart et al 43.cytoplasm,YBR160W.cytoplasm
+hart et al 43.nucleus,YBR160W.nucleus
+hart et al 43.nucleus,YPR119W.nucleus
+hart et al 43.cytoplasm,YBR135W.cytoplasm
+hart et al 43.nucleus,YBR135W.nucleus
+hart et al 43.cytoplasm,YDL155W.cytoplasm
+hart et al 43.nucleus,YDL155W.nucleus
+hart et al 43.cytoplasm,YPL256C.cytoplasm
+hart et al 43.nucleus,YPL256C.nucleus
+hart et al 43.cytoplasm,YLR079W.cytoplasm
+hart et al 43.nucleus,YLR079W.nucleus
+hart et al 43.nucleus,YLR210W.nucleus
+hart et al 43.spindle pole,YLR210W.spindle pole
+hart et al 43.cytoplasm,YMR199W.cytoplasm
+hart et al 43.nucleus,YMR199W.nucleus
+hart et al 44.unknown,YCL054W.unknown
+hart et al 44.nucleus,YPL211W.nucleus
+hart et al 44.nucleolus,YPL211W.nucleolus
+hart et al 44.unknown,YDL031W.unknown
+hart et al 44.nucleus,YDR087C.nucleus
+hart et al 44.nucleolus,YDR087C.nucleolus
+hart et al 44.nucleus,YFL002C.nucleus
+hart et al 44.nucleolus,YFL002C.nucleolus
+hart et al 44.nucleus,YGL111W.nucleus
+hart et al 44.nucleolus,YGL111W.nucleolus
+hart et al 44.unknown,YHR088W.unknown
+hart et al 44.nucleus,YLL034C.nucleus
+hart et al 44.nucleolus,YLL034C.nucleolus
+hart et al 45.cytoplasm,YIL071C.cytoplasm
+hart et al 45.cytoplasm,YDL132W.cytoplasm
+hart et al 45.nucleus,YDL132W.nucleus
+hart et al 45.unknown,YOL133W.unknown
+hart et al 45.cytoplasm,YDR179C.cytoplasm
+hart et al 45.cytoplasm,YDL216C.cytoplasm
+hart et al 45.unknown,YMR025W.unknown
+hart et al 45.cytoplasm,YOL117W.cytoplasm
+hart et al 46.actin,YNR035C.actin
+hart et al 46.actin,YBR234C.actin
+hart et al 46.punctate composite,YDL029W.punctate composite
+hart et al 46.actin,YIL062C.actin
+hart et al 46.unknown,YJR065C.unknown
+hart et al 46.actin,YKL013C.actin
+hart et al 46.actin,YLR370C.actin
+hart et al 47.bud neck,YJR092W.bud neck
+hart et al 47.bud neck,YCR002C.bud neck
+hart et al 47.cell periphery,YCR002C.cell periphery
+hart et al 47.bud neck,YHR107C.bud neck
+hart et al 47.cell periphery,YHR107C.cell periphery
+hart et al 47.bud neck,YJR076C.bud neck
+hart et al 47.cell periphery,YJR076C.cell periphery
+hart et al 47.unknown,YLR314C.unknown
+hart et al 47.bud neck,YDL225W.bud neck
+hart et al 47.cell periphery,YDL225W.cell periphery
+hart et al 47.unknown,YPL167C.unknown
+hart et al 48.nucleus,YBR087W.nucleus
+hart et al 48.nucleus,YJR068W.nucleus
+hart et al 48.cytoplasm,YMR078C.cytoplasm
+hart et al 48.nucleus,YMR078C.nucleus
+hart et al 48.cytoplasm,YOR144C.cytoplasm
+hart et al 48.nucleus,YOR144C.nucleus
+hart et al 48.nucleus,YNL290W.nucleus
+hart et al 48.nucleus,YOL094C.nucleus
+hart et al 48.nucleus,YOR217W.nucleus
+hart et al 49.nucleus,YOR244W.nucleus
+hart et al 49.unknown,YDR359C.unknown
+hart et al 49.nucleus,YEL018W.nucleus
+hart et al 49.nucleus,YFL024C.nucleus
+hart et al 49.nucleus,YJR082C.nucleus
+hart et al 49.nucleus,YNL136W.nucleus
+hart et al 49.nucleus,YPR023C.nucleus
+hart et al 5.cytoplasm,YDR443C.cytoplasm
+hart et al 5.nucleus,YDR443C.nucleus
+hart et al 5.cytoplasm,YDL229W.cytoplasm
+hart et al 5.cytoplasm,YHR041C.cytoplasm
+hart et al 5.nucleus,YHR041C.nucleus
+hart et al 5.nucleus,YBL093C.nucleus
+hart et al 5.nucleus,YER022W.nucleus
+hart et al 5.nucleus,YGL025C.nucleus
+hart et al 5.nucleus,YGR104C.nucleus
+hart et al 5.cytoplasm,YHR058C.cytoplasm
+hart et al 5.nucleus,YHR058C.nucleus
+hart et al 5.nucleus,YLR071C.nucleus
+hart et al 5.nucleus,YNR010W.nucleus
+hart et al 5.nucleus,YOL051W.nucleus
+hart et al 5.nucleus,YOL135C.nucleus
+hart et al 5.unknown,YBR193C.unknown
+hart et al 5.nucleus,YDL005C.nucleus
+hart et al 5.nucleus,YDR308C.nucleus
+hart et al 5.nucleus,YGL127C.nucleus
+hart et al 5.nucleus,YMR112C.nucleus
+hart et al 5.nucleus,YNL236W.nucleus
+hart et al 5.nucleus,YOR174W.nucleus
+hart et al 5.nucleus,YPR070W.nucleus
+hart et al 5.nucleus,YBR253W.nucleus
+hart et al 5.cytoplasm,YCR081W.cytoplasm
+hart et al 5.unknown,YPL042C.unknown
+hart et al 5.cytoplasm,YPR168W.cytoplasm
+hart et al 5.nucleus,YPR168W.nucleus
+hart et al 5.nucleus,YGL151W.nucleus
+hart et al 50.cytoplasm,YML094W.cytoplasm
+hart et al 50.cytoplasm,YNL153C.cytoplasm
+hart et al 50.cytoplasm,YEL003W.cytoplasm
+hart et al 50.cytoplasm,YGR078C.cytoplasm
+hart et al 50.cytoplasm,YLR200W.cytoplasm
+hart et al 50.cytoplasm,YFL023W.cytoplasm
+hart et al 50.cytoplasm,YJL179W.cytoplasm
+hart et al 51.cytoplasm,YMR135C.cytoplasm
+hart et al 51.nucleus,YMR135C.nucleus
+hart et al 51.cytoplasm,YIL097W.cytoplasm
+hart et al 51.nucleus,YIL097W.nucleus
+hart et al 51.cytoplasm,YBR105C.cytoplasm
+hart et al 51.nucleus,YBR105C.nucleus
+hart et al 51.cytoplasm,YCL039W.cytoplasm
+hart et al 51.nucleus,YCL039W.nucleus
+hart et al 51.unknown,YDR255C.unknown
+hart et al 51.cytoplasm,YGL227W.cytoplasm
+hart et al 51.nucleus,YGL227W.nucleus
+hart et al 51.cytoplasm,YIL017C.cytoplasm
+hart et al 51.nucleus,YIL017C.nucleus
+hart et al 52.nucleus,YAR003W.nucleus
+hart et al 52.cytoplasm,YBR175W.cytoplasm
+hart et al 52.nucleus,YBR175W.nucleus
+hart et al 52.nucleus,YBR258C.nucleus
+hart et al 52.nucleus,YDR469W.nucleus
+hart et al 52.nucleus,YHR119W.nucleus
+hart et al 52.nucleus,YLR015W.nucleus
+hart et al 52.nucleus,YPL138C.nucleus
+hart et al 53.cytoplasm,YER171W.cytoplasm
+hart et al 53.nucleus,YER171W.nucleus
+hart et al 53.nucleus,YDL108W.nucleus
+hart et al 53.nucleus,YDR460W.nucleus
+hart et al 53.nucleus,YPR025C.nucleus
+hart et al 53.nucleus,YPR056W.nucleus
+hart et al 53.nucleus,YDR311W.nucleus
+hart et al 53.nucleus,YLR005W.nucleus
+hart et al 54.nucleus,YDL051W.nucleus
+hart et al 54.ER,YDL092W.ER
+hart et al 54.ER,YKL122C.ER
+hart et al 54.ER,YML105C.ER
+hart et al 54.ER,YPL210C.ER
+hart et al 54.cytoplasm,YPL243W.cytoplasm
+hart et al 54.unknown,YPR088C.unknown
+hart et al 55.cytoplasm,YAL033W.cytoplasm
+hart et al 55.nucleus,YAL033W.nucleus
+hart et al 55.unknown,YBR257W.unknown
+hart et al 55.nucleus,YHR062C.nucleus
+hart et al 55.nucleus,YBL018C.nucleus
+hart et al 55.nucleus,YBR167C.nucleus
+hart et al 55.cytoplasm,YNL221C.cytoplasm
+hart et al 55.nucleus,YNL221C.nucleus
+hart et al 55.nucleus,YNL282W.nucleus
+hart et al 56.cytoplasm,YDL047W.cytoplasm
+hart et al 56.nucleus,YDL047W.nucleus
+hart et al 56.cytoplasm,YFR040W.cytoplasm
+hart et al 56.cytoplasm,YJL098W.cytoplasm
+hart et al 56.unknown,YKR028W.unknown
+hart et al 56.unknown,YMR028W.unknown
+hart et al 56.cytoplasm,YOR267C.cytoplasm
+hart et al 56.cytoplasm,YLR179C.cytoplasm
+hart et al 56.nucleus,YLR179C.nucleus
+hart et al 57.cytoplasm,YBR031W.cytoplasm
+hart et al 57.nucleolus,YDR299W.nucleolus
+hart et al 57.unknown,YGR145W.unknown
+hart et al 57.cytoplasm,YLL045C.cytoplasm
+hart et al 57.cytoplasm,YOR312C.cytoplasm
+hart et al 57.unknown,YER127W.unknown
+hart et al 57.nucleolus,YNL132W.nucleolus
+hart et al 58.nuclear periphery,YGL092W.nuclear periphery
+hart et al 58.ER to Golgi,YLR208W.ER to Golgi
+hart et al 58.nuclear periphery,YDL116W.nuclear periphery
+hart et al 58.unknown,YGL100W.unknown
+hart et al 58.nuclear periphery,YJR042W.nuclear periphery
+hart et al 58.unknown,YKL057C.unknown
+hart et al 58.nuclear periphery,YPL169C.nuclear periphery
+hart et al 59.cytoplasm,YAL021C.cytoplasm
+hart et al 59.cytoplasm,YCR093W.cytoplasm
+hart et al 59.cytoplasm,YGR134W.cytoplasm
+hart et al 59.cytoplasm,YNL288W.cytoplasm
+hart et al 59.cytoplasm,YNR052C.cytoplasm
+hart et al 59.mitochondrion,YNR052C.mitochondrion
+hart et al 59.cytoplasm,YDR252W.cytoplasm
+hart et al 59.unknown,YJR011C.unknown
+hart et al 6.nucleus,YLR033W.nucleus
+hart et al 6.nucleus,YIL126W.nucleus
+hart et al 6.nucleus,YBR289W.nucleus
+hart et al 6.nucleus,YHL025W.nucleus
+hart et al 6.nucleus,YJL176C.nucleus
+hart et al 6.nucleus,YOR290C.nucleus
+hart et al 6.nucleus,YCR020W-B.nucleus
+hart et al 6.nucleus,YDR303C.nucleus
+hart et al 6.nucleus,YFR037C.nucleus
+hart et al 6.nucleus,YGR275W.nucleus
+hart et al 6.nucleus,YMR091C.nucleus
+hart et al 6.unknown,YCR052W.unknown
+hart et al 6.nucleus,YKR008W.nucleus
+hart et al 6.nucleus,YLR321C.nucleus
+hart et al 6.nucleus,YLR357W.nucleus
+hart et al 6.unknown,YMR033W.unknown
+hart et al 6.nucleus,YPR034W.nucleus
+hart et al 6.nucleus,YNR023W.nucleus
+hart et al 6.cytoplasm,YFL033C.cytoplasm
+hart et al 6.nucleus,YML127W.nucleus
+hart et al 6.nucleus,YPL016W.nucleus
+hart et al 6.unknown,YGR056W.unknown
+hart et al 6.unknown,YHR056C.unknown
+hart et al 6.nucleus,YFL049W.nucleus
+hart et al 6.nucleus,YGL078C.nucleus
+hart et al 6.nucleolus,YGL078C.nucleolus
+hart et al 60.endosome,YAL002W.endosome
+hart et al 60.vacuolar membrane,YLR396C.vacuolar membrane
+hart et al 60.endosome,YMR231W.endosome
+hart et al 60.vacuolar membrane,YPL045W.vacuolar membrane
+hart et al 60.unknown,YDL077C.unknown
+hart et al 60.vacuolar membrane,YDR080W.vacuolar membrane
+hart et al 60.vacuole,YDR080W.vacuole
+hart et al 60.endosome,YLR148W.endosome
+hart et al 61.cytoplasm,YKR001C.cytoplasm
+hart et al 61.endosome,YKR001C.endosome
+hart et al 61.punctate composite,YKR001C.punctate composite
+hart et al 61.nucleus,YBR245C.nucleus
+hart et al 61.nucleus,YFR013W.nucleus
+hart et al 61.nucleus,YLR095C.nucleus
+hart et al 61.nucleus,YMR044W.nucleus
+hart et al 61.cytoplasm,YOL017W.cytoplasm
+hart et al 61.nucleus,YOL017W.nucleus
+hart et al 61.nucleus,YPL082C.nucleus
+hart et al 62.cytoplasm,YML001W.cytoplasm
+hart et al 62.nucleus,YML001W.nucleus
+hart et al 62.cytoplasm,YBR264C.cytoplasm
+hart et al 62.cytoplasm,YER031C.cytoplasm
+hart et al 62.nucleus,YER031C.nucleus
+hart et al 62.cytoplasm,YPR017C.cytoplasm
+hart et al 62.nucleus,YPR017C.nucleus
+hart et al 62.unknown,YFL005W.unknown
+hart et al 62.unknown,YFL038C.unknown
+hart et al 62.cytoplasm,YGL210W.cytoplasm
+hart et al 62.nucleus,YGL210W.nucleus
+hart et al 63.cytoplasm,YLR075W.cytoplasm
+hart et al 63.unknown,YNL178W.unknown
+hart et al 63.cytoplasm,YML063W.cytoplasm
+hart et al 63.cytoplasm,YPL239W.cytoplasm
+hart et al 63.cytoplasm,YPL090C.cytoplasm
+hart et al 63.nucleus,YDL131W.nucleus
+hart et al 63.cytoplasm,YDR012W.cytoplasm
+hart et al 64.nucleus,YML010W.nucleus
+hart et al 64.cytoplasm,YIL153W.cytoplasm
+hart et al 64.nucleus,YIL153W.nucleus
+hart et al 64.nucleus,YBL046W.nucleus
+hart et al 64.cytoplasm,YDR075W.cytoplasm
+hart et al 64.nucleus,YDR075W.nucleus
+hart et al 64.nucleus,YNL201C.nucleus
+hart et al 64.cytoplasm,YDR293C.cytoplasm
+hart et al 65.unknown,YML065W.unknown
+hart et al 65.nucleus,YNL261W.nucleus
+hart et al 65.unknown,YPR162C.unknown
+hart et al 65.cytoplasm,YBR060C.cytoplasm
+hart et al 65.nucleus,YBR060C.nucleus
+hart et al 65.cytoplasm,YHR118C.cytoplasm
+hart et al 65.nucleus,YHR118C.nucleus
+hart et al 65.unknown,YLL004W.unknown
+hart et al 66.cytoplasm,YHR187W.cytoplasm
+hart et al 66.cytoplasm,YLR384C.cytoplasm
+hart et al 66.cytoplasm,YGR200C.cytoplasm
+hart et al 66.unknown,YMR312W.unknown
+hart et al 66.cytoplasm,YPL086C.cytoplasm
+hart et al 66.unknown,YPL101W.unknown
+hart et al 67.cytoplasm,YAL001C.cytoplasm
+hart et al 67.nucleus,YAL001C.nucleus
+hart et al 67.nucleus,YBR123C.nucleus
+hart et al 67.nucleus,YDR362C.nucleus
+hart et al 67.cytoplasm,YGR047C.cytoplasm
+hart et al 67.nucleus,YGR047C.nucleus
+hart et al 67.cytoplasm,YOR110W.cytoplasm
+hart et al 67.nucleus,YOR110W.nucleus
+hart et al 67.nucleus,YPL007C.nucleus
+hart et al 68.punctate composite,YPR029C.punctate composite
+hart et al 68.late Golgi,YKL135C.late Golgi
+hart et al 68.late Golgi,YHL019C.late Golgi
+hart et al 68.unknown,YLR170C.unknown
+hart et al 68.late Golgi,YPL259C.late Golgi
+hart et al 68.unknown,YFL034W.unknown
+hart et al 69.cytoplasm,YJR145C.cytoplasm
+hart et al 69.cytoplasm,YHR203C.cytoplasm
+hart et al 69.cytoplasm,YDL040C.cytoplasm
+hart et al 69.cytoplasm,YHR013C.cytoplasm
+hart et al 69.cytoplasm,YOR253W.cytoplasm
+hart et al 69.unknown,YGR054W.unknown
+hart et al 7.unknown,YHR099W.unknown
+hart et al 7.nucleus,YDR176W.nucleus
+hart et al 7.cytoplasm,YML098W.cytoplasm
+hart et al 7.nucleus,YML098W.nucleus
+hart et al 7.unknown,YML015C.unknown
+hart et al 7.unknown,YMR005W.unknown
+hart et al 7.nucleus,YGR252W.nucleus
+hart et al 7.nucleus,YBR081C.nucleus
+hart et al 7.nucleus,YBR198C.nucleus
+hart et al 7.nucleus,YCL010C.nucleus
+hart et al 7.nucleus,YDR145W.nucleus
+hart et al 7.nucleus,YDR167W.nucleus
+hart et al 7.nucleus,YDR392W.nucleus
+hart et al 7.nucleus,YDR448W.nucleus
+hart et al 7.nucleus,YGL112C.nucleus
+hart et al 7.nucleus,YLR055C.nucleus
+hart et al 7.nucleus,YMR223W.nucleus
+hart et al 7.nucleus,YMR236W.nucleus
+hart et al 7.nucleus,YOL148C.nucleus
+hart et al 7.nucleus,YPL254W.nucleus
+hart et al 7.nucleus,YGL066W.nucleus
+hart et al 7.nucleus,YGR274C.nucleus
+hart et al 7.cytoplasm,YMR227C.cytoplasm
+hart et al 7.nucleus,YMR227C.nucleus
+hart et al 7.nucleus,YPL011C.nucleus
+hart et al 7.unknown,YHL047C.unknown
+hart et al 70.cytoplasm,YBL058W.cytoplasm
+hart et al 70.nucleus,YBL058W.nucleus
+hart et al 70.cytoplasm,YBR170C.cytoplasm
+hart et al 70.nucleus,YBR170C.nucleus
+hart et al 70.cytoplasm,YMR067C.cytoplasm
+hart et al 70.nucleus,YMR067C.nucleus
+hart et al 70.cytoplasm,YFL044C.cytoplasm
+hart et al 70.nucleus,YFL044C.nucleus
+hart et al 70.cytoplasm,YBR223C.cytoplasm
+hart et al 70.nucleus,YBR223C.nucleus
+hart et al 70.cytoplasm,YDR049W.cytoplasm
+hart et al 71.cytoplasm,YBL071W-A.cytoplasm
+hart et al 71.nucleus,YBL071W-A.nucleus
+hart et al 71.cytoplasm,YDR385W.cytoplasm
+hart et al 71.cytoplasm,YIL103W.cytoplasm
+hart et al 71.cytoplasm,YKL191W.cytoplasm
+hart et al 71.cytoplasm,YGR187C.cytoplasm
+hart et al 71.cytoplasm,YOR133W.cytoplasm
+hart et al 72.Golgi,YLR268W.Golgi
+hart et al 72.unknown,YOR075W.unknown
+hart et al 72.ER,YNL258C.ER
+hart et al 72.lipid particle,YGL098W.lipid particle
+hart et al 72.ER,YGL145W.ER
+hart et al 72.ER,YLR440C.ER
+hart et al 73.unknown,YHR012W.unknown
+hart et al 73.endosome,YJL053W.endosome
+hart et al 73.endosome,YJL154C.endosome
+hart et al 73.vacuolar membrane,YJL154C.vacuolar membrane
+hart et al 73.endosome,YOR132W.endosome
+hart et al 73.endosome,YOR069W.endosome
+hart et al 73.cytoplasm,YPL070W.cytoplasm
+hart et al 74.unknown,YDR212W.unknown
+hart et al 74.unknown,YIL142W.unknown
+hart et al 74.unknown,YJR064W.unknown
+hart et al 74.unknown,YJL014W.unknown
+hart et al 74.unknown,YDL143W.unknown
+hart et al 74.unknown,YDR188W.unknown
+hart et al 75.cytoplasm,YGR162W.cytoplasm
+hart et al 75.cytoplasm,YOL139C.cytoplasm
+hart et al 75.cytoplasm,YJL138C.cytoplasm
+hart et al 75.cytoplasm,YKR059W.cytoplasm
+hart et al 75.cytoplasm,YOR276W.cytoplasm
+hart et al 75.cytoplasm,YKL204W.cytoplasm
+hart et al 76.cytoplasm,YDR477W.cytoplasm
+hart et al 76.cytoplasm,YGL115W.cytoplasm
+hart et al 76.cytoplasm,YER027C.cytoplasm
+hart et al 76.unknown,YGL208W.unknown
+hart et al 76.unknown,YEL023C.unknown
+hart et al 77.unknown,YLR293C.unknown
+hart et al 77.nucleus,YGL097W.nucleus
+hart et al 77.unknown,YDR002W.unknown
+hart et al 77.cytoplasm,YOR185C.cytoplasm
+hart et al 77.nucleus,YOR185C.nucleus
+hart et al 77.cytoplasm,YJR074W.cytoplasm
+hart et al 78.unknown,YCR072C.unknown
+hart et al 78.unknown,YGR245C.unknown
+hart et al 78.nucleus,YHR197W.nucleus
+hart et al 78.unknown,YNL182C.unknown
+hart et al 78.nucleus,YHR085W.nucleus
+hart et al 79.nucleus,YMR001C.nucleus
+hart et al 79.bud neck,YMR001C.bud neck
+hart et al 79.cytoplasm,YDL003W.cytoplasm
+hart et al 79.nucleus,YDL003W.nucleus
+hart et al 79.cytoplasm,YFL008W.cytoplasm
+hart et al 79.nucleus,YFL008W.nucleus
+hart et al 79.nucleus,YIL026C.nucleus
+hart et al 79.nucleus,YJL074C.nucleus
+hart et al 8.mitochondrion,YBL038W.mitochondrion
+hart et al 8.unknown,YDR237W.unknown
+hart et al 8.mitochondrion,YGR220C.mitochondrion
+hart et al 8.mitochondrion,YJL063C.mitochondrion
+hart et al 8.mitochondrion,YML025C.mitochondrion
+hart et al 8.mitochondrion,YDR116C.mitochondrion
+hart et al 8.mitochondrion,YNL284C.mitochondrion
+hart et al 8.mitochondrion,YDR405W.mitochondrion
+hart et al 8.mitochondrion,YKR006C.mitochondrion
+hart et al 8.mitochondrion,YLR439W.mitochondrion
+hart et al 8.nucleolus,YMR193W.nucleolus
+hart et al 8.mitochondrion,YNL252C.mitochondrion
+hart et al 8.mitochondrion,YBR122C.mitochondrion
+hart et al 8.mitochondrion,YDR322W.mitochondrion
+hart et al 8.mitochondrion,YDR462W.mitochondrion
+hart et al 8.mitochondrion,YKL167C.mitochondrion
+hart et al 8.mitochondrion,YKR085C.mitochondrion
+hart et al 8.mitochondrion,YLR312W-A.mitochondrion
+hart et al 8.mitochondrion,YMR024W.mitochondrion
+hart et al 8.unknown,YPL173W.unknown
+hart et al 8.mitochondrion,YNL005C.mitochondrion
+hart et al 8.mitochondrion,YCR046C.mitochondrion
+hart et al 8.mitochondrion,YCR071C.mitochondrion
+hart et al 8.mitochondrion,YDR296W.mitochondrion
+hart et al 80.unknown,YER125W.unknown
+hart et al 80.cytoplasm,YJL084C.cytoplasm
+hart et al 80.cytoplasm,YMR275C.cytoplasm
+hart et al 80.cytoplasm,YOR124C.cytoplasm
+hart et al 80.cytoplasm,YHR131C.cytoplasm
+hart et al 81.cytoplasm,YCR095C.cytoplasm
+hart et al 81.cytoplasm,YHL029C.cytoplasm
+hart et al 81.cytoplasm,YNL099C.cytoplasm
+hart et al 81.cytoplasm,YNL056W.cytoplasm
+hart et al 81.cytoplasm,YNL032W.cytoplasm
+hart et al 82.unknown,YDR490C.unknown
+hart et al 82.punctate composite,YGR086C.punctate composite
+hart et al 82.punctate composite,YPL004C.punctate composite
+hart et al 82.cytoplasm,YKL142W.cytoplasm
+hart et al 82.cell periphery,YMR086W.cell periphery
+hart et al 83.nucleolus,YOR310C.nucleolus
+hart et al 83.nucleolus,YLR197W.nucleolus
+hart et al 83.nucleus,YOR078W.nucleus
+hart et al 83.nucleolus,YOR078W.nucleolus
+hart et al 83.nucleolus,YPR137W.nucleolus
+hart et al 83.cytoplasm,YCL040W.cytoplasm
+hart et al 83.punctate composite,YCL040W.punctate composite
+hart et al 84.cytoplasm,YBR017C.cytoplasm
+hart et al 84.nucleus,YBR017C.nucleus
+hart et al 84.nucleus,YGL122C.nucleus
+hart et al 84.nucleus,YOL123W.nucleus
+hart et al 84.vacuole,YBR205W.vacuole
+hart et al 84.nucleus,YNL035C.nucleus
+hart et al 85.unknown,YDR013W.unknown
+hart et al 85.unknown,YDR489W.unknown
+hart et al 85.unknown,YJL072C.unknown
+hart et al 85.unknown,YOL146W.unknown
+hart et al 85.nucleus,YPR135W.nucleus
+hart et al 86.nucleus,YLR086W.nucleus
+hart et al 86.nucleus,YBL097W.nucleus
+hart et al 86.cytoplasm,YFR031C.cytoplasm
+hart et al 86.nucleus,YFR031C.nucleus
+hart et al 86.nucleus,YDR325W.nucleus
+hart et al 86.nucleolus,YDR325W.nucleolus
+hart et al 86.cytoplasm,YLR272C.cytoplasm
+hart et al 86.nucleus,YLR272C.nucleus
+hart et al 86.nucleolus,YLR272C.nucleolus
+hart et al 87.cytoplasm,YDL159W.cytoplasm
+hart et al 87.cytoplasm,YDR480W.cytoplasm
+hart et al 87.nucleus,YDR480W.nucleus
+hart et al 87.nucleus,YHR084W.nucleus
+hart et al 87.nucleus,YPL049C.nucleus
+hart et al 87.cytoplasm,YGR040W.cytoplasm
+hart et al 87.nucleus,YGR040W.nucleus
+hart et al 88.cytoplasm,YBR011C.cytoplasm
+hart et al 88.nucleus,YBR011C.nucleus
+hart et al 88.unknown,YLR425W.unknown
+hart et al 88.unknown,YDL203C.unknown
+hart et al 88.cytoplasm,YLR371W.cytoplasm
+hart et al 88.bud neck,YLR371W.bud neck
+hart et al 88.bud,YLR371W.bud
+hart et al 88.cytoplasm,YPL066W.cytoplasm
+hart et al 88.bud neck,YPL066W.bud neck
+hart et al 89.cytoplasm,YPL204W.cytoplasm
+hart et al 89.nucleus,YPL204W.nucleus
+hart et al 89.bud neck,YPL204W.bud neck
+hart et al 89.bud,YPL204W.bud
+hart et al 89.cytoplasm,YBR247C.cytoplasm
+hart et al 89.nucleus,YBR247C.nucleus
+hart et al 89.nucleolus,YBR247C.nucleolus
+hart et al 89.cytoplasm,YDL060W.cytoplasm
+hart et al 89.nucleus,YDL060W.nucleus
+hart et al 89.cytoplasm,YKL143W.cytoplasm
+hart et al 89.cytoplasm,YNL207W.cytoplasm
+hart et al 9.nucleus,YAL011W.nucleus
+hart et al 9.nucleus,YDR334W.nucleus
+hart et al 9.nucleus,YJL081C.nucleus
+hart et al 9.unknown,YFL039C.unknown
+hart et al 9.nucleus,YLR399C.nucleus
+hart et al 9.nucleus,YBR231C.nucleus
+hart et al 9.nucleus,YDR190C.nucleus
+hart et al 9.nucleus,YGR002C.nucleus
+hart et al 9.nucleus,YLR385C.nucleus
+hart et al 9.nucleus,YML041C.nucleus
+hart et al 9.cytoplasm,YNL107W.cytoplasm
+hart et al 9.nucleus,YNL107W.nucleus
+hart et al 9.unknown,YPL235W.unknown
+hart et al 9.nucleus,YDL002C.nucleus
+hart et al 9.nucleus,YER092W.nucleus
+hart et al 9.nucleus,YGL150C.nucleus
+hart et al 9.nucleus,YLR052W.nucleus
+hart et al 9.nucleus,YDR485C.nucleus
+hart et al 9.cytoplasm,YLR085C.cytoplasm
+hart et al 9.nucleus,YLR085C.nucleus
+hart et al 9.nucleus,YHR090C.nucleus
+hart et al 9.nucleus,YFL013C.nucleus
+hart et al 9.cytoplasm,YNL059C.cytoplasm
+hart et al 9.nucleus,YNL059C.nucleus
+hart et al 9.nucleus,YOR141C.nucleus
+hart et al 90.cytoplasm,YBL008W.cytoplasm
+hart et al 90.nucleus,YBL008W.nucleus
+hart et al 90.nucleus,YOR038C.nucleus
+hart et al 90.nucleus,YPL153C.nucleus
+hart et al 90.nucleus,YBR215W.nucleus
+hart et al 91.nucleus,YDL175C.nucleus
+hart et al 91.cytoplasm,YIL079C.cytoplasm
+hart et al 91.nucleus,YIL079C.nucleus
+hart et al 91.nucleus,YOL115W.nucleus
+hart et al 91.nucleus,YPL146C.nucleus
+hart et al 92.spindle pole,YAL047C.spindle pole
+hart et al 92.spindle pole,YHR172W.spindle pole
+hart et al 92.spindle pole,YLR212C.spindle pole
+hart et al 92.spindle pole,YNL126W.spindle pole
+hart et al 92.punctate composite,YNL126W.punctate composite
+hart et al 93.spindle pole,YER018C.spindle pole
+hart et al 93.spindle pole,YMR117C.spindle pole
+hart et al 93.spindle pole,YIL144W.spindle pole
+hart et al 93.spindle pole,YOL069W.spindle pole
+hart et al 94.unknown,YER070W.unknown
+hart et al 94.cytoplasm,YJL026W.cytoplasm
+hart et al 94.nucleus,YJL026W.nucleus
+hart et al 94.cytoplasm,YGR180C.cytoplasm
+hart et al 94.nucleus,YGR180C.nucleus
+hart et al 94.nucleus,YOR230W.nucleus
+hart et al 95.nucleus,YOL090W.nucleus
+hart et al 95.cytoplasm,YCR092C.cytoplasm
+hart et al 95.nucleus,YCR092C.nucleus
+hart et al 95.nucleus,YDR097C.nucleus
+hart et al 95.cytoplasm,YIR002C.cytoplasm
+hart et al 95.nucleus,YIR002C.nucleus
+hart et al 96.cytoplasm,YGR262C.cytoplasm
+hart et al 96.nucleus,YGR262C.nucleus
+hart et al 96.cytoplasm,YKR038C.cytoplasm
+hart et al 96.nucleus,YKR038C.nucleus
+hart et al 96.unknown,YJL184W.unknown
+hart et al 96.unknown,YML036W.unknown
+hart et al 97.cytoplasm,YJL164C.cytoplasm
+hart et al 97.nucleus,YJL164C.nucleus
+hart et al 97.cytoplasm,YIL033C.cytoplasm
+hart et al 97.nucleus,YIL033C.nucleus
+hart et al 97.nucleus,YPL203W.nucleus
+hart et al 97.cytoplasm,YKL166C.cytoplasm
+hart et al 97.nucleus,YKL166C.nucleus
+hart et al 98.cytoplasm,YBR126C.cytoplasm
+hart et al 98.cytoplasm,YDR074W.cytoplasm
+hart et al 98.cytoplasm,YML100W.cytoplasm
+hart et al 98.cytoplasm,YMR261C.cytoplasm
+hart et al 99.early Golgi,YBR288C.early Golgi
+hart et al 99.punctate composite,YBR288C.punctate composite
+hart et al 99.early Golgi,YGR261C.early Golgi
+hart et al 99.punctate composite,YGR261C.punctate composite
+hart et al 99.Golgi,YGR261C.Golgi
+hart et al 99.early Golgi,YPL195W.early Golgi
+hart et al 99.early Golgi,YJL024C.early Golgi
+hart et al 99.punctate composite,YJL024C.punctate composite

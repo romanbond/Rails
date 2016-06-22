@@ -1,0 +1,2860 @@
+Q0045,COX1,Cytochrome c oxidase subunit 1,,,,_group828
+Q0080,ATP8,ATP synthase protein 8,,,,_group467
+Q0085,ATP6,ATP synthase a chain precursor,,,,_group467
+Q0115,BI3,Cytochrome b mRNA maturase bI3,2AB5,,,doubleton1
+Q0120,BI4,Intron-encoded RNA maturase bI4 precursor,,,,doubleton2
+Q0130,mitochondrial,ATP synthase protein 9,,,,_group467
+Q0250,COX2,Cytochrome c oxidase subunit 2 precursor,,,,_group828
+Q0275,COX3,Cytochrome c oxidase subunit 3,,,,_group828
+YAL001C,TFC3,Transcription factor tau 138 kDa subunit,,125,475,hart et al 67
+YAL002W,VPS8,Vacuolar protein sorting-associated protein 8,,736,0,hart et al 60
+YAL003W,EFB1,Elongation factor 1-beta,1F60,,,hart et al 118
+YAL005C,SSA1,Heat shock protein SSA1,,269000,77,_group12
+YAL007C,ERP2,Protein ERP2 precursor,,26300,49,hart et al 108
+YAL009W,SPO7,Sporulation-specific protein SPO7,,861,0,doubleton3
+YAL011W,SWC3,SWR1-complex protein 3,,1380,56,hart et al 9
+YAL013W,DEP1,Transcriptional regulatory protein DEP1,,,,hart et al 22
+YAL014C,SYN8,Syntaxin-8,,,,_group228
+YAL016W,TPD3,Protein phosphatase PP2A regulatory subunit A,,16900,180,hart et al 37
+YAL017W,PSK1,Probable serine/threonine-protein kinase YAL017W,,967,3,hart et al 338
+YAL019W,FUN30,Probable ATP-dependent helicase YAL019W,,6800,28,_group1106
+YAL020C,ATS1,Protein ATS1,,,,_group729
+YAL021C,CCR4,Glucose-repressible alcohol dehydrogenase transcriptional effector,,2780,224,hart et al 59
+YAL023C,PMT2,Dolichyl-phosphate-mannose--protein mannosyltransferase 2,,6510,61,doubleton4
+YAL024C,LTE1,Low temperature essential protein,,304,144,hart et al 170
+YAL025C,MAK16,Protein MAK16,,,,_group526
+YAL026C,DRS2,Probable phospholipid-transporting ATPase DRS2,,606,20,_group616
+YAL027W,SAW1,Uncharacterized protein YAL027W,,1170,36,hart et al 154
+YAL028W,FRT2,Protein HPH2,,,,_group1106
+YAL029C,MYO4,Myosin-4,,2210,0,hart et al 33
+YAL030W,SNC1,Synaptobrevin homolog 1,3B5N,,,_group228
+YAL031C,GIP4,Uncharacterized protein YAL031C,,227,17,_group3
+YAL032C,PRP45,Pre-mRNA-processing protein 45,,1670,474,hart et al 16
+YAL033W,POP5,Ribonucleases P/MRP protein subunit POP5,,2230,47,hart et al 55
+YAL034C,FUN19,Uncharacterized protein FUN19,,,,hart et al 373
+YAL034W-A,MTW1,Kinetochore-associated protein MTW1,,2610,-599,hart et al 101
+YAL035W,FUN12,Eukaryotic translation initiation factor 5B,,13400,321,hart et al 19
+YAL036C,RBG1,Uncharacterized GTP-binding protein YAL036C,,11700,57,hart et al 335
+YAL038W,CDC19,Pyruvate kinase 1,1A3W,291000,0,hart et al 150
+YAL040C,CLN3,G1/S-specific cyclin CLN3,,,,_group3
+YAL041W,CDC24,Cell division control protein 24,1Q1O,1010,73,hart et al 366
+YAL042W,ERV46,ER-derived vesicles protein ERV46,,,,hart et al 333
+YAL043C,PTA1,Pre-tRNA-processing protein PTA1,,3730,0,hart et al 11
+YAL047C,SPC72,Uncharacterized protein YAL047C,,639,-191,hart et al 92
+YAL049C,,Uncharacterized protein YAL049C,,1800,560,hart et al 132
+YAL051W,OAF1,Oleate-activated transcription factor 1,,92.3,0,doubleton5
+YAL053W,FLC2,Flavin carrier protein 2 precursor,,414,29,hart et al 13
+YAL055W,PEX22,Peroxisome assembly protein 22,,259,70,_group650
+YAL056W,GPB2,Guanine nucleotide-binding protein subunit beta 2,,0,8,_group535
+YAL059W,ECM1,Protein ECM1,,2840,36,hart et al 328
+YAL060W,R)-butanediol dehydrogenase,(R,,8730,68,hart et al 380
+YAL061W,BDH2,Zinc-type alcohol dehydrogenase-like protein YAL061W,,3090,0,hart et al 380
+YAL062W,GDH3,NADP-specific glutamate dehydrogenase 2,,,,hart et al 322
+YAR002C-A,ERP1,Protein ERP1 precursor,,20700,33,hart et al 108
+YAR002W,NUP60,Nucleoporin NUP60,,4590,15,hart et al 10
+YAR003W,SWD1,COMPASS component SWD1,,907,42,hart et al 52
+YAR007C,RFA1,Replication factor-A protein 1,1YNX,4100,35,hart et al 34
+YAR008W,SEN34,tRNA-splicing endonuclease subunit SEN34,,,,_group463
+YAR014C,BUD14,Bud site selection protein 14,,538,29,hart et al 11
+YAR015W,ADE1,Phosphoribosylaminoimidazole-succinocarboxamide synthase,2CNQ,4280,77,_group240
+YAR019C,CDC15,Cell division control protein 15,,238,109,hart et al 153
+YAR027W,UIP3,ULP1-interacting protein 3,,1690,0,_group565
+YAR030C,,Very hypothetical protein YAR030C,,,,_group565
+YAR033W,MST28,Multicopy suppressor of SEC21 protein 28,,,,doubleton6
+YAR042W,SWH1,Oxysterol-binding protein homolog 1,,,,hart et al 371
+YAR064W,,Uncharacterized protein YAR064W,,1520,0,_group1065
+YBL002W,HTB2,Histone H2B.2,1ID3,443000,-1503,hart et al 128
+YBL003C,HTA2,Histone H2A.2,,32100,167,hart et al 128
+YBL004W,UTP20,Uncharacterized protein YBL004W,,,,hart et al 4
+YBL005W,PDR3,Transcription factor PDR3,,166,51,_group872
+YBL007C,SLA1,Cytoskeleton assembly control protein SLA1,"1SSH,1Z9Z,2HBP",952,41,hart et al 32
+YBL008W,HIR1,Histone transcription regulator 1,,846,49,hart et al 90
+YBL013W,mitochondrial precursor,Methionyl-tRNA formyltransferase,,1070,0,_group1106
+YBL014C,RRN6,RNA polymerase I-specific transcription initiation factor RRN6,,237,33,hart et al 284
+YBL016W,FUS3,Mitogen-activated protein kinase FUS3,2B9H,8480,43,_group988
+YBL017C,PEP1,Vacuolar protein sorting/targeting protein PEP1 precursor,,7210,30,hart et al 32
+YBL018C,POP8,Ribonucleases P/MRP protein subunit POP8,,4870,45,hart et al 55
+YBL019W,APN2,DNA-(apurinic or apyrimidinic site) lyase 2,,414,40,_group978
+YBL021C,HAP3,Transcriptional activator HAP3,,2510,51,hart et al 177
+YBL023C,MCM2,DNA replication licensing factor MCM2,,1690,124,_group787
+YBL025W,RRN10,RNA polymerase I-specific transcription initiation factor RRN10,,0,411,_group1
+YBL026W,LSM2,U6 snRNA-associated Sm-like protein LSm2,,2210,31,hart et al 21
+YBL030C,ATP carrier protein 2,ADP,,,,_group296
+YBL031W,SHE1,Uncharacterized protein YBL031W,,264,0,_group916
+YBL035C,POL12,DNA polymerase subunit alpha B,,11200,52,hart et al 106
+YBL036C,,UPF0001 protein YBL036C,1CT5,4890,-80,hart et al 345
+YBL037W,APL3,AP-2 complex subunit alpha,,1590,47,hart et al 129
+YBL038W,mitochondrial precursor,60S ribosomal protein L16,,2880,276,hart et al 8
+YBL039C,URA7,CTP synthase 1,,57600,389,_group3
+YBL041W,PRE7,Proteasome component C5,1RYP,,,hart et al 13
+YBL044W,,Hypothetical 13.9 kDa protein in QCR1-FUI1 intergenic region,,,,_group853
+YBL045C,mitochondrial precursor,Ubiquinol-cytochrome-c reductase complex core protein 1,3CX5,19300,291,hart et al 200
+YBL046W,PSY4,Serine/threonine-protein phosphatase 4 regulatory subunit 2,,1010,65,hart et al 64
+YBL047C,EDE1,Uncharacterized protein YBL047C,2G3Q,1380,74,hart et al 171
+YBL049W,MOH1,Protein yippee-like MOH1,,,,_group28
+YBL050W,SEC17,Alpha-soluble NSF attachment protein,1QQE,,,hart et al 266
+YBL051C,PIN4,RNA-binding protein PIN4,2A0T,4630,20,_group1162
+YBL052C,SAS3,Histone acetyltransferase SAS3,,0,7,hart et al 275
+YBL056W,PTC3,Protein phosphatase 2C homolog 3,,19700,54,hart et al 159
+YBL058W,SHP1,UBX domain-containing protein 1,,3200,62,hart et al 70
+YBL059W,,Uncharacterized protein YBL059W,,623,71,_group819
+YBL061C,SKT5,Protein SKT5,,2580,10,_group537
+YBL064C,PRX1,Mitochondrial peroxiredoxin PRX1,,4510,117,hart et al 189
+YBL067C,UBP13,Ubiquitin carboxyl-terminal hydrolase 13,,125,32,hart et al 294
+YBL068W,PRS4,Probable ribose-phosphate pyrophosphokinase 4,,5280,116,doubleton7
+YBL071W-A,KTI11,Diphthamide biosynthesis protein 3,1YWS,8400,0,hart et al 71
+YBL072C,RPS8A,40S ribosomal protein S8,,15900,0,hart et al 19
+YBL074C,AAR2,A1 cistron-splicing factor AAR2,,7330,250,hart et al 12
+YBL075C,SSA3,Heat shock protein SSA3,,6440,59,_group492
+YBL078C,ATG8,Autophagy-related protein 8 precursor,,2010,289,_group403
+YBL079W,NUP170,Nucleoporin NUP170,,1560,20,hart et al 304
+YBL080C,mitochondrial precursor,Probable glutamyl-tRNA(Gln) amidotransferase subunit B,,1390,0,doubleton8
+YBL084C,CDC27,Anaphase-promoting complex subunit CDC27,,593,3,hart et al 23
+YBL085W,BOI1,Protein BOB1,,1040,3,_group3
+YBL087C,RPL23A,60S ribosomal protein L23,,,,_group332
+YBL088C,TEL1,Serine/threonine-protein kinase TEL1,,,,_group825
+YBL090W,MRP21,Uncharacterized protein YBL090W,,1270,66,hart et al 3
+YBL093C,ROX3,RNA polymerase II mediator complex subunit 19,,6120,123,hart et al 5
+YBL097W,BRN1,Condensin complex subunit 2,,704,3,hart et al 86
+YBL099W,mitochondrial precursor,ATP synthase subunit alpha,2HLD,41500,49,hart et al 185
+YBL103C,RTG3,Retrograde regulation protein 3,,1050,36,hart et al 268
+YBL105C,PKC1,Protein kinase C-like 1,,,,_group3
+YBL106C,SRO77,Protein SNI2,,,,_group228
+YBR001C,NTH2,Probable trehalase,,2500,29,hart et al 222
+YBR003W,mitochondrial precursor,Hexaprenyl pyrophosphate synthetase,,1560,64,_group920
+YBR009C,HHF1,Histone H4,,524000,62,hart et al 17
+YBR010W,HHT1,Histone H3,,213000,-814,hart et al 128
+YBR011C,IPP1,Inorganic pyrophosphatase,1E9G,68400,883,hart et al 88
+YBR017C,KAP104,Importin beta-2 subunit,,2130,41,hart et al 84
+YBR020W,GAL1,Galactokinase,2AJ4,,,_group1
+YBR023C,CHS3,Chitin synthase 3,,1510,49,_group537
+YBR024W,mitochondrial precursor,Protein SCO2,,1480,13,_group828
+YBR029C,CDS1,Phosphatidate cytidylyltransferase,,,,_group317
+YBR030W,,Uncharacterized protein YBR030W,,7880,37,hart et al 252
+YBR031W,RPL4A,60S ribosomal protein L4-A,,,,hart et al 57
+YBR034C,HMT1,HNRNP arginine N-methyltransferase,1G6Q,37600,43,hart et al 357
+YBR037C,mitochondrial precursor,Protein SCO1,2B7K,2550,74,_group828
+YBR038W,CHS2,Chitin synthase 2,,,,_group1106
+YBR039W,mitochondrial precursor,ATP synthase gamma chain,2HLD,28100,-169,_group570
+YBR041W,FAT1,Very long-chain fatty acid transport protein,,16900,0,_group655
+YBR044C,TCM62,Mitochondrial chaperone TCM62,,,,_group657
+YBR045C,GIP1,GLC7-interacting protein 1,,,,hart et al 378
+YBR050C,REG2,Protein REG2,,,,_group537
+YBR052C,RFS1,Uncharacterized protein YBR052C,,7060,-551,hart et al 361
+YBR055C,PRP6,Pre-mRNA-splicing factor 6,,2250,2,hart et al 12
+YBR058C,UBP14,Ubiquitin carboxyl-terminal hydrolase 14,,3040,39,hart et al 183
+YBR059C,AKL1,Serine/threonine-protein kinase AKL1,,3000,131,_group737
+YBR060C,ORC2,Origin recognition complex subunit 2,,1700,25,hart et al 65
+YBR061C,TRM7,tRNA (uridine-2'-O-)-methyltransferase TRM7,,4110,39,hart et al 346
+YBR064W,,Uncharacterized membrane protein YBR064W,,,,_group853
+YBR065C,ECM2,Pre-mRNA-splicing factor SLT11,,4260,41,hart et al 16
+YBR066C,NRG2,Probable transcriptional regulator NRG2,,704,10,_group299
+YBR073W,RDH54,DNA repair and recombination protein RDH54,,1270,30,_group582
+YBR077C,SLM4,Uncharacterized protein YBR077C,,3490,539,_group658
+YBR079C,RPG1,Eukaryotic translation initiation factor 3 110 kDa subunit,,52700,0,hart et al 19
+YBR080C,SEC18,Vesicular-fusion protein SEC18,1CR5,5920,37,_group524
+YBR081C,SPT7,Transcriptional activator SPT7,,2360,193,hart et al 7
+YBR082C,UBC4,Ubiquitin-conjugating enzyme E2 4,1QCQ,13500,12,hart et al 288
+YBR083W,TEC1,Ty transcription activator TEC1,,530,0,_group988
+YBR084W,mitochondrial precursor,C-1-tetrahydrofolate synthase,,11400,73,doubleton9
+YBR087W,RFC5,Replication factor C subunit 5,1SXJ,5040,138,hart et al 48
+YBR088C,POL30,Proliferating cell nuclear antigen,1PLQ,,,hart et al 317
+YBR089C-A,NHP6B,Nonhistone chromosomal protein 6B,,4590,103,_group1
+YBR091C,MRS5,Mitochondrial import inner membrane translocase subunit TIM12,,,,_group296
+YBR094W,PBY1,TTL domain-containing protein YBR094W,,1770,2,hart et al 104
+YBR095C,RXT2,Transcriptional regulatory protein RXT2,,1630,72,hart et al 22
+YBR097W,VPS15,Serine/threonine-protein kinase VPS15,,279,2,hart et al 131
+YBR098W,MMS4,Crossover junction endonuclease MMS4,,,,_group317
+YBR102C,EXO84,Exocyst complex component EXO84,2D2S,,,hart et al 42
+YBR103W,SIF2,SIR4-interacting protein SIF2,1R5M,1620,39,hart et al 29
+YBR105C,VID24,Vacuolar import and degradation protein 24,,6650,-3982,hart et al 51
+YBR107C,IML3,Central kinetochore subunit IML3,,125,0,hart et al 24
+YBR108W,,Uncharacterized protein YBR108W,,,,_group1013
+YBR109C,CMD1,Calmodulin,1F54,,,hart et al 33
+YBR112C,CYC8,Glucose repression mediator protein CYC8,,3890,13,hart et al 279
+YBR114W,RAD16,DNA repair protein RAD16,,358,33,hart et al 122
+YBR118W,TEF2,Elongation factor 1-alpha,1F60,450,30,_group12
+YBR119W,MUD1,U1 small nuclear ribonucleoprotein A,,2950,-18948,hart et al 14
+YBR122C,mitochondrial precursor,60S ribosomal protein L36,,0,28,hart et al 8
+YBR123C,TFC1,Transcription factor tau 95 kDa subunit,,15800,22,hart et al 67
+YBR125C,PTC4,Protein phosphatase 2C homolog 4,,149,62,hart et al 249
+YBR126C,alpha-trehalose-phosphate synthase [UDP-forming] 56 kDa subunit,Alpha,,10900,-70,hart et al 98
+YBR127C,VMA2,Vacuolar ATP synthase subunit B,,131000,29,hart et al 176
+YBR128C,ATG14,Autophagy-related protein 14,,,,_group383
+YBR130C,SHE3,Uncharacterized protein YBR130C,,1010,70,hart et al 33
+YBR131W,CCZ1,Uncharacterized protein YBR131W,,2870,30,hart et al 293
+YBR133C,HSL7,Protein arginine N-methyltransferase HSL7,,1180,14,_group183
+YBR135W,CKS1,Cyclin-dependent kinases regulatory subunit,1QB3,8780,52,hart et al 43
+YBR136W,MEC1,Serine/threonine-protein kinase MEC1,,,,hart et al 34
+YBR137W,,UPF0303 protein YBR137W,,1200,16,hart et al 127
+YBR138C,,Uncharacterized protein YBR138C,,195,5,_group1106
+YBR140C,IRA1,Inhibitory regulator protein IRA1,,,,_group1080
+YBR142W,MAK5,ATP-dependent RNA helicase MAK5,,981,127,hart et al 20
+YBR143C,SUP45,Eukaryotic peptide chain release factor subunit 1,,13100,62,hart et al 15
+YBR146W,mitochondrial precursor,40S ribosomal protein S9,,,,hart et al 3
+YBR152W,SPP381,Uncharacterized protein YBR152W,,2510,45,hart et al 12
+YBR154C,II,DNA-directed RNA polymerases I,1DZF,,,hart et al 1
+YBR155W,CNS1,Cyclophilin seven suppressor 1,,672,33,_group240
+YBR156C,SLI15,Inner centromere protein-related protein SLI15,,319,13,_group867
+YBR158W,AMN1,Uncharacterized protein YBR158W,,2020,17,_group835
+YBR160W,CDC28,Cell division control protein 28,,6670,-74,hart et al 43
+YBR164C,ARL1,ADP-ribosylation factor-like protein 1,1MOZ,5190,-120,_group837
+YBR167C,POP7,Ribonucleases P/MRP protein subunit POP7,,0,66,hart et al 55
+YBR168W,PEX32,Peroxisomal membrane protein PEX32,,0,49,_group838
+YBR170C,NPL4,Protein NPL4,,1050,29,hart et al 70
+YBR171W,SEC66,Translocation protein SEC66,,7820,-3619,hart et al 112
+YBR173C,UMP1,Proteasome maturation factor UMP1,,2740,17,hart et al 168
+YBR175W,SWD3,COMPASS component SWD3,,0,1181,hart et al 52
+YBR179C,FZO1,Transmembrane GTPase FZO1,,1010,24,_group407
+YBR182C,SMP1,Transcription factor SMP1,,,,_group513
+YBR188C,NTC20,Pre-mRNA-splicing factor NTC20,,1430,-268,hart et al 292
+YBR193C,MED8,RNA polymerase II mediator complex subunit 8,2HZS,937,-1925,hart et al 5
+YBR194W,SOY1,Hypothetical 14.2 kDa protein in RIM2-MSI1 intergenic region,,0,152,hart et al 305
+YBR195C,MSI1,Chromatin assembly factor 1 subunit p50,,149,31,hart et al 134
+YBR196C,PGI1,Glucose-6-phosphate isomerase,,91600,540,hart et al 31
+YBR198C,TAF5,Transcription initiation factor TFIID subunit 5,2J49,14800,21,hart et al 7
+YBR200W,BEM1,Bud emergence protein 1,"2V6V,1IP9",6490,19,_group3
+YBR202W,MCM7,DNA replication licensing factor CDC47,,166,0,_group787
+YBR205W,KTR3,Probable mannosyltransferase KTR3,,704,17,hart et al 84
+YBR208C,DUR1,Urea amidolyase,,2,952,_group626
+YBR211C,AME1,Central kinetochore subunit AME1,,1630,68,hart et al 24
+YBR213W,MET8,Siroheme biosynthesis protein MET8,1KYQ,,,_group1065
+YBR215W,HPC2,Histone promoter control 2 protein,,238,16,hart et al 90
+YBR216C,YBP1,YAP1-binding protein 1,,3060,23,_group359
+YBR217W,ATG12,Autophagy-related protein 12,,,,_group403
+YBR221C,mitochondrial precursor,Pyruvate dehydrogenase E1 component subunit beta,,9970,72,hart et al 158
+YBR223C,TDP1,Tyrosyl-DNA phosphodiesterase 1,1Q32,2130,0,hart et al 70
+YBR225W,,Uncharacterized protein YBR225W,,623,9,hart et al 166
+YBR228W,SLX1,Structure-specific endonuclease SLX1,,,,doubleton10
+YBR229C,ROT2,Glucosidase 2 subunit alpha precursor,,238,27,hart et al 211
+YBR231C,SWC5,SWR1-complex protein 5,,1680,22,hart et al 9
+YBR233W,PBP2,PAB1-binding protein 2,,1590,36,_group980
+YBR233W-A,DAD3,DASH complex subunit DAD3,,468,228,hart et al 41
+YBR234C,ARC40,Probable ARP2/3 complex 41 kDa subunit,,0,66,hart et al 46
+YBR236C,ABD1,mRNA cap guanine-N7 methyltransferase,,,,_group97
+YBR239C,,Probable transcriptional regulatory protein YBR239C,,85.5,16,_group1013
+YBR240C,THI2,Thiamine biosynthesis regulatory protein,,,,doubleton11
+YBR245C,ISW1,ISWI chromatin remodeling complex ATPase ISW1,,1500,37,hart et al 61
+YBR247C,ENP1,Essential nuclear protein 1,,21600,35,hart et al 89
+YBR251W,MRPS5,Probable mitochondrial 40S ribosomal protein S5,,6680,201,hart et al 3
+YBR253W,SRB6,RNA polymerase II mediator complex subunit 22,,2180,176,hart et al 5
+YBR254C,TRS20,Transport protein particle 20 kDa subunit,,1200,0,hart et al 25
+YBR257W,POP4,RNases MRP/P 32.9 kDa subunit,,,,hart et al 55
+YBR258C,SHG1,COMPASS component SHG1,,1520,45,hart et al 52
+YBR260C,RGD1,Protein RGD1,,1500,45,hart et al 239
+YBR264C,YPT10,GTP-binding protein YPT10,,1360,57,hart et al 62
+YBR267W,REI1,Pre-60S factor REI1,,830,116,hart et al 334
+YBR268W,mitochondrial precursor,60S ribosomal protein L37,,1100,-477,hart et al 295
+YBR270C,BIT2,Probable target of rapamycin complex 2 subunit BIT2,,,,_group31
+YBR273C,UBX7,UBX domain-containing protein 7,,2190,47,hart et al 142
+YBR274W,CHK1,Serine/threonine-protein kinase CHK1,,2530,30,_group183
+YBR275C,RIF1,Protein RIF1,,,,_group502
+YBR278W,DPB3,DNA polymerase epsilon subunit C,,784,1162,hart et al 119
+YBR279W,PAF1,RNA polymerase-associated protein 1,,1040,117,hart et al 15
+YBR280C,SAF1,F-box protein YBR280C,,,,hart et al 289
+YBR281C,DUG2,WD repeat protein YBR281C,,1940,56,hart et al 153
+YBR288C,APM3,AP-3 complex subunit mu,,3410,79,hart et al 99
+YBR289W,SNF5,Transcription regulatory protein SNF5,,217,3,hart et al 6
+YBR290W,BSD2,Metal homeostatis protein BSD2,,3070,48,_group240
+YCL008C,STP22,Suppressor protein STP22 of temperature-sensitive alpha-factor receptor and arginine permease,"1UZX,2F6M",1360,46,hart et al 116
+YCL009C,mitochondrial precursor,Acetolactate synthase small subunit,,15800,105,_group666
+YCL010C,SGF29,SAGA-associated factor 29,,1750,42,hart et al 7
+YCL011C,GBP2,Single-strand telomeric DNA-binding protein GBP2,,2540,61,hart et al 28
+YCL014W,BUD3,Bud site selection protein 3,,0,8,_group469
+YCL016C,DCC1,Sister chromatid cohesion protein DCC1,,1660,63,hart et al 296
+YCL017C,mitochondrial precursor,Cysteine desulfurase,,504,0,hart et al 290
+YCL024W,KCC4,Probable serine/threonine-protein kinase KCC4,,538,22,hart et al 319
+YCL027W,FUS1,Nuclear fusion protein FUS1,,,,_group3
+YCL028W,RNQ1,[PIN+] prion protein RNQ1,,1140,51,_group12
+YCL029C,BIK1,Nuclear fusion protein BIK1,,300,77,_group494
+YCL030C,HIS4,Histidine biosynthesis trifunctional protein,,521,0,hart et al 307
+YCL031C,RRP7,Ribosomal RNA-processing protein 7,,2610,101,hart et al 15
+YCL032W,STE50,Protein STE50,1UQV,1670,39,hart et al 245
+YCL034W,LSB5,LAS seventeen-binding protein 5,,,,_group492
+YCL037C,SRO9,RNA-binding protein SRO9,,8430,0,_group12
+YCL039W,GID7,Glucose-induced degradation protein 7,,1200,23,hart et al 51
+YCL040W,GLK1,Glucokinase GLK1,,21100,142,hart et al 83
+YCL043C,PDI1,Protein disulfide-isomerase precursor,2B5E,0,8,hart et al 273
+YCL046W,,Uncharacterized protein YCL046W,,,,_group668
+YCL051W,LRE1,Laminarase-resistance protein LRE1,,,,_group659
+YCL052C,PBN1,Protein PBN1,,4930,-225,doubleton12
+YCL054W,SPB1,AdoMet-dependent rRNA methyltransferase SPB1,,,,hart et al 44
+YCL056C,,Uncharacterized protein YCL056C,,0,37,_group845
+YCL059C,KRR1,Uncharacterized protein YCL059C,,4340,191,hart et al 107
+YCL061C,MRC1,Mediator of replication checkpoint protein 1,,721,98,_group787
+YCL063W,VAC17,Uncharacterized protein YCL063W,,0,31,_group846
+YCL066W,HMLALPHA1,Mating-type protein ALPHA1,,,,_group388
+YCL067C,HMLALPHA2,Mating-type protein ALPHA2,1K61,,,_group388
+YCR002C,CDC10,Cell division control protein 10,,14100,0,hart et al 47
+YCR009C,RVS161,Reduced viability upon starvation protein 161,,7390,50,hart et al 103
+YCR012W,PGK1,Phosphoglycerate kinase,1FW8,314000,199,hart et al 31
+YCR014C,POL4,DNA polymerase IV,,,,hart et al 25
+YCR020C-A,MAK31,N-terminal acetyltransferase C complex subunit MAK31,,2140,0,hart et al 147
+YCR020W-B,HTL1,High temperature lethal protein 1,,3550,30,hart et al 6
+YCR030C,SYP1,Suppressor of yeast profilin deletion,,4280,-2326,hart et al 171
+YCR033W,SNT1,Probable DNA-binding protein SNT1,,396,0,hart et al 29
+YCR035C,RRP43,Exosome complex exonuclease RRP43,,3180,98,hart et al 10
+YCR038C,BUD5,Bud site selection protein 5,,2110,122,_group479
+YCR039C,MATALPHA2,Mating-type protein ALPHA2,,0,107,_group388
+YCR042C,TAF2,Transcription initiation factor TFIID subunit 2,,1160,136,hart et al 173
+YCR046C,mitochondrial precursor,60S ribosomal protein IMG1,,4150,234,hart et al 8
+YCR052W,RSC6,Chromatin structure remodeling complex protein RSC6,,2470,34,hart et al 6
+YCR057C,PWP2,Periodic tryptophan protein 2,,16700,-332,hart et al 4
+YCR059C,YIH1,UPF0029 protein YCR059C,,3030,42,_group521
+YCR060W,TAH1,TPR repeat-containing protein associated with Hsp90,,1660,47,hart et al 286
+YCR063W,BUD31,Bud site selection protein 31,,1900,26,hart et al 16
+YCR065W,HCM1,Forkhead transcription factor HCM1,,358,15,_group1106
+YCR066W,RAD18,Postreplication repair E3 ubiquitin-protein ligase RAD18,,206,22,hart et al 250
+YCR067C,SED4,Protein SED4,,0,62,_group672
+YCR071C,mitochondrial precursor,60S ribosomal protein IMG2,,1710,190,hart et al 8
+YCR072C,RSA4,WD repeat protein YCR072C,,,,hart et al 78
+YCR073C,SSK22,Serine/threonine-protein kinase SSK22,,56.9,0,hart et al 126
+YCR073W-A,SOL2,Probable 6-phosphogluconolactonase 2,,1160,45,hart et al 180
+YCR077C,PAT1,Topoisomerase II-associated protein PAT1,,656,15,hart et al 21
+YCR079W,PTC6,Protein phosphatase 2C-like protein YCR079W,,432,67,hart et al 255
+YCR081W,SRB8,Suppressor of RNA polymerase B SRB8,,1730,41,hart et al 5
+YCR084C,TUP1,Glucose repression regulatory protein TUP1,1ERJ,5840,27,hart et al 279
+YCR086W,CSM1,Monopolin complex subunit CSM1,,1920,0,_group787
+YCR087C-A,LUG1,Uncharacterized protein YCR087C-A,,3430,117,_group55
+YCR088W,ABP1,Actin-binding protein,"1HQZ,1JO8",606,18,hart et al 194
+YCR092C,MSH3,MutS protein homolog 3,,736,21,hart et al 95
+YCR093W,CDC39,General negative regulator of transcription subunit 1,,4300,53,hart et al 59
+YCR095C,OCA4,Uncharacterized protein YCR095C,,5370,104,hart et al 81
+YCR097W,HMRA1,Mating-type protein A1,1MH3,,,_group388
+YCR099C,,Hypothetical 18.0 kDa protein in GIT1-PAU3 intergenic region,,,,_group819
+YDL002C,NHP10,Non-histone protein 10,,1760,54,hart et al 9
+YDL003W,MCD1,Sister chromatid cohesion protein 1,1W1W,1040,0,hart et al 79
+YDL004W,mitochondrial precursor,ATP synthase delta chain,2HLD,,,_group826
+YDL005C,MED2,RNA polymerase II mediator complex subunit 2,,10800,38,hart et al 5
+YDL006W,PTC1,Protein phosphatase 2C homolog 1,,1520,-247,hart et al 193
+YDL007W,RPT2,26S protease regulatory subunit 4 homolog,,0,17,hart et al 2
+YDL008W,APC11,Anaphase-promoting complex subunit 11,,377,11,hart et al 377
+YDL013W,SLX5,Hexose metabolism-related protein HEX3,,0,17,hart et al 126
+YDL014W,NOP1,rRNA 2'-O-methyltransferase fibrillarin,,,,hart et al 392
+YDL015C,TSC13,Enoyl reductase TSC13,,23600,59,_group9
+YDL017W,CDC7,Cell division control protein 7,,1600,35,_group787
+YDL018C,ERP3,Protein ERP3 precursor,,3190,-102,hart et al 359
+YDL019C,OSH2,Oxysterol-binding protein homolog 2,,1070,15,hart et al 371
+YDL020C,RPN4,Protein RPN4,,0,3,_group852
+YDL023C,,,,,,_group853
+YDL025C,,Probable serine/threonine-protein kinase YDL025C,,861,32,hart et al 132
+YDL028C,MPS1,Serine/threonine-protein kinase MPS1,,0,3,_group169
+YDL029W,ARP2,Actin-like protein 2,,6650,-1039,hart et al 46
+YDL030W,PRP9,Pre-mRNA-splicing factor PRP9,,3920,21,hart et al 12
+YDL031W,DBP10,ATP-dependent RNA helicase DBP10,,,,hart et al 44
+YDL035C,GPR1,G protein-coupled receptor GPR1,,0,31,_group535
+YDL040C,NAT1,N-terminal acetyltransferase A complex subunit NAT1,,7600,65,hart et al 69
+YDL042C,SIR2,NAD-dependent histone deacetylase SIR2,2HJH,3350,21,hart et al 121
+YDL043C,PRP11,Pre-mRNA-splicing factor PRP11,,3460,108,hart et al 12
+YDL044C,mitochondrial precursor,Protein NAM1,,2060,0,hart et al 332
+YDL045W-A,mitochondrial precursor,40S ribosomal protein MRP10,,259,0,hart et al 3
+YDL047W,SIT4,Serine/threonine-protein phosphatase PP1-1,,3970,34,hart et al 56
+YDL051W,LHP1,La protein homolog,,,,hart et al 54
+YDL054C,MCH1,Probable transporter MCH1,,,,hart et al 354
+YDL055C,PSA1,Mannose-1-phosphate guanyltransferase,,97100,0,_group55
+YDL056W,MBP1,Transcription factor MBP1,1BM8,521,20,hart et al 148
+YDL059C,RAD59,DNA repair protein RAD59,,468,23,_group269
+YDL060W,TSR1,Ribosome biogenesis protein TSR1,,1390,27,hart et al 89
+YDL064W,UBC9,SUMO-conjugating enzyme UBC9,2GJD,2600,86,_group55
+YDL065C,PEX19,Farnesylated protein PEX19,,5350,56,hart et al 21
+YDL069C,mitochondrial precursor,Cytochrome b translational activator protein CBS1,,556,120,hart et al 352
+YDL074C,BRE1,Ubiquitin-protein ligase BRE1,,2980,61,hart et al 210
+YDL075W,RPL31A,60S ribosomal protein L31,,,,hart et al 369
+YDL076C,RXT3,Transcriptional regulatory protein RXT3,,3060,0,hart et al 22
+YDL077C,VAM6,Vacuolar protein sorting-associated protein 39,,319,0,hart et al 60
+YDL080C,THI3,Thiamine metabolism regulatory protein THI3,,2140,33,doubleton11
+YDL081C,RPP1A,60S acidic ribosomal protein P1-alpha,,,,_group584
+YDL084W,SUB2,ATP-dependent RNA helicase SUB2,,51700,17,hart et al 28
+YDL087C,LUC7,Protein LUC7,,2270,-591,hart et al 14
+YDL088C,ASM4,Nucleoporin ASM4,,2740,32,_group747
+YDL089W,,Uncharacterized membrane protein YDL089W,,606,27,_group787
+YDL090C,RAM1,Protein farnesyltransferase subunit beta,,3910,65,hart et al 167
+YDL091C,UBX3,UBX domain-containing protein 3,,233,7,_group583
+YDL092W,SRP14,Signal recognition particle subunit SRP14,,8000,-272,hart et al 54
+YDL095W,PMT1,Dolichyl-phosphate-mannose--protein mannosyltransferase 1,,41500,171,doubleton4
+YDL097C,RPN6,26S proteasome regulatory subunit RPN6,,16800,51,hart et al 2
+YDL098C,SNU23,23 kDa U4/U6.U5 small nuclear ribonucleoprotein component,,907,35,hart et al 12
+YDL100C,GET3,ATPase GET3,,17300,19,hart et al 144
+YDL101C,DUN1,DNA damage response protein kinase DUN1,2JQL,3480,102,_group1162
+YDL102W,POL3,DNA polymerase delta catalytic subunit,,,,hart et al 160
+YDL105W,NSE4,Non-structural maintenance of chromosome element 4,,0,25,hart et al 196
+YDL106C,PHO2,Regulatory protein PHO2,,6420,48,_group582
+YDL108W,KIN28,Serine/threonine-protein kinase KIN28,,4400,336,hart et al 53
+YDL110C,TMA17,Translation machinery-associated protein 17,,2110,19,_group530
+YDL111C,RRP42,Exosome complex exonuclease RRP42,,7110,-489,hart et al 10
+YDL112W,TRM3,tRNA guanosine-2'-O-methyltransferase TRM3,,861,18,hart et al 29
+YDL113C,ATG20,Sorting nexin-42,,358,55,_group300
+YDL115C,IWR1,Protein IWR1,,1080,40,hart et al 1
+YDL116W,NUP84,Nucleoporin NUP84,,8580,230,hart et al 58
+YDL117W,CYK3,Cytokinesis protein 3,,377,41,hart et al 114
+YDL120W,mitochondrial precursor,Frataxin homolog,2FQL,1560,-179,_group748
+YDL122W,UBP1,Ubiquitin carboxyl-terminal hydrolase 1,,8970,38,_group458
+YDL125C,HNT1,Hit family protein 1,,5410,267,_group749
+YDL126C,CDC48,Cell division control protein 48,,78400,34,hart et al 202
+YDL127W,PCL2,PHO85 cyclin 2,,,,_group582
+YDL130W,RPP1B,60S acidic ribosomal protein P1-beta,,22400,395,_group584
+YDL131W,mitochondrial precursor,Homocitrate synthase,,21900,450,hart et al 63
+YDL132W,CDC53,Cell division control protein 53,,377,0,hart et al 45
+YDL134C,PPH21,Serine/threonine-protein phosphatase PP2A-1 catalytic subunit,,5620,45,hart et al 37
+YDL135C,RDI1,Rho GDP-dissociation inhibitor,,1670,-83,_group3
+YDL137W,ARF2,ADP-ribosylation factor 2,1MR3,25000,113,hart et al 242
+YDL140C,RPO21,DNA-directed RNA polymerase II largest subunit,1TWF,0,22,hart et al 1
+YDL142C,CRD1,Cardiolipin synthetase,,876,0,doubleton13
+YDL143W,CCT4,T-complex protein 1 subunit delta,,5530,125,hart et al 74
+YDL145C,COP1,Coatomer subunit alpha,,15200,92,hart et al 18
+YDL146W,LDB17,Protein LDB17,,329,3,_group986
+YDL147W,RPN5,26S proteasome regulatory subunit RPN5,,5710,87,hart et al 2
+YDL148C,NOP14,Nucleolar complex protein 14,,,,hart et al 4
+YDL150W,RPC53,DNA-directed RNA polymerase III 47 kDa polypeptide,,998,31,hart et al 1
+YDL153C,SAS10,Something about silencing protein 10,,,,_group751
+YDL154W,MSH5,MutS protein homolog 5,,,,_group752
+YDL155W,CLB3,G2/mitotic-specific cyclin-3,,892,20,hart et al 43
+YDL156W,,WD repeat protein YDL156W,,3810,113,hart et al 17
+YDL157C,,Uncharacterized mitochondrial protein YDL157C,,752,37,_group845
+YDL159W,STE7,Serine/threonine-protein kinase STE7,,672,14,hart et al 87
+YDL160C,DHH1,ATP-dependent RNA helicase DHH1,1S2M,42900,176,hart et al 21
+YDL161W,ENT1,Epsin-1,,0,39,_group379
+YDL164C,mitochondrial precursor,DNA ligase I,,149,0,hart et al 27
+YDL165W,CDC36,General negative regulator of transcription subunit 2,,2120,-83,hart et al 343
+YDL175C,AIR2,Protein AIR2,,1800,30,hart et al 91
+YDL178W,mitochondrial precursor,D-lactate dehydrogenase [cytochrome] 2,,11400,38,_group521
+YDL179W,PCL9,PHO85 cyclin 9,,,,_group908
+YDL180W,,Uncharacterized membrane protein YDL180W,,,,_group988
+YDL185W,TFP1,Vacuolar ATP synthase catalytic subunit A,"1UM2,1GPP",200000,109,hart et al 35
+YDL186W,,Uncharacterized protein YDL186W,,,,_group988
+YDL188C,PPH22,Serine/threonine-protein phosphatase PP2A-2 catalytic subunit,,4110,61,hart et al 37
+YDL189W,RBS1,RNA-binding suppressor of PAS kinase protein 1,,892,25,_group1106
+YDL190C,UFD2,Ubiquitin conjugation factor E4,2QIZ,2600,-781,_group228
+YDL192W,ARF1,ADP-ribosylation factor 1,,19300,-366,hart et al 242
+YDL194W,SNF3,High-affinity glucose transporter SNF3,,,,_group260
+YDL195W,SEC31,Protein WEB1,"2PM9,2PM7,2QTV",1840,26,hart et al 162
+YDL199C,,Putative metabolite transport protein YDL199C,,,,_group240
+YDL201W,TRM8,tRNA (guanine-N(7)-)-methyltransferase,2VDV,2630,9287,hart et al 214
+YDL203C,ACK1,Activator of C kinase protein 1,,98.9,24,hart et al 88
+YDL207W,GLE1,Nucleoporin GLE1,,1040,31,_group12
+YDL208W,NHP2,H/ACA ribonucleoprotein complex subunit 2,,,,_group1029
+YDL209C,CWC2,Pre-mRNA-splicing factor CWC2,,2650,75,hart et al 16
+YDL212W,SHR3,Secretory component protein SHR3,,6510,95,doubleton14
+YDL215C,GDH2,NAD-specific glutamate dehydrogenase,,7400,0,hart et al 27
+YDL216C,RRI1,COP9 signalosome complex subunit 5,,0,24,hart et al 45
+YDL217C,TIM22,Mitochondrial import inner membrane translocase subunit TIM22,,,,_group296
+YDL220C,CDC13,Cell division control protein 13,1KXL,319,42,_group508
+YDL225W,SHS1,Seventh homolog of septin 1,,5620,76,hart et al 47
+YDL226C,GCS1,ADP-ribosylation factor GTPase-activating protein GCS1,,9560,109,_group837
+YDL227C,HO,Homothallic switching endonuclease,,0,2,_group673
+YDL229W,SSB1,Heat shock protein SSB1,,170000,149,hart et al 5
+YDL232W,OST4,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit OST4,1RKL,2430,0,_group773
+YDL235C,YPD1,Phosphorelay intermediate protein YPD1,2R25,6330,107,_group148
+YDL239C,ADY3,Accumulates dyads protein 3,,,,_group169
+YDL240W,LRG1,Rho-GTPase-activating protein LRG1,,468,62,_group3
+YDR001C,NTH1,Neutral trehalase,,1840,30,hart et al 222
+YDR002W,YRB1,Ran-specific GTPase-activating protein 1,,,,hart et al 77
+YDR004W,RAD57,DNA repair protein RAD57,,238,34,_group621
+YDR005C,MAF1,Repressor of RNA polymerase III transcription MAF1,,1720,31,_group198
+YDR009W,GAL3,Protein GAL3,,721,18,_group1
+YDR012W,RPL4B,60S ribosomal protein L4-B,,151000,-62,hart et al 63
+YDR013W,PSF1,DNA replication complex GINS protein PSF1,,1430,67,hart et al 85
+YDR016C,DAD1,DASH complex subunit DAD1,,799,80,hart et al 41
+YDR017C,KCS1,Inositol hexakisphosphate kinase 1,,1940,19,hart et al 326
+YDR022C,CIS1,Protein CIS1,,486,165,hart et al 105
+YDR023W,cytoplasmic,Seryl-tRNA synthetase,,,,_group650
+YDR025W,RPS11A,40S ribosomal protein S11,,0,26,hart et al 184
+YDR026C,,Myb domain-containing protein YDR026C,,432,0,_group867
+YDR027C,VPS54,Vacuolar protein sorting-associated protein 54,,2540,29,hart et al 174
+YDR028C,REG1,Protein HEX2,,2560,0,hart et al 117
+YDR032C,PST2,Protoplast secreted protein 2 precursor,,2330,40,hart et al 361
+YDR036C,EHD3,Uncharacterized protein YDR036C,,3950,67,hart et al 3
+YDR041W,mitochondrial precursor,30S ribosomal protein S10,,8480,0,hart et al 3
+YDR043C,NRG1,Transcriptional regulator NRG1,,556,10,_group299
+YDR045C,RPC11,DNA-directed RNA polymerases III 12.5 kDa polypeptide,,,,hart et al 1
+YDR049W,,Zinc finger protein YDR049W,,3930,37,hart et al 70
+YDR051C,,Putative phosphoglycerate mutase YDR051C,,3170,46,hart et al 351
+YDR052C,DBF4,Protein DBF4,,0,12,hart et al 2
+YDR054C,CDC34,Ubiquitin-conjugating enzyme E2-34 kDa,,8170,0,hart et al 27
+YDR060W,MAK21,Ribosome biogenesis protein MAK21,,15000,103,hart et al 251
+YDR062W,LCB2,Serine palmitoyltransferase 2,,54500,29,hart et al 367
+YDR069C,DOA4,Ubiquitin carboxyl-terminal hydrolase 4,,428,69,_group868
+YDR071C,PAA1,Polyamine N-acetyltransferase 1,,8680,47,hart et al 159
+YDR073W,SNF11,Transcription regulatory protein SNF11,,1030,30,_group161
+YDR074W,TPS2,Trehalose-phosphatase,,22700,0,hart et al 98
+YDR075W,PPH3,Serine/threonine-protein phosphatase 4 catalytic subunit,,2840,61,hart et al 64
+YDR076W,RAD55,DNA repair protein RAD55,,1050,14,_group621
+YDR077W,SED1,Cell wall protein SED1 precursor,,1630,0,_group510
+YDR078C,SHU2,Uncharacterized protein YDR078C,,,,_group487
+YDR079C-A,TFB5,RNA polymerase II transcription factor B subunit 5,,,,_group582
+YDR080W,VPS41,Vacuolar protein sorting-associated protein 41,,1170,124,hart et al 60
+YDR082W,STN1,Protein STN1,,,,_group508
+YDR085C,AFR1,Protein AFR1,,,,_group3
+YDR086C,SSS1,Protein transport protein SSS1,,,,_group441
+YDR087C,RRP1,Ribosomal RNA-processing protein 1,,6960,51,hart et al 44
+YDR088C,SLU7,Pre-mRNA-splicing factor SLU7,,1490,79,_group274
+YDR091C,RLI1,Translation initiation factor RLI1,,6280,38,hart et al 19
+YDR092W,UBC13,Ubiquitin-conjugating enzyme E2 13,1JAT,8970,-350,hart et al 102
+YDR093W,DNF2,Probable phospholipid-transporting ATPase DNF2,,0,19,_group1106
+YDR097C,MSH6,MutS protein homolog 6,,5330,31,hart et al 95
+YDR098C,GRX3,Monothiol glutaredoxin-3,,11000,226,hart et al 314
+YDR099W,BMH2,Protein BMH2,,47600,-300,hart et al 114
+YDR100W,TVP15,Golgi apparatus membrane protein TVP15,,4540,76,_group28
+YDR101C,ARX1,Probable metalloprotease ARX1,,45100,96,hart et al 172
+YDR103W,STE5,Protein STE5,,1900,5,_group988
+YDR104C,SPO71,Sporulation-specific protein 71,,,,_group741
+YDR108W,GSG1,Transport protein particle 85 kDa subunit,,8760,42,hart et al 25
+YDR110W,FOB1,DNA replication fork-blocking protein FOB1,,1510,12,_group867
+YDR113C,PDS1,Securin,,,,_group183
+YDR116C,mitochondrial precursor,60S ribosomal protein L1,,7010,47,hart et al 8
+YDR117C,TMA64,Translation machinery-associated protein 64,,3870,-106,_group588
+YDR118W,APC4,Anaphase-promoting complex subunit 4,,1330,100,hart et al 23
+YDR121W,DPB4,DNA polymerase epsilon subunit D,,2100,137,hart et al 119
+YDR123C,INO2,Protein INO2,,784,13,_group582
+YDR129C,SAC6,Fimbrin,,3510,96,hart et al 194
+YDR130C,FIN1,Filament protein FIN1,,,,_group537
+YDR131C,,F-box protein YDR131C,,,,hart et al 133
+YDR135C,YCF1,Metal resistance protein YCF1,,396,56,_group1144
+YDR137W,RGP1,Reduced growth phenotype protein,,589,32,hart et al 141
+YDR138W,HPR1,THO complex subunit HPR1,,1340,27,hart et al 28
+YDR139C,RUB1,NEDD8-like protein RUB1 precursor,,1310,0,_group870
+YDR140W,MTQ2,N5-glutamine methyltransferase MTQ2,,3390,239,_group871
+YDR141C,DOP1,Protein dopey,,2700,23,hart et al 282
+YDR142C,PEX7,Peroxisomal targeting signal 2 receptor,,589,174,_group650
+YDR145W,TAF12,Transcription initiation factor TFIID subunit 12,,930,48,hart et al 7
+YDR146C,SWI5,Transcriptional factor SWI5,"1NCS,1ZFD",688,0,_group582
+YDR148C,mitochondrial precursor,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,,7970,51,hart et al 125
+YDR150W,NUM1,Nuclear migration protein NUM1,,,,_group494
+YDR152W,GIR2,Protein GIR2,,10300,39,hart et al 213
+YDR153C,ENT5,Epsin-5,,8100,21,_group458
+YDR155C,CPR1,Peptidyl-prolyl cis-trans isomerase,1VDN,86000,-528,_group55
+YDR156W,RPA14,DNA-directed RNA polymerase I 14 kDa polypeptide,,3100,-72,hart et al 1
+YDR159W,SAC3,Nuclear mRNA export protein SAC3,,339,35,hart et al 381
+YDR162C,NBP2,NAP1-binding protein 2,1YN8,521,0,hart et al 193
+YDR164C,SEC1,Protein transport protein SEC1,,639,2,_group228
+YDR165W,TRM82,tRNA (guanine-N(7)-)-methyltransferase-associated WD repeat protein TRM82,2VDU,5910,26,hart et al 214
+YDR166C,SEC5,Exocyst complex component SEC5,,3400,28,hart et al 42
+YDR167W,TAF10,Transcription initiation factor TFIID subunit 10,,3370,-67,hart et al 7
+YDR168W,CDC37,Hsp90 co-chaperone Cdc37,,10200,454,_group240
+YDR169C,STB3,Protein STB3,,639,39,_group55
+YDR170C,SEC7,Protein transport protein SEC7,,3670,65,_group701
+YDR171W,HSP42,Heat shock protein 42,,1470,72,hart et al 176
+YDR172W,SUP35,Eukaryotic peptide chain release factor GTP-binding subunit,1YJO,78900,0,hart et al 15
+YDR173C,ARG82,Inositol polyphosphate multikinase,2IEW,2720,367,_group388
+YDR174W,HMO1,High mobility group protein 1,,19000,-472,_group309
+YDR175C,mitochondrial precursor,40S ribosomal protein S24,,3150,30,hart et al 3
+YDR176W,NGG1,Transcriptional adapter 3,,2470,28,hart et al 7
+YDR179C,CSN9,COP9 signalosome complex subunit 9,,358,40,hart et al 45
+YDR180W,SCC2,Sister chromatid cohesion protein 2,,3310,21,_group367
+YDR181C,SAS4,Something about silencing protein 4,,768,21,_group120
+YDR184C,ATC1,Protein ATC1/LIC4,,846,2,_group995
+YDR186C,,Uncharacterized protein YDR186C,,195,0,hart et al 249
+YDR188W,CCT6,T-complex protein 1 subunit zeta,,,,hart et al 74
+YDR189W,SLY1,Protein SLY1,1MQS,5780,32,hart et al 379
+YDR190C,RVB1,RuvB-like protein 1,,11600,-601,hart et al 9
+YDR192C,NUP42,Nucleoporin NUP42,,,,_group12
+YDR195W,REF2,RNA end formation protein 2,,7450,0,hart et al 11
+YDR200C,VPS64,Vacuolar protein sorting-associated protein 64,,377,29,_group680
+YDR201W,SPC19,DASH complex subunit SPC19,,639,-84,hart et al 41
+YDR202C,RAV2,Regulator of V-ATPase in vacuolar membrane protein 2,,2860,1058,hart et al 176
+YDR204W,mitochondrial precursor,Ubiquinone biosynthesis protein COQ4,,,,doubleton15
+YDR205W,MSC2,Probable zinc transporter MSC2,,1070,0,doubleton16
+YDR207C,UME6,Transcriptional regulatory protein UME6,,217,0,hart et al 22
+YDR211W,GCD6,Translation initiation factor eIF-2B subunit epsilon,1PAQ,33800,-302,hart et al 26
+YDR212W,TCP1,T-complex protein 1 subunit alpha,,,,hart et al 74
+YDR213W,UPC2,Sterol uptake control protein 2,,752,33,_group909
+YDR214W,AHA1,Hsp90 co-chaperone AHA1,1USU,13900,34,_group240
+YDR216W,ADR1,Regulatory protein ADR1,"1ARF,1PAA",0,58,_group1
+YDR217C,RAD9,DNA repair protein RAD9,"1K3N,2FF4,1K2N,1K2M",400,-562,_group1162
+YDR221W,GTB1,Glucosidase 2 subunit beta precursor,,9760,26,hart et al 211
+YDR223W,CRF1,Transcription factor CRF1,,,,_group309
+YDR224C,HTB1,Histone H2B.1,,0,-1052,hart et al 39
+YDR225W,HTA1,Histone H2A.1,1ID3,,,hart et al 171
+YDR227W,SIR4,Regulatory protein SIR4,1PL5,,,hart et al 121
+YDR228C,PCF11,Protein PCF11,"1SZ9,2NPI",2800,34,hart et al 115
+YDR229W,IVY1,Protein IVY1,,2840,36,_group916
+YDR231C,mitochondrial precursor,Cytochrome c oxidase protein 20,,,,hart et al 382
+YDR233C,RTN1,Reticulon-like protein 1,,37100,-142,hart et al 130
+YDR235W,PRP42,U1 small nuclear ribonucleoprotein component PRP42,,1730,90,hart et al 14
+YDR237W,mitochondrial precursor,60S ribosomal protein L7,,,,hart et al 8
+YDR238C,SEC26,Coatomer subunit beta,,26000,0,hart et al 18
+YDR239C,,Uncharacterized protein YDR239C,,155,0,_group3
+YDR240C,SNU56,56 kDa U1 small nuclear ribonucleoprotein component,,361,268,hart et al 14
+YDR244W,PEX5,Peroxisomal targeting signal receptor,,2070,23,_group650
+YDR245W,6-mannosyltransferase MNN10,Probable alpha-1,,6280,84,hart et al 36
+YDR246W,TRS23,Transport protein particle 23 kDa subunit,3CUE,3130,0,hart et al 25
+YDR252W,BTT1,Nascent polypeptide-associated complex subunit beta-2,,1820,262,hart et al 59
+YDR253C,MET32,Transcriptional regulator MET32,,,,_group999
+YDR254W,CHL4,Central kinetochore subunit CHL4,,606,35,hart et al 24
+YDR255C,RMD5,Sporulation protein RMD5,,,,hart et al 51
+YDR259C,YAP6,AP-1-like transcription factor YAP6,,1350,21,_group993
+YDR260C,SWM1,Anaphase-promoting complex subunit SWM1,,,,hart et al 23
+YDR264C,AKR1,Palmitoyltransferase AKR1,,4070,90,hart et al 192
+YDR265W,PEX10,Peroxisome assembly protein 10,,0,-677,_group650
+YDR267C,CIA1,Cytosolic iron-sulfur protein assembly protein 1,2HES,5640,97,hart et al 110
+YDR270W,CCC2,Copper-transporting ATPase,2GGP,,,doubleton17
+YDR277C,MTH1,Protein MTH1,,0,28,_group260
+YDR279W,RNH202,Ribonuclease H2 subunit B,,2340,31,hart et al 190
+YDR280W,RRP45,Exosome complex exonuclease RRP45,,4800,0,hart et al 10
+YDR283C,GCN2,Serine/threonine-protein kinase GCN2,"2YZ0,1ZY4",279,29,_group242
+YDR285W,ZIP1,Synaptonemal complex protein ZIP1,,391,0,_group621
+YDR288W,NSE3,Non-structural maintenance of chromosome element 3,,2540,22,hart et al 196
+YDR289C,RTT103,Regulator of Ty1 transposition protein 103,,3930,86,hart et al 149
+YDR292C,SRP101,Signal recognition particle receptor subunit alpha homolog,1NRJ,2000,49,hart et al 299
+YDR293C,SSD1,Protein SSD1,,1100,18,hart et al 64
+YDR295C,HDA2,HDA1 complex subunit 2,,1500,41,hart et al 143
+YDR296W,MHR1,Mitochondrial homologous recombination protein 1,,2610,1417,hart et al 8
+YDR298C,mitochondrial precursor,ATP synthase subunit 5,,32400,-113,hart et al 329
+YDR299W,BFR2,Protein BFR2,,15400,20,hart et al 57
+YDR301W,CFT1,Protein CFT1,,639,-676,hart et al 11
+YDR303C,RSC3,Chromatin structure remodeling complex protein RSC3,,1750,25,hart et al 6
+YDR306C,,F-box protein YDR306C,,,,_group673
+YDR308C,SRB7,RNA polymerase II mediator complex subunit 21,1YKH,1390,-460,hart et al 5
+YDR309C,GIC2,GTPase-interacting component 2,,1130,13,_group3
+YDR310C,SUM1,Suppressor of mar1-1 protein,,149,12,hart et al 313
+YDR311W,TFB1,RNA polymerase II transcription factor B subunit 1,2GS0,5150,35,hart et al 53
+YDR313C,PIB1,E3 ubiquitin-protein ligase PIB1,,195,0,hart et al 353
+YDR314C,RAD34,DNA repair protein RAD34,,78.6,11,hart et al 2
+YDR318W,MCM21,Central kinetochore subunit MCM21,,952,104,hart et al 24
+YDR319C,,Uncharacterized membrane protein YDR319C,,0,44,_group988
+YDR320C,SWA2,Auxilin-like clathrin uncoating factor SWA2,1PGY,768,22,_group379
+YDR320C-A,DAD4,DASH complex subunit DAD4,,967,0,_group544
+YDR322C-A,mitochondrial,ATP synthase e chain,,4590,0,_group826
+YDR322W,mitochondrial precursor,60S ribosomal protein L35,,7700,1206,hart et al 8
+YDR323C,PEP7,Vacuolar segregation protein PEP7,,768,3,_group28
+YDR324C,UTP4,U3 small nucleolar RNA-associated protein 4,,5440,46,hart et al 4
+YDR325W,YCG1,Condensin complex subunit 3,,1920,23,hart et al 86
+YDR328C,SKP1,Suppressor of kinetochore protein 1,1NEX,,,hart et al 133
+YDR329C,PEX3,Peroxisomal biogenesis factor 3,,1400,2,_group650
+YDR330W,UBX5,UBX domain-containing protein 5,,6630,41,hart et al 142
+YDR334W,SWR1,Helicase SWR1,,656,0,hart et al 9
+YDR335W,MSN5,Protein MSN5,,3500,-2587,_group10
+YDR337W,mitochondrial precursor,40S ribosomal protein S28,,6960,50,hart et al 3
+YDR347W,MRP1,Mitochondrial 40S ribosomal protein MRP1,,2840,44,hart et al 3
+YDR348C,,Uncharacterized protein YDR348C,,1480,31,_group1106
+YDR353W,TRR1,Thioredoxin reductase 1,,292000,0,hart et al 218
+YDR356W,SPC110,Protein NUF1,,279,36,_group169
+YDR357C,,Uncharacterized protein YDR357C,,589,22,hart et al 254
+YDR358W,GGA1,ADP-ribosylation factor-binding protein GGA1,,656,0,_group391
+YDR359C,EAF1,Chromatin modification-related protein VID21,,,,hart et al 49
+YDR361C,BCP1,Protein BCP1,,4590,169,hart et al 175
+YDR362C,TFC6,Transcription factor tau 91 kDa subunit,2J04,1130,11,hart et al 67
+YDR363W-A,SEM1,26 proteasome complex subunit SEM1,,5590,37,hart et al 2
+YDR364C,CDC40,Pre-mRNA-processing factor 17,,1630,38,hart et al 16
+YDR365C,ESF1,Pre-rRNA-processing protein ESF1,,656,2,hart et al 184
+YDR369C,XRS2,DNA repair protein XRS2,,358,0,hart et al 163
+YDR373W,FRQ1,Calcium-binding protein NCS-1,1FPW,7160,34,_group547
+YDR377W,mitochondrial precursor,ATP synthase f chain,,14600,50,_group467
+YDR378C,LSM6,U6 snRNA-associated Sm-like protein LSm6,,,,hart et al 21
+YDR379W,RGA2,Rho-type GTPase-activating protein 2,,254,-310,_group3
+YDR381W,YRA1,RNA annealing protein YRA1,,,,hart et al 28
+YDR382W,RPP2B,60S acidic ribosomal protein P2-beta,,602000,-7587,hart et al 349
+YDR383C,NKP1,Central kinetochore subunit NKP1,,,,hart et al 24
+YDR385W,EFT2,Elongation factor 2,1N0U,78100,-626,hart et al 71
+YDR386W,MUS81,Crossover junction endonuclease MUS81,,300,20,_group317
+YDR388W,RVS167,Reduced viability upon starvation protein 167,,14600,41,hart et al 32
+YDR389W,SAC7,GTPase-activating protein SAC7,,1420,16,_group3
+YDR390C,UBA2,Ubiquitin-activating enzyme E1-like,,18800,47,hart et al 201
+YDR392W,SPT3,Protein SPT3,,1710,329,hart et al 7
+YDR394W,RPT3,26S protease regulatory subunit 6B homolog,2DZN,,,hart et al 2
+YDR395W,SXM1,Importin beta SMX1,,16300,196,hart et al 328
+YDR397C,NCB2,Negative cofactor 2 complex subunit beta,,2950,99,doubleton18
+YDR398W,UTP5,U3 small nucleolar RNA-associated protein 5,,33100,0,hart et al 4
+YDR404C,RPB7,DNA-directed RNA polymerase II 19 kDa polypeptide,1Y14,6420,35,hart et al 1
+YDR405W,mitochondrial precursor,60S ribosomal protein L41,,2170,5525,hart et al 8
+YDR407C,TRS120,Transport protein particle 120 kDa subunit,,259,-978,hart et al 25
+YDR409W,SIZ1,E3 SUMO-protein ligase SIZ1,,149,7,_group55
+YDR412W,RRP17,Ribosomal RNA-processing protein 17,,2950,82,_group537
+YDR415C,,Probable aminopeptidase YDR415C precursor,,,,hart et al 247
+YDR416W,SYF1,Pre-mRNA-splicing factor SYF1,,2170,26,hart et al 16
+YDR418W,RPL12B,60S ribosomal protein L12,,50300,4849,_group584
+YDR422C,SIP1,Protein SIP1,,623,23,hart et al 117
+YDR423C,CAD1,AP-1-like transcription activator YAP2,,623,26,_group513
+YDR424C,cytoplasmic,Dynein light chain 1,,1310,10,hart et al 189
+YDR425W,SNX41,Sorting nexin-41,,1800,54,hart et al 203
+YDR427W,RPN9,26S proteasome regulatory subunit RPN9,,12400,116,hart et al 2
+YDR429C,TIF35,Eukaryotic translation initiation factor 3 RNA-binding subunit,,,,hart et al 19
+YDR432W,NPL3,Nucleolar protein 3,"2OSQ,2JVR",78700,0,hart et al 229
+YDR436W,PPZ2,Serine/threonine-protein phosphatase PP-Z2,,189,43,hart et al 344
+YDR439W,LRS4,Monopolin complex subunit LRS4,,1390,38,_group787
+YDR440W,H3 lysine-79 specific,Histone-lysine N-methyltransferase,1U2Z,2160,63,_group404
+YDR441C,APT2,Adenine phosphoribosyltransferase 2,,937,28,doubleton19
+YDR443C,SSN2,Suppressor of RNA polymerase B SSN2,,,,hart et al 5
+YDR446W,ECM11,Extracellular matrix protein 11,,,,_group55
+YDR448W,ADA2,Transcriptional adapter 2,2ELJ,1720,59,hart et al 7
+YDR449C,UTP6,U3 small nucleolar RNA-associated protein 6,,7520,34,hart et al 4
+YDR452W,PPN1,Endopolyphosphatase precursor,,319,9,hart et al 124
+YDR456W,NHX1,Mitochondrial sodium/hydrogen exchanger,,521,147,_group765
+YDR457W,TOM1,E3 ubiquitin protein ligase TOM1,,358,46,_group872
+YDR460W,TFB3,RNA polymerase II transcription factor B subunit 3,,3050,82,hart et al 53
+YDR462W,mitochondrial precursor,60S ribosomal protein L28,,6280,8,hart et al 8
+YDR464W,SPP41,Protein SPP41,,,,_group1002
+YDR468C,TLG1,T-SNARE affecting a late Golgi compartment protein 1,2C5K,,,_group28
+YDR469W,SDC1,COMPASS component SDC1,,937,179,hart et al 52
+YDR470C,UGO1,Protein UGO1,,,,_group407
+YDR472W,TRS31,Transport protein particle 31 kDa subunit,3CUE,8350,0,hart et al 25
+YDR473C,PRP3,U4/U6 small nuclear ribonucleoprotein PRP3,,432,0,hart et al 12
+YDR477W,SNF1,Carbon catabolite derepressing protein kinase,"2EUE,2QLV",589,34,hart et al 76
+YDR478W,SNM1,Ribonuclease MRP protein subunit SNM1,,172,75,_group263
+YDR479C,PEX29,Peroxisomal membrane protein PEX29,,5040,52,_group838
+YDR480W,DIG2,Down-regulator of invasive growth 2,,1310,40,hart et al 87
+YDR484W,VPS52,Vacuolar protein sorting-associated protein 52,,3130,29,hart et al 174
+YDR485C,VPS72,Vacuolar protein sorting-associated protein 72,,358,1855,hart et al 9
+YDR486C,VPS60,Vacuolar protein sorting-associated protein 60,,2110,191,_group766
+YDR488C,PAC11,Protein PAC11,,752,55,hart et al 189
+YDR489W,SLD5,DNA replication complex GINS protein SLD5,,,,hart et al 85
+YDR490C,PKH1,Serine/threonine-protein kinase PKH1,,0,13,hart et al 82
+YDR492W,IZH1,ADIPOR-like receptor IZH1,,0,49,_group886
+YDR496C,PUF6,Protein PUF6,,21500,0,hart et al 20
+YDR498C,SEC20,Protein transport protein SEC20,,4910,39,_group72
+YDR499W,LCD1,DNA damage checkpoint protein LCD1,,606,14,_group170
+YDR501W,PLM2,Transcription factor PLM2,,,,_group1106
+YDR502C,SAM2,S-adenosylmethionine synthetase 2,,22000,0,hart et al 347
+YDR507C,GIN4,Serine/threonine-protein kinase GIN4,,736,0,hart et al 319
+YDR510W,SMT3,Ubiquitin-like protein SMT3 precursor,1EUV,2940,7,_group55
+YDR517W,GRH1,GRASP65 homolog protein 1,,2730,61,hart et al 13
+YDR529C,QCR7,Ubiquinol-cytochrome c reductase complex 14 kDa protein,3CX5,10100,0,_group887
+YDR532C,,Spindle pole body component YDR532C,,377,145,hart et al 374
+YDR533C,HSP31,Probable chaperone HSP31,1RW7,358,-84,_group240
+YEL002C,WBP1,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit WBP1 precursor,,14900,0,hart et al 321
+YEL003W,GIM4,Prefoldin subunit 2,,1660,-308,hart et al 50
+YEL005C,VAB2,Uncharacterized protein YEL005C,,0,75,hart et al 198
+YEL009C,GCN4,General control protein GCN4,2IPZ,0,5,_group1
+YEL012W,UBC8,Ubiquitin-conjugating enzyme E2-24 kDa,,1590,87,_group1163
+YEL013W,VAC8,Vacuolar protein 8,,5680,103,_group9
+YEL015W,EDC3,Enhancer of mRNA decapping protein 3,,2340,61,hart et al 104
+YEL018W,EAF5,Chromatin modification-related protein EAF5,,937,81,hart et al 49
+YEL019C,MMS21,E3 SUMO-protein ligase MMS21,,2800,121,hart et al 197
+YEL020W-A,TIM9,Mitochondrial import inner membrane translocase subunit TIM9,,,,_group296
+YEL022W,GEA2,ARF guanine-nucleotide exchange factor 2,1KU1,7700,16,hart et al 316
+YEL023C,,Hypothetical 78.3 kDa protein in RIP1-GEA2 intergenic region,,,,hart et al 76
+YEL024W,mitochondrial precursor,Ubiquinol-cytochrome c reductase iron-sulfur subunit,3CX5,,,_group12
+YEL026W,SNU13,13 kDa ribonucleoprotein-associated protein,2ALE,,,_group446
+YEL027W,CUP5,Vacuolar ATP synthase subunit c,,8450,0,_group587
+YEL030W,mitochondrial precursor,Heat shock protein SSC3,,,,_group530
+YEL032W,MCM3,DNA replication licensing factor MCM3,,35100,31,_group787
+YEL034W,HYP2,Eukaryotic translation initiation factor 5A-2,,,,_group397
+YEL036C,ANP1,Mannan polymerase II complex ANP1 subunit,,,,hart et al 36
+YEL037C,RAD23,UV excision repair protein RAD23,2QSF,10900,0,_group228
+YEL041W,YEF1,Uncharacterized kinase YEL041W,,300,70,hart et al 384
+YEL043W,,Uncharacterized protein YEL043W,,149,23,doubleton20
+YEL051W,VMA8,Vacuolar ATP synthase subunit D,,8500,0,hart et al 35
+YEL053C,MAK10,N-terminal acetyltransferase C complex subunit MAK10,,1970,0,hart et al 147
+YEL054C,RPL12A,60S ribosomal protein L12,,68500,10,_group949
+YEL055C,POL5,DNA polymerase V,,4490,32,hart et al 4
+YEL056W,HAT2,Histone acetyltransferase type B subunit 2,,,,hart et al 17
+YEL058W,PCM1,Phosphoacetylglucosamine mutase,,14700,43,hart et al 365
+YEL060C,PRB1,Cerevisin precursor,,1600,3,doubleton12
+YEL064C,AVT2,Vacuolar amino acid transporter 2,,,,hart et al 29
+YEL065W,SIT1,Siderophore iron transporter 1,,,,_group510
+YER002W,NOP16,Uncharacterized protein YER002W,,2860,37,_group526
+YER005W,YND1,Golgi apyrase,,450,35,_group772
+YER006W,NUG1,Nuclear GTP-binding protein NUG1,,7130,738,hart et al 30
+YER007C-A,TMA20,Translation machinery-associated protein 20,,4220,74,hart et al 216
+YER007W,PAC2,Protein PAC2,,2140,22,_group594
+YER008C,SEC3,Exocyst complex component SEC3,,377,29,hart et al 42
+YER009W,NTF2,Nuclear transport factor 2,1GY7,,,_group479
+YER011W,TIR1,Cold shock-induced protein TIR1 precursor,,623,2,_group693
+YER012W,PRE1,Proteasome component C11,1RYP,21800,1131,hart et al 13
+YER013W,PRP22,Pre-mRNA-splicing factor ATP-dependent RNA helicase PRP22,,907,45,_group257
+YER016W,BIM1,Protein BIM1,2QJX,3630,56,_group494
+YER017C,AFG3,Mitochondrial respiratory chain complexes assembly protein AFG3,,3870,45,hart et al 257
+YER018C,SPC25,Kinetochore protein SPC25,2FTX,3280,167,hart et al 93
+YER019C-A,SBH2,Protein transport protein SEB2,,414,20,_group773
+YER020W,GPA2,Guanine nucleotide-binding protein alpha-2 subunit,,4570,16,_group535
+YER021W,RPN3,26S proteasome regulatory subunit RPN3,,16700,23,hart et al 2
+YER022W,SRB4,RNA polymerase II mediator complex subunit 17,,3650,39,hart et al 5
+YER023W,PRO3,Pyrroline-5-carboxylate reductase,,43500,-337,_group1065
+YER025W,GCD11,Eukaryotic translation initiation factor 2 subunit gamma,,20800,0,hart et al 26
+YER027C,GAL83,Glucose repression protein GAL83,,3590,34,hart et al 76
+YER029C,SMB1,Small nuclear ribonucleoprotein-associated protein B,,861,-179,hart et al 14
+YER031C,YPT31,GTP-binding protein YPT31/YPT8,3CPJ,5960,77,hart et al 62
+YER032W,FIR1,Factor interacting with REF2,,0,3,_group55
+YER033C,ZRG8,Uncharacterized protein YER033C,,,,_group760
+YER036C,ARB1,Probable ATP-dependent transporter YER036C,,17600,53,_group452
+YER038C,KRE29,DNA repair protein KRE29,,0,172,doubleton21
+YER040W,GLN3,Nitrogen regulatory protein GLN3,,589,3,hart et al 375
+YER041W,YEN1,Uncharacterized protein YER041W,,131,18,_group1106
+YER044C,ERG28,Ergosterol biosynthetic protein 28,,377,3,_group153
+YER047C,SAP1,Protein SAP1,,300,34,hart et al 377
+YER048W-A,ISD11,Protein ISD11,,2440,0,hart et al 290
+YER050C,RSM18,Uncharacterized protein YER050C,,1210,66,hart et al 3
+YER052C,HOM3,Aspartokinase,,48100,78,_group1002
+YER054C,GIP2,GLC7-interacting protein 2,,125,40,_group537
+YER059W,PCL6,PHO85 cyclin 6,,1240,52,_group908
+YER068W,MOT2,General negative regulator of transcription subunit 4,,4280,25,_group361
+YER070W,RNR1,Ribonucleoside-diphosphate reductase large chain 1,2CVX,293000,77,hart et al 94
+YER071C,,Uncharacterized protein YER071C,,799,67,hart et al 100
+YER075C,PTP3,Tyrosine-protein phosphatase 3,,768,38,_group988
+YER081W,SER3,D-3-phosphoglycerate dehydrogenase 1,,7670,192,hart et al 221
+YER082C,UTP7,U3 small nucleolar RNA-associated protein 7,,5800,54,hart et al 4
+YER083C,GET2,Golgi to ER traffic protein 2,,,,hart et al 144
+YER086W,mitochondrial precursor,Threonine dehydratase,,11900,44,_group890
+YER087C-B,SBH1,Protein transport protein SBH1,,,,_group773
+YER089C,PTC2,Protein phosphatase 2C homolog 2,,12600,100,hart et al 159
+YER090W,TRP2,Anthranilate synthase component 1,,6510,39,hart et al 231
+YER092W,IES5,Ino eighty subunit 5,,2280,75,hart et al 9
+YER093C,TSC11,Target of rapamycin complex 2 subunit TSC11,,,,_group31
+YER094C,PUP3,Proteasome component PUP3,1RYP,,,hart et al 13
+YER095W,RAD51,DNA repair protein RAD51,1SZP,6960,60,hart et al 34
+YER100W,UBC6,Ubiquitin-conjugating enzyme E2 6,,1900,26,_group1163
+YER102W,RPS8B,40S ribosomal protein S8,,14400,98,hart et al 19
+YER104W,RTT105,Uncharacterized protein YER104W,,259,3,hart et al 34
+YER107C,GLE2,Nucleoporin GLE2,,1820,0,hart et al 38
+YER110C,KAP123,Importin beta-4 subunit,,38300,130,hart et al 373
+YER111C,SWI4,Regulatory protein SWI4,,589,141,hart et al 148
+YER112W,LSM4,U6 snRNA-associated Sm-like protein LSm4,,3440,217,hart et al 21
+YER114C,BOI2,Protein BOI2,,688,22,hart et al 366
+YER116C,SLX8,Putative RING finger protein YER116C,,,,_group581
+YER117W,RPL23B,60S ribosomal protein L23,,,,hart et al 175
+YER118C,SHO1,Protein SSU81,2VKN,2330,95,_group3
+YER120W,SCS2,Vesicle-associated membrane protein-associated protein SCS2,,3500,553,hart et al 336
+YER122C,GLO3,ADP-ribosylation factor GTPase-activating protein GLO3,,1510,56,hart et al 18
+YER124C,DSE1,Uncharacterized protein YER124C,,3080,2,_group3
+YER125W,RSP5,E3 ubiquitin--protein ligase RSP5,,,,hart et al 80
+YER126C,NSA2,Uncharacterized protein YER126C,,8660,70,hart et al 172
+YER127W,LCP5,U3 small nucleolar ribonucleoprotein protein LCP5,,1430,31,hart et al 57
+YER129W,SAK1,Serine/threonine-protein kinase PAK1,,752,240,_group299
+YER131W,RPS26B,40S ribosomal protein S26-B,,503000,144,_group788
+YER132C,PMD1,Negative regulator of sporulation PMD1,,815,3,_group988
+YER133W,GLC7,Serine/threonine-protein phosphatase PP1-2,,14600,61,hart et al 11
+YER136W,GDI1,Rab GDP-dissociation inhibitor,2BCG,7280,-85,hart et al 113
+YER140W,,Uncharacterized membrane protein YER140W,,,,hart et al 355
+YER143W,DDI1,DNA damage-inducible protein DDI1,2I1A,6510,16,_group228
+YER146W,LSM5,U6 snRNA-associated Sm-like protein LSm5,,,,hart et al 21
+YER147C,SCC4,Sister chromatid cohesion protein 4,,907,136,_group367
+YER148W,SPT15,TATA-box-binding protein,1YTB,,,_group1
+YER149C,PEA2,Protein PEA2,,7820,79,hart et al 269
+YER150W,SPI1,Putative uncharacterized protein YER150W precursor,,,,_group846
+YER151C,UBP3,Ubiquitin carboxyl-terminal hydrolase 3,2QIY,2210,45,hart et al 261
+YER153C,mitochondrial precursor,Protein PET122,,468,83,hart et al 363
+YER154W,mitochondrial precursor,Inner membrane protein OXA1,,6550,0,_group828
+YER155C,BEM2,GTPase-activating protein BEM2/IPL2,,1230,2616,_group464
+YER157W,COG3,Conserved oligomeric Golgi complex subunit 3,,4140,152,hart et al 40
+YER158C,,Uncharacterized protein YER158C,,784,3,_group3
+YER159C,BUR6,Negative cofactor 2 complex subunit alpha,,5130,-1047,doubleton18
+YER161C,SPT2,Protein SPT2,,1240,26,_group519
+YER162C,RAD4,DNA repair protein RAD4,2QSF,876,57,hart et al 122
+YER164W,CHD1,Chromo domain protein 1,"2DY7,2DY8",1620,19,hart et al 15
+YER165W,cytoplasmic and nuclear,Polyadenylate-binding protein,1IFW,198000,0,hart et al 204
+YER167W,BCK2,Protein BCK2,,,,_group1106
+YER171W,RAD3,DNA repair helicase RAD3,,14400,31,hart et al 53
+YER172C,BRR2,Pre-mRNA-splicing helicase BRR2,,1440,8,hart et al 12
+YER173W,RAD24,Checkpoint protein RAD24,,752,15,_group600
+YER174C,GRX4,Monothiol glutaredoxin-4,,7800,-146,hart et al 314
+YER177W,BMH1,Protein BMH1,,158000,0,hart et al 114
+YER178W,mitochondrial precursor,Pyruvate dehydrogenase E1 component subunit alpha,,100000,77,hart et al 158
+YER179W,DMC1,Meiotic recombination protein DMC1,,,,_group582
+YER180C-A,SLO1,SCOCO-like protein 1,,,,_group794
+YER188W,,Hypothetical 27.3 kDa protein in ISC10 3'region,,,,_group988
+YFL002C,SPB4,ATP-dependent rRNA helicase SPB4,,5740,29,hart et al 44
+YFL003C,MSH4,MutS protein homolog 4,,,,_group752
+YFL005W,SEC4,Ras-related protein SEC4,1G16,,,hart et al 62
+YFL007W,BLM10,Proteasome activator BLM10,,2600,6,hart et al 121
+YFL008W,SMC1,Structural maintenance of chromosomes protein 1,1W1W,5710,25,hart et al 79
+YFL009W,CDC4,Cell division control protein 4,"2P63,1NEX",,,_group673
+YFL010W-A,AUA1,Ammonia regulation of amino acid uptake protein,,,,_group1065
+YFL011W,HXT10,Hexose transporter HXT10,,,,_group240
+YFL013C,IES1,Ino eighty subunit 1,,1390,24,hart et al 9
+YFL016C,mitochondrial precursor,DnaJ homolog 1,,7570,53,_group530
+YFL017W-A,SMX2,Small nuclear ribonucleoprotein G,,1400,297,hart et al 12
+YFL018C,mitochondrial precursor,Dihydrolipoyl dehydrogenase,1V59,24600,0,hart et al 125
+YFL022C,FRS2,Phenylalanyl-tRNA synthetase alpha chain,,,,hart et al 208
+YFL023W,BUD27,Bud site selection protein 27,,1300,13,hart et al 50
+YFL024C,EPL1,Enhancer of polycomb-like protein 1,,1110,85,hart et al 49
+YFL026W,STE2,Pheromone alpha factor receptor,1PJD,0,9,_group1028
+YFL029C,CAK1,Serine/threonine-protein kinase CAK1,,0,141,_group1106
+YFL033C,RIM15,Serine/threonine-protein kinase RIM15,,,,hart et al 6
+YFL034C-B,MOB2,CBK1 kinase activator protein MOB2,,2250,18,hart et al 283
+YFL034W,,Uncharacterized membrane protein YFL034W,,1110,64,hart et al 68
+YFL036W,mitochondrial precursor,DNA-directed RNA polymerase,,,,doubleton22
+YFL037W,TUB2,Tubulin beta chain,,,,hart et al 260
+YFL038C,YPT1,GTP-binding protein YPT1,2BCG,,,hart et al 62
+YFL039C,ACT1,Actin,1YAG,,,hart et al 9
+YFL044C,OTU1,Uncharacterized protein YFL044C,3BY4,2770,69,hart et al 70
+YFL048C,EMP47,Protein EMP47 precursor,2A6Z,2900,13,_group392
+YFL049W,SWP82,SWI/SNF global transcription activator complex component SWP82,,3180,3,hart et al 6
+YFL059W,SNZ3,Probable pyridoxine biosynthesis protein SNZ3,,,,hart et al 386
+YFR001W,LOC1,Uncharacterized protein YFR001W,,3650,-548,_group897
+YFR002W,NIC96,Nucleoporin NIC96,2QX5,15500,35,hart et al 38
+YFR003C,YPI1,Uncharacterized protein YFR003C,,1080,0,hart et al 11
+YFR004W,RPN11,26S proteasome regulatory subunit RPN11,,16400,138,hart et al 2
+YFR008W,FAR7,Factor arrest protein 7,,486,36,_group680
+YFR009W,GCN20,Protein GCN20,,14600,47,hart et al 178
+YFR010W,UBP6,Ubiquitin carboxyl-terminal hydrolase 6,1VJV,6770,83,hart et al 2
+YFR011C,,Uncharacterized protein YFR011C,,3550,53,_group785
+YFR013W,IOC3,ISWI one complex protein 3,,1770,87,hart et al 61
+YFR014C,CMK1,Calcium/calmodulin-dependent protein kinase I,,1520,111,_group1065
+YFR015C,GSY1,Glycogen [starch] synthase isoform 1,,6300,36,hart et al 145
+YFR017C,,Uncharacterized protein YFR017C,,639,-249,hart et al 114
+YFR021W,ATG18,Autophagy-related protein 18,,1560,140,hart et al 236
+YFR022W,ROG3,Hypothetical 79.7 kDa protein in FAB1-PES4 intergenic region,,,,_group893
+YFR024C,,,,18000,0,_group492
+YFR024C-A,LSB3,LAS seventeen-binding protein 3,1OOT,3670,17,hart et al 311
+YFR027W,ECO1,N-acetyltransferase ECO1,,,,_group600
+YFR028C,CDC14,Tyrosine-protein phosphatase CDC14,,8550,20,_group867
+YFR030W,MET10,Sulfite reductase [NADPH] flavoprotein component,,1580,53,doubleton23
+YFR031C,SMC2,Structural maintenance of chromosomes protein 2,,3290,41,hart et al 86
+YFR031C-A,RPL2A,60S ribosomal protein L2,,0,257,_group897
+YFR034C,PHO4,Phosphate system positive regulatory protein PHO4,1A0A,,,_group582
+YFR036W,CDC26,Anaphase-promoting complex subunit CDC26,,0,2,hart et al 23
+YFR037C,RSC8,Chromatin structure remodeling complex protein RSC8,,3380,74,hart et al 6
+YFR040W,SAP155,SIT4-associating protein SAP155,,5960,42,hart et al 56
+YFR046C,CNN1,Uncharacterized protein YFR046C,,1300,59,_group741
+YFR049W,mitochondrial precursor,40S ribosomal protein YMR-31,,2050,1628,hart et al 125
+YFR050C,PRE4,Proteasome component PRE4,1RYP,16900,-91,hart et al 13
+YFR051C,RET2,Coatomer subunit delta,,18000,49,hart et al 18
+YFR052W,RPN12,26S proteasome regulatory subunit RPN12,,9890,-171,hart et al 2
+YFR054C,,Uncharacterized protein YFR054C,,300,0,_group1065
+YGL001C,decarboxylating,Sterol-4-alpha-carboxylate 3-dehydrogenase,,2580,154,_group153
+YGL003C,CDH1,APC/C activator protein CDH1,,,,_group183
+YGL005C,COG7,Conserved oligomeric Golgi complex subunit 7,,1360,-320,hart et al 40
+YGL006W,PMC1,Calcium-transporting ATPase 2,,98.9,0,hart et al 350
+YGL011C,SCL1,Proteasome component C7-alpha,1RYP,15200,73,hart et al 13
+YGL013C,PDR1,Transcription factor PDR1,,1300,0,_group629
+YGL016W,KAP122,Pleiotropic drug resistance regulatory protein 6,,9760,80,_group189
+YGL019W,CKB1,Casein kinase II subunit beta,,8120,17,hart et al 15
+YGL020C,GET1,Golgi to ER traffic protein 1,,2250,18,hart et al 144
+YGL022W,STT3,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3,,3000,19,hart et al 327
+YGL025C,PGD1,RNA polymerase II mediator complex subunit 3,,556,21,hart et al 5
+YGL026C,TRP5,Tryptophan synthase,,15500,29,_group55
+YGL030W,RPL30,60S ribosomal protein L30,1NMU,59300,146,_group526
+YGL033W,HOP2,Homologous pairing protein 2,,,,doubleton24
+YGL035C,MIG1,Regulatory protein MIG1,1T5W,830,35,_group299
+YGL043W,DST1,Transcription elongation factor S-II,1PQV,6260,184,hart et al 1
+YGL044C,RNA15,mRNA 3'-end-processing protein RNA15,,6350,71,hart et al 115
+YGL048C,RPT6,26S protease regulatory subunit 8 homolog,,4700,36,hart et al 2
+YGL049C,TIF4632,Eukaryotic initiation factor 4F subunit p130,,3390,43,hart et al 229
+YGL051W,MST27,Multicopy suppressor of SEC21 protein 27,,,,doubleton6
+YGL053W,PRM8,Pheromone-regulated membrane protein 8,,1250,79,doubleton25
+YGL057C,,Hypothetical 33.0 kDa protein in UBC2-OLE1 intergenic region,,0,151,hart et al 378
+YGL058W,RAD6,Ubiquitin-conjugating enzyme E2 2,1AYZ,2770,114,hart et al 250
+YGL060W,YBP2,YAP1-binding protein 2,,3870,45,_group762
+YGL061C,DUO1,DASH complex subunit DUO1,,996,76,hart et al 41
+YGL063W,PUS2,tRNA pseudouridine synthase 2,,,,_group1065
+YGL066W,SGF73,SAGA-associated factor 73,,486,20,hart et al 7
+YGL068W,mitochondrial precursor,60S ribosomal protein L7/L12 homolog,,6940,59,_group601
+YGL070C,RPB9,DNA-directed RNA polymerase II subunit 9,1TWF,2440,87,hart et al 1
+YGL071W,AFT1,Iron-regulated transcriptional activator AFT1,,2730,23,_group340
+YGL073W,HSF1,Heat shock factor protein,,,,_group148
+YGL075C,MPS2,Hypothetical 44.6 kDa protein in RPL7A-HSF1 intergenic region,,,,_group169
+YGL076C,RPL7A,60S ribosomal protein L7-A,,101000,113,hart et al 228
+YGL078C,DBP3,ATP-dependent RNA helicase DBP3,,38900,33,hart et al 6
+YGL079W,,Uncharacterized protein YGL079W,,1630,39,hart et al 198
+YGL086W,MAD1,Spindle assembly checkpoint component MAD1,,656,24,hart et al 270
+YGL087C,MMS2,Ubiquitin-conjugating enzyme variant MMS2,1JAT,2760,51,hart et al 102
+YGL090W,LIF1,Ligase-interacting factor 1,1Z56,876,12,_group630
+YGL092W,NUP145,Nucleoporin NUP145 precursor,3BG1,4630,28,hart et al 58
+YGL093W,SPC105,Spindle pole body component SPC105,,,,hart et al 374
+YGL094C,PAN2,PAB-dependent poly(A)-specific ribonuclease subunit PAN2,,1510,23,hart et al 233
+YGL095C,VPS45,Vacuolar protein sorting-associated protein 45,,5660,68,_group28
+YGL096W,TOS8,Homeobox protein TOS8,,,,_group920
+YGL097W,SRM1,Regulator of chromosome condensation,,12100,0,hart et al 77
+YGL098W,USE1,Protein transport protein USE1,,937,34,hart et al 72
+YGL099W,LSG1,Uncharacterized GTP-binding protein YGL099W,,19400,44,_group452
+YGL100W,SEH1,Nucleoporin SEH1,,952,72,hart et al 58
+YGL103W,RPL28,60S ribosomal protein L28,,,,hart et al 369
+YGL105W,ARC1,GU4 nucleic-binding protein 1,2HQT,57700,0,hart et al 137
+YGL106W,MLC1,Myosin light chain 1,1M45,,,hart et al 33
+YGL111W,NSA1,Uncharacterized protein YGL111W,,2740,48,hart et al 44
+YGL112C,TAF6,Transcription initiation factor TFIID subunit 6,,6510,23,hart et al 7
+YGL113W,SLD3,DNA replication regulator SLD3,,125,16,_group787
+YGL115W,SNF4,Nuclear protein SNF4,2NYC,11700,-126,hart et al 76
+YGL116W,CDC20,APC/C activator protein CDC20,,,,_group183
+YGL120C,PRP43,Pre-mRNA-splicing factor ATP-dependent RNA helicase PRP43,,16900,32,hart et al 206
+YGL122C,NAB2,Nuclear polyadenylated RNA-binding protein NAB2,2V75,9670,44,hart et al 84
+YGL124C,MON1,Hypothetical 73.5 kDa protein in MET13-RPS2 intergenic region,,0,37,hart et al 293
+YGL125W,MET13,Methylenetetrahydrofolate reductase 2,,8600,54,hart et al 234
+YGL127C,SOH1,RNA polymerase II mediator complex subunit 31,,468,911,hart et al 5
+YGL128C,CWC23,Pre-mRNA-splicing factor CWC23,,0,46,hart et al 16
+YGL129C,RSM23,Uncharacterized protein YGL129C,,1300,69,hart et al 3
+YGL130W,CEG1,mRNA capping enzyme subunit alpha,,279,3,hart et al 224
+YGL133W,ITC1,Imitation switch two complex protein 1,,2610,116,hart et al 135
+YGL134W,PCL10,PHO85 cyclin 10,,217,10,_group908
+YGL137W,SEC27,Coatomer subunit beta',,129000,53,hart et al 18
+YGL143C,mitochondrial precursor,Peptide chain release factor 1,,414,123,hart et al 27
+YGL144C,ROG1,Putative lipase ROG1,,0,3,_group1013
+YGL145W,TIP20,Protein transport protein TIP20,,6020,40,hart et al 72
+YGL149W,,Putative uncharacterized protein YGL149W precursor,,,,_group673
+YGL150C,INO80,Putative DNA helicase INO80,,6280,88,hart et al 9
+YGL151W,NUT1,RNA polymerase II mediator complex subunit 5,,2490,-496,hart et al 5
+YGL153W,PEX14,Peroxisomal membrane protein PEX14,2V1R,2570,66,_group650
+YGL154C,LYS5,L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase,,623,94,_group482
+YGL155W,CDC43,Type-1 proteins geranylgeranyltransferase subunit beta,,3940,7806,hart et al 167
+YGL156W,AMS1,Alpha-mannosidase,,319,52,hart et al 181
+YGL158W,RCK1,Serine/threonine-protein kinase RCK1,,,,_group513
+YGL161C,YIP5,Protein YIP5,,937,9,_group28
+YGL162W,SUT1,Sterol uptake protein 1,,1100,21,_group834
+YGL163C,RAD54,DNA repair and recombination protein RAD54,,0,14,_group317
+YGL164C,YRB30,Ran-specific GTPase-activating protein 30,,3670,59,_group479
+YGL172W,NUP49,Nucleoporin NUP49/NSP49,,4760,51,hart et al 38
+YGL173C,KEM1,5'-3' exoribonuclease 1,,11700,81,hart et al 21
+YGL174W,BUD13,Pre-mRNA-splicing factor CWC26,,,,hart et al 360
+YGL178W,MPT5,Suppressor protein MPT5,,1240,0,_group988
+YGL180W,ATG1,Serine/threonine-protein kinase ATG1,,1070,47,_group9
+YGL181W,GTS1,Protein GTS1,,937,63,_group1144
+YGL183C,MND1,Meiotic nuclear division protein 1,,,,doubleton24
+YGL187C,mitochondrial precursor,Cytochrome c oxidase polypeptide IV,"1HR8,2ODX",9410,0,hart et al 271
+YGL189C,RPS26A,40S ribosomal protein S26-A,,16300,0,_group788
+YGL190C,CDC55,Protein phosphatase PP2A regulatory subunit B,,8600,80,hart et al 37
+YGL194C,HOS2,Probable histone deacetylase HOS2,,4890,125,hart et al 29
+YGL195W,GCN1,Translational activator GCN1,,7330,17,hart et al 178
+YGL197W,MDS3,Negative regulator of sporulation MDS3,,396,0,hart et al 166
+YGL198W,YIP4,Protein YIP4,,,,_group28
+YGL200C,EMP24,Endosomal protein P24B precursor,,26800,-152,hart et al 108
+YGL201C,MCM6,DNA replication licensing factor MCM6,,13400,21,_group787
+YGL205W,POX1,Acyl-coenzyme A oxidase,,,,_group650
+YGL206C,CHC1,Clathrin heavy chain,,28700,102,hart et al 267
+YGL207W,SPT16,FACT complex subunit SPT16,3BIQ,18500,26,hart et al 17
+YGL208W,SIP2,Protein SIP2,2QLV,300,0,hart et al 76
+YGL210W,YPT32,GTP-binding protein YPT32/YPT11,,4300,0,hart et al 62
+YGL212W,VAM7,Vacuolar morphogenesis protein 7,1KMD,2360,61,_group9
+YGL213C,SKI8,Antiviral protein SKI8,1SQ9,1710,258,hart et al 109
+YGL215W,CLG1,PHO85 cyclin CLG1,,,,_group908
+YGL216W,KIP3,Kinesin-like protein KIP3,,736,12,_group1106
+YGL220W,,Uncharacterized bolA-like protein YGL220W,,2050,45,_group365
+YGL223C,COG1,Conserved oligomeric Golgi complex subunit 1,,2190,41,hart et al 40
+YGL226C-A,OST5,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit OST5,,1010,0,_group773
+YGL227W,VID30,Vacuolar import and degradation protein 30,,1500,62,hart et al 51
+YGL229C,SAP4,SIT4-associating protein SAP4,,279,39,_group1065
+YGL233W,SEC15,Exocyst complex component SEC15,,4280,43,hart et al 42
+YGL235W,6 intergenic region,Hypothetical 19.3 kDa protein in HAP2-ADE5,,,,_group1106
+YGL236C,mitochondrial precursor,Mitochondrial translation optimization protein 1,,,,doubleton26
+YGL237C,HAP2,Transcriptional activator HAP2,,,,hart et al 177
+YGL238W,CSE1,Importin alpha re-exporter,1WA5,23500,141,_group479
+YGL240W,DOC1,Anaphase-promoting complex subunit DOC1,1GQP,1360,17,hart et al 23
+YGL241W,KAP114,Importin beta-5 subunit,,2940,32,hart et al 39
+YGL242C,,Putative ankyrin repeat-containing protein YGL242C,,,,hart et al 195
+YGL244W,RTF1,RNA polymerase-associated protein RTF1,,6510,23,hart et al 15
+YGL245W,cytoplasmic,Glutamyl-tRNA synthetase,2HRA,48700,53,hart et al 137
+YGL246C,RAI1,RAT1-interacting protein,,4030,82,hart et al 149
+YGL249W,ZIP2,Uncharacterized protein YGL249W,,,,_group673
+YGL252C,RTG2,Retrograde regulation protein 2,,3260,69,hart et al 27
+YGL253W,HXK2,Hexokinase-2,2YHX,114000,0,hart et al 28
+YGL254W,FZF1,Zinc finger protein FZF1,,2120,84,_group482
+YGR002C,SWC4,SWR1-complex protein 4,,2230,48,hart et al 9
+YGR003W,CUL3,Cullin-3,,172,19,_group870
+YGR004W,PEX31,Peroxisomal membrane protein PEX31,,238,0,_group838
+YGR005C,TFG2,Transcription initiation factor IIF subunit beta,,520,-244,hart et al 1
+YGR006W,PRP18,Pre-mRNA-splicing factor 18,1DVK,,,hart et al 24
+YGR009C,SEC9,Protein transport protein SEC9,"3B5N,3B5N",,,_group228
+YGR010W,NMA2,Nicotinamide-nucleotide adenylyltransferase 2,,1430,65,hart et al 280
+YGR013W,SNU71,Uncharacterized protein YGR013W,,782,73,hart et al 14
+YGR014W,MSB2,Protein MSB2,,1320,38,_group3
+YGR016W,,Uncharacterized membrane protein YGR016W,,238,9,hart et al 132
+YGR017W,,Uncharacterized protein YGR017W,,2840,180,hart et al 107
+YGR018C,,Hypothetical 11.9 kDa protein in MSB2-UGA1 intergenic region,,,,_group988
+YGR019W,UGA1,4-aminobutyrate aminotransferase,,573,67,hart et al 385
+YGR020C,VMA7,Vacuolar ATP synthase subunit F,,4050,49,hart et al 35
+YGR021W,,UPF0082 protein YGR021W,,1780,-4890,_group909
+YGR024C,THG1,Uncharacterized protein YGR024C,,1170,-653,_group738
+YGR030C,POP6,Ribonucleases P/MRP protein subunit POP6,,3180,27,_group263
+YGR033C,mitochondrial precursor,Import inner membrane translocase subunit TIM21,2CIU,3770,26,_group530
+YGR034W,RPL26B,60S ribosomal protein L26-B,,33200,-120,_group1065
+YGR035C,,Hypothetical 12.9 kDa protein in RPL26B-ACB1 intergenic region,,,,_group1106
+YGR040W,KSS1,Mitogen-activated protein kinase KSS1,,5480,83,hart et al 87
+YGR041W,BUD9,Bud site selection protein 9,,952,40,doubleton27
+YGR043C,NQM1,Putative transaldolase YGR043C,,1920,61,hart et al 298
+YGR047C,TFC4,Transcription factor tau 131 kDa subunit,,876,23,hart et al 67
+YGR048W,UFD1,Ubiquitin fusion degradation protein 1,1ZC1,3530,70,hart et al 142
+YGR049W,SCM4,Protein SCM4,,3210,29,_group269
+YGR050C,,Hypothetical 13.5 kDa protein in SCM4-MUP1 intergenic region,,,,_group1065
+YGR052W,FMP48,Probable serine/threonine-protein kinase YGR052W,,339,35,hart et al 307
+YGR054W,,Hypothetical 71.3 kDa protein in SCM4-MUP1 intergenic region,,,,hart et al 69
+YGR056W,RSC1,Chromatin structure-remodeling complex protein RSC1,,259,32,hart et al 6
+YGR060W,ERG25,C-4 methylsterol oxidase,,77100,-646,_group153
+YGR063C,SPT4,Transcription elongation factor SPT4,2EXU,4490,0,hart et al 1
+YGR071C,,Uncharacterized protein YGR071C,,1050,38,hart et al 151
+YGR072W,UPF3,Nonsense-mediated mRNA decay protein 3,,1250,33,_group10
+YGR074W,SMD1,Small nuclear ribonucleoprotein Sm D1,,2400,128,hart et al 14
+YGR075C,PRP38,Pre-mRNA-splicing factor 38,,2380,29,hart et al 12
+YGR077C,PEX8,Peroxisomal biogenesis factor 8,,538,26,_group650
+YGR078C,PAC10,Prefoldin subunit 3,,6550,38,hart et al 50
+YGR080W,TWF1,Twinfilin-1,,1470,150,_group521
+YGR082W,TOM20,Mitochondrial import receptor subunit TOM20,,5680,-998,_group1161
+YGR083C,GCD2,Translation initiation factor eIF-2B subunit delta,,10300,0,hart et al 26
+YGR084C,mitochondrial precursor,40S ribosomal protein S13,,16000,82,hart et al 3
+YGR085C,RPL11B,60S ribosomal protein L11-B,,21200,-77,_group350
+YGR086C,PIL1,Sphingolipid long chain base-responsive protein PIL1,,115000,113,hart et al 82
+YGR089W,NNF2,Protein NNF2,,996,16,doubleton20
+YGR090W,UTP22,Nucleolar protein UTP22,,3260,13266,hart et al 156
+YGR091W,PRP31,Pre-mRNA-processing factor 31,,1260,33,hart et al 12
+YGR092W,DBF2,Cell cycle protein kinase DBF2,,3500,11,hart et al 186
+YGR093W,DRN1,Uncharacterized protein YGR093W,,1270,70,hart et al 383
+YGR095C,RRP46,Exosome complex exonuclease RRP46,,10800,101,hart et al 10
+YGR097W,ASK10,Protein ASK10,,0,29,_group957
+YGR098C,ESP1,Separin,,,,_group183
+YGR100W,MDR1,GTPase-activating protein GYP2,,768,106,_group911
+YGR101W,mitochondrial precursor,Rhomboid protein 1,,0,56,doubleton28
+YGR103W,NOP7,Pescadillo homolog,,4530,0,hart et al 30
+YGR104C,SRB5,RNA polymerase II mediator complex subunit 18,2HZM,1010,124,hart et al 5
+YGR108W,CLB1,G2/mitotic-specific cyclin-1,,300,14,_group1106
+YGR109C,CLB6,S-phase entry cyclin-6,,,,_group1106
+YGR110W,,Hypothetical 52.0 kDa protein in CLB6-SHY1 intergenic region,,,,_group986
+YGR113W,DAM1,DASH complex subunit DAM1,,,,hart et al 41
+YGR115C,,Hypothetical 27.2 kDa protein in SHY1-SPT6 intergenic region,,,,_group1028
+YGR116W,SPT6,Transcription elongation factor SPT6,,8890,36,hart et al 341
+YGR119C,NUP57,Nucleoporin NUP57,,9310,14,hart et al 38
+YGR120C,COG2,Conserved oligomeric Golgi complex subunit 2,2JQQ,3270,158,hart et al 40
+YGR123C,PPT1,Serine/threonine-protein phosphatase T,,6990,125,hart et al 123
+YGR124W,ASN2,Asparagine synthetase [glutamine-hydrolyzing] 2,,58200,41,hart et al 258
+YGR128C,UTP8,U3 small nucleolar RNA-associated protein 8,,16800,80,hart et al 4
+YGR129W,SYF2,Pre-mRNA-splicing factor SYF2,,2460,81,hart et al 16
+YGR130C,,Uncharacterized protein YGR130C,,10300,44,hart et al 300
+YGR132C,PHB1,Prohibitin-1,,9690,27,hart et al 36
+YGR133W,PEX4,Ubiquitin-conjugating enzyme E2-21 kDa,,0,82,_group650
+YGR134W,CAF130,Protein CAF130,,1320,10,hart et al 59
+YGR135W,PRE9,Proteasome component Y13,1RYP,17100,47,hart et al 13
+YGR136W,LSB1,LAS17-interacting protein 1,,,,_group1013
+YGR140W,CBF2,Centromere DNA-binding protein complex CBF3 subunit A,,1350,101,_group673
+YGR144W,mitochondrial precursor,Thiazole biosynthetic enzyme,2GJC,,,_group1065
+YGR145W,ENP2,WD repeat protein YGR145W,,,,hart et al 57
+YGR152C,RSR1,Ras-related protein RSR1,,0,11,_group3
+YGR156W,PTI1,Protein PTI1,,937,77,hart et al 11
+YGR158C,MTR3,Exosome complex exonuclease MTR3,,7380,38,hart et al 10
+YGR159C,NSR1,Nuclear localization sequence-binding protein,,77400,-258,hart et al 107
+YGR161C,RTS3,Uncharacterized protein YGR161C,,2100,57,hart et al 37
+YGR162W,TIF4631,Eukaryotic initiation factor 4F subunit p150,"1RF8,2VSO",9760,42,hart et al 75
+YGR165W,MRPS35,Uncharacterized protein YGR165W,,3460,48,hart et al 3
+YGR166W,KRE11,Beta-glucan synthesis-associated protein KRE11,,1660,0,hart et al 25
+YGR167W,CLC1,Clathrin light chain,,3490,23,hart et al 267
+YGR172C,YIP1,Protein transport protein YIP1,,,,_group28
+YGR173W,RBG2,Uncharacterized GTP-binding protein YGR173W,,6200,150,hart et al 213
+YGR174C,mitochondrial precursor,Protein CBP4,,704,759,doubleton29
+YGR175C,ERG1,Squalene monooxygenase,,65400,40,_group153
+YGR178C,PBP1,PAB1-binding protein 1,,2870,-780,_group240
+YGR179C,OKP1,Central kinetochore subunit OKP1,,2690,30,hart et al 24
+YGR180C,RNR4,Ribonucleoside-diphosphate reductase small chain 2,1ZZD,88900,372,hart et al 94
+YGR181W,TIM13,Mitochondrial import inner membrane translocase subunit TIM13,3CJH,,,_group530
+YGR184C,UBR1,Ubiquitin-protein ligase E3 component N-recognin-1,,,,_group182
+YGR185C,cytoplasmic,Tyrosyl-tRNA synthetase,2DLC,2710,121,_group468
+YGR186W,TFG1,Transcription initiation factor IIF subunit alpha,,1920,290,hart et al 1
+YGR187C,HGH1,Protein HGH1,,20800,47,hart et al 71
+YGR188C,BUB1,Checkpoint serine/threonine-protein kinase BUB1,2I3S,414,22,hart et al 388
+YGR191W,HIP1,Histidine permease,,688,23,_group701
+YGR192C,TDH3,Glyceraldehyde-3-phosphate dehydrogenase 3,,169000,0,hart et al 31
+YGR193C,mitochondrial precursor,Pyruvate dehydrogenase complex protein X component,,414,46,_group626
+YGR195W,SKI6,Exosome complex exonuclease RRP41,,5150,-308,hart et al 10
+YGR196C,FYV8,Uncharacterized protein YGR196C,,0,26,hart et al 239
+YGR200C,ELP2,Elongator complex protein 2,,6090,73,hart et al 66
+YGR202C,PCT1,Choline-phosphate cytidylyltransferase,,3050,26,hart et al 10
+YGR204W,cytoplasmic,C-1-tetrahydrofolate synthase,,35600,86,doubleton9
+YGR206W,MVB12,Hypothetical 12.0 kDa protein in ADE3-SER2 intergenic region,2P22,752,16,hart et al 116
+YGR208W,SER2,Phosphoserine phosphatase,,13800,59,doubleton30
+YGR209C,TRX2,Thioredoxin II,2FA4,17200,0,hart et al 348
+YGR210C,,Uncharacterized GTP-binding protein YGR210C,,11600,209,hart et al 4
+YGR215W,RSM27,Hypothetical 12.4 kDa protein in NAB1A-GPI1 intergenic region,,,,hart et al 3
+YGR218W,CRM1,Exportin-1,,7080,51,hart et al 316
+YGR220C,mitochondrial precursor,60S ribosomal protein L9,,3190,65,hart et al 8
+YGR221C,TOS2,Protein TOS2,,56.9,140,_group1106
+YGR222W,PET54,Protein PET54,,799,89,_group1018
+YGR229C,SMI1,Cell wall assembly regulator SMI1,,5680,39,_group468
+YGR231C,PHB2,Prohibitin-2,,2850,39,hart et al 36
+YGR232W,NAS6,Probable 26S proteasome regulatory subunit p28,2DZN,319,-112,hart et al 2
+YGR233C,PHO81,Phosphate system positive regulatory protein PHO81,,2930,41,hart et al 139
+YGR234W,YHB1,Flavohemoprotein,,13000,83,hart et al 161
+YGR238C,KEL2,Kelch repeat-containing protein 2,,468,39,hart et al 170
+YGR239C,PEX21,Uncharacterized protein YGR239C,,,,_group650
+YGR240C,PFK1,6-phosphofructokinase subunit alpha,,89800,0,hart et al 136
+YGR241C,YAP1802,Uncharacterized protein YGR241C,,6800,365,_group379
+YGR244C,mitochondrial precursor,Succinyl-CoA ligase [ADP-forming] subunit beta,,,,hart et al 227
+YGR245C,SDA1,Uncharacterized protein YGR245C,,3640,55,hart et al 78
+YGR246C,BRF1,Transcription factor IIIB 70 kDa subunit,1NGM,4330,26,_group1
+YGR249W,MGA1,Protein MGA1,,,,_group1019
+YGR250C,,Probable RNA-binding protein YGR250C,,1910,24,hart et al 179
+YGR252W,GCN5,Histone acetyltransferase GCN5,"1YGH,1E6I",1180,44,hart et al 7
+YGR253C,PUP2,Proteasome component PUP2,1RYP,17100,-198,hart et al 13
+YGR254W,ENO1,Enolase 1,2AL1,76700,0,hart et al 31
+YGR258C,RAD2,DNA-repair protein RAD2,,846,0,_group395
+YGR261C,APL6,AP-3 complex subunit beta,,3570,54,hart et al 99
+YGR262C,BUD32,Serine/threonine-protein kinase BUD32,,3020,-142,hart et al 96
+YGR263C,SAY1,Hypothetical 48.5 kDa protein in APL6-MES1 intergenic region,,0,26,doubleton31
+YGR264C,cytoplasmic,Methionyl-tRNA synthetase,2HSN,85000,65,hart et al 137
+YGR268C,HUA1,Uncharacterized protein YGR268C,,0,42,_group1013
+YGR270W,YTA7,TAT-binding homolog 7,,172,893,_group1106
+YGR274C,TAF1,Transcription initiation factor TFIID subunit 1,,1500,0,hart et al 7
+YGR275W,RTT102,Regulator of Ty1 transposition protein 102,,1550,-1111,hart et al 6
+YGR278W,CWC22,Pre-mRNA-splicing factor CWC22,,3260,63,hart et al 16
+YGR283C,,Uncharacterized protein YGR283C,,2820,40,hart et al 241
+YGR285C,ZUO1,Zuotin,,86400,107,hart et al 140
+YGR296W,YRF1-3,Y' element ATP-dependent helicase protein 1 copies 3/7,,,,hart et al 29
+YHL002W,HSE1,Uncharacterized protein YHL002W,2PJW,358,23,hart et al 225
+YHL004W,MRP4,Mitochondrial 40S ribosomal protein MRP4,,6890,116,hart et al 3
+YHL006C,SHU1,Suppressor of HU sensitivity involved in recombination protein 1,,,,_group487
+YHL007C,STE20,Serine/threonine-protein kinase STE20,,259,-147,_group3
+YHL011C,PRS3,Ribose-phosphate pyrophosphokinase 3,,,,_group503
+YHL019C,APM2,Adaptin medium chain homolog APM2,,2890,2,hart et al 68
+YHL020C,OPI1,Transcriptional repressor OPI1,,1280,76,hart et al 336
+YHL022C,SPO11,Meiosis-specific protein SPO11,,,,_group634
+YHL023C,RMD11,Uncharacterized protein YHL023C,,,,_group842
+YHL025W,SNF6,Transcription regulatory protein SNF6,,2900,29,hart et al 6
+YHL027W,RIM101,pH-response transcription factor pacC/RIM101,,1820,2,hart et al 34
+YHL029C,OCA5,Hypothetical 77.8 kDa protein in GUT1-RIM1 intergenic region,,12500,26,hart et al 81
+YHL030W,ECM29,Proteasome component ECM29,,2950,19,hart et al 2
+YHL031C,GOS1,Protein transport protein GOS1,,,,_group701
+YHL033C,RPL8A,60S ribosomal protein L8-A,,238000,0,_group452
+YHL035C,VMR1,Probable ATP-dependent permease YHL035C,,,,_group1106
+YHL039W,,Uncharacterized protein YHL039W,,5170,160,hart et al 162
+YHL044W,,DUP240 protein YHL044W,,,,doubleton32
+YHL045W,,Putative UPF0377 family protein YHL045W,,,,_group919
+YHL047C,ARN2,Siderophore iron transporter ARN2,,,,hart et al 7
+YHL050C,,Hypothetical 79.0 kDa protein in CBP2 5'region,,,,_group1106
+YHR004C,NEM1,Nuclear envelope morphology protein 1,,377,97,doubleton3
+YHR005C,GPA1,Guanine nucleotide-binding protein alpha-1 subunit,,9920,71,hart et al 192
+YHR005C-A,MRS11,Mitochondrial import inner membrane translocase subunit TIM10,,,,_group296
+YHR007C,ERG11,Cytochrome P450 51,,73200,0,_group153
+YHR009C,,Uncharacterized protein YHR009C,,5240,82,hart et al 132
+YHR010W,RPL27A,60S ribosomal protein L27,,7380,45,_group452
+YHR012W,VPS29,Vacuolar protein sorting-associated protein 29,,259,87,hart et al 73
+YHR013C,ARD1,N-terminal acetyltransferase A complex catalytic subunit ARD1,,3310,244,hart et al 69
+YHR014W,SPO13,Meiosis-specific protein SPO13,,,,_group702
+YHR015W,MIP6,Probable RNA-binding protein YHR015W,,98.9,2,_group1022
+YHR016C,YSC84,Protein YSC84,2A08,0,8,_group1013
+YHR019C,cytoplasmic,Asparaginyl-tRNA synthetase,,,,doubleton13
+YHR023W,MYO1,Myosin-1,,2140,42,hart et al 323
+YHR024C,mitochondrial precursor,Mitochondrial-processing peptidase alpha subunit,1HR6,31400,53,hart et al 217
+YHR027C,RPN1,26S proteasome regulatory subunit RPN1,,306000,49,hart et al 2
+YHR028C,DAP2,Dipeptidyl aminopeptidase B,,,,_group1065
+YHR030C,SLT2,Mitogen-activated protein kinase SLT2/MPK1,,3230,62,_group468
+YHR031C,RRM3,Putative ATP-dependent helicase YHR031C,,656,8,_group978
+YHR034C,PIH1,Protein interacting with Hsp90 1,,2610,62,hart et al 286
+YHR035W,,Hypothetical 72.3 kDa protein in SLT2-PUT2 intergenic region,,450,38,_group920
+YHR039C-A,VMA10,Vacuolar ATP synthase subunit G,,2280,-1639,hart et al 35
+YHR041C,SRB2,RNA polymerase II mediator complex subunit 20,2HZM,1720,0,hart et al 5
+YHR042W,NCP1,NADPH--cytochrome P450 reductase,2BPO,46600,61,hart et al 29
+YHR052W,CIC1,Proteasome-interacting protein CIC1,,45900,199,hart et al 20
+YHR056C,RSC30,Chromatin structure remodeling complex protein RSC30,,,,hart et al 6
+YHR058C,MED6,RNA polymerase II mediator complex subunit 6,,4820,26,hart et al 5
+YHR059W,FYV4,Uncharacterized protein YHR059W,,2630,11,hart et al 3
+YHR060W,VMA22,Vacuolar ATPase assembly protein VMA22,,752,52,_group487
+YHR061C,GIC1,GTPase-interacting component 1,,1100,2,_group3
+YHR062C,RPP1,Ribonuclease P/MRP protein subunit RPP1,,6300,46,hart et al 55
+YHR064C,SSZ1,Ribosome-associated complex subunit SSZ1,,73600,0,hart et al 140
+YHR066W,SSF1,Ribosome biogenesis protein SSF1,,8150,30,hart et al 18
+YHR068W,DYS1,Deoxyhypusine synthase,,7600,218,_group397
+YHR069C,RRP4,Exosome complex exonuclease RRP4,,4840,74,hart et al 10
+YHR071W,PCL5,PHO85 cyclin 5,,,,_group908
+YHR072W,ERG7,Lanosterol synthase,,2190,18,_group153
+YHR072W-A,NOP10,H/ACA ribonucleoprotein complex subunit 3,1Y2Y,,,_group1029
+YHR073W,OSH3,Oxysterol-binding protein homolog 3,,589,39,_group1025
+YHR074W,QNS1,Glutamine-dependent NAD(+) synthetase,,172,94,hart et al 277
+YHR076W,PTC7,Protein phosphatase 2C homolog 7,,,,hart et al 253
+YHR077C,NMD2,Nonsense-mediated mRNA decay protein 2,,1280,2,_group10
+YHR079C,IRE1,Serine/threonine-protein kinase/endoribonuclease IRE1 precursor,"2BE1,2RIO",259,32,_group928
+YHR081W,LRP1,Hypothetical 21.0 kDa protein in IRE1-KSP1 intergenic region,,,,hart et al 10
+YHR083W,SAM35,Sorting assembly machinery 35 kDa subunit,,1470,0,_group1161
+YHR084W,STE12,Protein STE12,,1920,34,hart et al 87
+YHR085W,IPI1,Uncharacterized protein YHR085W,,4420,-320,hart et al 78
+YHR086W,NAM8,Protein NAM8,,1480,62,hart et al 14
+YHR088W,RPF1,Ribosome production factor 1,,784,57,hart et al 44
+YHR089C,GAR1,H/ACA ribonucleoprotein complex subunit 1,,5730,30,_group1029
+YHR090C,YNG2,Chromatin modification-related protein YNG2,,0,32,hart et al 9
+YHR098C,SFB3,SED5-binding protein 3,,12200,15,hart et al 120
+YHR099W,TRA1,Transcription-associated protein 1,,,,hart et al 7
+YHR102W,KIC1,Serine/threonine-protein kinase KIC1,,1040,0,hart et al 243
+YHR104W,GRE3,NADPH-dependent aldose reductase GRE3,,12900,152,hart et al 350
+YHR106W,mitochondrial precursor,Thioredoxin reductase 2,,414,38,hart et al 218
+YHR107C,CDC12,Cell division control protein 12,,1170,121,hart et al 47
+YHR108W,GGA2,ADP-ribosylation factor-binding protein GGA2,,2270,58,_group458
+YHR110W,ERP5,Protein ERP5 precursor,,0,48,hart et al 359
+YHR114W,BZZ1,Protein BZZ1,"1ZUU,2A28",5440,1187,hart et al 32
+YHR115C,DMA1,RING finger protein YHR115C,,2790,24,hart et al 362
+YHR118C,ORC6,Origin recognition complex subunit 6,,2970,0,hart et al 65
+YHR119W,H3 lysine-4 specific,Histone-lysine N-methyltransferase,2J8A,172,1814,hart et al 52
+YHR121W,LSM12,Protein LSM12,,8320,38,_group240
+YHR122W,,UPF0195 protein YHR122W,,1800,357,hart et al 110
+YHR124W,NDT80,Meiosis-specific transcription factor NDT80,1MNN,,,hart et al 385
+YHR127W,,Uncharacterized protein YHR127W,,2140,-914,_group322
+YHR128W,FUR1,Uracil phosphoribosyltransferase,,,,_group556
+YHR129C,ARP1,Centractin,,1580,-290,_group396
+YHR131C,,PH domain-containing protein YHR131C,,172,39,hart et al 80
+YHR135C,YCK1,Casein kinase I homolog 1,,1630,14,hart et al 278
+YHR137W,ARO9,Aromatic amino acid aminotransferase 2,,7700,56,hart et al 102
+YHR143W-A,II,DNA-directed RNA polymerases I,1TWF,907,-679,_group369
+YHR144C,DCD1,Deoxycytidylate deaminase,,1510,41,_group232
+YHR146W,CRP1,Uncharacterized protein YHR146W,,2990,0,hart et al 130
+YHR147C,mitochondrial precursor,60S ribosomal protein L6,,5680,73,_group632
+YHR148W,IMP3,U3 small nucleolar ribonucleoprotein protein IMP3,,,,hart et al 4
+YHR149C,SKG6,Uncharacterized protein YHR149C,,1550,9,_group1106
+YHR150W,PEX28,Peroxisomal membrane protein PEX28,,,,_group838
+YHR152W,SPO12,Sporulation-specific protein 12,,937,14,hart et al 246
+YHR154W,RTT107,Regulator of Ty1 transposition protein 107,,1380,41,hart et al 27
+YHR156C,LIN1,Protein LIN1,,799,7,_group909
+YHR157W,REC104,Meiotic recombination protein REC104,,,,_group634
+YHR158C,KEL1,Kelch repeat-containing protein 1,,1350,-747,hart et al 170
+YHR159W,,Uncharacterized protein YHR159W,,504,29,_group1106
+YHR160C,PEX18,Hypothetical 32.0 kDa protein in REC104-SOL3 intergenic region,,,,_group650
+YHR161C,YAP1801,Hypothetical 71.7 kDa protein in REC104-SOL3 intergenic region,,623,33,_group379
+YHR164C,DNA2,DNA replication ATP-dependent helicase DNA2,,,,hart et al 34
+YHR165C,PRP8,Pre-mRNA-splicing factor 8,2OG4,468,0,hart et al 12
+YHR166C,CDC23,Anaphase-promoting complex subunit CDC23,,79.7,16,hart et al 23
+YHR167W,THP2,THO complex subunit THP2,,2840,30,hart et al 28
+YHR170W,NMD3,Nonsense-mediated mRNA decay protein 3,,11900,80,hart et al 334
+YHR171W,ATG7,Autophagy-related protein 7,,,,_group403
+YHR172W,SPC97,Spindle pole body component SPC97,,2230,81,hart et al 92
+YHR174W,ENO2,Enolase 2,,2610,27,hart et al 31
+YHR178W,STB5,Protein STB5,,279,37,_group629
+YHR179W,OYE2,NADPH dehydrogenase 2,,15100,107,hart et al 372
+YHR184W,SSP1,Sporulation-specific protein 1,,,,_group169
+YHR185C,PFS1,Prospore formation at selected spindle poles protein 1,,,,_group702
+YHR186C,KOG1,Target of rapamycin complex 1 subunit KOG1,,0,112,_group31
+YHR187W,IKI1,Elongator complex protein 5,,3870,66,hart et al 66
+YHR191C,CTF8,Chromosome transmission fidelity protein 8,,,,hart et al 296
+YHR193C,EGD2,Nascent polypeptide-associated complex subunit alpha,,38000,263,hart et al 264
+YHR195W,NVJ1,Uncharacterized protein YHR195W,,1900,5,_group9
+YHR196W,UTP9,U3 small nucleolar RNA-associated protein 9,,20000,36,hart et al 4
+YHR197W,RIX1,Uncharacterized protein YHR197W,,7820,80,hart et al 78
+YHR199C,FMP34,Uncharacterized protein YHR199C,,4420,88,hart et al 348
+YHR200W,RPN10,26S proteasome regulatory subunit RPN10,,17200,46,hart et al 2
+YHR203C,RPS4B,40S ribosomal protein S4,,102000,0,hart et al 69
+YHR204W,MNL1,Uncharacterized glycosyl hydrolase YHR204W precursor,,656,27,hart et al 273
+YHR206W,SKN7,Transcription factor SKN7,,2570,23,_group148
+YHR216W,IMD2,Inosine-5'-monophosphate dehydrogenase IMD2,,7870,54,hart et al 187
+YIL004C,BET1,Protein transport protein BET1,1PCX,,,_group701
+YIL007C,NAS2,Probable 26S proteasome regulatory subunit p27,,846,674,_group702
+YIL017C,VID28,Vacuolar import and degradation protein 28,,0,7,hart et al 51
+YIL018W,RPL2B,60S ribosomal protein L2,,4050,0,_group897
+YIL021W,RPB3,DNA-directed RNA polymerase II 45 kDa polypeptide,1TWF,10000,29,hart et al 1
+YIL022W,mitochondrial precursor,Import inner membrane translocase subunit TIM44,2FXT,,,_group530
+YIL026C,IRR1,Cohesin subunit SCC3,,4090,42,hart et al 79
+YIL031W,ULP2,Ubiquitin-like-specific protease 2,,450,14,_group1106
+YIL033C,BCY1,cAMP-dependent protein kinase regulatory subunit,,4280,65,hart et al 97
+YIL034C,CAP2,F-actin capping protein subunit beta,,6770,68,hart et al 100
+YIL035C,CKA1,Casein kinase II subunit alpha,,7180,62,hart et al 15
+YIL038C,NOT3,General negative regulator of transcription subunit 3,,2490,64,_group361
+YIL045W,PIG2,GSY2-interacting protein PIG2,,996,2,_group1027
+YIL046W,MET30,F-box protein MET30,,217,3,hart et al 205
+YIL047C,SYG1,Protein SYG1,,1160,22,_group1028
+YIL050W,PCL7,PHO85 cyclin 7,,3390,19,hart et al 18
+YIL053W,RHR2,(DL)-glycerol-3-phosphatase 1,,193000,113,_group55
+YIL061C,SNP1,U1 small nuclear ribonucleoprotein 70 kDa homolog,,736,49,hart et al 14
+YIL062C,ARC15,ARP2/3 complex 16 kDa subunit,,3060,32,hart et al 46
+YIL063C,YRB2,Ran-specific GTPase-activating protein 2,,3620,22,_group479
+YIL065C,FIS1,Mitochondria fission 1 protein,2PQR,2410,0,_group708
+YIL066C,RNR3,Ribonucleoside-diphosphate reductase large chain 2,,1360,64,_group596
+YIL068C,SEC6,Exocyst complex component SEC6,2FJI,1080,28,hart et al 42
+YIL070C,mitochondrial precursor,Mitochondrial acidic protein MAM33,,4910,-1024,hart et al 395
+YIL071C,PCI8,Cop9 signalosome complex subunit 11,,504,33,hart et al 45
+YIL072W,HOP1,Meiosis-specific protein HOP1,,,,_group314
+YIL074C,SER33,D-3-phosphoglycerate dehydrogenase 2,,2010,350,hart et al 221
+YIL075C,RPN2,26S proteasome regulatory subunit RPN2,,4750,400,hart et al 2
+YIL076W,SEC28,Coatomer subunit epsilon,,23100,20,hart et al 18
+YIL078W,cytoplasmic,Threonyl-tRNA synthetase,,42600,0,hart et al 376
+YIL079C,AIR1,Protein AIR1,,1550,29,hart et al 91
+YIL084C,SDS3,Transcriptional regulatory protein SDS3,,105,27,hart et al 22
+YIL093C,RSM25,Uncharacterized protein YIL093C,,1920,-116,hart et al 3
+YIL095W,PRK1,Actin-regulating kinase PRK1,,1320,31,hart et al 117
+YIL097W,FYV10,Uncharacterized protein YIL097W,,784,59,hart et al 51
+YIL098C,mitochondrial precursor,ATP synthase assembly factor FMC1,,589,84,hart et al 274
+YIL101C,XBP1,Transcriptional repressor XBP1,,195,19,_group1106
+YIL103W,DPH1,Diphthamide biosynthesis protein 1,,2530,38,hart et al 71
+YIL104C,SHQ1,Protein SHQ1,,7060,37,_group1029
+YIL105C,5-bisphosphate-binding protein SLM1,Phosphatidylinositol 4,,5190,21,_group31
+YIL106W,MOB1,DBF2 kinase activator protein MOB1,2HJN,5020,87,hart et al 186
+YIL107C,PFK26,6-phosphofructo-2-kinase 1,,1710,25,hart et al 2
+YIL108W,,Putative zinc metalloproteinase YIL108W,,195,19,_group1013
+YIL109C,SEC24,Protein transport protein SEC24,1PCX,,,_group701
+YIL112W,HOS4,Protein HOS4,,0,15,hart et al 29
+YIL113W,SDP1,Probable tyrosine-protein phosphatase YIL113W,2J16,,,_group468
+YIL115C,NUP159,Nucleoporin NUP159,1XIP,1230,82,hart et al 38
+YIL118W,RHO3,Protein RHO3,,5910,171,_group501
+YIL122W,POG1,Uncharacterized protein YIL122W,,736,26,_group1106
+YIL123W,SIM1,Protein SIM1 precursor,,1800,23,_group980
+YIL125W,mitochondrial precursor,2-oxoglutarate dehydrogenase E1 component,,14300,85,hart et al 125
+YIL126W,STH1,Nuclear protein STH1/NPS1,,1990,-166,hart et al 6
+YIL128W,MET18,DNA repair/transcription protein MET18/MMS19,,3150,24,hart et al 110
+YIL129C,TAO3,Cell morphogenesis protein PAG1,,206,299,_group659
+YIL132C,CSM2,Uncharacterized protein YIL132C,,414,0,_group487
+YIL138C,TPM2,Tropomyosin-2,,11100,24,_group521
+YIL139C,REV7,Protein REV7,,,,_group184
+YIL140W,AXL2,Protein AXL2 precursor,,396,114,_group1106
+YIL141W,,Hypothetical 14.4 kDa protein in CCT2-AXL2 intergenic region,,,,_group1
+YIL142W,CCT2,T-complex protein 1 subunit beta,,,,hart et al 74
+YIL143C,SSL2,DNA repair helicase RAD25,,825,2,hart et al 312
+YIL144W,TID3,Kinetochore protein NDC80,,1160,39,hart et al 93
+YIL147C,SLN1,Osmosensing histidine protein kinase SLN1,2R25,656,34,_group148
+YIL148W,RPL40A,60S ribosomal protein L40,,11800,187,_group228
+YIL149C,MLP2,Protein MLP2,,2770,20,_group169
+YIL150C,MCM10,Protein DNA43,,1860,0,_group787
+YIL151C,,Uncharacterized protein YIL151C,,504,13,_group242
+YIL152W,,Hypothetical 27.2 kDa protein in IMP2-DNA43 intergenic region,,,,_group487
+YIL153W,RRD1,Serine/threonine-protein phosphatase 2A activator 1,2IXO,4590,131,hart et al 64
+YIL156W,UBP7,Ubiquitin carboxyl-terminal hydrolase 7,,606,48,_group371
+YIL159W,BNR1,BNI1-related protein 1,,259,20,_group3
+YIL160C,peroxisomal precursor,3-ketoacyl-CoA thiolase,1AFW,0,30,_group650
+YIL161W,,Hypothetical 27.1 kDa protein in SUC2-FOX3 intergenic region,,1230,62,hart et al 157
+YIL173W,VTH1,Putative membrane glycoprotein YIL173W precursor,,319,0,hart et al 153
+YIR001C,SGN1,RNA-binding protein SGN1,,6490,609,hart et al 179
+YIR002C,MPH1,Putative ATP-dependent RNA helicase YIR002C,,,,hart et al 95
+YIR003W,,Uncharacterized protein YIR003W,,450,32,hart et al 100
+YIR004W,DJP1,Uncharacterized J domain-containing protein YIR004W,,8970,167,_group148
+YIR005W,IST3,U2 snRNP component IST3,,922,0,hart et al 360
+YIR006C,PAN1,Protein PAN1,,0,3,hart et al 310
+YIR008C,PRI1,DNA primase small subunit,,197,60,hart et al 106
+YIR009W,MSL1,U2 small nuclear ribonucleoprotein B'',,504,3,_group233
+YIR010W,DSN1,Kinetochore-associated protein DSN1,,1310,22,hart et al 101
+YIR011C,STS1,Protein DBF8,,2120,3,_group522
+YIR012W,SQT1,Ribosome assembly protein SQT1,,19700,0,hart et al 32
+YIR015W,RPR2,Ribonuclease P protein subunit RPR2,,2070,17,_group263
+YIR016W,,Hypothetical 28.9 kDa protein in SQT1-MET28 intergenic region,,,,_group895
+YIR017C,MET28,Transcriptional activator of sulfur metabolism MET28,,,,_group673
+YIR021W,MRS1,Mitochondrial RNA-splicing protein MRS1,,5240,48,doubleton1
+YIR022W,SEC11,Signal peptidase complex catalytic subunit SEC11,,3150,22,doubleton33
+YIR023W,DAL81,Transcriptional activator protein DAL81,,704,0,_group1106
+YIR025W,MND2,Anaphase-promoting complex subunit MND2,,,,hart et al 23
+YIR026C,YVH1,Tyrosine-protein phosphatase YVH1,,7570,40,hart et al 26
+YIR033W,MGA2,Protein MGA2,,300,31,_group893
+YIR038C,GTT1,Glutathione S-transferase I,,0,66,doubleton34
+YJL001W,PRE3,Proteasome component PRE3 precursor,1RYP,7250,36,hart et al 13
+YJL002C,OST1,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit OST1 precursor,,11900,85,hart et al 327
+YJL005W,CYR1,Adenylate cyclase,,0,75,hart et al 139
+YJL006C,CTK2,CTD kinase subunit beta,,1590,28,hart et al 152
+YJL011C,RPC17,Hypothetical 18.6 kDa protein in CCT3-CCT8 intergenic region,2CKZ,2930,319,hart et al 1
+YJL013C,MAD3,Spindle assembly checkpoint component MAD3,2I3T,3170,30,_group183
+YJL014W,CCT3,T-complex protein 1 subunit gamma,,,,hart et al 74
+YJL019W,MPS3,Spindle pole body assembly component MPS3,,,,_group600
+YJL020C,BBC1,Myosin tail region-interacting protein MTI1,1TG0,,,_group55
+YJL023C,PET130,Protein PET130,,721,67,hart et al 339
+YJL024C,APS3,AP-3 complex subunit sigma,,1240,2108,hart et al 99
+YJL025W,RRN7,RNA polymerase I-specific transcription initiation factor RRN7,,398,15,hart et al 284
+YJL026W,RNR2,Ribonucleoside-diphosphate reductase small chain 1,2CVY,538,0,hart et al 94
+YJL029C,VPS53,Vacuolar protein sorting-associated protein 53,,,,hart et al 174
+YJL030W,MAD2,Mitotic spindle checkpoint component MAD2,,1110,24,hart et al 270
+YJL031C,BET4,Geranylgeranyl transferase type-2 alpha subunit,,,,hart et al 356
+YJL033W,HCA4,ATP-dependent RNA helicase DBP4,,7900,38,_group685
+YJL034W,KAR2,78 kDa glucose-regulated protein homolog precursor,,337000,124,_group928
+YJL035C,TAD2,tRNA-specific adenosine deaminase subunit TAD2,,830,14,doubleton35
+YJL036W,SNX4,Sorting nexin-4,,450,201,hart et al 203
+YJL039C,NUP192,Nucleoporin NUP192,,2520,194,_group784
+YJL041W,NSP1,Nucleoporin NSP1,1O6O,2400,13,hart et al 38
+YJL042W,MHP1,MAP-homologous protein 1,,279,125,_group537
+YJL043W,,Hypothetical 29.2 kDa protein in GYP6-MHP1 intergenic region,,,,_group846
+YJL044C,GYP6,GTPase-activating protein GYP6,,2990,43,hart et al 25
+YJL047C,RTT101,Cullin-8,,0,7,hart et al 27
+YJL048C,UBX6,UBX domain-containing protein 6,,1340,38,_group583
+YJL050W,MTR4,ATP-dependent RNA helicase DOB1,,12500,47,hart et al 207
+YJL053W,PEP8,Vacuolar protein sorting-associated protein 26,,,,hart et al 73
+YJL054W,TIM54,Mitochondrial import inner membrane translocase subunit TIM54,,,,_group296
+YJL058C,BIT61,Target of rapamycin complex 2 subunit BIT61,,1960,28,_group31
+YJL060W,BNA3,Probable aminotransferase BNA3,3B46,1600,32,_group1106
+YJL061W,NUP82,Nucleoporin NUP82,,9470,81,hart et al 38
+YJL063C,MRPL8,Mitochondrial 60S ribosomal protein L8,,3030,105,hart et al 8
+YJL064W,,Hypothetical 13.9 kDa protein in SMC3-MRPL8 intergenic region,,,,_group530
+YJL065C,DLS1,Protein DLS1,,3390,29,hart et al 135
+YJL066C,MPM1,Hypothetical 28.5 kDa protein in SMC3-MRPL8 intergenic region,,3390,0,hart et al 342
+YJL069C,UTP18,U3 small nucleolar RNA-associated protein 18,,9570,60,hart et al 4
+YJL070C,,Uncharacterized deaminase YJL070C,,1100,63,hart et al 209
+YJL072C,PSF2,DNA replication complex GINS protein PSF2,,0,-115,hart et al 85
+YJL074C,SMC3,Structural maintenance of chromosomes protein 3,,2660,217,hart et al 79
+YJL076W,NET1,Nucleolar protein NET1,,1590,43,_group867
+YJL080C,SCP160,Protein SCP160,,0,183,hart et al 140
+YJL081C,ARP4,Actin-like protein 4,,1070,86,hart et al 9
+YJL084C,ALY2,Uncharacterized protein YJL084C,,49.2,3,hart et al 80
+YJL085W,EXO70,Exocyst complex component EXO70,2B1E,4280,12,hart et al 42
+YJL089W,SIP4,Protein SIP4,,0,20,_group299
+YJL090C,DPB11,DNA replication regulator DPB11,,540,19,_group232
+YJL092W,SRS2,ATP-dependent DNA helicase SRS2,,5190,42,_group55
+YJL093C,TOK1,Outward-rectifier potassium channel TOK1,,,,_group513
+YJL095W,BCK1,Serine/threonine-protein kinase BCK1/SLK1/SSP31,,112,0,_group468
+YJL097W,PHS1,Protein PHS1,,0,-147,doubleton34
+YJL098W,SAP185,SIT4-associating protein SAP185,,11200,60,hart et al 56
+YJL100W,LSB6,Phosphatidylinositol 4-kinase LSB6,,56.9,-1051,_group492
+YJL104W,PAM16,Mitochondrial import inner membrane translocase subunit TIM16,2GUZ,3180,2275,_group530
+YJL106W,IME2,Meiosis induction protein kinase IME2/SME1,,,,_group535
+YJL107C,,Uncharacterized protein YJL107C,,1480,100,_group793
+YJL109C,UTP10,U3 small nucleolar RNA-associated protein 10,,18200,12,hart et al 4
+YJL110C,GZF3,Protein GZF3,,319,23,_group487
+YJL111W,CCT7,T-complex protein 1 subunit eta,,,,hart et al 331
+YJL112W,MDV1,Mitochondrial division protein 1,2PQN,3730,25,_group708
+YJL115W,ASF1,Anti-silencing protein 1,1ROC,6230,123,hart et al 17
+YJL122W,ALB1,Uncharacterized protein YJL122W,,4780,56,hart et al 172
+YJL124C,LSM1,Sm-like protein LSm1,,3490,76,hart et al 21
+YJL125C,GCD14,tRNA (adenine-N(1)-)-methyltransferase catalytic subunit TRM61,,7220,905,hart et al 232
+YJL128C,PBS2,MAP kinase kinase PBS2,2VKN,2160,36,hart et al 193
+YJL130C,URA2,Protein URA1,,11000,22,_group931
+YJL135W,,Hypothetical 12.4 kDa protein in RPS21B-MRS3 intergenic region,,,,_group903
+YJL137C,GLG2,Glycogen synthesis initiator protein GLG2,,981,6,hart et al 145
+YJL138C,TIF2,ATP-dependent RNA helicase eIF4A,"1QDE,1FUK",,,hart et al 75
+YJL140W,RPB4,DNA-directed RNA polymerase II 32 kDa polypeptide,1Y14,,,hart et al 1
+YJL141C,YAK1,Dual specificity protein kinase YAK1,,,,_group411
+YJL143W,TIM17,Mitochondrial import inner membrane translocase subunit TIM17,,1210,91,_group530
+YJL144W,,Hypothetical 11.7 kDa protein in IDS2-MPI2 intergenic region,,149,15,hart et al 199
+YJL146W,IDS2,IME2-dependent-signaling protein,,1850,0,hart et al 130
+YJL148W,RPA34,Uncharacterized protein YJL148W,,3360,-525,hart et al 1
+YJL149W,DAS1,F-box protein YJL149W,,195,3,_group673
+YJL154C,VPS35,Vacuolar protein sorting-associated protein 35,,2360,320,hart et al 73
+YJL155C,6-bisphosphatase,Fructose-2,,1680,41,hart et al 237
+YJL157C,FAR1,Cyclin-dependent kinase inhibitor FAR1,,238,10,_group3
+YJL159W,HSP150,150 kDa heat shock glycoprotein precursor,,14600,8,_group853
+YJL164C,TPK1,cAMP-dependent protein kinase type 1,1FOT,4320,-171,hart et al 97
+YJL168C,H3 lysine-36 specific,Histone-lysine N-methyltransferase,"1E0N,2C5Z",217,2,_group97
+YJL172W,CPS1,Carboxypeptidase S,,721,9,_group840
+YJL173C,RFA3,Replication factor-A protein 3,,4280,3196,hart et al 34
+YJL176C,SWI3,Transcription regulatory protein SWI3,2FQ3,3150,72,hart et al 6
+YJL179W,PFD1,Prefoldin subunit 1,,721,0,hart et al 50
+YJL180C,mitochondrial precursor,Protein ATP12,,6370,178,hart et al 274
+YJL183W,6-mannosyltransferase MNN11,Probable alpha-1,,3480,8,hart et al 36
+YJL184W,GON7,Uncharacterized protein YJL184W,,2180,-84,hart et al 96
+YJL187C,SWE1,Mitosis inhibitor protein kinase SWE1,,0,88,_group183
+YJL194W,CDC6,Cell division control protein 6,,,,_group673
+YJL199C,MBB1,Hypothetical 12.5 kDa protein in PRP21-UBP12 intergenic region,,,,doubleton36
+YJL203W,PRP21,Pre-mRNA-splicing factor PRP21,,2490,-172,hart et al 12
+YJL204C,RCY1,Recyclin-1,,2700,0,hart et al 2
+YJL208C,NUC1,Mitochondrial nuclease,,3870,40,hart et al 164
+YJL210W,PEX2,Peroxisomal biogenesis factor 2,,339,0,_group650
+YJR002W,MPP10,U3 small nucleolar ribonucleoprotein protein MPP10,,,,hart et al 4
+YJR005W,APL1,AP-2 complex subunit beta,,1670,34,_group712
+YJR006W,POL31,DNA polymerase delta small subunit,,626,43,hart et al 160
+YJR007W,SUI2,Eukaryotic translation initiation factor 2 subunit alpha,2A19,17100,42,hart et al 26
+YJR010C-A,SPC1,Signal peptidase complex subunit SPC1,,5550,135,doubleton33
+YJR011C,,Hypothetical 30.5 kDa protein in SPC1-ILV3 intergenic region,,2560,68,hart et al 59
+YJR012C,,Hypothetical 23.2 kDa protein in SPC1-ILV3 intergenic region,,538,419,_group650
+YJR014W,TMA22,Density-regulated protein homolog,,21600,0,hart et al 216
+YJR017C,ESS1,Peptidyl-prolyl cis-trans isomerase ESS1,,4400,-299,_group97
+YJR022W,LSM8,U6 snRNA-associated Sm-like protein LSm8,,1440,-685,hart et al 12
+YJR031C,GEA1,ARF guanine-nucleotide exchange factor 1,1RE0,2940,-137,_group794
+YJR032W,CPR7,Peptidyl-prolyl cis-trans isomerase CYP7,,3230,41,_group240
+YJR033C,RAV1,Regulator of V-ATPase in vacuolar membrane protein 1,,149,-3757,hart et al 35
+YJR035W,RAD26,DNA repair and recombination protein RAD26,,0,-68,_group894
+YJR041C,URB2,Nucleolar preribosomal-associated protein 2,,1660,32,hart et al 318
+YJR042W,NUP85,Nucleoporin NUP85,,7920,173,hart et al 58
+YJR043C,POL32,DNA polymerase subunit delta 3,,2410,76,hart et al 160
+YJR045C,mitochondrial precursor,Heat shock protein SSC1,,,,hart et al 340
+YJR049C,UTR1,NAD(+) kinase,,5040,16,hart et al 384
+YJR050W,ISY1,Pre-mRNA-splicing factor ISY1,,1990,17,hart et al 292
+YJR051W,OSM1,Osmotic growth protein 1,,432,18,hart et al 13
+YJR052W,RAD7,DNA repair protein RAD7,,937,37,hart et al 303
+YJR053W,BFA1,Mitotic check point protein BFA1,,1380,38,hart et al 285
+YJR054W,,Uncharacterized vacuolar membrane protein YJR054W,,538,0,_group1106
+YJR058C,APS2,AP-2 complex subunit sigma,,1390,145,hart et al 129
+YJR059W,PTK2,Serine/threonine-protein kinase PTK2/STK2,,1420,50,_group1106
+YJR060W,CBF1,Centromere-binding protein 1,,6890,38,_group673
+YJR062C,NTA1,Protein N-terminal amidase,,1640,55,hart et al 2
+YJR063W,RPA12,DNA-directed RNA polymerase I 13.7 kDa polypeptide,,8450,90,hart et al 1
+YJR064W,CCT5,T-complex protein 1 subunit epsilon,,,,hart et al 74
+YJR065C,ARP3,Actin-like protein 3,,6650,0,hart et al 46
+YJR066W,TOR1,Serine/threonine-protein kinase TOR1,1W1N,589,5,_group31
+YJR067C,YAE1,Hypothetical 16.1 kDa protein in TOR1-RFC2 intergenic region,,1500,-385,_group886
+YJR068W,RFC2,Replication factor C subunit 2,1SXJ,4610,31,hart et al 48
+YJR070C,LIA1,Hypothetical 36.2 kDa protein in HAM1-PEM2 intergenic region,,39900,63,_group397
+YJR072C,NPA3,ATPase NPA3,,15200,141,_group222
+YJR073C,OPI3,Methylene-fatty-acyl-phospholipid synthase,,5890,203,_group1065
+YJR074W,MOG1,Nuclear import protein MOG1,1EQ6,2840,29,hart et al 77
+YJR075W,HOC1,Putative glycosyltransferase HOC1,,7160,8,hart et al 36
+YJR076C,CDC11,Cell division control protein 11,,9280,62,hart et al 47
+YJR082C,EAF6,Chromatin modification-related protein EAF6,,504,184,hart et al 49
+YJR083C,ACF4,Hypothetical 35.5 kDa protein in MIR1-STE18 intergenic region,,1140,57,_group1013
+YJR084W,CSN12,Cop9 signalosome complex subunit 12,,1510,25,_group341
+YJR086W,STE18,Guanine nucleotide-binding protein subunit gamma,,5550,0,_group1028
+YJR087W,,Hypothetical 13.1 kDa protein in STE18-GRR1 intergenic region,,,,_group1
+YJR089W,BIR1,Protein BIR1,,,,_group673
+YJR090C,GRR1,SCF E3 ubiquitin ligase complex F-box protein GRR1,,,,hart et al 27
+YJR091C,JSN1,Protein JSN1,,784,43,_group793
+YJR092W,BUD4,Bud site selection protein 4,,1600,0,hart et al 47
+YJR093C,FIP1,Pre-mRNA polyadenylation factor FIP1,,1310,72,hart et al 11
+YJR094C,IME1,Meiosis-inducing protein 1,,,,_group535
+YJR101W,RSM26,Hypothetical 30.2 kDa protein in YUH1-URA8 intergenic region,,2060,93,hart et al 3
+YJR102C,VPS25,Vacuolar protein sorting-associated protein 25,1XB4,,,hart et al 188
+YJR104C,SOD1,Superoxide dismutase [Cu-Zn],1F1G,519000,-404,hart et al 182
+YJR109C,CPA2,Carbamoyl-phosphate synthase arginine-specific large chain,,18000,7,hart et al 244
+YJR112W,NNF1,Kinetochore-associated protein NNF1,,2070,170,hart et al 101
+YJR113C,RSM7,Putative 40S ribosomal protein YJR113C,,1340,38,hart et al 3
+YJR120W,,Putative uncharacterized protein YJR120W precursor,,,,hart et al 2
+YJR121W,mitochondrial precursor,ATP synthase subunit beta,2HLD,164000,6627,hart et al 185
+YJR123W,RPS5,40S ribosomal protein S5,,,,_group332
+YJR125C,ENT3,Epsin-3,,,,_group458
+YJR132W,NMD5,Nonsense-mediated mRNA decay protein 5,,13500,61,_group10
+YJR134C,SGM1,Hypothetical 81.2 kDa protein in NMD5-HOM6 intergenic region,,300,1950,_group911
+YJR135C,MCM22,Central kinetochore subunit MCM22,,1030,-150,hart et al 24
+YJR135W-A,TIM8,Mitochondrial import inner membrane translocase subunit TIM8,3CJH,,,_group530
+YJR136C,,Hypothetical 48.6 kDa protein in NMD5-HOM6 intergenic region,,1470,151,doubleton37
+YJR137C,ECM17,Sulfite reductase [NADPH] subunit beta,,2900,125,doubleton23
+YJR145C,RPS4A,40S ribosomal protein S4,,573,53,hart et al 69
+YJR148W,cytosolic,Branched-chain-amino-acid aminotransferase,,25900,0,hart et al 315
+YKL002W,DID4,DOA4-independent degradation protein 4,2V6X,,,_group714
+YKL006C-A,SFT1,Protein transport protein SFT1,,0,16,_group701
+YKL007W,CAP1,F-actin capping protein subunit alpha,,4380,-202,hart et al 100
+YKL009W,MRT4,mRNA turnover protein 4,,18200,73,hart et al 30
+YKL010C,UFD4,Ubiquitin fusion degradation protein 4,,7380,11,hart et al 288
+YKL011C,mitochondrial precursor,Cruciform cutting endonuclease 1,,0,65,hart et al 122
+YKL012W,PRP40,Pre-mRNA-processing protein PRP40,"1O6W,2B7E",,,hart et al 14
+YKL013C,ARC19,ARP2/3 complex 20 kDa subunit,,9020,-224,hart et al 46
+YKL014C,URB1,Nucleolar preribosomal-associated protein 1,,5890,45,hart et al 318
+YKL016C,mitochondrial,ATP synthase D chain,,6820,16,hart et al 329
+YKL018W,SWD2,COMPASS component SWD2,,704,26,hart et al 11
+YKL019W,RAM2,Protein farnesyltransferase/geranylgeranyltransferase type I alpha subunit,,396,26,hart et al 167
+YKL020C,SPT23,Protein SPT23,,432,34,_group893
+YKL022C,CDC16,Anaphase-promoting complex subunit CDC16,,2750,66,hart et al 23
+YKL023W,,Hypothetical 32.3 kDa protein in URA6-CDC16 intergenic region,,1730,44,hart et al 109
+YKL025C,PAN3,PAB-dependent poly(A)-specific ribonuclease subunit PAN3,,1600,36,hart et al 233
+YKL028W,TFA1,Transcription initiation factor IIE subunit alpha,,35900,28,hart et al 124
+YKL029C,mitochondrial precursor,NAD-dependent malic enzyme,,10500,29,_group797
+YKL033W,,Hypothetical 118.9 kDa protein in PTM1-IXR1 intergenic region,,721,0,doubleton37
+YKL034W,TUL1,Transmembrane ubiquitin ligase 1,,,,_group740
+YKL035W,UGP1,UTP--glucose-1-phosphate uridylyltransferase,2I5K,17200,57,hart et al 195
+YKL036C,,Hypothetical 14.9 kDa protein in PTM1-IXR1 intergenic region,,,,_group942
+YKL038W,RGT1,Probable transcriptional regulatory protein YKL038W,,195,14,_group260
+YKL040C,mitochondrial precursor,NifU-like protein,,11300,117,doubleton38
+YKL041W,VPS24,Vacuolar protein sorting-associated protein 24,,1890,-77,_group714
+YKL042W,SPC42,Spindle pole body component SPC42,2Q6Q,,,_group169
+YKL043W,PHD1,Putative transcription factor PHD1,,1420,14,_group1106
+YKL045W,PRI2,DNA primase large subunit,,,,hart et al 106
+YKL048C,ELM1,Serine/threonine-protein kinase ELM1,,149,42,_group1106
+YKL049C,CSE4,Histone H3-like centromeric protein CSE4,,,,_group673
+YKL051W,SFK1,Protein SFK1,,0,57,doubleton39
+YKL052C,ASK1,DASH complex subunit ASK1,,2840,3,hart et al 41
+YKL056C,TMA19,Translationally-controlled tumor protein homolog,,27800,166,_group948
+YKL057C,NUP120,Nucleoporin NUP120,,,,hart et al 58
+YKL058W,TOA2,Transcription initiation factor IIA small subunit,1NH2,3910,170,hart et al 259
+YKL059C,MPE1,Protein MPE1,,1130,33,hart et al 11
+YKL060C,FBA1,Fructose-bisphosphate aldolase,,1.02e+06,104,hart et al 31
+YKL061W,,Hypothetical 13.5 kDa protein in MSN4-FBA1 intergenic region,,1240,54,hart et al 254
+YKL067W,YNK1,Nucleoside diphosphate kinase,,7130,-1033,_group835
+YKL068W,NUP100,Nucleoporin NUP100/NSP100,,358,20,_group10
+YKL072W,STB6,Protein STB6,,211,25,_group807
+YKL073W,LHS1,Heat shock protein 70 homolog LHS1 precursor,,137,0,_group928
+YKL074C,MUD2,Splicing factor MUD2,,4170,74,hart et al 262
+YKL075C,,Hypothetical 52.1 kDa protein in SMY1-MUD2 intergenic region,,98.9,46,_group233
+YKL078W,DHR2,Probable ATP-dependent RNA helicase DHR2,,721,46,hart et al 156
+YKL079W,SMY1,Kinesin-related protein SMY1,,1920,21,_group3
+YKL080W,VMA5,Vacuolar ATP synthase subunit C,1U7L,21100,53,hart et al 35
+YKL081W,TEF4,Elongation factor 1-gamma 2,,102000,105,hart et al 118
+YKL082C,RRP14,Hypothetical 50.5 kDa protein in MDH1-VMA5 intergenic region,,,,_group526
+YKL086W,SRX1,Sulfiredoxin,,538,16,_group3
+YKL087C,CYT2,Cytochrome c1 heme lyase,,,,_group948
+YKL088W,,Uncharacterized protein YKL088W,,2940,59,hart et al 358
+YKL089W,MIF2,Protein MIF2,,465,75,_group673
+YKL095W,YJU2,32.3 kDa protein in CWP1-MBR1 intergenic region,,2250,76,hart et al 16
+YKL101W,HSL1,Probable serine/threonine-protein kinase YKL101W,,,,_group183
+YKL103C,LAP4,Vacuolar aminopeptidase 1 precursor,,5730,119,hart et al 181
+YKL104C,GFA1,Glucosamine--fructose-6-phosphate aminotransferase [isomerizing],,14300,31,hart et al 178
+YKL108W,SLD2,DNA replication regulator SLD2,,656,0,_group232
+YKL109W,HAP4,Transcriptional activator HAP4,,,,_group316
+YKL110C,KTI12,Protein KTI12,,5260,0,_group97
+YKL112W,ABF1,Transcription factor BAF1,,4820,2,_group281
+YKL113C,RAD27,Structure-specific endonuclease RAD27,,6120,-135,hart et al 317
+YKL114C,APN1,DNA-(apurinic or apyrimidinic site) lyase 1,,7250,60,_group801
+YKL116C,PRR1,Probable serine/threonine-protein kinase YKL116C,,1510,58,_group1106
+YKL117W,SBA1,Co-chaperone protein SBA1,2CG9,33700,280,_group240
+YKL119C,VPH2,Vacuolar ATPase assembly integral membrane protein VPH2,,2030,30,hart et al 35
+YKL122C,SRP21,Signal recognition particle subunit SRP21,,3400,325,hart et al 54
+YKL125W,RRN3,RNA polymerase I-specific transcription initiation factor RRN3,,138,31,_group377
+YKL126W,YPK1,Serine/threonine-protein kinase YPK1,,2950,30,hart et al 364
+YKL129C,MYO3,Myosin-3,1RUW,155,0,hart et al 33
+YKL130C,SHE2,Uncharacterized protein YKL130C,1XLY,4070,2258,hart et al 33
+YKL135C,APL2,AP-1 complex subunit beta-1,,2690,71,hart et al 68
+YKL138C-A,HSK3,DASH complex subunit HSK3,,,,_group454
+YKL139W,CTK1,CTD kinase subunit alpha,,125,22,hart et al 152
+YKL141W,mitochondrial precursor,Succinate dehydrogenase cytochrome B subunit,,238,24,_group657
+YKL142W,MRP8,Mitochondrial 40S ribosomal protein MRP8,,1550,48,hart et al 82
+YKL143W,LTV1,Low-temperature viability protein LTV1,,589,0,hart et al 89
+YKL144C,RPC25,DNA-directed RNA polymerase III 25 kDa polypeptide,2CKZ,752,142,hart et al 1
+YKL145W,RPT1,26S protease regulatory subunit 7 homolog,,105,9,hart et al 2
+YKL148C,mitochondrial precursor,Succinate dehydrogenase [ubiquinone] flavoprotein subunit,,10400,62,_group657
+YKL149C,DBR1,Lariat debranching enzyme,,1130,20,hart et al 383
+YKL152C,GPM1,Phosphoglycerate mutase 1,1QHF,172000,-738,hart et al 31
+YKL154W,SRP102,Signal recognition particle receptor subunit beta,2GED,8250,51,hart et al 299
+YKL155C,RSM22,Hypothetical 72.2 kDa protein in RPS27A-GPM1 intergenic region,,1900,47,hart et al 3
+YKL160W,ELF1,Transcription elongation factor 1,,5860,119,_group942
+YKL164C,PIR1,Protein PIR1 precursor,,1170,2,hart et al 352
+YKL165C,MCD4,GPI ethanolamine phosphate transferase 1,,0,657,hart et al 2
+YKL166C,TPK3,cAMP-dependent protein kinase type 3,,1590,24,hart et al 97
+YKL167C,mitochondrial precursor,60S ribosomal protein MRP49,,,,hart et al 8
+YKL172W,EBP2,rRNA-processing protein EBP2,,,,hart et al 30
+YKL173W,SNU114,114 kDa U5 small nuclear ribonucleoprotein component,,300,52,hart et al 12
+YKL175W,ZRT3,Uncharacterized protein YKL175W,,,,_group1065
+YKL177W,,Hypothetical 12.3 kDa protein in STE3-GIN10 intergenic region,,,,doubleton30
+YKL180W,RPL17A,60S ribosomal protein L17-A,,,,_group897
+YKL181W,PRS1,Ribose-phosphate pyrophosphokinase 1,,11700,44,_group503
+YKL182W,FAS1,Fatty acid synthase subunit beta,"2PFF,2PFF",91800,-66,hart et al 325
+YKL183W,LOT5,Uncharacterized protein YKL183W,,5930,114,_group910
+YKL185W,ASH1,Transcriptional regulatory protein ASH1,,1800,2,_group1106
+YKL186C,MTR2,mRNA transport regulator MTR2,1OF5,,,_group1022
+YKL188C,PXA2,Peroxisomal long-chain fatty acid import protein 1,,,,hart et al 21
+YKL189W,HYM1,Protein HYM1,,1280,19,_group527
+YKL190W,CNB1,Calcineurin subunit B,,,,hart et al 155
+YKL191W,DPH2,Diphthamide biosynthesis protein 2,,3490,448,hart et al 71
+YKL193C,SDS22,Protein phosphatase 1 regulatory subunit SDS22,,3870,89,hart et al 11
+YKL196C,YKT6,Synaptobrevin homolog YKT6,3BW6,,,hart et al 266
+YKL197C,PEX1,Peroxisome biosynthesis protein PAS1,,2100,57,_group1051
+YKL203C,TOR2,Serine/threonine-protein kinase TOR2,,,,_group31
+YKL204W,EAP1,Protein EAP1,,3240,25,hart et al 75
+YKL205W,LOS1,Protein LOS1,,3490,25,_group479
+YKL206C,ADD66,Hypothetical 30.7 kDa protein in STE6-LOS1 intergenic region,,2940,-647,hart et al 168
+YKL210W,UBA1,Ubiquitin-activating enzyme E1 1,,17700,114,hart et al 247
+YKL211C,TRP3,Anthranilate synthase component 2,,13400,518,hart et al 231
+YKL213C,DOA1,Protein DOA1,,6800,23,hart et al 202
+YKL214C,YRA2,Probable RNA-binding protein YKL214C,,1310,247,_group322
+YKL215C,,Uncharacterized protein YKL215C,,3180,0,hart et al 256
+YKR001C,VPS1,Vacuolar protein sorting-associated protein 1,,5960,79,hart et al 61
+YKR002W,PAP1,Poly(A) polymerase,2HHP,17100,23,hart et al 11
+YKR006C,mitochondrial precursor,60S ribosomal protein L13,,1360,68,hart et al 8
+YKR007W,MEH1,Uncharacterized protein YKR007W,,2740,88,_group658
+YKR008W,RSC4,Chromatin structure-remodeling complex protein RSC4,2R0Y,8570,55,hart et al 6
+YKR010C,TOF2,Topoisomerase 1-associated factor 2,,339,0,_group787
+YKR014C,YPT52,GTP-binding protein YPT52,,9380,773,hart et al 113
+YKR018C,,Uncharacterized protein YKR018C,,1770,19,hart et al 376
+YKR020W,VPS51,Vacuolar protein sorting-associated protein 51,2C5K,319,0,_group28
+YKR022C,NTR2,Pre-mRNA-splicing factor NTR2,,892,0,hart et al 206
+YKR025W,RPC37,Hypothetical 32.1 kDa protein in DBP7-GCN3 intergenic region,,1590,43,hart et al 1
+YKR026C,GCN3,Translation initiation factor eIF-2B subunit alpha,,8970,-73,hart et al 26
+YKR027W,BCH2,Hypothetical 88.0 kDa protein in GCN3-SAP190 intergenic region,,2540,20,hart et al 146
+YKR028W,SAP190,SIT4-associating protein SAP190,,,,hart et al 56
+YKR029C,SET3,SET domain-containing protein 3,,623,3,hart et al 29
+YKR030W,GMH1,Protein GMH1,,,,_group794
+YKR034W,DAL80,Nitrogen regulatory protein DAL80,,,,_group487
+YKR035C,OPI8,Hypothetical 23.2 kDa protein in DAL80-GAP1 intergenic region,,,,doubleton32
+YKR036C,CAF4,WD repeat protein YKR036C,2PQR,589,34,_group361
+YKR037C,SPC34,DASH complex subunit SPC34,,0,172,hart et al 41
+YKR038C,KAE1,Putative glycoprotein endopeptidase KAE1,,1270,279,hart et al 96
+YKR039W,GAP1,General amino-acid permease GAP1,,,,doubleton14
+YKR048C,NAP1,Nucleosome assembly protein,2AYU,8070,108,hart et al 39
+YKR055W,RHO4,Protein RHO4,,,,_group3
+YKR059W,TIF1,ATP-dependent RNA helicase eIF4A,,106000,-1505,hart et al 75
+YKR060W,UTP30,Hypothetical 31.6 kDa protein in TIF1-KTR2 intergenic region,,3060,26,hart et al 4
+YKR062W,TFA2,Transcription initiation factor IIE subunit beta,,1150,30,hart et al 124
+YKR066C,mitochondrial precursor,Cytochrome c peroxidase,2EUT,6730,-410,doubleton28
+YKR068C,BET3,Transport protein particle 22 kDa subunit,3CUE,2370,44,hart et al 25
+YKR071C,DRE2,Hypothetical 38.5 kDa protein in MET1-SIS2 intergenic region,,1050,59,hart et al 276
+YKR072C,SIS2,Protein SIS2,,3750,38,_group373
+YKR078W,,Hypothetical 68.3 kDa protein in SIS2-MTD1 intergenic region,,1270,-1826,_group1106
+YKR079C,TRZ1,Ribonuclease Z,,2710,48,hart et al 164
+YKR081C,RPF2,Ribosome biogenesis protein RPF2,,32400,166,hart et al 30
+YKR082W,NUP133,Nucleoporin NUP133,,3060,15,hart et al 162
+YKR083C,DAD2,DASH complex subunit DAD2,,279,0,hart et al 41
+YKR084C,HBS1,Elongation factor 1 alpha-like protein,,2750,43,doubleton40
+YKR085C,mitochondrial precursor,60S ribosomal protein L20,,358,82,hart et al 8
+YKR086W,PRP16,Pre-mRNA-splicing factor ATP-dependent RNA helicase PRP16,,1250,4,_group257
+YKR089C,TGL4,Lipase 4,,195,17,_group1106
+YKR090W,PXL1,Paxillin-like protein 1,,1310,98,_group1106
+YKR091W,SRL3,Protein SRL3,,,,_group1106
+YKR092C,SRP40,Suppressor protein SRP40,,12900,206,_group937
+YKR094C,RPL40B,60S ribosomal protein L40,,28200,-77,_group458
+YKR095W,MLP1,Protein MLP1,,2710,0,_group169
+YKR099W,BAS1,Myb-like DNA-binding protein BAS1,,861,2,_group582
+YKR101W,SIR1,Regulatory protein SIR1,1Z1A,,,_group111
+YLL001W,DNM1,Dynamin-related protein DNM1,,9620,31,_group708
+YLL002W,RTT109,Regulator of Ty1 transposition protein 109,,1140,150,hart et al 235
+YLL003W,SFI1,Protein SFI1,"2DOQ,2GV5",,,_group169
+YLL004W,ORC3,Origin recognition complex subunit 3,,,,hart et al 65
+YLL008W,DRS1,ATP-dependent RNA helicase DRS1,,,,hart et al 20
+YLL010C,PSR1,Phosphatase PSR1,,5620,758,hart et al 165
+YLL011W,SOF1,Protein SOF1,,6620,29,hart et al 4
+YLL016W,SDC25,Guanine nucleotide exchange factor SDC25,,,,_group715
+YLL017W,SDC25,Guanine nucleotide exchange factor SDC25,,,,_group1158
+YLL021W,SPA2,Protein SPA2,,274,-162,hart et al 269
+YLL022C,HIF1,HAT1-interacting factor 1,,4550,188,hart et al 17
+YLL024C,SSA2,Heat shock protein SSA2,,364000,0,hart et al 150
+YLL026W,HSP104,Heat shock protein 104,,32800,61,hart et al 256
+YLL027W,ISA1,Iron sulfur assembly protein 1,,125,85,doubleton38
+YLL034C,RIX7,Ribosome biogenesis ATPase RIX7,,4490,20,hart et al 44
+YLL036C,PRP19,Pre-mRNA-splicing factor 19,2BAY,11700,253,hart et al 16
+YLL039C,UBI4,Ubiquitin,1WR1,0,13,_group228
+YLL041C,mitochondrial precursor,Succinate dehydrogenase [ubiquinone] iron-sulfur protein,,9540,0,_group657
+YLL042C,ATG10,Autophagy-related protein 10,,,,_group403
+YLL045C,RPL8B,60S ribosomal protein L8-B,,80200,80,hart et al 57
+YLL048C,YBT1,ATP-dependent bile acid permease,,3000,0,hart et al 315
+YLL050C,COF1,Cofilin,1CFY,19600,-226,_group521
+YLL051C,FRE6,Ferric reductase transmembrane component 6 precursor,,,,_group1065
+YLL059C,,,,,,doubleton41
+YLR002C,NOC3,Nucleolar complex-associated protein 3,,11700,44,hart et al 20
+YLR005W,SSL1,Suppressor of stem-loop protein 1,,2340,16,hart et al 53
+YLR006C,SSK1,Osomolarity two-component system protein SSK1,,1200,11,hart et al 126
+YLR007W,NSE1,Non-structural maintenance of chromosomes element 1,,,,_group368
+YLR008C,PAM18,Mitochondrial import inner membrane translocase subunit TIM14,2GUZ,,,_group530
+YLR009W,RLP24,Ribosome biogenesis protein RLP24,,,,_group897
+YLR010C,TEN1,Telomere length regulation protein TEN1,,,,_group508
+YLR015W,BRE2,COMPASS component BRE2,,1310,33,hart et al 52
+YLR016C,PML1,Pre-mRNA leakage protein 1,,1470,40,_group1025
+YLR019W,PSR2,Probable phosphatase PSR2,,,,hart et al 165
+YLR024C,UBR2,E3 ubiquitin-protein ligase UBR2,,49.2,0,hart et al 351
+YLR025W,SNF7,Vacuolar sorting protein SNF7,,3270,324,hart et al 324
+YLR026C,SED5,Integral membrane protein SED5,"1MQS,1PD0",300,49,hart et al 379
+YLR028C,ADE16,Bifunctional purine biosynthesis protein ADE16,,7700,59,hart et al 180
+YLR032W,RAD5,DNA repair protein RAD5,,1520,84,_group298
+YLR033W,RSC58,Chromatin structure remodeling complex protein RSC58,,4460,46,hart et al 6
+YLR035C,MLH2,DNA mismatch repair protein MLH2,,71.6,21,hart et al 169
+YLR035C-A,,,,217,0,_group1106
+YLR039C,RIC1,Protein RIC1,,78.6,54,hart et al 141
+YLR043C,TRX1,Thioredoxin I,2I9H,8580,0,_group524
+YLR044C,PDC1,Pyruvate decarboxylase isozyme 1,1PVD,8970,29,hart et al 31
+YLR045C,STU2,Protein STU2,2QK1,1660,19,_group494
+YLR048W,RPS0B,40S ribosomal protein S0-B,,60900,0,_group946
+YLR051C,FCF2,rRNA-processing protein FCF2,,,,_group947
+YLR052W,IES3,Ino eighty subunit 3,,2280,65,hart et al 9
+YLR053C,,Putative uncharacterized protein YLR053C,,,,_group948
+YLR055C,SPT8,Transcription factor SPT8,,8430,-541,hart et al 7
+YLR060W,FRS1,Phenylalanyl-tRNA synthetase beta chain,,5440,44,hart et al 208
+YLR065C,,UPF0372 protein YLR065C,,,,doubleton25
+YLR067C,mitochondrial precursor,Protein PET309,,1160,46,_group582
+YLR071C,RGR1,RNA polymerase II mediator complex subunit 14,,319,61,hart et al 5
+YLR074C,BUD20,Bud site selection protein 20,,5630,49,hart et al 281
+YLR075W,RPL10,60S ribosomal protein L10,,,,hart et al 63
+YLR078C,BOS1,Protein transport protein BOS1,,,,_group701
+YLR079W,SIC1,Protein SIC1,,768,33,hart et al 43
+YLR080W,EMP46,Protein EMP46 precursor,2A6V,,,_group392
+YLR081W,GAL2,Galactose transporter,,,,hart et al 32
+YLR083C,EMP70,Endomembrane protein EMP70 precursor,,,,hart et al 353
+YLR085C,ARP6,Actin-like protein ARP6,,238,21,hart et al 9
+YLR086W,SMC4,Structural maintenance of chromosomes protein 4,,573,36,hart et al 86
+YLR093C,NYV1,Vacuolar v-SNARE NYV1,2FZ0,1890,46,_group9
+YLR095C,IOC2,ISWI one complex protein 2,,7520,12,hart et al 61
+YLR096W,KIN2,Serine/threonine-protein kinase KIN2,,,,_group228
+YLR097C,HRT3,F-box protein HRT3,,0,26,_group673
+YLR100W,ERG27,3-keto-steroid reductase,,0,32,_group153
+YLR102C,APC9,Anaphase-promoting complex subunit 9,,,,hart et al 23
+YLR103C,CDC45,Cell division control protein 45,,1730,78,_group787
+YLR105C,SEN2,tRNA-splicing endonuclease subunit SEN2,,319,28,_group463
+YLR106C,MDN1,Midasin,,538,0,_group897
+YLR109W,AHP1,Peroxiredoxin type-2,,16200,-106,_group524
+YLR113W,HOG1,Mitogen-activated protein kinase HOG1,,6780,273,hart et al 230
+YLR115W,CFT2,Protein CFT2,2I7X,3060,12,hart et al 11
+YLR116W,MSL5,Branchpoint-bridging protein,,4380,39,hart et al 262
+YLR117C,CLF1,Pre-mRNA-splicing factor CLF1,,2140,31,hart et al 16
+YLR119W,SRN2,Protein SRN2,2P22,0,66,hart et al 116
+YLR123C,,,,,,_group842
+YLR124W,,,,,,_group950
+YLR125W,,Putative uncharacterized protein YLR125W,,,,_group530
+YLR127C,APC2,Anaphase-promoting complex subunit 2,1LDD,432,30,hart et al 23
+YLR128W,DCN1,Defective in cullin neddylation protein 1,3BQ3,,,_group673
+YLR129W,DIP2,DOM34-interacting protein 2,,9620,41,hart et al 4
+YLR131C,ACE2,Metallothionein expression activator,,538,3,_group469
+YLR132C,,Uncharacterized protein YLR132C,,486,29,_group297
+YLR133W,CKI1,Choline kinase,,3930,64,hart et al 39
+YLR134W,PDC5,Pyruvate decarboxylase isozyme 2,,471000,0,_group582
+YLR135W,SLX4,Structure-specific endonuclease subunit SLX4,,274,31,doubleton10
+YLR138W,NHA1,Na(+)/H(+) antiporter,,1480,-299,_group612
+YLR139C,mitochondrial precursor,Sigma-like sequence protein 1,,3430,-3308,hart et al 332
+YLR141W,RRN5,RNA polymerase I-specific transcription initiation factor RRN5,,0,11,_group1
+YLR144C,3(4)-beta-glucanase 2,Endo-1,,1420,22,_group1013
+YLR145W,RMP1,Ribonuclease MRP protein subunit RMP1,,556,-327,_group263
+YLR146C,SPE4,Spermine synthase,,3870,82,hart et al 263
+YLR147C,SMD3,Small nuclear ribonucleoprotein Sm D3,,,,hart et al 14
+YLR148W,PEP3,Vacuolar membrane protein PEP3,,2020,52,hart et al 60
+YLR150W,STM1,Suppressor protein STM1,,46800,184,_group718
+YLR154C,RNH203,Ribonuclease H2 subunit C,,556,18,hart et al 190
+YLR163C,mitochondrial precursor,Mitochondrial-processing peptidase subunit beta,1HR6,1360,1961,hart et al 217
+YLR166C,SEC10,Exocyst complex component SEC10,,2340,58,hart et al 42
+YLR167W,RPS31,40S ribosomal protein S37,,,,_group458
+YLR170C,APS1,AP-1 complex subunit theta-1,,6370,0,hart et al 68
+YLR175W,CBF5,H/ACA ribonucleoprotein complex subunit 4,,33600,30,hart et al 337
+YLR176C,RFX1,RFX-like DNA-binding protein RFX1,,377,53,_group834
+YLR178C,TFS1,Carboxypeptidase Y inhibitor,1WPX,1030,55,_group1037
+YLR179C,,Uncharacterized protein YLR179C,,6230,66,hart et al 56
+YLR180W,SAM1,S-adenosylmethionine synthetase 1,,103000,0,hart et al 347
+YLR181C,VTA1,Vacuolar protein sorting-associated protein VTA1,"2RKK,2RKL",4400,32,_group766
+YLR182W,SWI6,Regulatory protein SWI6,1SW6,3340,17,hart et al 148
+YLR183C,TOS4,Transcription factor TOS4,,284,17,_group1106
+YLR185W,RPL37A,60S ribosomal protein L37-A,,21800,316,_group169
+YLR186W,EMG1,Nucleolar essential protein 1,2V3J,,,hart et al 4
+YLR187W,SKG3,Protein SKG3,,0,14,_group1106
+YLR188W,mitochondrial precursor,ATP-dependent permease MDL1,,1040,22,_group1144
+YLR190W,MMR1,Mitochondrial MYO2 receptor-related protein 1,,1070,26,_group1106
+YLR191W,PEX13,Peroxisomal membrane protein PAS20,2V1R,7900,44,_group650
+YLR192C,HCR1,Probable eukaryotic translation initiation factor 3 30 kDa subunit,,17900,36,hart et al 19
+YLR196W,PWP1,Periodic tryptophan protein 1,,43800,46,hart et al 20
+YLR197W,SIK1,Protein SIK1,,13500,18,hart et al 83
+YLR198C,,,,,,doubleton36
+YLR199C,PBA1,Uncharacterized protein YLR199C,,1350,95,hart et al 168
+YLR200W,YKE2,Prefoldin subunit 6,,784,112,hart et al 50
+YLR203C,MSS51,Protein MSS51,,4800,87,hart et al 340
+YLR204W,QRI5,Protein QRI5,,,,doubleton42
+YLR206W,ENT2,Epsin-2,,1970,18,_group379
+YLR207W,HRD3,ERAD-associated E3 ubiquitin-protein ligase component HRD3 precursor,,,,doubleton43
+YLR208W,SEC13,Protein transport protein SEC13,2PM7,21400,-282,hart et al 58
+YLR210W,CLB4,G2/mitotic-specific cyclin-4,,98.9,0,hart et al 43
+YLR212C,TUB4,Tubulin gamma chain,,7200,41,hart et al 92
+YLR215C,CDC123,Cell division cycle protein 123,,4850,93,hart et al 26
+YLR216C,CPR6,Peptidyl-prolyl cis-trans isomerase CPR6,,18600,89,hart et al 277
+YLR219W,MSC3,Meiotic sister-chromatid recombination protein 3,,131,92,_group1106
+YLR221C,RSA3,Ribosome assembly protein 3,,2940,83,hart et al 301
+YLR222C,UTP13,U3 small nucleolar RNA-associated protein 13,,8070,53,hart et al 4
+YLR223C,IFH1,Protein IFH1,,1430,62,_group309
+YLR224W,,F-box protein YLR224W,,,,_group673
+YLR226W,BUR2,Protein BUR2,,2910,115,hart et al 265
+YLR228C,ECM22,Sterol regulatory element-binding protein ECM22,,78.6,2,_group993
+YLR229C,CDC42,Cell division control protein 42,,,,_group3
+YLR233C,EST1,Telomere elongation protein EST1,,,,_group508
+YLR234W,TOP3,DNA topoisomerase 3,,468,27,_group55
+YLR238W,FAR10,Factor arrest protein 10,,0,2,_group680
+YLR240W,VPS34,Phosphatidylinositol 3-kinase VPS34,,1080,22,hart et al 131
+YLR244C,MAP1,Methionine aminopeptidase 1 precursor,,19600,669,hart et al 252
+YLR246W,ERF2,Palmitoyltransferase ERF2,,,,doubleton44
+YLR248W,RCK2,Serine/threonine-protein kinase RCK2,,1790,72,hart et al 230
+YLR249W,YEF3,Elongation factor 3A,2IW3,871000,191,hart et al 394
+YLR256W,HAP1,Heme-responsive zinc finger transcription factor HAP1,1HWT,,,_group12
+YLR258W,GSY2,Glycogen [starch] synthase isoform 2,,14600,0,hart et al 145
+YLR259C,mitochondrial precursor,Heat shock protein 60,,,,hart et al 161
+YLR261C,,,,,,_group957
+YLR262C,YPT6,GTP-binding protein YPT6,,7720,0,hart et al 141
+YLR263W,RED1,Protein RED1,,,,hart et al 13
+YLR265C,NEJ1,Non-homologous end-joining protein 1,,377,28,_group630
+YLR268W,SEC22,Protein transport protein SEC22,,396,17,hart et al 72
+YLR270W,DCS1,Scavenger mRNA decapping enzyme DcpS,,9920,38,hart et al 226
+YLR272C,YCS4,Condensin complex subunit 1,,2540,-2499,hart et al 86
+YLR273C,PIG1,Serine/threonine-protein phosphatase 1 regulatory subunit PIG1,,,,_group1027
+YLR274W,MCM5,Minichromosome maintenance protein 5,,10300,43,_group787
+YLR275W,SMD2,Small nuclear ribonucleoprotein Sm D2,,799,44,hart et al 14
+YLR276C,DBP9,ATP-dependent RNA helicase DBP9,,,,_group526
+YLR277C,YSH1,Endoribonuclease YSH1,,17400,34,hart et al 11
+YLR278C,,Probable transcriptional regulatory protein YLR278C,,1080,25,hart et al 2
+YLR285W,NNT1,Putative nicotinamide N-methyltransferase,,7280,-229,_group948
+YLR287C,,Uncharacterized protein YLR287C,,9100,83,hart et al 302
+YLR288C,MEC3,DNA damage checkpoint control protein MEC3,,414,0,hart et al 191
+YLR291C,GCD7,Translation initiation factor eIF-2B subunit beta,,6650,124,hart et al 26
+YLR292C,SEC72,Translocation protein SEC72,,5290,0,hart et al 112
+YLR293C,GSP1,GTP-binding nuclear protein GSP1/CNR1,,,,hart et al 77
+YLR298C,YHC1,U1 small nuclear ribonucleoprotein C homolog,,2140,74,hart et al 14
+YLR305C,STT4,Phosphatidylinositol 4-kinase STT4,,846,27,doubleton39
+YLR306W,UBC12,NEDD8-conjugating enzyme UBC12,,,,_group870
+YLR309C,IMH1,Golgin IMH1,,2350,219,_group837
+YLR310C,CDC25,Cell division control protein 25,,319,16,hart et al 166
+YLR312W-A,mitochondrial precursor,60S ribosomal protein L15,,6490,453,hart et al 8
+YLR313C,SPH1,Protein SPH1,,672,31,_group468
+YLR314C,CDC3,Cell division control protein 3,,,,hart et al 47
+YLR315W,NKP2,Central kinetochore subunit NKP2,,1630,-294,hart et al 24
+YLR316C,TAD3,tRNA-specific adenosine deaminase subunit TAD3,,892,25,doubleton35
+YLR317W,,,,,,doubleton45
+YLR319C,BUD6,Bud site selection protein 6,,2610,35,hart et al 309
+YLR320W,MMS22,Methyl methanesulfonate-sensitivity protein 22,,,,hart et al 27
+YLR321C,SFH1,Chromatin structure remodeling complex protein SFH1,,3940,5,hart et al 6
+YLR322W,,,,,,_group957
+YLR324W,PEX30,Peroxisomal membrane protein PEX30,,4570,54,_group838
+YLR327C,TMA10,STF2-like protein YLR327C,,504,0,_group961
+YLR328W,NMA1,Nicotinamide-nucleotide adenylyltransferase 1,,5130,60,hart et al 280
+YLR329W,REC102,Meiotic recombination protein REC102,,,,_group634
+YLR330W,CHS5,Chitin biosynthesis protein CHS5,,172,228,hart et al 146
+YLR332W,MID2,Mating process protein MID2,,0,53,_group719
+YLR335W,NUP2,Nucleoporin NUP2,1UN0,2960,21,hart et al 10
+YLR336C,SGD1,Suppressor of glycerol defect protein 1,,3060,51,_group673
+YLR337C,VRP1,Verprolin,,,,hart et al 32
+YLR340W,RPP0,60S acidic ribosomal protein P0,,,,hart et al 302
+YLR342W,3-beta-glucan synthase component GLS1,1,,,,hart et al 36
+YLR345W,6-biphosphatase YLR345W,Putative 6-phosphofructo-2-kinase/fructose-2,,3380,73,hart et al 237
+YLR347C,KAP95,Importin beta-1 subunit,2BPT,51700,36,hart et al 391
+YLR352W,,F-box protein YLR352W,,125,7,_group673
+YLR353W,BUD8,Bud site selection protein 8,,,,doubleton27
+YLR354C,TAL1,Transaldolase,,53000,136,hart et al 298
+YLR355C,mitochondrial precursor,Ketol-acid reductoisomerase,,883000,350,hart et al 212
+YLR357W,RSC2,Chromatin structure-remodeling complex protein RSC2,,2330,23,hart et al 6
+YLR358C,,,,1730,169,_group957
+YLR359W,ADE13,Adenylosuccinate lyase,,,,hart et al 2
+YLR360W,VPS38,Vacuolar protein sorting-associated protein 38,,1070,40,hart et al 131
+YLR362W,STE11,Serine/threonine-protein kinase STE11,1OW5,736,79,hart et al 245
+YLR363C,NMD4,Nonsense-mediated decay protein 4,,6090,93,_group10
+YLR366W,,,,,,doubleton46
+YLR368W,MDM30,Mitochondrial distribution and morphology protein 30,,,,_group673
+YLR369W,mitochondrial precursor,Heat shock protein SSQ1,,5550,61,_group530
+YLR370C,ARC18,ARP2/3 complex 21 kDa subunit,,1920,51,hart et al 46
+YLR371W,ROM2,RHO1 GDP-GTP exchange protein 2,,,,hart et al 88
+YLR373C,VID22,Vacuolar import and degradation protein 22,,2950,22,hart et al 151
+YLR376C,PSY3,Platinum sensitivity protein 3,,876,39,_group487
+YLR378C,SEC61,Protein transport protein SEC61,,24800,174,_group441
+YLR381W,CTF3,Central kinetochore subunit CTF3,,319,26,hart et al 24
+YLR382C,mitochondrial precursor,Leucyl-tRNA synthetase,,2120,46,hart et al 215
+YLR383W,SMC6,Structural maintenance of chromosomes protein 6,,339,57,hart et al 197
+YLR384C,IKI3,Elongator complex protein 1,,10500,165,hart et al 66
+YLR385C,SWC7,SWR1-complex protein 7,,4240,-312,hart et al 9
+YLR386W,VAC14,Vacuole morphology and inheritance protein 14,,12400,60,hart et al 297
+YLR394W,CST9,Chromosome stability protein 9,,,,_group621
+YLR396C,VPS33,Vacuolar protein sorting-associated protein 33,,830,34,hart et al 60
+YLR398C,SKI2,Antiviral helicase SKI2,,5770,40,hart et al 109
+YLR399C,BDF1,Bromodomain-containing factor 1,,8100,59,hart et al 9
+YLR401C,DUS3,tRNA-dihydrouridine synthase 3,,3630,19,_group1106
+YLR407W,,Uncharacterized protein YLR407W,,3140,46,hart et al 15
+YLR409C,UTP21,WD repeat protein YLR409C,,2020,0,hart et al 4
+YLR410W,VIP1,Cortical actin cytoskeleton protein VIP1,,8810,0,hart et al 107
+YLR417W,VPS36,Vacuolar protein sorting-associated protein 36,"2CAY,2J9U,1U5T",2470,166,hart et al 188
+YLR418C,CDC73,Cell division control protein 73,,538,130,hart et al 15
+YLR419W,,Putative ATP-dependent RNA helicase YLR419W,,195,26,_group741
+YLR421C,RPN13,26S proteasome regulatory subunit RPN13,,12200,-102,hart et al 2
+YLR423C,ATG17,Autophagy-related protein 17,,358,43,hart et al 105
+YLR424W,SPP382,Pre-mRNA-splicing factor SPP382,,556,28,hart et al 16
+YLR425W,TUS1,Rho1 guanine nucleotide exchange factor TUS1,,,,hart et al 88
+YLR429W,CRN1,Coronin-like protein,,2900,23,hart et al 33
+YLR430W,SEN1,Helicase SEN1,,125,0,hart et al 111
+YLR432W,IMD3,Probable inosine-5'-monophosphate dehydrogenase IMD3,,26300,650,hart et al 187
+YLR433C,CNA1,Serine/threonine-protein phosphatase 2B catalytic subunit A1,,7040,32,hart et al 155
+YLR435W,TSR2,Pre-rRNA-processing protein TSR2,,13400,27,hart et al 197
+YLR436C,ECM30,Extracellular matrix protein 30,,1080,40,hart et al 183
+YLR438C-A,LSM3,U6 snRNA-associated Sm-like protein LSm3,3BW1,7060,0,hart et al 21
+YLR439W,mitochondrial precursor,60S ribosomal protein L4,,7700,-384,hart et al 8
+YLR440C,SEC39,Protein transport protein SEC39,,1840,35,hart et al 72
+YLR442C,SIR3,Regulatory protein SIR3,2FL7,1400,0,hart et al 121
+YLR443W,ECM7,Extracellular matrix protein 7,,,,_group1065
+YLR447C,VMA6,Vacuolar ATP synthase subunit d,,1630,1348,hart et al 238
+YLR449W,FPR4,FK506-binding protein 4,,14100,11,hart et al 20
+YLR452C,SST2,Protein SST2,,5980,60,_group988
+YLR453C,RIF2,Protein RIF2,,589,58,_group502
+YLR457C,NBP1,NAP1-binding protein,,339,31,_group988
+YML001W,YPT7,GTP-binding protein YPT7,1KY3,5530,0,hart et al 62
+YML006C,GIS4,Protein GIS4,,222,50,_group299
+YML007W,YAP1,AP-1-like transcription factor YAP1,"1SSE,1SSE",1620,23,hart et al 397
+YML008C,ERG6,Sterol 24-C-methyltransferase,,53800,135,_group153
+YML010W,SPT5,Transcription elongation factor SPT5,,2340,3,hart et al 64
+YML011C,RAD33,DNA repair protein RAD33,,1080,4,doubleton41
+YML012W,ERV25,Endoplasmic reticulum vesicle protein 25 precursor,,51700,215,hart et al 108
+YML013W,UBX2,UBX domain-containing protein 2,,12600,51,_group583
+YML015C,TAF11,Transcription initiation factor TFIID subunit 11,,,,hart et al 7
+YML016C,PPZ1,Serine/threonine-protein phosphatase PP-Z1,,217,50,hart et al 358
+YML017W,PSP2,Protein PSP2,,2190,20,hart et al 357
+YML019W,OST6,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit OST6,,1080,24,_group773
+YML022W,APT1,Adenine phosphoribosyltransferase 1,1G2Q,11200,-112,doubleton19
+YML023C,NSE5,Non-structural maintenance of chromosome element 5,,907,36,doubleton21
+YML024W,RPS17A,40S ribosomal protein S17-A,,30900,-1238,_group674
+YML025C,mitochondrial precursor,60S ribosomal protein YmL6,,1180,50,hart et al 8
+YML027W,YOX1,Homeobox protein YOX1,,861,3,_group1106
+YML028W,TSA1,Peroxiredoxin TSA1,,378000,-129,_group3
+YML032C,RAD52,DNA repair and recombination protein RAD52,,1080,27,hart et al 34
+YML034W,SRC1,Protein SRC1,,2100,31,_group1106
+YML035C,AMD1,AMP deaminase,,3910,33,hart et al 209
+YML036W,CGI121,Protein CGI121,,,,hart et al 96
+YML038C,YMD8,Uncharacterized transporter YML038C,,,,_group988
+YML041C,VPS71,Vacuolar protein sorting-associated protein 71,,0,75,hart et al 9
+YML043C,RRN11,RNA polymerase I-specific transcription initiation factor RRN11,,476,23,_group377
+YML046W,PRP39,Pre-mRNA-processing factor 39,,4460,62,hart et al 14
+YML049C,RSE1,Pre-mRNA-splicing factor RSE1,,,,hart et al 12
+YML051W,GAL80,Galactose/lactose metabolism regulatory protein GAL80,3BTV,784,2856,_group1
+YML054C,mitochondrial precursor,Cytochrome b2,1KBI,4590,54,_group530
+YML056C,IMD4,Probable inosine-5'-monophosphate dehydrogenase IMD4,,2970,65,hart et al 187
+YML057W,CMP2,Serine/threonine-protein phosphatase 2B catalytic subunit A2,,7110,47,hart et al 155
+YML058W,SML1,Ribonucleotide reductase inhibitor protein SML1,,18800,0,_group1162
+YML062C,MFT1,THO complex subunit MFT1,,5910,43,hart et al 28
+YML063W,RPS1B,40S ribosomal protein S1-B,,107000,0,hart et al 63
+YML064C,TEM1,Protein TEM1,,573,26,hart et al 285
+YML065W,ORC1,Origin recognition complex subunit 1,1M4Z,3930,85,hart et al 65
+YML067C,ERV41,ER-derived vesicles protein ERV41,,3000,166,hart et al 333
+YML069W,POB3,FACT complex subunit POB3,2GCL,22400,0,hart et al 17
+YML071C,COG8,Conserved oligomeric Golgi complex subunit 8,,6440,31,hart et al 40
+YML073C,RPL6A,60S ribosomal protein L6-A,,37100,0,_group452
+YML074C,FPR3,FK506-binding nuclear protein,,9490,0,_group399
+YML077W,BET5,Transport protein particle 18 kDa subunit,3CUE,,,hart et al 25
+YML085C,TUB1,Tubulin alpha-1 chain,,5590,41,hart et al 260
+YML088W,UFO1,Ubiquitin ligase complex F-box protein UFO1,,639,0,_group673
+YML091C,mitochondrial precursor,Ribonuclease P protein component,,1160,2,hart et al 339
+YML092C,PRE8,Proteasome component Y7,1RYP,7060,7987,hart et al 13
+YML093W,UTP14,U3 small nucleolar RNA-associated protein 14,,1470,9,hart et al 4
+YML094W,GIM5,Prefoldin subunit 5,,2900,51,hart et al 50
+YML095C,RAD10,DNA repair protein RAD10,,0,42,hart et al 154
+YML097C,VPS9,Vacuolar protein sorting-associated protein 9,1P3Q,4280,85,_group228
+YML098W,TAF13,Transcription initiation factor TFIID subunit 13,,2080,32,hart et al 7
+YML099C,ARG81,Arginine metabolism regulation protein II,,,,_group388
+YML100W,TSL1,Trehalose synthase complex regulatory subunit TSL1,,1960,39,hart et al 98
+YML102W,CAC2,Chromatin assembly factor 1 subunit p60,,2130,45,hart et al 134
+YML103C,NUP188,Nucleoporin NUP188,,11700,46,_group10
+YML105C,SEC65,Signal recognition particle subunit SEC65,,0,66,hart et al 54
+YML106W,URA5,Orotate phosphoribosyltransferase 1,2PS1,39300,0,hart et al 390
+YML109W,ZDS2,Protein ZDS2,,105,47,hart et al 37
+YML112W,CTK3,CTD kinase subunit gamma,,2640,94,hart et al 152
+YML114C,TAF8,Transcription initiation factor TFIID subunit 8,,4680,24,hart et al 173
+YML115C,VAN1,Mannan polymerase I complex VAN1 subunit,,4750,2,hart et al 36
+YML117W,NAB6,Probable RNA-binding protein YML117W,,1540,139,hart et al 111
+YML119W,,Hypothetical 40.1 kDa protein in NDI1-ATR1 intergenic region,,,,_group1106
+YML121W,GTR1,GTP-binding protein GTR1,,907,0,_group658
+YML123C,PHO84,Inorganic phosphate transporter PHO84,,335000,25,hart et al 103
+YML124C,TUB3,Tubulin alpha-3 chain,,12300,448,_group494
+YML126C,ERG13,Hydroxymethylglutaryl-CoA synthase,,34800,46,_group55
+YML127W,RSC9,Chromatin structure remodeling complex protein RSC9,,2610,0,hart et al 6
+YML132W,COS3,Protein COS2/COS3,,639,33,_group612
+YMR001C,CDC5,Cell cycle serine/threonine-protein kinase CDC5/MSD2,,1480,10,hart et al 79
+YMR004W,MVP1,Sorting nexin MVP1,,2210,18,_group988
+YMR005W,TAF4,Transcription initiation factor TFIID subunit 4,,1940,23,hart et al 7
+YMR012W,CLU1,Eukaryotic translation initiation factor 3 135 kDa subunit,,17000,44,hart et al 199
+YMR016C,SOK2,Protein SOK2,,314,3,doubleton47
+YMR017W,SPO20,Sporulation-specific protein 20,,,,_group228
+YMR019W,STB4,Probable transcriptional regulatory protein STB4,,98.9,3,_group807
+YMR022W,UBC7,Ubiquitin-conjugating enzyme E2-18 kDa,2UCZ,2100,31,_group1163
+YMR023C,mitochondrial precursor,GTPase MSS1,,768,32,doubleton26
+YMR024W,mitochondrial precursor,60S ribosomal protein L3,,300,94,hart et al 8
+YMR025W,CSI1,Cop9 signalosome-interactor 1,,,,hart et al 45
+YMR026C,PEX12,Peroxisome assembly protein 12,,907,33,_group650
+YMR028W,TAP42,Type 2A phosphatase-associated protein 42,2V0P,,,hart et al 56
+YMR029C,FAR8,Factor arrest protein 8,,4010,29,_group680
+YMR031C,,Hypothetical 93.3 kDa protein in TAP42-CYK2 intergenic region,,5570,9,hart et al 300
+YMR032W,HOF1,Cytokinesis 2 protein,,195,32,_group3
+YMR033W,ARP9,Actin-like protein ARP9,,1790,0,hart et al 6
+YMR036C,MIH1,M-phase inducer phosphatase,,0,12,_group1106
+YMR037C,MSN2,Zinc finger protein MSN2,,125,2,doubleton47
+YMR038C,CCS1,Superoxide dismutase 1 copper chaperone,1EJ8,12000,-159,hart et al 182
+YMR039C,SUB1,RNA polymerase II transcriptional coactivator SUB1,,7820,46,_group1
+YMR042W,ARG80,Arginine metabolism regulation protein I,,,,_group388
+YMR043W,MCM1,Pheromone receptor transcription factor,1MNM,8970,-991,_group388
+YMR044W,IOC4,ISWI one complex protein 4,,5820,16,hart et al 61
+YMR047C,NUP116,Nucleoporin NUP116/NSP116,2AIV,,,hart et al 38
+YMR048W,CSM3,Hypothetical 36.4 kDa protein in NUP116-FAR3 intergenic region,,358,2,hart et al 287
+YMR049C,ERB1,Eukaryotic ribosome biogenesis protein 1,,2680,17,hart et al 20
+YMR052W,FAR3,Factor arrest protein 3,,1540,7,_group680
+YMR053C,STB2,Protein STB2,,,,_group807
+YMR054W,Golgi isoform,Vacuolar ATP synthase subunit a,,1080,33,_group797
+YMR055C,BUB2,Mitotic check point protein BUB2,,,,_group3
+YMR059W,SEN15,tRNA-splicing endonuclease subunit SEN15,,,,_group463
+YMR060C,SAM37,Sorting assembly machinery 37 kDa subunit,,1580,21,_group1161
+YMR061W,RNA14,mRNA 3'-end-processing protein RNA14,,5350,7,hart et al 115
+YMR067C,UBX4,UBX domain-containing protein 4,,3570,22,hart et al 70
+YMR068W,AVO2,Target of rapamycin complex 2 subunit AVO2,,1180,58,_group31
+YMR072W,mitochondrial precursor,ARS-binding factor 2,,3810,91,hart et al 128
+YMR075W,RCO1,Transcriptional regulatory protein RCO1,,486,37,hart et al 22
+YMR076C,PDS5,Sister chromatid cohesion protein PDS5,,7720,35,hart et al 17
+YMR077C,VPS20,Vacuolar protein sorting-associated protein 20,,937,124,_group714
+YMR078C,CTF18,Chromosome transmission fidelity protein 18,,0,35,hart et al 48
+YMR079W,SEC14,SEC14 cytosolic factor,1AUA,84300,149,hart et al 253
+YMR080C,NAM7,ATP-dependent helicase NAM7,,6090,18,_group10
+YMR086W,,Uncharacterized protein YMR086W,,0,40,hart et al 82
+YMR089C,YTA12,Mitochondrial respiratory chain complexes assembly protein RCA1,,11500,29,hart et al 257
+YMR091C,NPL6,Chromatin structure remodeling complex protein RSC7,,3510,116,hart et al 6
+YMR092C,AIP1,Actin-interacting protein 1,1PGU,11100,0,_group521
+YMR093W,UTP15,U3 small nucleolar RNA-associated protein 15,,358,122,hart et al 4
+YMR094W,CTF13,Centromere DNA-binding protein complex CBF3 subunit C,,,,_group673
+YMR095C,SNO1,Probable glutamine amidotransferase SNO1,,,,_group599
+YMR096W,SNZ1,Pyridoxine biosynthesis protein SNZ1,,,,hart et al 386
+YMR099C,,UPF0010 protein YMR099C,2CIR,8580,0,hart et al 164
+YMR104C,YPK2,Serine/threonine-protein kinase YPK2/YKR2,,1310,71,hart et al 364
+YMR106C,YKU80,Protein Ku80,,358,16,hart et al 17
+YMR108W,mitochondrial precursor,Acetolactate synthase catalytic subunit,1T9B,31900,40,_group666
+YMR109W,MYO5,Myosin-5,1ZUY,2280,168,hart et al 33
+YMR112C,MED11,RNA polymerase II mediator complex subunit 11,,396,116,hart et al 5
+YMR117C,SPC24,Kinetochore protein SPC24,2FTX,1750,74,hart et al 93
+YMR120C,ADE17,Bifunctional purine biosynthesis protein ADE17,,60900,39,hart et al 180
+YMR124W,,Uncharacterized protein YMR124W,,166,430,_group916
+YMR125W,STO1,Nuclear cap-binding protein complex subunit 1,,11300,65,hart et al 14
+YMR127C,SAS2,Histone acetyltransferase SAS2,,0,6,_group120
+YMR128W,ECM16,Probable ATP-dependent RNA helicase DHR1,,2000,393,hart et al 4
+YMR129W,POM152,Nucleoporin POM152,,3410,46,_group10
+YMR131C,RRB1,Ribosome assembly protein RRB1,,,,_group722
+YMR135C,GID8,Glucose-induced degradation protein 8,,639,156,hart et al 51
+YMR139W,RIM11,Serine/threonine-protein kinase MDS1/RIM11,,6990,21,hart et al 39
+YMR140W,SIP5,Hypothetical 55.9 kDa protein in MDS1-RPL13B intergenic region,,556,19,hart et al 102
+YMR146C,TIF34,Eukaryotic translation initiation factor 3 39 kDa subunit,,2400,1250,hart et al 19
+YMR149W,SWP1,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit SWP1 precursor,,8450,329,hart et al 321
+YMR153W,NUP53,Nucleoporin NUP53,,2060,0,hart et al 304
+YMR155W,,Uncharacterized membrane protein YMR155W,,,,hart et al 29
+YMR158W,MRPS8,Mitochondrial 40S ribosomal protein S8,,,,hart et al 3
+YMR159C,ATG16,Autophagy protein 16,2DYO,573,56,_group403
+YMR167W,MLH1,DNA mismatch repair protein MLH1,,319,10,hart et al 169
+YMR168C,CEP3,Centromere DNA-binding protein complex CBF3 subunit B,2VEQ,1900,22,_group673
+YMR169C,ALD3,Aldehyde dehydrogenase [NAD(P)+] 2,,172,34,hart et al 308
+YMR170C,ALD2,Aldehyde dehydrogenase [NAD(P)+] 1,,2070,-2079,hart et al 308
+YMR172W,HOT1,Hypothetical 79.4 kDa protein in ALD2-DDR48 intergenic region,,149,3,hart et al 15
+YMR180C,CTL1,Polynucleotide 5'-triphosphatase,,0,114,_group916
+YMR183C,SSO2,Protein SSO2,,1720,0,_group228
+YMR186W,HSC82,ATP-dependent molecular chaperone HSC82,,132000,109,hart et al 123
+YMR188C,MRPS17,Mitochondrial 40S ribosomal protein MRPS17,,2810,81,hart et al 3
+YMR190C,SGS1,ATP-dependent helicase SGS1,1D8B,,,_group55
+YMR192W,GYL1,Uncharacterized protein YMR192W,,2010,19,hart et al 103
+YMR193W,mitochondrial precursor,60S ribosomal protein L24,,4010,433,hart et al 8
+YMR197C,VTI1,t-SNARE VTI1,,,,hart et al 320
+YMR198W,CIK1,Spindle pole body-associated protein CIK1,,98.9,18,_group563
+YMR199W,CLN1,G1/S-specific cyclin CLN1,,319,6,hart et al 43
+YMR200W,ROT1,Hypothetical 28.9 kDa protein in CLN1-RAD14 intergenic region,,2360,20,_group1065
+YMR201C,RAD14,DNA repair protein RAD14,,1030,31,hart et al 122
+YMR203W,TOM40,Mitochondrial import receptor subunit TOM40,,,,hart et al 342
+YMR205C,PFK2,6-phosphofructokinase subunit beta,,90200,96,hart et al 136
+YMR213W,CEF1,Pre-mRNA-splicing factor CEF1,,784,28,hart et al 16
+YMR214W,SCJ1,DnaJ-related protein SCJ1 precursor,,8260,67,_group928
+YMR216C,SKY1,Serine/threonine-protein kinase SKY1,1Q8Y,2420,62,_group881
+YMR218C,TRS130,Transport protein particle 130 kDa subunit,,432,131,hart et al 25
+YMR223W,UBP8,Ubiquitin carboxyl-terminal hydrolase 8,,1030,11,hart et al 7
+YMR224C,MRE11,Double-strand break repair protein MRE11,,432,7,hart et al 163
+YMR227C,TAF7,Transcription initiation factor TFIID subunit 7,,1050,55,hart et al 7
+YMR228W,MTF1,Mitochondrial replication protein MTF1,1I4W,9380,36,doubleton22
+YMR229C,RRP5,rRNA biogenesis protein RRP5,,8860,15,hart et al 20
+YMR231W,PEP5,Vacuolar membrane protein PEP5,,1200,64,hart et al 60
+YMR232W,FUS2,Nuclear fusion protein FUS2,,,,_group471
+YMR235C,RNA1,Ran GTPase-activating protein 1,,52200,34,_group12
+YMR236W,TAF9,Transcription initiation factor TFIID subunit 9,,6580,93,hart et al 7
+YMR237W,BCH1,Hypothetical 82.0 kDa protein in RNA1-RNT1 intergenic region,,3460,46,hart et al 146
+YMR239C,RNT1,Ribonuclease III,1T4O,4970,103,hart et al 207
+YMR240C,CUS1,Protein CUS1,,1830,54,hart et al 215
+YMR241W,YHM2,Mitochondrial DNA replication protein YHM2,,2930,21,hart et al 32
+YMR242C,RPL20A,60S ribosomal protein L20,,54300,137,doubleton46
+YMR243C,ZRC1,Zinc/cadmium resistance protein,,8200,35,_group806
+YMR246W,FAA4,Long-chain-fatty-acid--CoA ligase 4,,31200,0,_group655
+YMR250W,GAD1,Glutamate decarboxylase,,1200,62,_group1065
+YMR255W,GFD1,mRNA transport factor GFD1,,2730,66,_group12
+YMR257C,mitochondrial precursor,Protein PET111,,538,26,hart et al 26
+YMR258C,,Hypothetical 64.4 kDa protein in PET111-TIF11 intergenic region,,3080,53,hart et al 133
+YMR260C,TIF11,Eukaryotic translation initiation factor 1A,,35100,32,_group328
+YMR261C,TPS3,Trehalose synthase complex regulatory subunit TPS3,,13500,22,hart et al 98
+YMR263W,SAP30,Transcriptional regulatory protein SAP30,,704,-263,hart et al 22
+YMR268C,PRP24,U4/U6 snRNA-associated-splicing factor PRP24,2GHP,672,52,hart et al 21
+YMR270C,RRN9,RNA polymerase I-specific transcription initiation factor RRN9,,0,9,_group1
+YMR271C,URA10,Orotate phosphoribosyltransferase 2,,815,32,hart et al 390
+YMR273C,ZDS1,Protein ZDS1,,279,24,hart et al 37
+YMR275C,BUL1,Ubiquitination pathway protein BUL1,,486,10,hart et al 80
+YMR276W,DSK2,Ubiquitin domain-containing protein DSK2,"2BWF,2BWB",3930,50,_group228
+YMR277W,FCP1,RNA polymerase II subunit A C-terminal domain phosphatase,,6550,20,_group1155
+YMR284W,YKU70,Protein Ku70,,892,20,hart et al 17
+YMR288W,HSH155,U2 snRNP component HSH155,,521,27,hart et al 138
+YMR290C,HAS1,ATP-dependent RNA helicase HAS1,,,,hart et al 20
+YMR293C,mitochondrial precursor,Probable glutamyl-tRNA(Gln) amidotransferase subunit A,,486,85,doubleton8
+YMR294W,JNM1,Nuclear migration protein JNM1,,,,_group396
+YMR296C,LCB1,Serine palmitoyltransferase 1,,22400,-167,hart et al 367
+YMR299C,DYN3,Uncharacterized protein YMR299C,,1170,161,doubleton42
+YMR303C,ADH2,Alcohol dehydrogenase 2,,1620,41,hart et al 31
+YMR304W,UBP15,Ubiquitin carboxyl-terminal hydrolase 15,,2810,20,hart et al 183
+YMR308C,PSE1,Importin beta-3 subunit,,15500,88,hart et al 246
+YMR309C,NIP1,Eukaryotic translation initiation factor 3 93 kDa subunit,,78900,-1457,hart et al 19
+YMR310C,,Hypothetical 35.9 kDa protein in NIP1-GLC8 intergenic region,,2540,18,hart et al 241
+YMR311C,GLC8,Protein GLC8,,3440,53,hart et al 11
+YMR312W,ELP6,Elongator complex protein 5,,,,hart et al 66
+YMR314W,PRE5,Proteasome component PRE5,1RYP,7210,-68,hart et al 13
+YNL001W,DOM34,Protein DOM34,2VGN,1720,106,doubleton40
+YNL002C,RLP7,Ribosome biogenesis protein RLP7,,7720,96,hart et al 30
+YNL004W,HRB1,Protein HRB1,,1990,3,hart et al 28
+YNL005C,mitochondrial precursor,60S ribosomal protein L2,,2290,26,hart et al 8
+YNL006W,LST8,Target of rapamycin complex subunit LST8,,589,37,_group31
+YNL007C,SIS1,Protein SIS1,"2O37,1C3G",20300,274,_group12
+YNL016W,PUB1,Nuclear and cytoplasmic polyadenylated RNA-binding protein PUB1,,49600,72,hart et al 179
+YNL020C,ARK1,Actin-regulating kinase 1,,1550,37,_group504
+YNL021W,HDA1,Histone deacetylase HDA1,,3050,0,hart et al 143
+YNL023C,FAP1,RING finger protein YNL023C,,589,89,hart et al 157
+YNL025C,SSN8,RNA polymerase II holoenzyme cyclin-like subunit,,0,240,_group957
+YNL026W,SAM50,Sorting assembly machinery 50 kDa subunit,,,,_group1161
+YNL027W,CRZ1,Transcriptional regulator CRZ1,,1160,10,_group242
+YNL030W,HHF2,Histone H4,1SZD,681000,167,hart et al 17
+YNL031C,HHT2,Histone H3,"1M1D,2RNX,2IDC",248000,223,hart et al 17
+YNL032W,SIW14,Tyrosine-protein phosphatase SIW14,,4070,516,hart et al 81
+YNL035C,,WD repeat protein YNL035C,,3970,72,hart et al 84
+YNL037C,mitochondrial precursor,Isocitrate dehydrogenase [NAD] subunit 1,3BLX,10500,29,hart et al 306
+YNL039W,BDP1,Transcription factor TFIIIB B'' component,,0,13,_group1
+YNL041C,COG6,Conserved oligomeric Golgi complex subunit 6,,1720,101,hart et al 40
+YNL042W,BOP3,Uncharacterized protein YNL042W,,,,_group55
+YNL044W,YIP3,Prenylated Rab acceptor 1,,5500,44,_group28
+YNL047C,5-bisphosphate effector protein SLM2,Phosphatidylinositol 4,,2610,49,_group31
+YNL049C,SFB2,SED5-binding protein 2,,1720,0,hart et al 120
+YNL050C,,Uncharacterized protein YNL050C,,,,_group920
+YNL051W,COG5,Conserved oligomeric Golgi complex subunit 5,,468,28,hart et al 40
+YNL052W,mitochondrial precursor,Cytochrome c oxidase polypeptide Va,,3670,250,hart et al 271
+YNL053W,MSG5,Tyrosine-protein phosphatase MSG5,,538,15,_group468
+YNL055C,POR1,Outer mitochondrial membrane protein porin 1,,,,_group1161
+YNL056W,OCA2,Uncharacterized protein YNL056W,,4530,-137,hart et al 81
+YNL058C,,Uncharacterized protein YNL058C,,,,_group1106
+YNL059C,ARP5,Actin-like protein ARP5,,2170,38,hart et al 9
+YNL061W,NOP2,Nucleolar protein 2,,18700,886,hart et al 30
+YNL062C,GCD10,tRNA (adenine-N(1)-)-methyltransferase non-catalytic subunit TRM6,,2580,69,hart et al 232
+YNL064C,YDJ1,Mitochondrial protein import protein MAS5,"1NLT,1XAO",119000,34,_group12
+YNL066W,SUN4,Septation protein SUN4 precursor,,24700,57,_group1065
+YNL068C,FKH2,Fork head protein homolog 2,,656,26,_group388
+YNL069C,RPL16B,60S ribosomal protein L16-B,,,,_group877
+YNL071W,mitochondrial precursor,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,,5440,52,hart et al 158
+YNL072W,RNH201,Ribonuclease H2 subunit A,,623,49,hart et al 190
+YNL075W,IMP4,U3 small nucleolar ribonucleoprotein protein IMP4,,,,hart et al 195
+YNL076W,MKS1,Negative regulator of RAS-cAMP pathway,,,,_group287
+YNL078W,NIS1,Uncharacterized protein YNL078W,,504,37,hart et al 39
+YNL079C,TPM1,Tropomyosin-1,,3060,153,_group1065
+YNL082W,PMS1,DNA mismatch repair protein PMS1,,521,2,hart et al 169
+YNL084C,END3,Protein END3,,2610,90,hart et al 310
+YNL085W,MKT1,Protein MKT1,,3430,28,hart et al 161
+YNL086W,,Hypothetical 11.5 kDa protein in TOP2-MKT1 intergenic region,,195,0,hart et al 198
+YNL088W,TOP2,DNA topoisomerase 2,"1PVG,1BJT",5730,81,_group55
+YNL090W,RHO2,Protein RHO2,,3870,0,_group3
+YNL091W,NST1,Hypothetical 141.5 kDa protein in YPT53-RHO2 intergenic region,,217,32,_group233
+YNL094W,APP1,Actin patch protein 1,,2290,64,hart et al 194
+YNL097C,PHO23,Transcriptional regulatory protein PHO23,,3250,49,hart et al 22
+YNL098C,RAS2,Ras-like protein 2 precursor,,19800,25,hart et al 291
+YNL099C,OCA1,Hypothetical 27.2 kDa protein in POL1-RAS2 intergenic region,,2310,42,hart et al 81
+YNL100W,,Hypothetical 27.0 kDa protein in POL1-RAS2 intergenic region,,5460,126,_group845
+YNL102W,POL1,DNA polymerase alpha catalytic subunit A,,1050,-4088,hart et al 106
+YNL103W,MET4,Transcriptional activator of sulfur metabolism MET4,,1300,9,hart et al 205
+YNL104C,LEU4,2-isopropylmalate synthase,,6630,42,hart et al 219
+YNL106C,INP52,Uncharacterized protein YNL106C,,0,-98,hart et al 389
+YNL107W,YAF9,Protein AF-9 homolog,,259,92,hart et al 9
+YNL110C,NOP15,Probable RNA-binding protein YNL110C,,4280,155,hart et al 30
+YNL112W,DBP2,ATP-dependent RNA helicase DBP2,,33100,0,hart et al 124
+YNL113W,RPC19,DNA-directed RNA polymerases I and III 16 kDa polypeptide,,8680,-302,hart et al 1
+YNL116W,DMA2,RING finger protein YNL116W,,1750,23,_group805
+YNL118C,DCP2,mRNA decapping enzyme subunit 2,2JVB,8530,36,hart et al 104
+YNL121C,TOM70,Mitochondrial import receptor subunit TOM70,2GW1,45300,29,_group1161
+YNL124W,NAF1,Hypothetical 54.9 kDa protein in SPC98-TOM70 intergenic region,2V3M,1810,82,_group1029
+YNL126W,SPC98,Spindle pole body component SPC98,,56.9,32,hart et al 92
+YNL127W,FAR11,Factor arrest protein 11,,1080,84,_group680
+YNL131W,TOM22,Mitochondrial import receptor subunit TOM22,,6610,-197,_group1161
+YNL132W,KRE33,UPF0202 protein YNL132W,,0,31,hart et al 57
+YNL135C,FPR1,FK506-binding protein 1,1YAT,43300,196,hart et al 157
+YNL136W,EAF7,Chromatin modification-related protein EAF7,,300,11,hart et al 49
+YNL137C,mitochondrial precursor,Protein NAM9,,3270,-130,hart et al 3
+YNL138W,SRV2,Adenylyl cyclase-associated protein,1K4Z,8760,87,hart et al 139
+YNL139C,RLR1,THO complex subunit RLR1,,521,86,hart et al 28
+YNL140C,,Very hypothetical protein YNL140C,,1590,0,doubleton45
+YNL141W,AAH1,Adenosine deaminase,,20700,82,hart et al 289
+YNL145W,MFA2,Mating hormone A-factor 2 precursor,,,,_group957
+YNL147W,LSM7,U6 snRNA-associated Sm-like protein LSm7,,3070,-153,hart et al 21
+YNL148C,ALF1,Tubulin-specific chaperone B,,656,2,_group494
+YNL151C,RPC31,DNA-directed RNA polymerase III 31 kDa polypeptide,,,,hart et al 1
+YNL152W,,Uncharacterized protein YNL152W,,0,26,_group3
+YNL153C,GIM3,Prefoldin subunit 4,,7470,-2214,hart et al 50
+YNL154C,YCK2,Casein kinase I homolog 2,,6160,18,hart et al 278
+YNL161W,CBK1,Serine/threonine-protein kinase CBK1,,450,31,hart et al 283
+YNL166C,BNI5,Uncharacterized protein YNL166C,,,,_group1033
+YNL167C,SKO1,CRE-binding bZIP protein SKO1,,504,18,_group513
+YNL172W,APC1,Anaphase-promoting complex subunit 1,,178,31,hart et al 23
+YNL175C,NOP13,Nucleolar protein 13,,3830,78,_group322
+YNL178W,RPS3,40S ribosomal protein S3,,146000,0,hart et al 63
+YNL182C,IPI3,WD repeat protein YNL182C,,,,hart et al 78
+YNL183C,NPR1,Nitrogen permease reactivator protein,,284,7,_group664
+YNL185C,mitochondrial precursor,60S ribosomal protein L19,,3190,169,hart et al 295
+YNL186W,UBP10,Ubiquitin carboxyl-terminal hydrolase 10,,0,54,hart et al 156
+YNL188W,KAR1,Cell division control protein KAR1,1OQP,,,_group169
+YNL189W,SRP1,Importin subunit alpha,1WA5,2790,39,hart et al 10
+YNL191W,DUG3,Uncharacterized protein YNL191W,,7300,53,_group745
+YNL192W,CHS1,Chitin synthase 1,,,,hart et al 382
+YNL199C,GCR2,Glycolytic genes transcriptional activator GCR2,,,,_group502
+YNL201C,PSY2,Serine/threonine-protein phosphatase 4 regulatory subunit 3,,7010,137,hart et al 64
+YNL202W,4-dienoyl-CoA reductase SPS19,Peroxisomal 2,,,,_group1065
+YNL206C,RTT106,Hypothetical 51.6 kDa protein in SSB2-SPX18 intergenic region,,11100,-184,hart et al 17
+YNL207W,RIO2,Serine/threonine-protein kinase RIO2,,10300,61,hart et al 89
+YNL209W,SSB2,Heat shock protein SSB2,,104000,712,_group532
+YNL214W,PEX17,Peroxisomal membrane protein PEX17,,656,0,_group650
+YNL215W,IES2,Ino eighty subunit 2,,1470,281,_group229
+YNL216W,RAP1,DNA-binding protein RAP1,"1IGN,3CZ6",4390,42,_group502
+YNL218W,MGS1,DNA-dependent ATPase MGS1,,1180,22,hart et al 365
+YNL221C,POP1,Ribonucleases P/MRP protein subunit POP1,,846,0,hart et al 55
+YNL222W,SSU72,RNA polymerase II subunit A C-terminal domain phosphatase SSU72,,,,hart et al 11
+YNL223W,ATG4,Cysteine protease ATG4,,3300,38,_group403
+YNL225C,CNM67,Chaotic nuclear migration protein 67,,0,29,_group169
+YNL229C,URE2,Protein URE2,1K0D,7060,39,hart et al 375
+YNL230C,ELA1,Elongin-A,,815,13,_group723
+YNL232W,CSL4,3'-5' exoribonuclease CSL4,,5550,53,hart et al 10
+YNL233W,BNI4,Protein BNI4,,,,_group537
+YNL234W,,Uncharacterized globin-like protein YNL234W,,195,25,hart et al 199
+YNL236W,SIN4,RNA polymerase II mediator complex subunit 16,,1720,-293,hart et al 5
+YNL238W,KEX2,Kexin precursor,2ID4,0,93,hart et al 248
+YNL240C,NAR1,Nuclear architecture-related protein 1,,,,hart et al 110
+YNL242W,ATG2,Autophagy-related protein 2,,876,574,hart et al 236
+YNL243W,SLA2,Protein SLA2,,40600,480,hart et al 311
+YNL244C,SUI1,Eukaryotic translation initiation factor eIF-1,2OGH,,,hart et al 19
+YNL245C,CWC25,Pre-mRNA-splicing factor CWC25,,861,8,_group297
+YNL246W,VPS75,Vacuolar protein sorting-associated protein 75,,3120,-65,hart et al 235
+YNL247W,,Cysteinyl-tRNA synthetase,,23000,39,hart et al 345
+YNL248C,RPA49,DNA-directed RNA polymerase I 49 kDa polypeptide,,0,113,hart et al 1
+YNL250W,RAD50,DNA repair protein RAD50,,830,-924,hart et al 163
+YNL251C,NRD1,Protein NRD1,,19600,53,hart et al 111
+YNL252C,mitochondrial precursor,60S ribosomal protein L17,,7430,43,hart et al 8
+YNL253W,TEX1,Protein TEX1,,,,hart et al 28
+YNL257C,SIP3,Protein SIP3,,432,0,_group299
+YNL258C,DSL1,Protein transport protein DSL1,,8970,29,hart et al 72
+YNL259C,ATX1,Metal homeostasis factor ATX1,1CC8,0,39,doubleton17
+YNL260C,,Hypothetical 23.3 kDa protein in ORC5-ATX1 intergenic region,,784,-116,_group886
+YNL261W,ORC5,Origin recognition complex subunit 5,,768,34,hart et al 65
+YNL262W,catalytic subunit A,DNA polymerase epsilon,,1970,190,hart et al 119
+YNL263C,YIF1,Protein transport protein YIF1,,,,_group28
+YNL267W,PIK1,Phosphatidylinositol 4-kinase PIK1,2JU0,1600,-156,hart et al 326
+YNL270C,ALP1,Basic amino-acid permease,,,,hart et al 129
+YNL271C,BNI1,Protein BNI1,1UX5,166,79,_group3
+YNL272C,SEC2,Rab guanine nucleotide exchange factor SEC2,2EQB,13200,46,_group419
+YNL273W,TOF1,Topoisomerase 1-associated factor 1,,952,103,hart et al 287
+YNL274C,GOR1,Putative 2-hydroxyacid dehydrogenase YNL274C,,3280,50,hart et al 363
+YNL278W,CAF120,Hypothetical 118.3 kDa protein in ERG24-MET2 intergenic region,,1380,2,_group1106
+YNL281W,HCH1,Hsp90 co-chaperone HCH1,,8530,-443,_group240
+YNL282W,POP3,Ribonucleases P/MRP protein subunit POP3,,1360,51,hart et al 55
+YNL284C,mitochondrial precursor,60S ribosomal protein L10,,5350,109,hart et al 8
+YNL286W,CUS2,Probable RNA-binding protein YNL286W,,1360,3,hart et al 138
+YNL287W,SEC21,Coatomer subunit gamma,,77900,37,hart et al 18
+YNL288W,CAF40,Protein CAF40,,18800,0,hart et al 59
+YNL289W,PCL1,PHO85 cyclin 1,,606,3,_group222
+YNL290W,RFC3,Replication factor C subunit 3,1SXJ,3140,54,hart et al 48
+YNL293W,MSB3,GTPase-activating protein GYP3,,178,23,_group3
+YNL297C,MON2,Uncharacterized protein YNL297C,,2410,22,hart et al 282
+YNL298W,CLA4,Serine/threonine-protein kinase CLA4,,0,105,_group3
+YNL299W,TRF5,Poly(A) RNA polymerase protein 1,,2240,35,_group209
+YNL301C,RPL18B,60S ribosomal protein L18,,63700,0,_group946
+YNL304W,YPT11,GTP-binding protein YPT11,,2850,24,_group28
+YNL306W,mitochondrial precursor,40S ribosomal protein MRP18,,5300,0,hart et al 3
+YNL307C,MCK1,Protein kinase MCK1,,396,0,_group673
+YNL308C,KRI1,Uncharacterized protein YNL308C,,1780,31,hart et al 337
+YNL309W,STB1,Protein STB1,,319,69,_group406
+YNL311C,SKP2,F-box protein YNL311C,,432,14,hart et al 362
+YNL312W,RFA2,Replication factor-A protein 2,,6080,125,hart et al 34
+YNL315C,mitochondrial precursor,Protein ATP11,,2840,64,hart et al 185
+YNL317W,PFS2,Polyadenylation factor subunit 2,,7810,38,hart et al 11
+YNL321W,VNX1,Putative cation exchanger YNL321W,,259,0,_group1106
+YNL325C,FIG4,Polyphosphoinositide phosphatase,,339,18,hart et al 297
+YNL329C,PEX6,Peroxisomal biogenesis factor 6,,1630,44,_group1051
+YNL330C,RPD3,Histone deacetylase RPD3,,3850,1168,hart et al 22
+YNL333W,SNZ2,Probable pyridoxine biosynthesis protein SNZ2,,,,_group599
+YNL334C,SNO2,Probable glutamine amidotransferase SNO2,,,,_group599
+YNL339C,YRF1-6,Y' element ATP-dependent helicase protein 1 copy 6,,,,_group1106
+YNR003C,RPC34,DNA-directed RNA polymerase III 36 kDa polypeptide,,,,hart et al 1
+YNR006W,VPS27,Vacuolar protein sorting-associated protein 27,"1VFY,1Q0V,2PJW",172,7,hart et al 225
+YNR007C,ATG3,Autophagy-related protein 3,2DYT,3610,0,_group403
+YNR010W,CSE2,RNA polymerase II mediator complex subunit 9,,1360,30,hart et al 5
+YNR011C,PRP2,Pre-mRNA-splicing factor ATP-dependent RNA helicase PRP2,,172,7,doubleton48
+YNR012W,URK1,Uridine kinase,,0,50,_group556
+YNR016C,ACC1,Acetyl-CoA carboxylase,"1W96,1UYT",20200,233,_group582
+YNR017W,TIM23,Mitochondrial import inner membrane translocase subunit TIM23,,1440,0,_group530
+YNR023W,SNF12,Transcription regulatory protein SNF12,,,,hart et al 6
+YNR024W,,Uncharacterized protein YNR024W,,1350,2,hart et al 10
+YNR031C,SSK2,MAP kinase kinase kinase SSK2,,217,0,hart et al 126
+YNR034W,SOL1,Probable 6-phosphogluconolactonase 1,,1970,37,hart et al 117
+YNR035C,ARC35,ARP2/3 complex 34 kDa subunit,,13400,43,hart et al 46
+YNR036C,,Putative mitochondrial 40S ribosomal protein YNR036C,,238,13,_group219
+YNR037C,RSM19,Mitochondrial ribosomal protein S19,,,,hart et al 3
+YNR038W,DBP6,ATP-dependent RNA helicase DBP6,,12700,74,_group713
+YNR039C,ZRG17,Protein ZRG17,,0,39,doubleton16
+YNR045W,PET494,COX3 mRNA-specific translational activator PET494,,450,68,_group1018
+YNR046W,TRM112,Protein TRM112,2J6A,4800,36,hart et al 240
+YNR047W,,Probable serine/threonine-protein kinase YNR047W,,752,295,_group1106
+YNR049C,MSO1,Protein MSO1,,1380,39,_group228
+YNR050C,L-glutamate-forming],Saccharopine dehydrogenase [NADP+,2AXQ,57500,0,_group920
+YNR051C,BRE5,UBP3-associated protein BRE5,2QIY,11700,18,hart et al 261
+YNR052C,POP2,Protein POP2,1UOC,1520,48,hart et al 59
+YNR053C,NOG2,Nucleolar GTP-binding protein 2,,67700,381,hart et al 281
+YNR054C,ESF2,Uncharacterized protein YNR054C,,12800,94,hart et al 184
+YNR065C,,Putative 125.2 kDa membrane glycoprotein in BIO3-HXT17 intergenic region,,,,hart et al 32
+YOL001W,PHO80,PHO85 cyclin PHO80,2PMI,0,208,hart et al 18
+YOL004W,SIN3,Transcriptional regulatory protein SIN3,,1660,17,hart et al 22
+YOL005C,RPB11,DNA-directed RNA polymerase II 13.6 kDa polypeptide,1TWF,4280,-167,hart et al 1
+YOL006C,TOP1,DNA topoisomerase 1,1OIS,2970,35,hart et al 15
+YOL010W,RCL1,RNA 3'-terminal phosphate cyclase-like protein,,10000,46,hart et al 368
+YOL012C,HTZ1,Histone H2A.Z,2JSS,2840,261,hart et al 39
+YOL013C,HRD1,ERAD-associated E3 ubiquitin-protein ligase HDR1,,2660,45,doubleton43
+YOL016C,CMK2,Calcium/calmodulin-dependent protein kinase II,,7500,-70,_group1065
+YOL017W,ESC8,Protein ESC8,,432,30,hart et al 61
+YOL018C,TLG2,T-SNARE affecting a late Golgi compartment protein 2,,,,_group28
+YOL021C,DIS3,Exosome complex exonuclease RRP44,2VNU,606,27,hart et al 10
+YOL031C,SIL1,Nucleotide exchange factor SIL1 precursor,,2420,779,hart et al 248
+YOL034W,SMC5,Structural maintenance of chromosomes protein 5,,892,453,hart et al 196
+YOL036W,,Uncharacterized protein YOL036W,,,,_group1106
+YOL038W,PRE6,Proteasome component PRE6,1RYP,16800,-115,hart et al 13
+YOL039W,RPP2A,60S acidic ribosomal protein P2-alpha,,428000,159,_group584
+YOL041C,NOP12,Nucleolar protein 12,,5910,35,_group526
+YOL043C,NTG2,DNA base excision repair N-glycosylase 2,,125,-3648,_group1049
+YOL044W,PEX15,Peroxisomal membrane protein PEX15,,1070,143,_group1051
+YOL045W,PSK2,Probable serine/threonine-protein kinase YOL045W,,2220,45,hart et al 338
+YOL051W,GAL11,RNA polymerase II mediator complex subunit 15,2K0N,606,3,hart et al 5
+YOL054W,PSH1,RING finger protein PSH1,,6490,54,hart et al 17
+YOL058W,ARG1,Argininosuccinate synthase,,1870,135,_group1106
+YOL061W,PRS5,Probable ribose-phosphate pyrophosphokinase 5,,3310,124,doubleton7
+YOL062C,APM4,AP-2 complex subunit mu,,3410,2,hart et al 129
+YOL063C,CRT10,Protein CRT10,,125,0,hart et al 27
+YOL067C,RTG1,Retrograde regulation protein 1,,2190,32,hart et al 268
+YOL068C,HST1,NAD-dependent deacetylase HST1,,1440,56,_group55
+YOL069W,NUF2,Kinetochore protein NUF2,,1550,114,hart et al 93
+YOL070C,NBA1,Uncharacterized protein YOL070C,,1620,53,hart et al 39
+YOL072W,THP1,Nuclear mRNA export protein THP1,,1140,66,hart et al 381
+YOL076W,MDM20,N-terminal acetyltransferase B complex subunit MDM20,,5800,139,hart et al 220
+YOL077C,BRX1,Ribosome biogenesis protein BRX1,,13200,170,hart et al 20
+YOL078W,AVO1,Target of rapamycin complex 2 subunit AVO1,,704,11,_group31
+YOL081W,IRA2,Inhibitory regulator protein IRA2,,0,13,hart et al 182
+YOL082W,ATG19,Autophagy-related protein 19,,1250,41,hart et al 181
+YOL086C,ADH1,Alcohol dehydrogenase 1,2HCY,,,hart et al 31
+YOL087C,,WD repeat protein YOL087C,,589,-394,hart et al 294
+YOL090W,MSH2,DNA mismatch repair protein MSH2,,1230,32,hart et al 95
+YOL091W,SPO21,Sporulation-specific protein 21,,,,_group169
+YOL094C,RFC4,Replication factor C subunit 4,1SXJ,2760,-79,hart et al 48
+YOL096C,mitochondrial precursor,Hexaprenyldihydroxybenzoate methyltransferase,,259,3,doubleton15
+YOL100W,PKH2,Probable serine/threonine-protein kinase YOL100W,,0,12,_group500
+YOL101C,IZH4,ADIPOR-like receptor IZH4,,0,19,_group1030
+YOL108C,INO4,Protein INO4,,521,42,_group582
+YOL109W,ZEO1,Protein ZEO1,,0,-674,_group719
+YOL110W,SHR5,Ras modification protein ERF4,,937,20,doubleton44
+YOL111C,MDY2,Ubiquitin-like protein MDY2,,6510,176,hart et al 127
+YOL112W,MSB4,GTPase-activating protein MSB4,,1730,28,_group1036
+YOL113W,SKM1,Serine/threonine-protein kinase SKM1,,238,21,_group3
+YOL115W,PAP2,Poly(A) RNA polymerase protein 2,,7550,43,hart et al 91
+YOL116W,MSN1,Protein MSN1,,491,9,_group957
+YOL117W,RRI2,COP9 signalosome complex subunit 10,,1320,51,hart et al 45
+YOL120C,RPL18A,60S ribosomal protein L18,,,,hart et al 251
+YOL123W,HRP1,Nuclear polyadenylated RNA-binding protein 4,2CJK,,,hart et al 84
+YOL124C,TRM11,tRNA guanosine-2'-O-methyltransferase TRM11,,2020,50,hart et al 240
+YOL127W,RPL25,60S ribosomal protein L25,,,,hart et al 349
+YOL133W,HRT1,RING-box protein HRT1,,,,hart et al 45
+YOL135C,MED7,RNA polymerase II mediator complex subunit 7,1YKH,7600,37,hart et al 5
+YOL139C,CDC33,Eukaryotic translation initiation factor 4E,1RF8,14200,0,hart et al 75
+YOL142W,RRP40,Exosome complex exonuclease RRP40,,6050,242,hart et al 10
+YOL144W,NOP8,60S ribosome subunit biogenesis protein NOP8,,2170,268,hart et al 301
+YOL145C,CTR9,RNA polymerase-associated protein CTR9,,12900,24,hart et al 15
+YOL146W,PSF3,DNA replication complex GINS protein PSF1,,2210,19,hart et al 85
+YOL147C,PEX11,Peroxisomal membrane protein PMP27,,1630,0,_group855
+YOL148C,SPT20,Transcription factor SPT20,,4150,25,hart et al 7
+YOL149W,DCP1,mRNA decapping enzyme subunit 1,1Q67,2880,23,hart et al 104
+YOR001W,RRP6,Exosome complex exonuclease RRP6,2HBJ,2160,19,hart et al 10
+YOR005C,DNL4,DNA ligase 4,1Z56,,,_group630
+YOR007C,SGT2,Small glutamine-rich tetratricopeptide repeat-containing protein 2,,9420,1551,hart et al 127
+YOR008C,SLG1,Protein SLG1 precursor,,664,25,_group1042
+YOR014W,RTS1,Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit delta isoform,,300,18,hart et al 223
+YOR018W,ROD1,Protein ROD1,,386,16,_group893
+YOR020C,mitochondrial,10 kDa heat shock protein,,149,0,_group1039
+YOR023C,AHC1,Protein AHC1,,339,24,_group872
+YOR026W,BUB3,Cell cycle arrest protein BUB3,1YFQ,1430,22,hart et al 388
+YOR027W,STI1,Heat shock protein STI1,,67600,89,hart et al 123
+YOR028C,CIN5,AP-1-like transcription factor YAP4,,,,_group482
+YOR029W,,,,,,_group1065
+YOR032C,HMS1,Probable transcription factor HMS1,,,,_group222
+YOR033C,EXO1,Exodeoxyribonuclease 1,,672,2,_group395
+YOR035C,SHE4,Protein SHE4,,3410,38,hart et al 33
+YOR036W,PEP12,Syntaxin PEP12,,,,hart et al 320
+YOR037W,mitochondrial precursor,Cytochrome c mitochondrial import factor CYC2,,2730,147,_group1106
+YOR038C,HIR2,Histone transcription regulator 2,,922,29,hart et al 90
+YOR039W,CKB2,Casein kinase II subunit beta',,7160,-1054,hart et al 15
+YOR042W,CUE5,Ubiquitin-binding protein CUE5,,623,3,_group1013
+YOR043W,WHI2,Growth regulation protein,,1800,41,hart et al 165
+YOR045W,TOM6,Mitochondrial import receptor subunit TOM6,,,,_group1161
+YOR046C,DBP5,ATP-dependent RNA helicase DBP5,,14900,70,_group12
+YOR047C,STD1,Protein STD1,,238,8,_group260
+YOR048C,RAT1,5'-3' exoribonuclease 2,,623,0,hart et al 149
+YOR054C,VHS3,Protein VHS3,,,,hart et al 344
+YOR056C,NOB1,20S-pre-rRNA D-site endonuclease NOB1,,4490,234,_group166
+YOR057W,SGT1,Protein SGT1,,1340,34,_group673
+YOR058C,ASE1,Anaphase spindle elongation protein,,556,3,_group1106
+YOR061W,CKA2,Casein kinase II subunit alpha',,4540,54,hart et al 15
+YOR063W,RPL3,60S ribosomal protein L3,,450,120,hart et al 393
+YOR064C,YNG1,Protein YNG1,2JMI,861,0,_group651
+YOR066W,MSA1,Putative transcriptional activator YOR066W,,,,_group1106
+YOR069W,VPS5,Vacuolar protein sorting-associated protein 5,,6120,18,hart et al 73
+YOR075W,UFE1,Syntaxin UFE1,,,,hart et al 72
+YOR076C,SKI7,Superkiller protein 7,,233,20,hart et al 10
+YOR078W,BUD21,Bud site selection protein 21,,2120,83,hart et al 83
+YOR080W,DIA2,Protein DIA2,,,,_group673
+YOR081C,TGL5,Lipase 5,,358,17,_group1106
+YOR083W,WHI5,G1-specific transcriptional repressor WHI5,,1440,71,_group406
+YOR085W,OST3,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit OST3 precursor,,4030,117,_group773
+YOR089C,VPS21,Vacuolar protein sorting-associated protein 21,1EK0,8760,0,hart et al 113
+YOR091W,TMA46,Translation machinery-associated protein 46,,4220,45,hart et al 335
+YOR096W,RPS7A,40S ribosomal protein S7-A,,41000,0,_group332
+YOR098C,NUP1,Nucleoporin NUP1,2BPT,468,21,hart et al 10
+YOR101W,RAS1,Ras-like protein 1 precursor,,2050,106,hart et al 291
+YOR103C,OST2,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit OST2,,,,_group773
+YOR104W,PIN2,[PSI+] induction protein 2,,996,69,_group1106
+YOR105W,,,,3670,0,_group1030
+YOR106W,VAM3,Syntaxin VAM3,1HS7,414,13,_group9
+YOR108W,mitochondrial precursor,2-isopropylmalate synthase 2,,28800,38,hart et al 219
+YOR109W,4,Inositol-1,,1520,68,_group809
+YOR110W,TFC7,Transcription factor tau 55 kDa subunit,,2660,32,hart et al 67
+YOR115C,TRS33,Transport protein particle 33 kDa subunit,,,,hart et al 25
+YOR116C,RPO31,DNA-directed RNA polymerase III largest subunit,,6020,0,hart et al 1
+YOR117W,RPT5,26S protease regulatory subunit 6A,,,,hart et al 2
+YOR122C,PFY1,Profilin,1YPR,,,_group3
+YOR123C,LEO1,RNA polymerase-associated protein LEO1,,1110,49,hart et al 15
+YOR124C,UBP2,Ubiquitin carboxyl-terminal hydrolase 2,,2420,80,hart et al 80
+YOR127W,RGA1,Rho-type GTPase-activating protein 1,,396,37,_group3
+YOR132W,VPS17,Vacuolar protein sorting-associated protein 17,,7380,20,hart et al 73
+YOR133W,EFT1,Elongation factor 2,,82700,155,hart et al 71
+YOR134W,BAG7,Rho-GTPase-activating protein BAG7,,,,_group3
+YOR136W,mitochondrial precursor,Isocitrate dehydrogenase [NAD] subunit 2,3BLX,43100,-364,hart et al 306
+YOR138C,RUP1,UBA domain-containing protein RUP1,,5930,30,hart et al 136
+YOR140W,SFL1,Flocculation suppression protein,,1040,23,_group1019
+YOR141C,ARP8,Actin-like protein ARP8,,1010,199,hart et al 9
+YOR142W,mitochondrial precursor,Succinyl-CoA ligase [ADP-forming] subunit alpha,,18400,1026,hart et al 227
+YOR144C,ELG1,Telomere length regulation protein ELG1,,0,2,hart et al 48
+YOR145C,PNO1,Pre-rRNA-processing protein PNO1,,,,hart et al 330
+YOR148C,SPP2,Pre-mRNA-splicing factor SPP2,,752,0,doubleton48
+YOR150W,mitochondrial precursor,60S ribosomal protein L23,,6730,-123,hart et al 398
+YOR151C,RPB2,DNA-directed RNA polymerase II 140 kDa polypeptide,1TWF,18700,0,hart et al 1
+YOR154W,SLP1,Uncharacterized protein YOR154W precursor,,3250,21,hart et al 355
+YOR156C,NFI1,E3 SUMO-protein ligase SIZ2,,3170,19,_group55
+YOR157C,PUP1,Proteasome component PUP1 precursor,1RYP,11400,254,hart et al 13
+YOR158W,mitochondrial precursor,40S ribosomal protein PET123,,2010,54,hart et al 3
+YOR159C,SME1,Small nuclear ribonucleoprotein E,,556,-80,hart et al 14
+YOR160W,MTR10,mRNA transport regulator MTR10,,6340,68,_group881
+YOR164C,,UPF0363 protein YOR164C,,5350,272,hart et al 127
+YOR167C,RPS28A,40S ribosomal protein S28-A,,94500,117,_group968
+YOR173W,DCS2,Protein DCS2,,1810,0,hart et al 226
+YOR174W,MED4,RNA polymerase II mediator complex subunit 4,,1620,-157,hart et al 5
+YOR176W,mitochondrial precursor,Ferrochelatase,1LBQ,22700,123,_group169
+YOR177C,MPC54,Meiotic plaque component protein 54,,0,37,_group169
+YOR178C,GAC1,Serine/threonine-protein phosphatase 1 regulatory subunit GAC1,,,,_group148
+YOR179C,SYC1,Protein SYC1,,1430,287,hart et al 11
+YOR180C,5)-Delta(2,Delta(3,,,,doubleton31
+YOR181W,LAS17,Proline-rich protein LAS17,,8580,20,hart et al 32
+YOR185C,GSP2,GTP-binding nuclear protein GSP2/CNR2,,2460,0,hart et al 77
+YOR188W,MSB1,Morphogenesis-related protein MSB1,,172,41,_group1106
+YOR189W,IES4,Ino eighty subunit 4,,538,-230,_group161
+YOR191W,RIS1,ATP-dependent helicase RIS1,,,,_group582
+YOR194C,TOA1,Transcription initiation factor IIA large subunit,"1NH2,1NH2",,,hart et al 259
+YOR195W,SLK19,Kinetochore protein SLK19,,314,25,_group1106
+YOR197W,MCA1,Metacaspase-1 precursor,,1400,19,_group492
+YOR198C,BFR1,Nuclear segregation protein BFR1,,33400,128,_group559
+YOR204W,DED1,ATP-dependent RNA helicase DED1,,,,hart et al 19
+YOR206W,NOC2,Nucleolar complex protein 2,,29000,224,hart et al 20
+YOR207C,RET1,DNA-directed RNA polymerase III 130 kDa polypeptide,,1950,25,hart et al 1
+YOR208W,PTP2,Tyrosine-protein phosphatase 2,,149,3,_group468
+YOR210W,RPB10,DNA-directed RNA polymerases I/II/III subunit 10,1TWF,5300,0,hart et al 1
+YOR211C,mitochondrial precursor,Dynamin-like GTPase MGM1,,,,_group407
+YOR212W,STE4,Guanine nucleotide-binding protein subunit beta,,2050,74,hart et al 192
+YOR213C,SAS5,Something about silencing protein 5,,1800,68,hart et al 370
+YOR217W,RFC1,Replication factor C subunit 1,1SXJ,2360,44,hart et al 48
+YOR224C,II,DNA-directed RNA polymerases I,1TWF,6210,-5096,hart et al 1
+YOR227W,,Uncharacterized protein YOR227W,,195,3,_group537
+YOR229W,WTM2,Transcriptional modulator WTM2,,3750,52,hart et al 370
+YOR230W,WTM1,Transcriptional modulator WTM1,,7750,62,hart et al 94
+YOR231W,MKK1,MAP kinase kinase MKK1/SSP32,,1040,18,_group468
+YOR232W,mitochondrial precursor,GrpE protein homolog,,,,_group530
+YOR244W,ESA1,Histone acetyltransferase ESA1,"2RO0,1FY7",1170,208,hart et al 49
+YOR249C,APC5,Anaphase-promoting complex subunit 5,,259,18,hart et al 23
+YOR250C,CLP1,Protein CLP1,2NPI,0,9,hart et al 115
+YOR251C,,Putative thiosulfate sulfurtransferase,,5770,296,hart et al 387
+YOR253W,NAT5,N-terminal acetyltransferase A complex subunit NAT5,,2370,44,hart et al 69
+YOR254C,SEC63,Protein translocation protein SEC63,,17700,-72,hart et al 112
+YOR257W,CDC31,Cell division control protein 31,2DOQ,,,_group169
+YOR259C,RPT4,26S protease subunit RPT4,,,,hart et al 2
+YOR260W,GCD1,Translation initiation factor eIF-2B subunit gamma,,9530,1041,hart et al 26
+YOR261C,RPN8,26S proteasome regulatory subunit RPN8,,19800,145,hart et al 2
+YOR265W,RBL2,Tubulin-specific chaperone A,1QSD,1760,30,_group594
+YOR267C,HRK1,Serine/threonine-protein kinase HRK1,,300,24,hart et al 56
+YOR270C,vacuolar isoform,Vacuolar ATP synthase subunit a,,55700,44,hart et al 238
+YOR272W,YTM1,Microtubule-associated protein YTM1,,6670,52,hart et al 20
+YOR275C,RIM20,pH-response regulator protein palA/RIM20,,2880,27,_group455
+YOR276W,CAF20,20 kDa cap-associated protein,,26900,-320,hart et al 75
+YOR279C,RFM1,Repression factor of MSEs protein 1,,861,21,hart et al 313
+YOR281C,PLP2,Phosducin-like protein 2,,7700,203,hart et al 331
+YOR284W,HUA2,Protein HUA2,,1360,97,_group504
+YOR290C,SNF2,Transcription regulatory protein SNF2,,217,0,hart et al 6
+YOR294W,RRS1,Regulator of ribosome biosynthesis,,,,_group350
+YOR297C,mitochondrial precursor,Import inner membrane translocase subunit TIM18,,4440,0,_group296
+YOR298C-A,MBF1,Multiprotein-bridging factor 1,,47300,106,_group1
+YOR303W,CPA1,Carbamoyl-phosphate synthase arginine-specific small chain,,2580,25,hart et al 244
+YOR304C-A,,Uncharacterized protein YOR304C-A,,656,0,hart et al 309
+YOR304W,ISW2,ISWI chromatin remodeling complex ATPase ISW2,,1520,16,hart et al 135
+YOR308C,SNU66,66 kDa U4/U6.U5 small nuclear ribonucleoprotein component,,0,22,hart et al 12
+YOR310C,NOP58,Nucleolar protein NOP58,,34700,38,hart et al 83
+YOR312C,RPL20B,60S ribosomal protein L20,,0,-317,hart et al 57
+YOR315W,SFG1,Superficial pseudohyphal growth protein 1,,0,26,hart et al 354
+YOR317W,FAA1,Long-chain-fatty-acid--CoA ligase 1,,7470,-237,_group655
+YOR319W,HSH49,Protein HSH49,,1240,87,hart et al 138
+YOR323C,PRO2,Gamma-glutamyl phosphate reductase,1VLU,6920,106,hart et al 255
+YOR326W,MYO2,Myosin-2,"1M45,1M46,2F6H",4340,168,hart et al 33
+YOR327C,SNC2,Synaptobrevin homolog 2,,300,10,_group228
+YOR329C,SCD5,Protein SCD5,,704,13,_group537
+YOR330C,MIP1,DNA polymerase gamma,,377,17,_group510
+YOR332W,VMA4,Vacuolar ATP synthase subunit E,,16100,10,hart et al 35
+YOR340C,RPA43,DNA-dependent RNA polymerase 36 kDa polypeptide,,4070,-453,hart et al 1
+YOR341W,RPA190,DNA-directed RNA polymerase I 190 kDa polypeptide,,2840,27,hart et al 1
+YOR344C,TYE7,Serine-rich protein TYE7,,486,0,_group582
+YOR346W,REV1,DNA repair protein REV1,2AQ4,521,0,hart et al 387
+YOR349W,CIN1,Protein CIN1,,704,16,_group594
+YOR351C,MEK1,Meiosis-specific serine/threonine-protein kinase MEK1,,,,_group314
+YOR352W,,Uncharacterized protein YOR352W,,3510,18,hart et al 312
+YOR353C,SOG2,Leucine-rich repeat-containing protein SOG2,,892,54,hart et al 243
+YOR355W,GDS1,Protein GDS1,,2280,5,_group55
+YOR358W,HAP5,Transcriptional activator HAP5,,450,-100,hart et al 177
+YOR361C,PRT1,Eukaryotic translation initiation factor 3 90 kDa subunit,,47500,51,hart et al 19
+YOR362C,PRE10,Proteasome component C1,1RYP,12000,53,hart et al 13
+YOR363C,PIP2,Peroxisome proliferation transcriptional regulator,,0,3,doubleton5
+YOR367W,SCP1,Transgelin,,1580,1300,_group521
+YOR368W,RAD17,DNA damage checkpoint control protein RAD17,,189,0,_group184
+YOR370C,MRS6,Rab proteins geranylgeranyltransferase component A,,23800,58,hart et al 113
+YOR371C,GPB1,Guanine nucleotide-binding protein subunit beta 1,,1640,28,_group535
+YOR372C,NDD1,Nuclear division defective protein 1,,799,6,_group388
+YOR373W,NUD1,Protein NUD1,,892,32,_group169
+YOR375C,GDH1,NADP-specific glutamate dehydrogenase 1,,77500,0,hart et al 322
+YOR386W,mitochondrial precursor,Deoxyribodipyrimidine photo-lyase,,688,28,hart et al 37
+YOR389W,,Uncharacterized protein YOR389W precursor,,,,_group1160
+YPL001W,HAT1,Histone acetyltransferase type B catalytic subunit,1BOB,,,hart et al 17
+YPL002C,SNF8,Vacuolar sorting protein SNF8,1U5T,1040,96,hart et al 188
+YPL003W,ULA1,NEDD8-activating enzyme E1 regulatory subunit,,,,hart et al 272
+YPL004C,LSP1,Sphingolipid long chain base-responsive protein LSP1,,104000,389,hart et al 82
+YPL007C,TFC8,Transcription factor tau 60 kDa subunit,2J04,2070,44,hart et al 67
+YPL008W,CHL1,Probable ATP-dependent RNA helicase CHL1,,98.9,67,_group600
+YPL010W,RET3,Coatomer subunit zeta,,,,hart et al 18
+YPL011C,TAF3,Transcription initiation factor TFIID subunit 3,,3300,40,hart et al 7
+YPL012W,RRP12,Ribosomal RNA-processing protein 12,,8170,0,_group166
+YPL013C,MRPS16,Mitochondrial ribosomal protein S16,,0,59,hart et al 3
+YPL016W,SWI1,Transcription regulatory protein SWI1,1KN5,92.3,6,hart et al 6
+YPL018W,CTF19,Central kinetochore subunit CTF19,,1250,-116,hart et al 24
+YPL020C,ULP1,Ubiquitin-like-specific protease 1,1EUV,377,21,hart et al 10
+YPL022W,RAD1,DNA repair protein RAD1,,1400,67,hart et al 154
+YPL023C,MET12,Methylenetetrahydrofolate reductase 1,,,,hart et al 234
+YPL024W,RMI1,RecQ-mediated genome instability protein 1,,1500,0,_group55
+YPL029W,mitochondrial precursor,ATP-dependent RNA helicase SUV3,,1440,44,hart et al 191
+YPL031C,PHO85,Cyclin-dependent protein kinase PHO85,2PMI,6160,217,hart et al 18
+YPL037C,EGD1,Nascent polypeptide-associated complex subunit beta-1,,18000,-103,hart et al 264
+YPL038W,MET31,Transcriptional regulator MET31,,521,95,_group999
+YPL042C,SSN3,Meiotic mRNA stability protein kinase SSN3,,,,hart et al 5
+YPL043W,NOP4,Nucleolar protein 4,,4990,22,_group526
+YPL045W,VPS16,Vacuolar protein sorting-associated protein 16,,1300,30,hart et al 60
+YPL046C,ELC1,Elongin-C,1HV2,538,5,hart et al 303
+YPL047W,SGF11,SAGA-associated factor 11,,672,21,hart et al 396
+YPL048W,CAM1,Elongation factor 1-gamma 1,1NHY,60900,45,hart et al 118
+YPL049C,DIG1,Down-regulator of invasive growth 1,,1460,26,hart et al 87
+YPL050C,MNN9,Mannan polymerase complexes MNN9 subunit,,1630,7,hart et al 36
+YPL051W,ARL3,ADP-ribosylation factor-like protein 3,,1920,72,_group794
+YPL055C,LGE1,Transcriptional regulatory protein LGE1,,2060,15,hart et al 210
+YPL063W,mitochondrial precursor,Import inner membrane translocase subunit TIM50,,2400,39,_group530
+YPL065W,VPS28,Vacuolar protein sorting-associated protein 28,"2CAZ,2J9U",1420,259,hart et al 116
+YPL066W,,Uncharacterized protein YPL066W,,396,20,hart et al 88
+YPL070W,MUK1,Protein MUK1,,,,hart et al 73
+YPL074W,YTA6,Probable 26S protease subunit YTA6,,259,40,_group537
+YPL075W,GCR1,Glycolytic genes transcriptional activator GCR1,,259,36,_group502
+YPL078C,mitochondrial precursor,ATP synthase subunit 4,,12900,0,_group467
+YPL082C,MOT1,TATA-binding protein-associated factor MOT1,,6560,60,hart et al 61
+YPL083C,SEN54,tRNA-splicing endonuclease subunit SEN54,,531,25,_group463
+YPL084W,BRO1,Vacuolar sorting protein BRO1,1ZB1,10200,27,_group868
+YPL085W,SEC16,Multidomain vesicle coat protein,,358,0,hart et al 120
+YPL086C,ELP3,Elongator complex protein 3,,4760,32,hart et al 66
+YPL088W,,Putative aryl-alcohol dehydrogenase YPL088W,,,,hart et al 18
+YPL089C,RLM1,Transcription factor RLM1,,736,32,_group468
+YPL090C,RPS6A,40S ribosomal protein S6,,66000,100,hart et al 63
+YPL093W,NOG1,Nucleolar GTP-binding protein 1,,28000,28,hart et al 30
+YPL094C,SEC62,Translocation protein SEC62,,16500,157,hart et al 112
+YPL096W,PNG1,Peptide-N(4)-(N-acetyl-beta-glucosaminyl)asparagine amidase,1X3Z,4850,108,_group228
+YPL101W,ELP4,Elongator complex protein 4,,358,75,hart et al 66
+YPL105C,,Uncharacterized protein YPL105C,,830,6,hart et al 19
+YPL106C,SSE1,Heat shock protein homolog SSE1,3D2F,71700,101,hart et al 150
+YPL111W,CAR1,Arginase,,42800,69,_group397
+YPL115C,BEM3,GTPase-activating protein BEM3,,752,60,_group3
+YPL118W,MRP51,Mitochondrial 40S ribosomal protein MRP51,,656,16,hart et al 3
+YPL120W,VPS30,Vacuolar protein sorting-associated protein 30,,2490,24,hart et al 131
+YPL121C,MEI5,Meiosis protein 5,,,,_group582
+YPL122C,TFB2,RNA polymerase II transcription factor B subunit 2,,8900,46,_group582
+YPL124W,SPC29,Protein NIP29,,,,_group169
+YPL125W,KAP120,Importin beta-like protein KAP120,,6300,214,_group10
+YPL126W,NAN1,Nucleolar protein NAN1,,6560,55,hart et al 4
+YPL127C,HHO1,Histone H1,"1UST,1USS",6560,35,_group1162
+YPL128C,TBF1,Protein TBF1,,6380,46,hart et al 151
+YPL129W,TAF14,Transcription initiation factor TFIID subunit 14,,3120,251,hart et al 173
+YPL131W,RPL5,60S ribosomal protein L5,,,,_group526
+YPL135W,mitochondrial precursor,Iron sulfur cluster assembly protein 1,,10800,25,_group843
+YPL137C,GIP3,GLC7-interacting protein 3,,656,0,hart et al 11
+YPL138C,SPP1,COMPASS component SPP1,,1680,40,hart et al 52
+YPL139C,UME1,Transcriptional regulatory protein UME1,,3040,-123,hart et al 22
+YPL140C,MKK2,MAP kinase kinase MKK2/SSP33,,1950,29,_group468
+YPL146C,NOP53,Uncharacterized protein YPL146C,,1600,33,hart et al 91
+YPL147W,PXA1,Peroxisomal long-chain fatty acid import protein 2,,,,_group943
+YPL149W,ATG5,Autophagy protein 5,2DYO,606,-629,_group403
+YPL151C,PRP46,Pre-mRNA-splicing factor PRP46,,1770,124,hart et al 16
+YPL152W,RRD2,Serine/threonine-protein phosphatase 2A activator 2,2IXN,2430,-1019,hart et al 223
+YPL153C,RAD53,Serine/threonine-protein kinase RAD53,"1G6G,1QU5",6900,2,hart et al 90
+YPL154C,PEP4,Saccharopepsin precursor,1DPJ,,,hart et al 130
+YPL155C,KIP2,Kinesin-like protein KIP2,,656,-394,_group494
+YPL160W,cytoplasmic,Leucyl-tRNA synthetase,,158000,81,doubleton2
+YPL161C,BEM4,Bud emergence protein 4,,6330,39,_group3
+YPL164C,MLH3,DNA mismatch repair protein MLH3,,,,_group1049
+YPL166W,ATG29,Autophagy-related protein 29,,752,48,hart et al 105
+YPL167C,REV3,DNA polymerase zeta catalytic subunit,,,,hart et al 47
+YPL169C,MEX67,mRNA export factor MEX67,"1OF5,2JP7",2830,41,hart et al 58
+YPL171C,OYE3,NADPH dehydrogenase 3,,,,hart et al 372
+YPL173W,mitochondrial precursor,60S ribosomal protein L40,,,,hart et al 8
+YPL174C,NIP100,Protein NIP80,,238,10,_group396
+YPL177C,CUP9,Homeobox protein CUP9,,521,27,_group182
+YPL178W,CBC2,Nuclear cap-binding protein subunit 2,,6200,87,hart et al 204
+YPL180W,TCO89,Target of rapamycin complex 1 subunit TCO89,,243,0,_group31
+YPL181W,CTI6,Transcriptional regulatory protein CTI6,,1590,29,hart et al 22
+YPL183C,,WD repeat protein YPL183C,,3450,21,hart et al 346
+YPL183W-A,mitochondrial precursor,60S ribosomal protein YPL183W-A,,538,2298,_group632
+YPL187W,MF(ALPHA)1,Mating factor alpha-1 precursor,,,,_group701
+YPL190C,NAB3,Nuclear polyadenylated RNA-binding protein 3,,5830,38,hart et al 111
+YPL194W,DDC1,DNA damage checkpoint protein 1,,238,16,hart et al 191
+YPL195W,APL5,AP-3 complex subunit delta,,13500,331,hart et al 99
+YPL198W,RPL7B,60S ribosomal protein L7-B,,7080,82,hart et al 228
+YPL203W,TPK2,cAMP-dependent protein kinase type 2,,2220,25,hart et al 97
+YPL204W,HRR25,Casein kinase I homolog HRR25,,10300,25,hart et al 89
+YPL208W,RKM1,Ribosomal N-lysine methyltransferase 1,,4800,29,hart et al 175
+YPL209C,IPL1,Spindle assembly checkpoint kinase,,149,78,_group867
+YPL210C,SRP72,Signal recognition particle subunit SRP72,,11800,53,hart et al 54
+YPL211W,NIP7,60S ribosome subunit biogenesis protein NIP7,,5170,40,hart et al 44
+YPL212C,PUS1,tRNA pseudouridine synthase 1,,8130,151,_group718
+YPL213W,LEA1,U2 small nuclear ribonucleoprotein A',,3630,175,hart et al 12
+YPL215W,mitochondrial precursor,Protein CBP3,,14200,0,doubleton29
+YPL217C,BMS1,Ribosome biogenesis protein BMS1,,,,hart et al 4
+YPL218W,SAR1,GTP-binding protein SAR1,1M2O,,,_group701
+YPL219W,PCL8,PHO85 cyclin 8,,396,14,hart et al 18
+YPL220W,RPL1A,60S ribosomal protein L1,,116000,76,_group949
+YPL225W,,UPF0368 protein YPL225W,2JYN,37500,34,hart et al 212
+YPL228W,CET1,mRNA capping enzyme subunit beta,1D8H,3900,33,hart et al 224
+YPL231W,FAS2,Fatty acid synthase subunit alpha,2UV8,17000,19,hart et al 325
+YPL232W,SSO1,Protein SSO1,"1FIO,3B5N",450,14,_group228
+YPL233W,NSL1,Kinetochore-associated protein NSL1,,3710,26,hart et al 101
+YPL234C,TFP3,Vacuolar ATP synthase subunit c',,538,75,_group587
+YPL235W,RVB2,RuvB-like protein 2,,3030,250,hart et al 9
+YPL237W,SUI3,Eukaryotic translation initiation factor 2 subunit beta,,,,hart et al 26
+YPL239W,YAR1,Ankyrin repeat-containing protein YAR1,,13100,25,hart et al 63
+YPL240C,HSP82,ATP-dependent molecular chaperone HSP82,"2IWX,1USV",445000,0,hart et al 123
+YPL242C,IQG1,Ras GTPase-activating-like protein IQG1,,279,-614,_group3
+YPL243W,SRP68,Signal recognition particle subunit SRP68,,6280,37,hart et al 54
+YPL248C,GAL4,Regulatory protein GAL4,"1D66,1HBW",166,0,_group1
+YPL249C,GYP5,GTPase-activating protein GYP5,,1940,-175,hart et al 103
+YPL249C-A,RPL36B,60S ribosomal protein L36-B,,5370,0,_group762
+YPL250C,ICY2,Protein ICY2,,450,-197,_group1106
+YPL253C,VIK1,Spindle pole body-associated protein VIK1,2O0A,,,_group563
+YPL254W,HFI1,Transcriptional coactivator HFI1/ADA1,,7950,28,hart et al 7
+YPL255W,BBP1,Protein BBP1,,922,0,_group169
+YPL256C,CLN2,G1/S-specific cyclin CLN2,,1270,5,hart et al 43
+YPL259C,APM1,AP-1 complex subunit mu-1,,4420,37,hart et al 68
+YPL266W,DIM1,Dimethyladenosine transferase,,,,hart et al 330
+YPL267W,ACM1,APC/C-CDH1 modulator 1,,688,5,_group1106
+YPL268W,5-bisphosphate phosphodiesterase 1,1-phosphatidylinositol-4,,0,3,_group673
+YPL269W,KAR9,Karyogamy protein KAR9,,656,30,_group494
+YPR007C,REC8,Meiotic recombination protein REC8,,,,_group1159
+YPR010C,RPA135,DNA-directed RNA polymerase I 135 kDa polypeptide,,14100,0,hart et al 1
+YPR016C,TIF6,Eukaryotic translation initiation factor 6,1G62,18600,69,hart et al 30
+YPR017C,DSS4,Protein DSS4,,1500,154,hart et al 62
+YPR018W,RLF2,Chromatin assembly factor 1 subunit p90,,1590,24,hart et al 134
+YPR019W,MCM4,Cell division control protein 54,,8800,-260,_group787
+YPR023C,EAF3,Chromatin modification-related protein EAF3,,1890,70,hart et al 49
+YPR025C,CCL1,Cyclin CCL1,,8700,84,hart et al 53
+YPR028W,YOP1,Protein YOP1,,1760,0,_group28
+YPR029C,APL4,AP-1 complex subunit gamma-1,,4850,27,hart et al 68
+YPR030W,CSR2,Transcription factor CSR2,,,,_group1106
+YPR031W,NTO1,NuA3 HAT complex component NTO1,,172,12,hart et al 275
+YPR032W,SRO7,Protein SNI1,2OAJ,0,46,_group228
+YPR034W,ARP7,Actin-like protein ARP7,,1360,762,hart et al 6
+YPR036W,VMA13,Vacuolar ATP synthase subunit H,1HO8,22500,223,hart et al 35
+YPR040W,TIP41,Type 2A phosphatase activator TIP41,,5710,129,_group253
+YPR041W,TIF5,Eukaryotic translation initiation factor 5,2FUL,48300,186,hart et al 19
+YPR046W,MCM16,Central kinetochore subunit MCM16,,279,104,hart et al 24
+YPR048W,TAH18,Probable NADPH reductase TAH18,,,,hart et al 276
+YPR049C,ATG11,Autophagy-related protein 11,,85.5,73,hart et al 105
+YPR051W,MAK3,N-terminal acetyltransferase C complex catalytic subunit MAK3,,1940,235,hart et al 147
+YPR052C,NHP6A,Nonhistone chromosomal protein 6A,1CG7,3870,0,_group340
+YPR054W,SMK1,Sporulation-specific mitogen-activated protein kinase SMK1,,,,_group812
+YPR055W,SEC8,Exocyst complex component SEC8,,,,hart et al 42
+YPR056W,TFB4,RNA polymerase II transcription factor B subunit 4,,4630,13,hart et al 53
+YPR057W,BRR1,Pre-mRNA-splicing factor BRR1,,1870,-175,hart et al 14
+YPR066W,UBA3,NEDD8-activating enzyme E1 catalytic subunit,,752,30,hart et al 272
+YPR069C,SPE3,Spermidine synthase,,,,hart et al 263
+YPR070W,MED1,RNA polymerase II mediator complex subunit 1,,4670,25,hart et al 5
+YPR072W,NOT5,General negative regulator of transcription subunit 5,,5110,26,hart et al 343
+YPR073C,LTP1,Low molecular weight phosphotyrosine protein phosphatase,1D1Q,3500,44,_group399
+YPR080W,TEF1,Elongation factor 1-alpha,,377,56,hart et al 118
+YPR082C,DIB1,Spliceosomal protein DIB1,,,,hart et al 12
+YPR084W,,Uncharacterized protein YPR084W,,,,_group893
+YPR086W,SUA7,Transcription initiation factor IIB,,6750,17,_group1
+YPR088C,SRP54,Signal recognition particle subunit SRP54,,,,hart et al 54
+YPR091C,,Uncharacterized protein YPR091C,,861,51,_group1148
+YPR094W,RDS3,Pre-mRNA-splicing factor RDS3,,,,_group721
+YPR101W,SNT309,Pre-mRNA-splicing factor SNT309,,721,-154,hart et al 16
+YPR102C,RPL11A,60S ribosomal protein L11-A,,39000,71,_group350
+YPR103W,PRE2,Proteasome component PRE2 precursor,1RYP,8530,-182,hart et al 13
+YPR104C,FHL1,Pre-rRNA-processing protein FHL1,,639,40,_group309
+YPR105C,COG4,Conserved oligomeric Golgi complex subunit 4,,1620,35,hart et al 40
+YPR107C,YTH1,mRNA 3'-end-processing protein YTH1,,3690,146,hart et al 11
+YPR108W,RPN7,26S proteasome regulatory subunit RPN7,,51900,-101,hart et al 2
+YPR110C,RPC40,DNA-directed RNA polymerases I and III 40 kDa polypeptide,,13000,0,hart et al 1
+YPR111W,DBF20,Serine/threonine-protein kinase DBF20,,3320,16,hart et al 186
+YPR112C,MRD1,Multiple RNA-binding domain-containing protein 1,,2220,16,hart et al 368
+YPR115W,,Uncharacterized protein YPR115W,,300,3,_group993
+YPR118W,MRI1,Methylthioribose-1-phosphate isomerase,"1W2W,1W2W",922,-308,_group1025
+YPR119W,CLB2,G2/mitotic-specific cyclin-2,,339,22,hart et al 43
+YPR120C,CLB5,S-phase entry cyclin-5,,521,44,_group3
+YPR131C,NAT3,N-terminal acetyltransferase B complex catalytic subunit NAT3,,639,140,hart et al 220
+YPR133C,SPN1,Transcription factor IWS1,,2830,86,hart et al 341
+YPR133W-A,TOM5,Mitochondrial import receptor subunit TOM5,,,,_group1161
+YPR135W,CTF4,DNA polymerase alpha-binding protein,,3280,49,hart et al 85
+YPR137W,RRP9,Ribosomal RNA-processing protein 9,,5130,79,hart et al 83
+YPR141C,KAR3,Kinesin-like protein KAR3,1F9V,3250,27,_group563
+YPR143W,RRP15,Ribosomal RNA-processing protein 15,,6200,66,hart et al 18
+YPR144C,NOC4,Nucleolar complex protein 4,,1630,39,hart et al 4
+YPR145W,ASN1,Asparagine synthetase [glutamine-hydrolyzing] 1,,,,hart et al 258
+YPR152C,URN1,Pre-mRNA-splicing factor URN1,,1310,1214,hart et al 305
+YPR154W,PIN3,[PSI+] inducibility protein 3,1ZX6,2190,384,_group492
+YPR159W,KRE6,Beta-glucan synthesis-associated protein KRE6,,4760,324,_group492
+YPR161C,SGV1,Serine/threonine-protein kinase BUR1,,2070,12,hart et al 265
+YPR162C,ORC4,Origin recognition complex subunit 4,,2170,67,hart et al 65
+YPR165W,RHO1,GTP-binding protein RHO1,,,,_group3
+YPR167C,MET16,Phosphoadenosine phosphosulfate reductase,2OQ2,217,54,_group524
+YPR168W,NUT2,RNA polymerase II mediator complex subunit 10,,1470,55,hart et al 5
+YPR171W,BSP1,Protein BSP1,,704,65,hart et al 389
+YPR173C,VPS4,Vacuolar protein sorting-associated protein 4,"2V6X,2QP9",5350,57,hart et al 324
+YPR174C,,Nuclear envelope protein YPR174C,,3420,139,_group1106
+YPR175W,DPB2,DNA polymerase epsilon subunit B,,3110,62,hart et al 119
+YPR176C,BET2,Type-2 proteins geranylgeranyltransferase subunit beta,,1520,-65,hart et al 356
+YPR178W,PRP4,U4/U6 small nuclear ribonucleoprotein PRP4,,1770,57,hart et al 12
+YPR179C,HDA3,HDA1 complex subunit 3,,1100,30,hart et al 143
+YPR180W,AOS1,DNA damage tolerance protein RHC31,,7430,85,hart et al 201
+YPR181C,SEC23,Protein transport protein SEC23,1M2O,,,hart et al 120
+YPR182W,SMX3,Small nuclear ribonucleoprotein F,1N9R,2570,0,hart et al 14
+YPR183W,DPM1,Dolichol-phosphate mannosyltransferase,,1890,3,_group55
+YPR184W,GDB1,Glycogen debranching enzyme,,125,18,_group786
+YPR185W,ATG13,Autophagy-related protein 13,,149,14,_group9
+YPR187W,II,DNA-directed RNA polymerases I,1TWF,6090,-3704,hart et al 1
+YPR188C,MLC2,Myosin light chain 2,,1130,6,hart et al 323
+YPR189W,SKI3,Superkiller protein 3,,11900,32,hart et al 109
+YPR190C,RPC82,DNA-directed RNA polymerase III 74 kDa polypeptide,,2520,27,hart et al 1
+YPR191W,mitochondrial precursor,Ubiquinol-cytochrome-c reductase complex core protein 2,3CX5,35700,352,hart et al 200
+YPR201W,ARR3,Arsenical-resistance protein ACR3,,,,_group240
