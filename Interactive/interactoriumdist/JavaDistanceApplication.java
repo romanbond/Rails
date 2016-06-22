@@ -106,7 +106,7 @@ public class JavaDistanceApplication {
         JavaDistanceApplication obj = new JavaDistanceApplication();
         //System.out.println("*** " + obj.convert(123456789));
         //System.out.println("*** " + obj.convert(-55));
-        //System.out.println("TEST GEN ------------------------------------------------- TEST GEN");
+        //System.out.println("TEST GEN ------- TEST GEN");
         Random rand = new Random();
         int x = 5000;
         int y = 0;
