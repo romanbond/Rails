@@ -1,0 +1,13 @@
+//Script Notes
+
+Line 390 - Basically the menu pointing to the ppi.van file that controls the cell viewer, lets change that.
+with ui:loadingbuttons do (
+   menuicon "loadcomplexview" "textures/complexviewicon.png";
+   mi:link (ui:interactoriumloader ::> hide(@); loadfile "scripts/ppi.van";);
+
+lets // L3 (line 3)
+//the run graph is disabled by default with the following option
+L276 ./prelude_rungraph; changed to ./prelude_freezegraph;
+
+See prelude and javadistanceapplication file
+

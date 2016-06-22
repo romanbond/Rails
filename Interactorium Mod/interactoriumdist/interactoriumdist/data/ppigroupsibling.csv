@@ -1,0 +1,938 @@
+_group1.cytoplasm,_group1.nucleus
+_group1.nucleus,_group1.nucleolus
+_group1.nucleolus,_group1.unknown
+_group10.cytoplasm,_group10.nucleus
+_group10.nucleus,_group10.punctate composite
+_group10.punctate composite,_group10.nuclear periphery
+_group1002.cytoplasm,_group1002.nucleus
+_group1013.cytoplasm,_group1013.nucleus
+_group1013.nucleus,_group1013.punctate composite
+_group1013.punctate composite,_group1013.unknown
+_group1019.nucleus,_group1019.unknown
+_group1022.cytoplasm,_group1022.nuclear periphery
+_group1025.cytoplasm,_group1025.nucleus
+_group1025.nucleus,_group1025.unknown
+_group1027.cytoplasm,_group1027.punctate composite
+_group1027.punctate composite,_group1027.unknown
+_group1028.cytoplasm,_group1028.punctate composite
+_group1028.punctate composite,_group1028.vacuolar membrane
+_group1028.vacuolar membrane,_group1028.vacuole
+_group1028.vacuole,_group1028.unknown
+_group1029.nucleus,_group1029.nucleolus
+_group1030.ER,_group1030.unknown
+_group1033.cytoplasm,_group1033.bud neck
+_group1033.bud neck,_group1033.bud
+_group1036.bud neck,_group1036.cell periphery
+_group1036.cell periphery,_group1036.bud
+_group1037.cytoplasm,_group1037.nucleus
+_group1042.cytoplasm,_group1042.bud neck
+_group1042.bud neck,_group1042.bud
+_group1042.bud,_group1042.vacuole
+_group1049.mitochondrion,_group1049.unknown
+_group1051.punctate composite,_group1051.peroxisome
+_group1065.cytoplasm,_group1065.ER
+_group1065.ER,_group1065.vacuole
+_group1065.vacuole,_group1065.unknown
+_group1106.cytoplasm,_group1106.nucleus
+_group1106.nucleus,_group1106.mitochondrion
+_group1106.mitochondrion,_group1106.bud neck
+_group1106.bud neck,_group1106.cell periphery
+_group1106.cell periphery,_group1106.bud
+_group1106.bud,_group1106.spindle pole
+_group1106.spindle pole,_group1106.punctate composite
+_group1106.punctate composite,_group1106.nuclear periphery
+_group1106.nuclear periphery,_group1106.vacuole
+_group1106.vacuole,_group1106.microtubule
+_group1106.microtubule,_group1106.lipid particle
+_group1106.lipid particle,_group1106.unknown
+_group1144.cytoplasm,_group1144.mitochondrion
+_group1144.mitochondrion,_group1144.vacuolar membrane
+_group1144.vacuolar membrane,_group1144.actin
+_group1161.cytoplasm,_group1161.mitochondrion
+_group1161.mitochondrion,_group1161.unknown
+_group1162.cytoplasm,_group1162.nucleus
+_group1163.cytoplasm,_group1163.nucleus
+_group1163.nucleus,_group1163.ER
+_group12.cytoplasm,_group12.nucleus
+_group12.nucleus,_group12.mitochondrion
+_group12.mitochondrion,_group12.nuclear periphery
+_group12.nuclear periphery,_group12.unknown
+_group120.cytoplasm,_group120.nucleus
+_group148.cytoplasm,_group148.nucleus
+_group148.nucleus,_group148.ER
+_group148.ER,_group148.cell periphery
+_group148.cell periphery,_group148.unknown
+_group153.ER,_group153.vacuole
+_group153.vacuole,_group153.lipid particle
+_group166.cytoplasm,_group166.nucleus
+_group169.cytoplasm,_group169.mitochondrion
+_group169.mitochondrion,_group169.bud neck
+_group169.bud neck,_group169.spindle pole
+_group169.spindle pole,_group169.nuclear periphery
+_group169.nuclear periphery,_group169.unknown
+_group170.cytoplasm,_group170.nucleus
+_group182.cytoplasm,_group182.nucleus
+_group182.nucleus,_group182.unknown
+_group183.cytoplasm,_group183.nucleus
+_group183.nucleus,_group183.bud neck
+_group183.bud neck,_group183.unknown
+_group189.cytoplasm,_group189.nucleus
+_group189.nucleus,_group189.nuclear periphery
+_group198.cytoplasm,_group198.nucleus
+_group222.cytoplasm,_group222.unknown
+_group228.cytoplasm,_group228.nucleus
+_group228.nucleus,_group228.endosome
+_group228.endosome,_group228.bud neck
+_group228.bud neck,_group228.cell periphery
+_group228.cell periphery,_group228.bud
+_group228.bud,_group228.punctate composite
+_group228.punctate composite,_group228.vacuole
+_group228.vacuole,_group228.lipid particle
+_group228.lipid particle,_group228.unknown
+_group232.cytoplasm,_group232.nucleus
+_group233.cytoplasm,_group233.nucleus
+_group240.cytoplasm,_group240.nucleus
+_group240.nucleus,_group240.ER
+_group240.ER,_group240.vacuole
+_group240.vacuole,_group240.unknown
+_group242.cytoplasm,_group242.unknown
+_group253.cytoplasm,_group253.nucleus
+_group257.cytoplasm,_group257.nucleus
+_group260.cytoplasm,_group260.nucleus
+_group260.nucleus,_group260.unknown
+_group263.cytoplasm,_group263.nucleus
+_group269.cytoplasm,_group269.nucleus
+_group269.nucleus,_group269.mitochondrion
+_group28.cytoplasm,_group28.endosome
+_group28.endosome,_group28.ER
+_group28.ER,_group28.early Golgi
+_group28.early Golgi,_group28.late Golgi
+_group28.late Golgi,_group28.punctate composite
+_group28.punctate composite,_group28.Golgi
+_group28.Golgi,_group28.unknown
+_group296.mitochondrion,_group296.unknown
+_group297.cytoplasm,_group297.nucleus
+_group297.nucleus,_group297.mitochondrion
+_group298.cytoplasm,_group298.nucleus
+_group299.cytoplasm,_group299.nucleus
+_group299.nucleus,_group299.unknown
+_group3.cytoplasm,_group3.nucleus
+_group3.nucleus,_group3.bud neck
+_group3.bud neck,_group3.cell periphery
+_group3.cell periphery,_group3.bud
+_group3.bud,_group3.spindle pole
+_group3.spindle pole,_group3.punctate composite
+_group3.punctate composite,_group3.vacuole
+_group3.vacuole,_group3.unknown
+_group309.nucleus,_group309.nucleolus
+_group309.nucleolus,_group309.unknown
+_group31.cytoplasm,_group31.punctate composite
+_group31.punctate composite,_group31.vacuolar membrane
+_group31.vacuolar membrane,_group31.unknown
+_group317.cytoplasm,_group317.nucleus
+_group317.nucleus,_group317.unknown
+_group322.cytoplasm,_group322.nucleus
+_group322.nucleus,_group322.nucleolus
+_group332.nucleus,_group332.unknown
+_group340.cytoplasm,_group340.nucleus
+_group341.cytoplasm,_group341.nucleus
+_group350.cytoplasm,_group350.unknown
+_group361.cytoplasm,_group361.mitochondrion
+_group365.cytoplasm,_group365.nucleus
+_group367.cytoplasm,_group367.nucleus
+_group369.cytoplasm,_group369.nucleolus
+_group377.nucleus,_group377.nucleolus
+_group377.nucleolus,_group377.microtubule
+_group379.bud neck,_group379.cell periphery
+_group379.cell periphery,_group379.bud
+_group379.bud,_group379.actin
+_group379.actin,_group379.unknown
+_group388.cytoplasm,_group388.nucleus
+_group388.nucleus,_group388.unknown
+_group391.cytoplasm,_group391.late Golgi
+_group392.vacuolar membrane,_group392.vacuole
+_group395.cytoplasm,_group395.nucleus
+_group397.cytoplasm,_group397.nucleus
+_group397.nucleus,_group397.unknown
+_group399.cytoplasm,_group399.nucleus
+_group399.nucleus,_group399.nucleolus
+_group403.cytoplasm,_group403.nucleus
+_group403.nucleus,_group403.unknown
+_group404.cytoplasm,_group404.nucleus
+_group406.cytoplasm,_group406.nucleus
+_group407.mitochondrion,_group407.unknown
+_group419.cytoplasm,_group419.bud neck
+_group419.bud neck,_group419.bud
+_group452.cytoplasm,_group452.nucleolus
+_group455.cytoplasm,_group455.nucleus
+_group458.cytoplasm,_group458.late Golgi
+_group458.late Golgi,_group458.unknown
+_group463.mitochondrion,_group463.unknown
+_group464.cytoplasm,_group464.bud neck
+_group467.mitochondrion,_group467.unknown
+_group468.cytoplasm,_group468.nucleus
+_group468.nucleus,_group468.mitochondrion
+_group468.mitochondrion,_group468.late Golgi
+_group468.late Golgi,_group468.bud neck
+_group468.bud neck,_group468.bud
+_group468.bud,_group468.punctate composite
+_group468.punctate composite,_group468.unknown
+_group469.cytoplasm,_group469.nucleus
+_group469.nucleus,_group469.bud neck
+_group469.bud neck,_group469.bud
+_group479.cytoplasm,_group479.nucleus
+_group479.nucleus,_group479.bud neck
+_group479.bud neck,_group479.cell periphery
+_group479.cell periphery,_group479.nuclear periphery
+_group479.nuclear periphery,_group479.unknown
+_group482.cytoplasm,_group482.nucleus
+_group482.nucleus,_group482.unknown
+_group487.cytoplasm,_group487.nucleus
+_group487.nucleus,_group487.ER
+_group487.ER,_group487.unknown
+_group492.cytoplasm,_group492.nucleus
+_group492.nucleus,_group492.vacuole
+_group492.vacuole,_group492.actin
+_group492.actin,_group492.unknown
+_group494.cytoplasm,_group494.nucleus
+_group494.nucleus,_group494.spindle pole
+_group494.spindle pole,_group494.punctate composite
+_group494.punctate composite,_group494.microtubule
+_group494.microtubule,_group494.unknown
+_group502.cytoplasm,_group502.nucleus
+_group502.nucleus,_group502.unknown
+_group504.punctate composite,_group504.actin
+_group508.cytoplasm,_group508.nucleus
+_group508.nucleus,_group508.unknown
+_group510.ER,_group510.mitochondrion
+_group510.mitochondrion,_group510.vacuole
+_group513.cytoplasm,_group513.nucleus
+_group513.nucleus,_group513.unknown
+_group521.cytoplasm,_group521.nucleus
+_group521.nucleus,_group521.mitochondrion
+_group521.mitochondrion,_group521.actin
+_group521.actin,_group521.unknown
+_group522.cytoplasm,_group522.nucleus
+_group524.cytoplasm,_group524.nucleus
+_group524.nucleus,_group524.early Golgi
+_group524.early Golgi,_group524.Golgi
+_group524.Golgi,_group524.unknown
+_group526.cytoplasm,_group526.nucleus
+_group526.nucleus,_group526.nucleolus
+_group526.nucleolus,_group526.unknown
+_group527.cytoplasm,_group527.nucleus
+_group530.cytoplasm,_group530.nucleus
+_group530.nucleus,_group530.mitochondrion
+_group530.mitochondrion,_group530.unknown
+_group535.cytoplasm,_group535.mitochondrion
+_group535.mitochondrion,_group535.cell periphery
+_group535.cell periphery,_group535.unknown
+_group537.cytoplasm,_group537.nucleus
+_group537.nucleus,_group537.late Golgi
+_group537.late Golgi,_group537.bud neck
+_group537.bud neck,_group537.cell periphery
+_group537.cell periphery,_group537.spindle pole
+_group537.spindle pole,_group537.punctate composite
+_group537.punctate composite,_group537.nucleolus
+_group537.nucleolus,_group537.unknown
+_group55.cytoplasm,_group55.nucleus
+_group55.nucleus,_group55.ER
+_group55.ER,_group55.bud neck
+_group55.bud neck,_group55.nucleolus
+_group55.nucleolus,_group55.unknown
+_group556.cytoplasm,_group556.nucleus
+_group556.nucleus,_group556.unknown
+_group563.nucleus,_group563.spindle pole
+_group563.spindle pole,_group563.microtubule
+_group563.microtubule,_group563.unknown
+_group581.cytoplasm,_group581.nucleus
+_group582.cytoplasm,_group582.nucleus
+_group582.nucleus,_group582.mitochondrion
+_group582.mitochondrion,_group582.punctate composite
+_group582.punctate composite,_group582.unknown
+_group583.ER,_group583.punctate composite
+_group583.punctate composite,_group583.nuclear periphery
+_group594.cytoplasm,_group594.unknown
+_group599.cytoplasm,_group599.unknown
+_group600.cytoplasm,_group600.nucleus
+_group600.nucleus,_group600.unknown
+_group612.cell periphery,_group612.vacuole
+_group616.early Golgi,_group616.late Golgi
+_group621.cytoplasm,_group621.nucleus
+_group621.nucleus,_group621.unknown
+_group626.cytoplasm,_group626.mitochondrion
+_group629.cytoplasm,_group629.nucleus
+_group630.cytoplasm,_group630.nucleus
+_group630.nucleus,_group630.unknown
+_group632.mitochondrion,_group632.cell periphery
+_group650.cytoplasm,_group650.punctate composite
+_group650.punctate composite,_group650.peroxisome
+_group650.peroxisome,_group650.unknown
+_group655.ER,_group655.lipid particle
+_group657.mitochondrion,_group657.unknown
+_group673.cytoplasm,_group673.nucleus
+_group673.nucleus,_group673.bud
+_group673.bud,_group673.spindle pole
+_group673.spindle pole,_group673.nucleolus
+_group673.nucleolus,_group673.microtubule
+_group673.microtubule,_group673.unknown
+_group680.cytoplasm,_group680.ER
+_group680.ER,_group680.unknown
+_group701.cytoplasm,_group701.nucleus
+_group701.nucleus,_group701.ER
+_group701.ER,_group701.late Golgi
+_group701.late Golgi,_group701.cell periphery
+_group701.cell periphery,_group701.bud
+_group701.bud,_group701.vacuole
+_group701.vacuole,_group701.ER to Golgi
+_group701.ER to Golgi,_group701.unknown
+_group702.cytoplasm,_group702.unknown
+_group708.mitochondrion,_group708.punctate composite
+_group708.punctate composite,_group708.unknown
+_group712.bud neck,_group712.cell periphery
+_group713.nucleus,_group713.nucleolus
+_group714.endosome,_group714.punctate composite
+_group714.punctate composite,_group714.vacuolar membrane
+_group718.cytoplasm,_group718.nucleus
+_group719.cell periphery,_group719.unknown
+_group722.nucleus,_group722.nucleolus
+_group737.cytoplasm,_group737.bud neck
+_group737.bud neck,_group737.cell periphery
+_group738.cytoplasm,_group738.nucleus
+_group741.cytoplasm,_group741.nucleus
+_group741.nucleus,_group741.unknown
+_group749.cytoplasm,_group749.nucleus
+_group766.endosome,_group766.vacuolar membrane
+_group772.early Golgi,_group772.Golgi
+_group773.ER,_group773.unknown
+_group785.cytoplasm,_group785.mitochondrion
+_group787.cytoplasm,_group787.nucleus
+_group787.nucleus,_group787.nuclear periphery
+_group787.nuclear periphery,_group787.nucleolus
+_group787.nucleolus,_group787.unknown
+_group794.early Golgi,_group794.Golgi
+_group794.Golgi,_group794.unknown
+_group797.mitochondrion,_group797.early Golgi
+_group797.early Golgi,_group797.late Golgi
+_group801.nucleus,_group801.mitochondrion
+_group807.nucleus,_group807.unknown
+_group819.mitochondrion,_group819.unknown
+_group826.mitochondrion,_group826.unknown
+_group828.mitochondrion,_group828.unknown
+_group834.cytoplasm,_group834.nucleus
+_group835.cytoplasm,_group835.nucleus
+_group837.cytoplasm,_group837.early Golgi
+_group837.early Golgi,_group837.punctate composite
+_group838.cytoplasm,_group838.punctate composite
+_group838.punctate composite,_group838.peroxisome
+_group838.peroxisome,_group838.unknown
+_group845.mitochondrion,_group845.punctate composite
+_group846.mitochondrion,_group846.vacuole
+_group846.vacuole,_group846.unknown
+_group852.cytoplasm,_group852.nucleus
+_group867.nucleus,_group867.nucleolus
+_group867.nucleolus,_group867.microtubule
+_group868.cytoplasm,_group868.endosome
+_group870.cytoplasm,_group870.nucleus
+_group870.nucleus,_group870.unknown
+_group871.cytoplasm,_group871.nucleus
+_group872.cytoplasm,_group872.nucleus
+_group872.nucleus,_group872.nucleolus
+_group881.cytoplasm,_group881.nucleus
+_group886.cytoplasm,_group886.nucleus
+_group886.nucleus,_group886.ER
+_group886.ER,_group886.unknown
+_group893.cytoplasm,_group893.unknown
+_group894.cytoplasm,_group894.nucleus
+_group897.cytoplasm,_group897.nucleus
+_group897.nucleus,_group897.nucleolus
+_group897.nucleolus,_group897.unknown
+_group9.cytoplasm,_group9.nucleus
+_group9.nucleus,_group9.ER
+_group9.ER,_group9.spindle pole
+_group9.spindle pole,_group9.punctate composite
+_group9.punctate composite,_group9.vacuolar membrane
+_group9.vacuolar membrane,_group9.vacuole
+_group9.vacuole,_group9.unknown
+_group908.cytoplasm,_group908.nucleus
+_group908.nucleus,_group908.unknown
+_group909.nucleus,_group909.mitochondrion
+_group910.cytoplasm,_group910.nucleus
+_group911.cytoplasm,_group911.early Golgi
+_group911.early Golgi,_group911.Golgi
+_group916.cytoplasm,_group916.bud neck
+_group916.bud neck,_group916.cell periphery
+_group916.cell periphery,_group916.bud
+_group916.bud,_group916.vacuolar membrane
+_group916.vacuolar membrane,_group916.microtubule
+_group916.microtubule,_group916.unknown
+_group920.cytoplasm,_group920.mitochondrion
+_group920.mitochondrion,_group920.unknown
+_group928.ER,_group928.vacuole
+_group928.vacuole,_group928.unknown
+_group942.nucleus,_group942.unknown
+_group948.cytoplasm,_group948.unknown
+_group957.cytoplasm,_group957.nucleus
+_group957.nucleus,_group957.microtubule
+_group957.microtubule,_group957.unknown
+_group961.cytoplasm,_group961.nucleus
+_group97.cytoplasm,_group97.nucleus
+_group978.cytoplasm,_group978.nucleus
+_group980.cytoplasm,_group980.vacuole
+_group986.cytoplasm,_group986.bud neck
+_group986.bud neck,_group986.cell periphery
+_group986.cell periphery,_group986.bud
+_group986.bud,_group986.unknown
+_group988.cytoplasm,_group988.nucleus
+_group988.nucleus,_group988.endosome
+_group988.endosome,_group988.early Golgi
+_group988.early Golgi,_group988.spindle pole
+_group988.spindle pole,_group988.vacuole
+_group988.vacuole,_group988.unknown
+_group993.cytoplasm,_group993.nucleus
+_group993.nucleus,_group993.unknown
+_group995.cytoplasm,_group995.nucleus
+_group999.cytoplasm,_group999.nucleus
+doubleton1.mitochondrion,doubleton1.unknown
+doubleton10.cytoplasm,doubleton10.nucleus
+doubleton10.nucleus,doubleton10.unknown
+doubleton11.nucleus,doubleton11.unknown
+doubleton12.cytoplasm,doubleton12.ER
+doubleton12.ER,doubleton12.punctate composite
+doubleton13.mitochondrion,doubleton13.unknown
+doubleton14.ER,doubleton14.vacuole
+doubleton17.cytoplasm,doubleton17.punctate composite
+doubleton19.cytoplasm,doubleton19.nucleus
+doubleton2.cytoplasm,doubleton2.unknown
+doubleton21.cytoplasm,doubleton21.nucleus
+doubleton21.nucleus,doubleton21.unknown
+doubleton22.punctate composite,doubleton22.unknown
+doubleton26.cytoplasm,doubleton26.mitochondrion
+doubleton26.mitochondrion,doubleton26.unknown
+doubleton27.bud neck,doubleton27.cell periphery
+doubleton27.cell periphery,doubleton27.bud
+doubleton3.nucleus,doubleton3.punctate composite
+doubleton30.cytoplasm,doubleton30.nucleus
+doubleton30.nucleus,doubleton30.unknown
+doubleton31.ER,doubleton31.unknown
+doubleton34.ER,doubleton34.vacuole
+doubleton34.vacuole,doubleton34.unknown
+doubleton35.cytoplasm,doubleton35.nucleus
+doubleton39.cell periphery,doubleton39.unknown
+doubleton41.nucleus,doubleton41.unknown
+doubleton42.cytoplasm,doubleton42.mitochondrion
+doubleton42.mitochondrion,doubleton42.punctate composite
+doubleton43.ER,doubleton43.unknown
+doubleton46.cytoplasm,doubleton46.unknown
+doubleton47.cytoplasm,doubleton47.nucleus
+doubleton48.cytoplasm,doubleton48.nucleus
+doubleton5.cytoplasm,doubleton5.nucleus
+doubleton5.nucleus,doubleton5.unknown
+doubleton9.cytoplasm,doubleton9.nucleus
+doubleton9.nucleus,doubleton9.mitochondrion
+hart et al 1.cytoplasm,hart et al 1.nucleus
+hart et al 1.nucleus,hart et al 1.nucleolus
+hart et al 1.nucleolus,hart et al 1.unknown
+hart et al 10.cytoplasm,hart et al 10.nucleus
+hart et al 10.nucleus,hart et al 10.nuclear periphery
+hart et al 10.nuclear periphery,hart et al 10.nucleolus
+hart et al 10.nucleolus,hart et al 10.unknown
+hart et al 100.punctate composite,hart et al 100.actin
+hart et al 102.cytoplasm,hart et al 102.nucleus
+hart et al 103.cytoplasm,hart et al 103.bud neck
+hart et al 103.bud neck,hart et al 103.cell periphery
+hart et al 103.cell periphery,hart et al 103.bud
+hart et al 103.bud,hart et al 103.actin
+hart et al 103.actin,hart et al 103.unknown
+hart et al 104.cytoplasm,hart et al 104.punctate composite
+hart et al 105.cytoplasm,hart et al 105.nucleus
+hart et al 105.nucleus,hart et al 105.punctate composite
+hart et al 106.nucleus,hart et al 106.unknown
+hart et al 107.cytoplasm,hart et al 107.nucleus
+hart et al 107.nucleus,hart et al 107.nucleolus
+hart et al 108.ER,hart et al 108.punctate composite
+hart et al 108.punctate composite,hart et al 108.vacuolar membrane
+hart et al 11.cytoplasm,hart et al 11.nucleus
+hart et al 11.nucleus,hart et al 11.ER
+hart et al 11.ER,hart et al 11.punctate composite
+hart et al 11.punctate composite,hart et al 11.unknown
+hart et al 110.cytoplasm,hart et al 110.unknown
+hart et al 111.cytoplasm,hart et al 111.nucleus
+hart et al 113.cytoplasm,hart et al 113.nucleus
+hart et al 114.cytoplasm,hart et al 114.nucleus
+hart et al 114.nucleus,hart et al 114.bud neck
+hart et al 115.nucleus,hart et al 115.unknown
+hart et al 116.endosome,hart et al 116.punctate composite
+hart et al 116.punctate composite,hart et al 116.unknown
+hart et al 117.cytoplasm,hart et al 117.nucleus
+hart et al 117.nucleus,hart et al 117.actin
+hart et al 118.cytoplasm,hart et al 118.unknown
+hart et al 119.cytoplasm,hart et al 119.nucleus
+hart et al 12.cytoplasm,hart et al 12.nucleus
+hart et al 12.nucleus,hart et al 12.unknown
+hart et al 120.ER to Golgi,hart et al 120.unknown
+hart et al 121.cytoplasm,hart et al 121.nucleus
+hart et al 121.nucleus,hart et al 121.nuclear periphery
+hart et al 122.cytoplasm,hart et al 122.nucleus
+hart et al 122.nucleus,hart et al 122.mitochondrion
+hart et al 124.cytoplasm,hart et al 124.nucleus
+hart et al 124.nucleus,hart et al 124.vacuole
+hart et al 126.cytoplasm,hart et al 126.unknown
+hart et al 128.nucleus,hart et al 128.mitochondrion
+hart et al 129.bud neck,hart et al 129.cell periphery
+hart et al 129.cell periphery,hart et al 129.unknown
+hart et al 13.cytoplasm,hart et al 13.nucleus
+hart et al 13.nucleus,hart et al 13.mitochondrion
+hart et al 13.mitochondrion,hart et al 13.late Golgi
+hart et al 13.late Golgi,hart et al 13.bud neck
+hart et al 13.bud neck,hart et al 13.cell periphery
+hart et al 13.cell periphery,hart et al 13.bud
+hart et al 13.bud,hart et al 13.punctate composite
+hart et al 13.punctate composite,hart et al 13.unknown
+hart et al 130.cytoplasm,hart et al 130.nucleus
+hart et al 130.nucleus,hart et al 130.ER
+hart et al 130.ER,hart et al 130.cell periphery
+hart et al 130.cell periphery,hart et al 130.vacuole
+hart et al 131.endosome,hart et al 131.vacuole
+hart et al 132.cytoplasm,hart et al 132.nucleus
+hart et al 132.nucleus,hart et al 132.unknown
+hart et al 133.cytoplasm,hart et al 133.nucleus
+hart et al 133.nucleus,hart et al 133.vacuole
+hart et al 134.cytoplasm,hart et al 134.nucleus
+hart et al 134.nucleus,hart et al 134.unknown
+hart et al 136.cytoplasm,hart et al 136.nucleus
+hart et al 138.cytoplasm,hart et al 138.nucleus
+hart et al 139.cytoplasm,hart et al 139.nucleus
+hart et al 139.nucleus,hart et al 139.actin
+hart et al 139.actin,hart et al 139.unknown
+hart et al 14.cytoplasm,hart et al 14.nucleus
+hart et al 14.nucleus,hart et al 14.unknown
+hart et al 140.cytoplasm,hart et al 140.ER
+hart et al 141.early Golgi,hart et al 141.Golgi
+hart et al 141.Golgi,hart et al 141.unknown
+hart et al 142.cytoplasm,hart et al 142.nucleus
+hart et al 142.nucleus,hart et al 142.ER
+hart et al 145.cytoplasm,hart et al 145.nucleus
+hart et al 145.nucleus,hart et al 145.punctate composite
+hart et al 147.cytoplasm,hart et al 147.nucleus
+hart et al 147.nucleus,hart et al 147.unknown
+hart et al 148.cytoplasm,hart et al 148.nucleus
+hart et al 149.nucleus,hart et al 149.unknown
+hart et al 15.cytoplasm,hart et al 15.nucleus
+hart et al 15.nucleus,hart et al 15.cell periphery
+hart et al 15.cell periphery,hart et al 15.nucleolus
+hart et al 150.cytoplasm,hart et al 150.nucleus
+hart et al 152.cytoplasm,hart et al 152.nucleus
+hart et al 153.cytoplasm,hart et al 153.nucleus
+hart et al 153.nucleus,hart et al 153.endosome
+hart et al 153.endosome,hart et al 153.spindle pole
+hart et al 154.cytoplasm,hart et al 154.nucleus
+hart et al 155.cytoplasm,hart et al 155.unknown
+hart et al 156.cytoplasm,hart et al 156.nucleus
+hart et al 156.nucleus,hart et al 156.nucleolus
+hart et al 157.cytoplasm,hart et al 157.nucleus
+hart et al 157.nucleus,hart et al 157.unknown
+hart et al 159.cytoplasm,hart et al 159.nucleus
+hart et al 16.cytoplasm,hart et al 16.nucleus
+hart et al 160.cytoplasm,hart et al 160.nucleus
+hart et al 161.cytoplasm,hart et al 161.mitochondrion
+hart et al 161.mitochondrion,hart et al 161.punctate composite
+hart et al 162.cytoplasm,hart et al 162.nuclear periphery
+hart et al 162.nuclear periphery,hart et al 162.ER to Golgi
+hart et al 163.cytoplasm,hart et al 163.nucleus
+hart et al 164.cytoplasm,hart et al 164.nucleus
+hart et al 164.nucleus,hart et al 164.mitochondrion
+hart et al 165.cell periphery,hart et al 165.unknown
+hart et al 166.cytoplasm,hart et al 166.unknown
+hart et al 167.cytoplasm,hart et al 167.nucleus
+hart et al 167.nucleus,hart et al 167.vacuole
+hart et al 168.cytoplasm,hart et al 168.nucleus
+hart et al 169.cytoplasm,hart et al 169.nucleus
+hart et al 17.cytoplasm,hart et al 17.nucleus
+hart et al 17.nucleus,hart et al 17.unknown
+hart et al 170.cytoplasm,hart et al 170.bud neck
+hart et al 170.bud neck,hart et al 170.cell periphery
+hart et al 170.cell periphery,hart et al 170.bud
+hart et al 171.bud neck,hart et al 171.cell periphery
+hart et al 171.cell periphery,hart et al 171.punctate composite
+hart et al 171.punctate composite,hart et al 171.vacuole
+hart et al 172.cytoplasm,hart et al 172.nucleus
+hart et al 174.early Golgi,hart et al 174.punctate composite
+hart et al 175.cytoplasm,hart et al 175.nucleus
+hart et al 176.cytoplasm,hart et al 176.vacuolar membrane
+hart et al 176.vacuolar membrane,hart et al 176.unknown
+hart et al 177.cytoplasm,hart et al 177.nucleus
+hart et al 178.cytoplasm,hart et al 178.unknown
+hart et al 18.cytoplasm,hart et al 18.nucleus
+hart et al 18.nucleus,hart et al 18.early Golgi
+hart et al 18.early Golgi,hart et al 18.punctate composite
+hart et al 18.punctate composite,hart et al 18.nucleolus
+hart et al 18.nucleolus,hart et al 18.Golgi
+hart et al 18.Golgi,hart et al 18.unknown
+hart et al 181.cytoplasm,hart et al 181.punctate composite
+hart et al 182.cytoplasm,hart et al 182.nucleus
+hart et al 183.cytoplasm,hart et al 183.nucleus
+hart et al 184.cytoplasm,hart et al 184.nucleus
+hart et al 184.nucleus,hart et al 184.nucleolus
+hart et al 186.cytoplasm,hart et al 186.bud neck
+hart et al 186.bud neck,hart et al 186.spindle pole
+hart et al 188.cytoplasm,hart et al 188.unknown
+hart et al 189.ER,hart et al 189.mitochondrion
+hart et al 189.mitochondrion,hart et al 189.unknown
+hart et al 19.cytoplasm,hart et al 19.unknown
+hart et al 190.cytoplasm,hart et al 190.nucleus
+hart et al 191.cytoplasm,hart et al 191.nucleus
+hart et al 191.nucleus,hart et al 191.mitochondrion
+hart et al 191.mitochondrion,hart et al 191.unknown
+hart et al 192.cytoplasm,hart et al 192.early Golgi
+hart et al 192.early Golgi,hart et al 192.cell periphery
+hart et al 192.cell periphery,hart et al 192.Golgi
+hart et al 193.cytoplasm,hart et al 193.unknown
+hart et al 194.cytoplasm,hart et al 194.actin
+hart et al 195.cytoplasm,hart et al 195.unknown
+hart et al 196.cytoplasm,hart et al 196.nucleus
+hart et al 197.cytoplasm,hart et al 197.nucleus
+hart et al 198.endosome,hart et al 198.punctate composite
+hart et al 2.cytoplasm,hart et al 2.nucleus
+hart et al 2.nucleus,hart et al 2.mitochondrion
+hart et al 2.mitochondrion,hart et al 2.vacuole
+hart et al 2.vacuole,hart et al 2.unknown
+hart et al 20.cytoplasm,hart et al 20.nucleus
+hart et al 20.nucleus,hart et al 20.nucleolus
+hart et al 20.nucleolus,hart et al 20.unknown
+hart et al 202.cytoplasm,hart et al 202.nucleus
+hart et al 203.cytoplasm,hart et al 203.endosome
+hart et al 203.endosome,hart et al 203.lipid particle
+hart et al 204.cytoplasm,hart et al 204.nucleus
+hart et al 205.cytoplasm,hart et al 205.nucleus
+hart et al 206.cytoplasm,hart et al 206.nucleus
+hart et al 206.nucleus,hart et al 206.ER
+hart et al 206.ER,hart et al 206.nucleolus
+hart et al 207.nucleus,hart et al 207.nucleolus
+hart et al 208.cytoplasm,hart et al 208.unknown
+hart et al 21.cytoplasm,hart et al 21.nucleus
+hart et al 21.nucleus,hart et al 21.unknown
+hart et al 211.ER,hart et al 211.unknown
+hart et al 212.cytoplasm,hart et al 212.unknown
+hart et al 215.nucleus,hart et al 215.mitochondrion
+hart et al 218.cytoplasm,hart et al 218.nucleus
+hart et al 218.nucleus,hart et al 218.mitochondrion
+hart et al 219.cytoplasm,hart et al 219.mitochondrion
+hart et al 22.cytoplasm,hart et al 22.nucleus
+hart et al 22.nucleus,hart et al 22.mitochondrion
+hart et al 22.mitochondrion,hart et al 22.unknown
+hart et al 222.cytoplasm,hart et al 222.mitochondrion
+hart et al 223.cytoplasm,hart et al 223.nucleus
+hart et al 224.cytoplasm,hart et al 224.nucleus
+hart et al 226.cytoplasm,hart et al 226.nucleus
+hart et al 228.cytoplasm,hart et al 228.nucleolus
+hart et al 229.cytoplasm,hart et al 229.nucleus
+hart et al 23.cytoplasm,hart et al 23.nucleus
+hart et al 23.nucleus,hart et al 23.spindle pole
+hart et al 23.spindle pole,hart et al 23.unknown
+hart et al 234.cytoplasm,hart et al 234.nucleus
+hart et al 234.nucleus,hart et al 234.unknown
+hart et al 239.cytoplasm,hart et al 239.bud neck
+hart et al 239.bud neck,hart et al 239.bud
+hart et al 239.bud,hart et al 239.unknown
+hart et al 24.nucleus,hart et al 24.spindle pole
+hart et al 24.spindle pole,hart et al 24.microtubule
+hart et al 24.microtubule,hart et al 24.unknown
+hart et al 240.cytoplasm,hart et al 240.nucleus
+hart et al 241.nucleus,hart et al 241.nucleolus
+hart et al 242.early Golgi,hart et al 242.late Golgi
+hart et al 242.late Golgi,hart et al 242.punctate composite
+hart et al 246.cytoplasm,hart et al 246.nucleus
+hart et al 247.cytoplasm,hart et al 247.nucleus
+hart et al 247.nucleus,hart et al 247.unknown
+hart et al 248.early Golgi,hart et al 248.punctate composite
+hart et al 248.punctate composite,hart et al 248.unknown
+hart et al 25.cytoplasm,hart et al 25.late Golgi
+hart et al 25.late Golgi,hart et al 25.punctate composite
+hart et al 25.punctate composite,hart et al 25.unknown
+hart et al 250.cytoplasm,hart et al 250.nucleus
+hart et al 250.nucleus,hart et al 250.unknown
+hart et al 251.nucleolus,hart et al 251.unknown
+hart et al 252.cytoplasm,hart et al 252.nucleus
+hart et al 253.cytoplasm,hart et al 253.nucleus
+hart et al 253.nucleus,hart et al 253.unknown
+hart et al 254.endosome,hart et al 254.punctate composite
+hart et al 255.cytoplasm,hart et al 255.nucleus
+hart et al 255.nucleus,hart et al 255.mitochondrion
+hart et al 259.nucleus,hart et al 259.unknown
+hart et al 26.cytoplasm,hart et al 26.mitochondrion
+hart et al 26.mitochondrion,hart et al 26.punctate composite
+hart et al 26.punctate composite,hart et al 26.unknown
+hart et al 260.cytoplasm,hart et al 260.spindle pole
+hart et al 260.spindle pole,hart et al 260.punctate composite
+hart et al 260.punctate composite,hart et al 260.microtubule
+hart et al 260.microtubule,hart et al 260.unknown
+hart et al 262.cytoplasm,hart et al 262.nucleus
+hart et al 263.cytoplasm,hart et al 263.nucleus
+hart et al 268.cytoplasm,hart et al 268.nucleus
+hart et al 269.cell periphery,hart et al 269.bud
+hart et al 269.bud,hart et al 269.unknown
+hart et al 27.cytoplasm,hart et al 27.nucleus
+hart et al 27.nucleus,hart et al 27.mitochondrion
+hart et al 27.mitochondrion,hart et al 27.unknown
+hart et al 270.cytoplasm,hart et al 270.nucleus
+hart et al 270.nucleus,hart et al 270.nuclear periphery
+hart et al 272.cytoplasm,hart et al 272.punctate composite
+hart et al 272.punctate composite,hart et al 272.unknown
+hart et al 273.cytoplasm,hart et al 273.vacuole
+hart et al 274.cytoplasm,hart et al 274.mitochondrion
+hart et al 275.cytoplasm,hart et al 275.nucleus
+hart et al 276.cytoplasm,hart et al 276.unknown
+hart et al 277.cytoplasm,hart et al 277.nucleus
+hart et al 278.cytoplasm,hart et al 278.nucleus
+hart et al 28.cytoplasm,hart et al 28.nucleus
+hart et al 28.nucleus,hart et al 28.unknown
+hart et al 280.cytoplasm,hart et al 280.nucleus
+hart et al 281.nucleus,hart et al 281.ER
+hart et al 282.early Golgi,hart et al 282.punctate composite
+hart et al 283.cytoplasm,hart et al 283.bud neck
+hart et al 283.bud neck,hart et al 283.cell periphery
+hart et al 284.cytoplasm,hart et al 284.nucleolus
+hart et al 285.spindle pole,hart et al 285.punctate composite
+hart et al 286.cytoplasm,hart et al 286.nucleus
+hart et al 288.cytoplasm,hart et al 288.nucleus
+hart et al 289.cytoplasm,hart et al 289.nucleus
+hart et al 289.nucleus,hart et al 289.unknown
+hart et al 29.cytoplasm,hart et al 29.nucleus
+hart et al 29.nucleus,hart et al 29.ER
+hart et al 29.ER,hart et al 29.unknown
+hart et al 291.cytoplasm,hart et al 291.nucleus
+hart et al 292.cytoplasm,hart et al 292.nucleus
+hart et al 293.endosome,hart et al 293.late Golgi
+hart et al 294.cytoplasm,hart et al 294.unknown
+hart et al 296.nucleus,hart et al 296.unknown
+hart et al 297.vacuole,hart et al 297.unknown
+hart et al 299.ER,hart et al 299.unknown
+hart et al 3.mitochondrion,hart et al 3.unknown
+hart et al 30.nucleus,hart et al 30.nucleolus
+hart et al 30.nucleolus,hart et al 30.unknown
+hart et al 302.cytoplasm,hart et al 302.unknown
+hart et al 303.cytoplasm,hart et al 303.nucleus
+hart et al 307.cytoplasm,hart et al 307.nucleus
+hart et al 308.cytoplasm,hart et al 308.nucleus
+hart et al 309.cytoplasm,hart et al 309.bud neck
+hart et al 309.bud neck,hart et al 309.cell periphery
+hart et al 309.cell periphery,hart et al 309.bud
+hart et al 31.cytoplasm,hart et al 31.nucleus
+hart et al 31.nucleus,hart et al 31.unknown
+hart et al 311.cytoplasm,hart et al 311.mitochondrion
+hart et al 311.mitochondrion,hart et al 311.bud neck
+hart et al 311.bud neck,hart et al 311.cell periphery
+hart et al 311.cell periphery,hart et al 311.punctate composite
+hart et al 312.cytoplasm,hart et al 312.nucleus
+hart et al 313.cytoplasm,hart et al 313.nucleus
+hart et al 314.cytoplasm,hart et al 314.nucleus
+hart et al 315.cytoplasm,hart et al 315.nucleus
+hart et al 315.nucleus,hart et al 315.vacuolar membrane
+hart et al 316.cytoplasm,hart et al 316.nucleus
+hart et al 316.nucleus,hart et al 316.early Golgi
+hart et al 319.cytoplasm,hart et al 319.bud neck
+hart et al 319.bud neck,hart et al 319.cell periphery
+hart et al 319.cell periphery,hart et al 319.bud
+hart et al 32.cytoplasm,hart et al 32.nucleus
+hart et al 32.nucleus,hart et al 32.endosome
+hart et al 32.endosome,hart et al 32.mitochondrion
+hart et al 32.mitochondrion,hart et al 32.punctate composite
+hart et al 32.punctate composite,hart et al 32.actin
+hart et al 32.actin,hart et al 32.unknown
+hart et al 322.cytoplasm,hart et al 322.nucleus
+hart et al 322.nucleus,hart et al 322.unknown
+hart et al 328.cytoplasm,hart et al 328.nucleus
+hart et al 33.cytoplasm,hart et al 33.nucleus
+hart et al 33.nucleus,hart et al 33.bud neck
+hart et al 33.bud neck,hart et al 33.cell periphery
+hart et al 33.cell periphery,hart et al 33.bud
+hart et al 33.bud,hart et al 33.actin
+hart et al 33.actin,hart et al 33.unknown
+hart et al 331.cytoplasm,hart et al 331.unknown
+hart et al 333.ER,hart et al 333.unknown
+hart et al 336.ER,hart et al 336.nuclear periphery
+hart et al 337.cytoplasm,hart et al 337.nucleolus
+hart et al 339.mitochondrion,hart et al 339.unknown
+hart et al 34.cytoplasm,hart et al 34.nucleus
+hart et al 34.nucleus,hart et al 34.unknown
+hart et al 340.mitochondrion,hart et al 340.unknown
+hart et al 341.nucleus,hart et al 341.unknown
+hart et al 342.mitochondrion,hart et al 342.unknown
+hart et al 345.cytoplasm,hart et al 345.nucleus
+hart et al 347.cytoplasm,hart et al 347.unknown
+hart et al 348.cytoplasm,hart et al 348.nucleus
+hart et al 348.nucleus,hart et al 348.mitochondrion
+hart et al 349.cytoplasm,hart et al 349.unknown
+hart et al 35.ER,hart et al 35.vacuolar membrane
+hart et al 35.vacuolar membrane,hart et al 35.unknown
+hart et al 350.cytoplasm,hart et al 350.nucleus
+hart et al 350.nucleus,hart et al 350.vacuolar membrane
+hart et al 351.cytoplasm,hart et al 351.nucleus
+hart et al 352.cytoplasm,hart et al 352.nucleus
+hart et al 352.nucleus,hart et al 352.unknown
+hart et al 353.endosome,hart et al 353.vacuole
+hart et al 354.cytoplasm,hart et al 354.nucleus
+hart et al 354.nucleus,hart et al 354.vacuolar membrane
+hart et al 357.cytoplasm,hart et al 357.nucleus
+hart et al 358.cytoplasm,hart et al 358.cell periphery
+hart et al 36.mitochondrion,hart et al 36.vacuole
+hart et al 36.vacuole,hart et al 36.Golgi
+hart et al 360.cytoplasm,hart et al 360.nucleus
+hart et al 362.cytoplasm,hart et al 362.unknown
+hart et al 363.cytoplasm,hart et al 363.nucleus
+hart et al 363.nucleus,hart et al 363.mitochondrion
+hart et al 364.cytoplasm,hart et al 364.nucleus
+hart et al 365.cytoplasm,hart et al 365.nucleus
+hart et al 366.cytoplasm,hart et al 366.nucleus
+hart et al 366.nucleus,hart et al 366.bud neck
+hart et al 366.bud neck,hart et al 366.cell periphery
+hart et al 366.cell periphery,hart et al 366.bud
+hart et al 366.bud,hart et al 366.punctate composite
+hart et al 368.nucleus,hart et al 368.nucleolus
+hart et al 368.nucleolus,hart et al 368.unknown
+hart et al 37.cytoplasm,hart et al 37.nucleus
+hart et al 370.cytoplasm,hart et al 370.nucleus
+hart et al 371.punctate composite,hart et al 371.unknown
+hart et al 372.cytoplasm,hart et al 372.nucleus
+hart et al 372.nucleus,hart et al 372.unknown
+hart et al 373.cytoplasm,hart et al 373.nucleus
+hart et al 373.nucleus,hart et al 373.unknown
+hart et al 375.cytoplasm,hart et al 375.nucleus
+hart et al 376.cytoplasm,hart et al 376.nucleus
+hart et al 377.cytoplasm,hart et al 377.vacuolar membrane
+hart et al 378.mitochondrion,hart et al 378.unknown
+hart et al 379.early Golgi,hart et al 379.Golgi
+hart et al 379.Golgi,hart et al 379.unknown
+hart et al 38.cytoplasm,hart et al 38.nucleus
+hart et al 38.nucleus,hart et al 38.nuclear periphery
+hart et al 380.cytoplasm,hart et al 380.nucleus
+hart et al 382.mitochondrion,hart et al 382.unknown
+hart et al 383.cytoplasm,hart et al 383.nucleus
+hart et al 384.cytoplasm,hart et al 384.nucleus
+hart et al 384.nucleus,hart et al 384.unknown
+hart et al 385.cytoplasm,hart et al 385.unknown
+hart et al 387.cytoplasm,hart et al 387.nucleus
+hart et al 388.cytoplasm,hart et al 388.nucleus
+hart et al 388.nucleus,hart et al 388.spindle pole
+hart et al 388.spindle pole,hart et al 388.microtubule
+hart et al 39.cytoplasm,hart et al 39.nucleus
+hart et al 39.nucleus,hart et al 39.bud neck
+hart et al 39.bud neck,hart et al 39.cell periphery
+hart et al 390.cytoplasm,hart et al 390.nucleus
+hart et al 391.cytoplasm,hart et al 391.punctate composite
+hart et al 391.punctate composite,hart et al 391.nuclear periphery
+hart et al 397.cytoplasm,hart et al 397.nucleus
+hart et al 4.cytoplasm,hart et al 4.nucleus
+hart et al 4.nucleus,hart et al 4.nucleolus
+hart et al 4.nucleolus,hart et al 4.unknown
+hart et al 40.early Golgi,hart et al 40.punctate composite
+hart et al 40.punctate composite,hart et al 40.Golgi
+hart et al 41.spindle pole,hart et al 41.unknown
+hart et al 42.cytoplasm,hart et al 42.bud neck
+hart et al 42.bud neck,hart et al 42.cell periphery
+hart et al 42.cell periphery,hart et al 42.bud
+hart et al 43.cytoplasm,hart et al 43.nucleus
+hart et al 43.nucleus,hart et al 43.spindle pole
+hart et al 44.nucleus,hart et al 44.nucleolus
+hart et al 44.nucleolus,hart et al 44.unknown
+hart et al 45.cytoplasm,hart et al 45.nucleus
+hart et al 45.nucleus,hart et al 45.unknown
+hart et al 46.punctate composite,hart et al 46.actin
+hart et al 46.actin,hart et al 46.unknown
+hart et al 47.bud neck,hart et al 47.cell periphery
+hart et al 47.cell periphery,hart et al 47.unknown
+hart et al 48.cytoplasm,hart et al 48.nucleus
+hart et al 49.nucleus,hart et al 49.unknown
+hart et al 5.cytoplasm,hart et al 5.nucleus
+hart et al 5.nucleus,hart et al 5.unknown
+hart et al 51.cytoplasm,hart et al 51.nucleus
+hart et al 51.nucleus,hart et al 51.unknown
+hart et al 52.cytoplasm,hart et al 52.nucleus
+hart et al 53.cytoplasm,hart et al 53.nucleus
+hart et al 54.cytoplasm,hart et al 54.nucleus
+hart et al 54.nucleus,hart et al 54.ER
+hart et al 54.ER,hart et al 54.unknown
+hart et al 55.cytoplasm,hart et al 55.nucleus
+hart et al 55.nucleus,hart et al 55.unknown
+hart et al 56.cytoplasm,hart et al 56.nucleus
+hart et al 56.nucleus,hart et al 56.unknown
+hart et al 57.cytoplasm,hart et al 57.nucleolus
+hart et al 57.nucleolus,hart et al 57.unknown
+hart et al 58.nuclear periphery,hart et al 58.ER to Golgi
+hart et al 58.ER to Golgi,hart et al 58.unknown
+hart et al 59.cytoplasm,hart et al 59.mitochondrion
+hart et al 59.mitochondrion,hart et al 59.unknown
+hart et al 6.cytoplasm,hart et al 6.nucleus
+hart et al 6.nucleus,hart et al 6.nucleolus
+hart et al 6.nucleolus,hart et al 6.unknown
+hart et al 60.endosome,hart et al 60.vacuolar membrane
+hart et al 60.vacuolar membrane,hart et al 60.vacuole
+hart et al 60.vacuole,hart et al 60.unknown
+hart et al 61.cytoplasm,hart et al 61.nucleus
+hart et al 61.nucleus,hart et al 61.endosome
+hart et al 61.endosome,hart et al 61.punctate composite
+hart et al 62.cytoplasm,hart et al 62.nucleus
+hart et al 62.nucleus,hart et al 62.unknown
+hart et al 63.cytoplasm,hart et al 63.nucleus
+hart et al 63.nucleus,hart et al 63.unknown
+hart et al 64.cytoplasm,hart et al 64.nucleus
+hart et al 65.cytoplasm,hart et al 65.nucleus
+hart et al 65.nucleus,hart et al 65.unknown
+hart et al 66.cytoplasm,hart et al 66.unknown
+hart et al 67.cytoplasm,hart et al 67.nucleus
+hart et al 68.late Golgi,hart et al 68.punctate composite
+hart et al 68.punctate composite,hart et al 68.unknown
+hart et al 69.cytoplasm,hart et al 69.unknown
+hart et al 7.cytoplasm,hart et al 7.nucleus
+hart et al 7.nucleus,hart et al 7.unknown
+hart et al 70.cytoplasm,hart et al 70.nucleus
+hart et al 71.cytoplasm,hart et al 71.nucleus
+hart et al 72.ER,hart et al 72.Golgi
+hart et al 72.Golgi,hart et al 72.lipid particle
+hart et al 72.lipid particle,hart et al 72.unknown
+hart et al 73.cytoplasm,hart et al 73.endosome
+hart et al 73.endosome,hart et al 73.vacuolar membrane
+hart et al 73.vacuolar membrane,hart et al 73.unknown
+hart et al 76.cytoplasm,hart et al 76.unknown
+hart et al 77.cytoplasm,hart et al 77.nucleus
+hart et al 77.nucleus,hart et al 77.unknown
+hart et al 78.nucleus,hart et al 78.unknown
+hart et al 79.cytoplasm,hart et al 79.nucleus
+hart et al 79.nucleus,hart et al 79.bud neck
+hart et al 8.mitochondrion,hart et al 8.nucleolus
+hart et al 8.nucleolus,hart et al 8.unknown
+hart et al 80.cytoplasm,hart et al 80.unknown
+hart et al 82.cytoplasm,hart et al 82.cell periphery
+hart et al 82.cell periphery,hart et al 82.punctate composite
+hart et al 82.punctate composite,hart et al 82.unknown
+hart et al 83.cytoplasm,hart et al 83.nucleus
+hart et al 83.nucleus,hart et al 83.punctate composite
+hart et al 83.punctate composite,hart et al 83.nucleolus
+hart et al 84.cytoplasm,hart et al 84.nucleus
+hart et al 84.nucleus,hart et al 84.vacuole
+hart et al 85.nucleus,hart et al 85.unknown
+hart et al 86.cytoplasm,hart et al 86.nucleus
+hart et al 86.nucleus,hart et al 86.nucleolus
+hart et al 87.cytoplasm,hart et al 87.nucleus
+hart et al 88.cytoplasm,hart et al 88.nucleus
+hart et al 88.nucleus,hart et al 88.bud neck
+hart et al 88.bud neck,hart et al 88.bud
+hart et al 88.bud,hart et al 88.unknown
+hart et al 89.cytoplasm,hart et al 89.nucleus
+hart et al 89.nucleus,hart et al 89.bud neck
+hart et al 89.bud neck,hart et al 89.bud
+hart et al 89.bud,hart et al 89.nucleolus
+hart et al 9.cytoplasm,hart et al 9.nucleus
+hart et al 9.nucleus,hart et al 9.unknown
+hart et al 90.cytoplasm,hart et al 90.nucleus
+hart et al 91.cytoplasm,hart et al 91.nucleus
+hart et al 92.spindle pole,hart et al 92.punctate composite
+hart et al 94.cytoplasm,hart et al 94.nucleus
+hart et al 94.nucleus,hart et al 94.unknown
+hart et al 95.cytoplasm,hart et al 95.nucleus
+hart et al 96.cytoplasm,hart et al 96.nucleus
+hart et al 96.nucleus,hart et al 96.unknown
+hart et al 97.cytoplasm,hart et al 97.nucleus
+hart et al 99.early Golgi,hart et al 99.punctate composite
+hart et al 99.punctate composite,hart et al 99.Golgi

@@ -1,0 +1,1244 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+./clearproject;
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+g_pull = 1.0;
+g_nodecounttarget = 3000;
+g_nodespacing = 2.0;
+setskybox "fae04dark" "jpg";
+g_sb_brightness = 0.0;
+_graph::>setfreeview (@3d: -10 -10 -10, 3d:0 0 0);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+// c:n the number
+sub colorcompartments(
+   for set:c:group as x do (
+      // c:x -- interaction
+      with c:x do (
+         
+      ) end;
+   ) end;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+// this -- the group
+sub handleSubGrouping(
+   compartment <<# (this.leader :: return #compartment);
+   
+   switch #compartment do (
+      "cytoplasm" -> return null;
+//      "nucleus" -> return null;
+//      "nucleolus" -> return null;
+      "unknown" -> return null;
+      "actin" -> return null;
+//      "bud" -> return null;
+      "bud neck" -> return null;
+   ) end;
+   
+   "supergroup:" + #compartment <<subgroup: getName(@);
+   thesuper <<c: group:("supergroup:" + #compartment);
+   c:thesuper ::> (
+      issuper <<# true;
+   );
+   c:thesuper.leader ::> (
+      issuper <<# true;
+   );
+   supergroups <<set:  c:thesuper;
+   
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub applyBindingsByCompartment( // this version has no binding, just colors
+   compartmentid <<# 22;
+   switch #compartment do (
+      "cytoplasm" -> (compartmentid <<# 0);
+      "nucleus" -> (compartmentid <<# 1; nodesphere (3d:0 0 0) 14.5 1.0 false);
+      "nucleolus" -> (compartmentid <<# 16; nodesphere (3d:1 0 0) 8.5 1.0 false);
+      "mitochondrion" -> (compartmentid <<# 2; nodesphere (3d: -23 6 -23) 9.0 1.0 false);
+      
+      "nuclear periphery" -> (compartmentid <<# 15;);
+
+      "ER" -> (
+         compartmentid <<# 4; 
+         
+         );
+      "ER to Golgi" -> (
+         compartmentid <<# 5; 
+         );
+      "early Golgi" -> (
+         compartmentid <<# 3; 
+         );
+      "Golgi" -> (
+         compartmentid <<# 6; 
+         );
+      "late Golgi" -> (
+         compartmentid <<# 7; 
+         );
+
+
+      "cell periphery" -> (
+         compartmentid <<# 11; 
+      );
+
+      "bud" -> (
+         compartmentid <<# 9;
+         nodesphere (3d:0 0 22) 4 1.0 false
+         );
+      "bud neck" -> (
+         compartmentid <<# 10;
+         nodesphere (3d:0 0 21) 6 0.2 true;
+         nodeplane z 17 20;
+         );
+
+      "actin" -> (compartmentid <<# 8);
+
+      "endosome" -> (compartmentid <<# 12);
+
+      "lipid particle" -> (compartmentid <<# 13);
+      "microtubule" -> (compartmentid <<# 14);
+
+
+      "peroxisome" -> (compartmentid <<# 17);
+      "punctate composite" -> (compartmentid <<# 18);
+      "spindle pole" -> (compartmentid <<# 19);
+      "vacuolar membrane" -> (
+         compartmentid <<# 20;
+         );
+      "vacuole" -> (
+         compartmentid <<# 21;
+         );
+
+   ) end;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub applyBindingsByCompartmentWithBinding(
+   compartmentid <<# 22;
+   switch #compartment do (
+      "cytoplasm" -> (compartmentid <<# 0);
+      "nucleus" -> (compartmentid <<# 1; nodesphere (3d:0 0 0) 14.5 1.0 false);
+      "nucleolus" -> (compartmentid <<# 16; nodesphere (3d:1 0 0) 8.5 1.0 false);
+      "mitochondrion" -> (compartmentid <<# 2; nodesphere (3d:15 15 0) 6.5 1.0 false);
+      
+      "nuclear periphery" -> (compartmentid <<# 15; nodesphere (3d:0 0 0) 13 1.0 true);
+
+      "ER" -> (
+         compartmentid <<# 4; 
+           nodesphere (3d:0 0 0) 10.5 0.1 true;
+           nodeplane y -4 0;
+           nodeplane x 0 19;
+           nodeplane z -5 5;
+         
+//           "group" + #compartment <<group: this;
+         
+         );
+      "ER to Golgi" -> (
+         compartmentid <<# 5; 
+           nodesphere (3d:0 0 0) 11.1 0.1 true;
+           nodeplane y -4 0;
+           nodeplane x 0 19;
+           nodeplane z -5 5;
+         
+//           "group" + #compartment <<group: this;
+         
+         );
+      "early Golgi" -> (
+         compartmentid <<# 3; 
+           nodesphere (3d:0 0 0) 12 0.1 true;
+           nodeplane y -4 0;
+           nodeplane x 0 19;
+           nodeplane z -3 3;
+         
+//           "group" + #compartment <<group: this;
+         
+         );
+      "Golgi" -> (
+         compartmentid <<# 6; 
+           nodesphere (3d:0 0 0) 13.8 0.1 true;
+           nodeplane y -4 0;
+           nodeplane x 0 19;
+           nodeplane z -3.5 3.5;
+         
+//           "group" + #compartment <<group: this;
+         
+         );
+      "late Golgi" -> (
+         compartmentid <<# 7; 
+           nodesphere (3d:0 0 0) 14.6 0.1 true;
+           nodeplane y -4 0;
+           nodeplane x 0 19;
+           nodeplane z -4 4;
+         
+//           "group" + #compartment <<group: this;
+         
+         );
+
+
+      "cell periphery" -> (
+         compartmentid <<# 11; 
+         nodesphere (3d:0 0 0) 18 1.0 true
+      );
+
+      "bud" -> (
+         compartmentid <<# 9;
+         nodesphere (3d:0 0 21) 4 1.0 false
+         );
+      "bud neck" -> (
+         compartmentid <<# 10;
+         nodesphere (3d:0 0 20) 5 0.2 true;
+         nodeplane z 16 17;
+         );
+
+      "actin" -> (compartmentid <<# 8);
+
+      "endosome" -> (compartmentid <<# 12);
+
+      "lipid particle" -> (compartmentid <<# 13);
+      "microtubule" -> (compartmentid <<# 14);
+
+
+      "peroxisome" -> (compartmentid <<# 17);
+      "punctate composite" -> (compartmentid <<# 18);
+      "spindle pole" -> (compartmentid <<# 19);
+      "vacuolar membrane" -> (
+         compartmentid <<# 20;
+         nodesphere (3d:0 18 12) 3 1.0 true;
+         );
+      "vacuole" -> (
+         compartmentid <<# 21;
+         nodesphere (3d:0 18 12) 3 1.0 false;
+         );
+
+   ) end;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub ppi_showPDBButton(
+   thenode <<c: this;
+   if(#pdbids != null) then (
+      setemblem(@showpdb, "textures/insurance.gif", rgb:30 30 90, 1.0) ::> (
+         thenode <<# c:thenode;
+         gesture(@lL, ppi_showPDBButton_gestureaction, "display protein structure");
+      ); 
+   ) end;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub ppi_showPDBButton_gestureaction(
+   c:focus ::> (
+      #thenode ::> (
+         trace "this is : " + getName(@);
+         pdbshow #pdbids;
+      );
+   );
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub loadppi (
+
+   opencsv ("data/ppilocalised.csv") as "ppi";
+   with df:"ppi" do (
+      for dfline <- 0 .. ~rowsize - 1 do (
+         // ~l:0 -- protein A localised
+         // ~l:1 -- protein B localised
+         // ~l:2 -- inner / inter
+         // ~l:3 -- num of attribs
+         // ~l:4 -- amount of times interaction has been observed
+         
+         theinteraction <<c: (node:(~l:0) <- interacts -> node:(~l:1));
+         
+         for x <- 0 .. 0 + (toint ~l:3) do (
+         
+            theindex <<c: 4 + ((c:x) * 2);
+         
+            thetype <<c: ~l:c:theindex;
+            thecount <<c: toint (~l:(c:theindex + 1));
+         
+            c:thetype <<set: c:theinteraction;
+            interactions <<set: c:thetype;
+            
+            c:theinteraction ::> (
+            
+               ag_weight <<@@# 0;
+               extraweight <<mc: 1;
+               switch(c:thetype) do (
+      //            FYI -> extraweight <<c: 10;
+                  b_affinitycapturems -> extraweight <<c: 3;
+                  b_affinitycapturewestern -> extraweight <<c: 3;
+                  b_cocrystalstructure -> extraweight <<c: 3;
+                  b_twohybrid -> extraweight <<c: 2;
+               ) end;
+            
+               if(# ("interaction" + c:thetype) == null) then (
+                  "interaction" + c:thetype <<# true;
+                  pushhoverlabel (c:thetype) + " x " + (c:thecount);
+                  ag_weight <<# #ag_weight + ((c:extraweight) * (c:thecount));
+               ) end;
+               
+            );
+         ) end;
+         
+         /*
+         for x <- 4 .. 4 + (toint ~l:3) do (
+            ~l:c:x <<set: c:theinteraction;
+            interactions <<set: ~l:c:x;
+            
+            c:theinteraction ::> (
+            
+               ag_weight <<@@# 0;
+               extraweight <<mc: 1;
+               switch(~l:c:x) do (
+                  FYI -> extraweight <<c: 10;
+                  b_affinitycapturems -> extraweight <<c: 5;
+                  b_cocrystalstructure -> extraweight <<c: 5;
+               ) end;
+            
+            
+               if(# ("interaction" + ~l:c:x) == null) then (
+                  "interaction" + ~l:c:x <<# true;
+                  pushhoverlabel ~l:c:x;
+                  ag_weight <<# #ag_weight + c:extraweight;
+               ) end;
+               
+            );
+         ) end;
+         */
+         
+         with c:theinteraction do (
+            if(#inter == null) then (
+               if ((~l:2) == "inter") then (
+                  inter <<# true;
+                  intercompartments <<set: c:theinteraction;
+                  pushhoverlabel "intercompartment interaction";
+               ) else (
+                  inter <<# false;
+                  internals <<set: c:theinteraction;
+                  pushhoverlabel "within-compartment interaction";
+               ) end;
+            ) end;
+         ) end;
+         
+      ) end;
+   ) end;
+   
+   interactions <<set: intercompartments;
+   interactions <<set: internals;
+   
+   opencsv ("data/genenamelocalised.csv") as "genename";
+   with df:"genename" do (
+      for dfline <- 0 .. ~rowsize - 1 do (
+         // ~l:0 -- localised ID
+         // ~l:1 -- compartment
+         // ~l:2 -- real ID
+         // ~l:3 -- name
+         // ~l:4 -- info
+         with node:(~l:0) do (
+            nodelabel ~l:3;
+            bookmarkname <<# ~l:3;
+//            nodeinfo 0 ~l:4;
+            realid <<# ~l:2;
+            
+            compartment <<# ~l:1;
+            name <<# ~l:3;
+            info <<# ~l:4;
+            bookmarkdesc <<# ~l:4;
+            ag_segregation <<# ~l:1;
+            
+            "compartment" + ~l:1 <<set: node:(~l:0);
+            
+            compartments <<set: ~l:1;
+            
+            if((~l:5) != "") then (
+//               pdbids <<# ~l:5;
+               pdbids <<# pdbmodel ~l:5;
+               ./ppi_showPDBButton;
+            ) end;
+            
+         ) end;
+      ) end;
+   ) end;
+   
+   opencsv ("data/ppilocalisedfullgroupings.csv") as "fullgroupings";
+   with df:"fullgroupings" do (
+      for dfline <- 0 .. ~rowsize - 1 do (
+         // ~l:0 -- localised group
+         // ~l:1 -- type (marcotte or auto)
+
+         groupname <<c: ~l:0;
+
+         node:(~l:1) ::> (ag_defaultgroup <<# c:groupname);
+
+         (groupleader:c:groupname) ::> ismarcotte <<# true;
+         (group:c:groupname) ::> ismarcotte <<# true;
+
+      ) end;
+   ) end;
+   
+   opencsv ("data/ppigroupdefs.csv") as "groupdefs";
+   with df:"groupdefs" do (
+      for dfline <- 0 .. ~rowsize - 1 do (
+         // ~l:0 -- localised group
+         // ~l:1 -- type
+
+         groupname <<c: ~l:0;
+         previewstring <<c: ~l:5;
+         
+         isreallymarcotte <<c: ((~l:1) == "marcotte");
+
+         (groupleader:c:groupname) ::> (
+            ismarcotte <<# c:isreallymarcotte;
+            previewstring <<# c:previewstring;
+         );
+         (group:c:groupname) ::> (
+            ismarcotte <<# c:isreallymarcotte;
+            previewstring <<# c:previewstring;
+         );
+
+      ) end;
+   ) end;
+   
+   
+   autogroupdata <<c: new: object;
+   c:autogroupdata ::> (
+      ag_highlineweight;
+   );
+   autogrouper c:autogroupdata;
+   
+   opencsv ("data/ppigroupsibling.csv") as "groupsibs";
+   with df:"groupsibs" do (
+      for dfline <- 0 .. ~rowsize - 1 do (
+         // ~l:0 -- marcotte group1
+         // ~l:1 -- group2
+
+         theedge <<c: (groupleader:~l:0) <- groupsibl -> (groupleader:~l:1);
+         with c:theedge do (
+         
+            groupsiblingers <<set: c:theedge;
+            ag_weight <<@@# 30;
+            if(linkorigin::#ismarcotte == true) then (
+               itemtexture name "ppitexes/membraneline.png";
+            ) else (
+               itemtexture name "ppitexes/strangeline.png";
+            ) end;
+            itemsize 10.0;
+            realsize <<# 10.0;
+         
+         ) end;
+
+      ) end;
+   ) end;
+   
+   opencsv ("data/ppiprotsibling.csv") as "protsiblings";
+   with df:"protsiblings" do (
+      for dfline <- 0 .. ~rowsize - 1 do (
+         // ~l:0 -- protein A siblinger
+         // ~l:1 -- protein B siblinger
+         
+         theedge <<c: (node:(~l:0) <- twins -> node:(~l:1));
+         
+         with c:theedge do (
+         
+            twins <<set: c:theedge;
+            ag_weight <<@@# 20;
+            itemtexture name "ppitexes/twinedge.png";
+            itemsize 10.0;
+            realsize <<# 10.0;
+         
+         ) end;
+         
+         
+      ) end;
+   ) end;
+   
+   interactions <<set: twins;
+   interactions <<set: groupsiblingers;
+   
+   
+   // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+   // step : Handle All Nodes
+   // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+   
+   with all nodes as thenode do (
+   
+//      trace itemid;
+      ag_segregation <<# #compartment;
+   
+      ./applyBindingsByCompartment;
+   
+      if(#name == null) then (
+         trace ("null name : " + itemid);
+         itemtexture name "textures/xcircle.gif";
+      ) else (
+         pushhoverlabel #name;
+         pushhoverlabel #info;
+         pushhoverlabel #compartment;
+      ) end;
+   
+      realcolor <<# ./lowNumberColorSplit [(num <- #compartmentid)];
+//      itemcolor #realcolor * 0.4;
+      itemcolor #realcolor * 0.2;
+//      itemcolor rgb: 30 30 30;
+      labelcolor (@ #realcolor );
+      
+      realsize <<# 3.0;
+      itemsize 1.0;
+      
+//      itemtexture name "textures/emptycircle.gif";
+      
+//      ("g" + #compartmentid) <<group: (node:itemid);
+      
+//      [(thegroup <- #compartmentid)] with (
+//         with groupleader:("g"+c:thegroup) do (
+//            compartmentid <<# c:thegroup;
+//         ) end;
+//      ) end;
+      
+      itemgesture r7 gesture_hideLinks "hide links";
+      
+      itemgesture lL gesture_select "select";
+      itemgesture r4R gesture_goback "go back";
+      
+   ) end;
+   
+   // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+   // step : Handle All Aggregators
+   // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+   
+   with all aggregators as x do (
+      
+      if(#previewstring == null) then  (
+         previewstring <<# "(maverick)";
+         this.leadedGroup ::> (previewstring <<# "(maverick)");
+      ) end;
+      
+      if(#ismarcotte == true) then (
+         extratexture name "ppitexes/membranic.png";
+         itemtexture name "ppitexes/membranic.png";
+      ) else (
+         if((this.leadedGroup :: return #maverick) == true) then (
+            itemtexture name "ppitexes/spiraldoubledots.png";
+            extratexture name "ppitexes/spiraldoubledots.png";
+         ) else (
+            itemtexture name "ppitexes/dashedoutline.png";
+            extratexture name "ppitexes/dashedoutline.png";
+         ) end;
+      ) end;
+      
+//      itemcolor (this.leadedGroup.* ::> return #realcolor);
+      compartment <<# (this.leadedGroup.* ::> return #compartment);
+      ./applyBindingsByCompartment;
+      
+      realcolor <<# ./lowNumberColorSplit [(num <- #compartmentid)];
+      itemcolor #realcolor * 0.2;
+//      itemcolor rgb: 30 30 30;
+
+      labelcolor (@ #realcolor );
+      
+      itemdkcolor #realcolor * 0.2;
+      
+      groupersize 0.0; // hide these groupers by default..
+      
+      
+      membercount <<mc: 0;
+      this.leadedGroup.* ::> (membercount <<c: c:membercount + 1);
+      
+      if((this.leadedGroup :: return #maverick) == true) then (
+         itemsize 3.0;
+      ) else (
+         itemsize (sqrt c:membercount) * 5.0;
+      ) end;
+      
+      pushhoverlabel (c:membercount) + " members";
+      if(#compartment == null) then (
+         trace getName(@);
+         trace (this.leadedGroup.* ::> return getName(@));
+      ) end;
+      pushhoverlabel #compartment;
+
+      itemmass 0.5;
+      
+      itemgesture lL gesture_aggregatorSelect "select";
+      itemgesture r4R gesture_goback "go back";
+      
+   ) end;
+   
+   // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+   // step : Handle All Groups & Subgroups
+   // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+   with all aggregators.leadedGroup as y do (
+      if(#maverick == true) then (
+         maverickgroups <<set: c:y;
+         setAlwaysCollapsed(@);
+      ) else (
+         if(#ismarcotte == true) then (
+            marcottegroups <<set: c:y;
+         ) else (
+            autogengroups <<set: c:y;
+         ) end;
+      ) end;
+      
+      ./handleSubGrouping;
+      
+   ) end;
+   
+   // step: handling supergroups
+   
+   with set:supergroups as x do (
+      this.leader ::> (
+         compartment <<# (this.leadedGroup.* ::> return #compartment);
+         ./applyBindingsByCompartment;
+         clearbindings;
+         
+         realcolor <<# ./lowNumberColorSplit [(num <- #compartmentid)];
+         itemcolor #realcolor;
+         itemdkcolor #realcolor;
+      
+         switch #compartment do (
+            "nucleus" -> (
+               itemtexture name "ppitexes/largemembranic.png";
+               extratexture name "ppitexes/largemembranic.png";
+               nodeplane x 0 0 ;
+               nodeplane y 0 0;
+               nodeplane z 0 0;
+            );
+            "bud" -> (
+               itemtexture name "ppitexes/bubble.png";
+               extratexture name "ppitexes/bubble.png";
+               nodeplane x 0 0 ;
+               nodeplane y 0 0;
+               nodeplane z 21 21;
+            );
+            "mitochondrion" -> (
+               itemtexture name "ppitexes/largemitochondrion.png";
+               extratexture name "ppitexes/largemitochondrion.png";
+            );
+            "ER to Golgi" -> (
+               itemtexture name "ppitexes/largeendoplasmic.png";
+               extratexture name "ppitexes/largeendoplasmic.png";
+            );
+            "ER" -> (
+               itemtexture name "ppitexes/largeendoplasmic.png";
+               extratexture name "ppitexes/largeendoplasmic.png";
+            );
+            "Golgi" -> (
+               itemtexture name "ppitexes/largegolgi.png";
+               extratexture name "ppitexes/largegolgi.png";
+            );
+            "early Golgi" -> (
+               itemtexture name "ppitexes/largegolgi.png";
+               extratexture name "ppitexes/largegolgi.png";
+            );
+            "late Golgi" -> (
+               itemtexture name "ppitexes/largegolgi.png";
+               extratexture name "ppitexes/largegolgi.png";
+            );
+            "peroxisome" -> (
+               itemtexture name "ppitexes/largeperoxisome.png";
+               extratexture name "ppitexes/largeperoxisome.png";
+            );
+            "vacuole" -> (
+               itemtexture name "ppitexes/largevacuole.png";
+               extratexture name "ppitexes/largevacuole.png";
+            );
+            "vacuolar membrane" -> (
+               itemtexture name "ppitexes/largevacuole.png";
+               extratexture name "ppitexes/largevacuole.png";
+            );
+            default -> (
+               itemtexture name "ppitexes/largerough.png";
+               extratexture name "ppitexes/largerough.png";
+            );
+
+            
+         ) end;
+         
+         switch #compartment do (
+            "nucleus" -> (
+               aggrewire(@ #realcolor * 0.7);
+            );
+            default -> (
+               aggrewire(@ #realcolor * 0.6);
+            );
+         ) end;
+         
+         itemsize 25.0;
+         
+      );
+
+
+      
+   ) end;
+   
+   // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+   // step : Handle All Edges
+   // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+   with all edges do (
+
+      itemhidden true;
+//      if(#inter == false) then (
+//         itemhidden true;
+//      ) end;
+      
+//      itemcolor rgb:20 20 20;
+      itemdkcolor (linktarget::#realcolor * 0.4);
+      itemcolor (linkorigin::#realcolor * 0.4);
+//      itemdkcolor (linktarget::#realcolor);
+//      itemcolor (linkorigin::#realcolor);
+//      itemtexture name "textures/muda.gif";
+//      itemtexture dx 0.05;
+      if(linktype == "twins") then (
+//         itemhidden false;
+//         trace "mwoah";
+         pullstrength 0.3;
+      ) else (
+         realsize <<# (max 1.5 (#ag_weight * 0.6));
+         itemsize #realsize;
+         itemimportance #ag_weight / 2;
+      ) end;
+      inserthoverlabel 0 ((linktarget::#name) + " <- " + linktype + " -> " + (linkorigin::#name));
+//      pushhoverlabel #interactionlist;
+      
+   ) end;
+   
+   ////////////////////////////////////////////////////////////////////////////////////?
+   // keys
+   ////////////////////////////////////////////////////////////////////////////////////?
+   
+   with keys:root do(
+      submenu(@ "/m", "bookmarkmenu", "bookmarks menu");
+      submenu(@ "/b", "browse", "browse by compartment");
+      submenu(@ "/a", "all", "browse through all");
+      submenu(@ "/hc", "highlightcompartment", "highlight a compartment");
+      submenu(@ "/hb", "highlightbetween", "highlight relationships between two compartments");
+      submenu(@ "/l", "locus", "browse through by ordered locus name");
+      submenu(@ "/c", "collapsemenu", "collapsement menu");
+      submenu(@ "/g", "graphmenu", "graph & layout menu");
+   ) end;
+   
+   with keys:bookmarkmenu do (
+      color(@ rgb: 20 70 20);
+      action(@ "s", (> ./prelude_showBookmarkList; ), "list bookmarked nodes");
+      color(@ rgb: 70 40 20);
+      action(@ "c", (> ./prelude_copyBookmarkToClipboard; ), "copy bookmarks to clipboard");
+   ) end;
+   
+   with keys:graphmenu do (
+      color(@ rgb: 20 70 20);
+      action(@ "g", (> g_pull = 15.0; g_idealresist = 0.99), "gravitic pull for ideal compartment positioning");
+      color(@ rgb: 70 40 20);
+      action(@ "s", (> g_pull = 0.05; g_idealresist = 0.2), "slow repositioning, better for viewing");
+   ) end;
+   
+   with keys:collapsemenu do (
+      color(@ rgb: 20 70 20);
+      action(@ "xs", (> all nodes.group  ::> automatischMode(@)), "expand complexes");
+      color(@ rgb: 20 70 70);
+      action(@ "xc", (> all aggregators.group ::> automatischMode(@)), "expand compartments");
+      color(@ rgb: 80 10 0);
+      action(@ "cs", (> all nodes.group ::> setAlwaysCollapsed(@)), "collapse complexes"); 
+      color(@ rgb: 80 10 40);
+      action(@ "cc", (> all aggregators.group ::> setAlwaysCollapsed(@)), "collapse compartments");
+   ) end;
+
+
+   with set:compartments as x do (
+      // c:x -- compartment name
+      
+      compartmentcolor <<c: (set:("compartment" + c:x).* ::> return #realcolor);
+      
+      with keys:browse do (
+         color(@ c:compartmentcolor);
+         submenu(@ c:x, "browse" + c:x, "browse all proteins that can be found in the " + c:x);
+      ) end;
+      with keys:highlightcompartment do (
+         color(@ c:compartmentcolor);
+         action(@ c:x, {"./highlightCompartment [(compartment <- \"" + "compartment" + c:x + "\")]"},
+                         "Highlight ");
+                         
+      ) end;
+      
+      with set:compartments as y do (
+         with keys:highlightbetween do (
+            action (@ c:x + " <-> " + c:y,
+                      {"./select_betweenCompartments [(compa <- \"" + "compartment" + c:x + "\";"
+                                                    + "compb <- \"" + "compartment" + c:y + "\")]"},
+                                                    "");
+         ) end;
+      ) end;
+      
+      with set:("compartment" + c:x) as y do (
+         // c:y individual nodes
+         with keys:("browse" + c:x) do (
+             color(@ c:y::#realcolor);
+             action(@ c:y :: (#name + " @ " + #compartment), 
+                           {"./gesture_select [(focus <- node:\"" + (c:y :: itemid) + "\")]"},
+                           (c:y :: #info) + " at " + (c:y :: #compartment) );
+                           
+         ) end;
+      ) end;
+   ) end;
+   
+   refindex: "/groups" ::> (
+      describe(@"Browse groups", rgb:20 50 20);
+   );
+   
+   refindex: "/locprots" ::> (
+      describe(@"Browse proteins by localisation", rgb:20 50 20);
+   );
+   
+   refindex: "/stru" ::> (
+      describe(@"Browse proteins with structural data", rgb:20 50 20);
+   );
+   
+   
+   with all nodes.group as x do (
+      refindex: "/groups".(getName(@)) ::> (
+         add(@ c:x); // add the group
+         describe(@ (c:x::#previewstring), (c:x.*::return #realcolor));
+         addAction(@ "view", "focus on this group", rgb:0 0 50, (> ./gesture_groupSelect [(focus <- this.leader)] ) );
+      );
+   ) end;
+   
+   with all nodes as x do (
+      if(#pdbids != null) then (
+         (refindex: "/stru".(getName(@)))
+          ::> (
+            add(@ c:x); // add the group
+            describe(@ (c:x::#pdbids), (c:x::#realcolor));
+            addAction(@ "view", "focus on this node", rgb:0 0 50, (> ./gesture_select [(focus <- this)] ) );
+         );
+      ) end;
+   ) end;
+   
+   with all nodes as y do (
+      // c:y individual nodes
+      with keys:"all" do (
+          color(@ c:y::#realcolor);
+          action(@ c:y :: (#name + " @ " + #compartment), 
+                        {"./gesture_select [(focus <- node:\"" + (c:y :: itemid) + "\")]"},
+                        (c:y :: #info) + " at " + (c:y :: #compartment) );
+      ) end;
+      
+      with keys:locus do (
+          color(@ c:y::#realcolor);
+          action(@ c:y :: itemid, 
+                        {"./gesture_select [(focus <- node:\"" + (c:y :: itemid) + "\")]"},
+                        (c:y :: #info) + " at " + (c:y :: #compartment) );
+      ) end;
+   
+     (refindex:"/locprots".(c:y::#compartment).(c:y::#name)) 
+       ::> (
+         add(@ c:y); // add the group
+         describe(@ (c:y :: #info) + " at " + (c:y :: #compartment), (c:y::#realcolor));
+         addAction(@ "view", "focus on this node", rgb:0 0 50, (> ./gesture_select [(focus <- this)] ) );
+      );
+   
+   ) end;
+   
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+/*
+selections:
+   hiddens (nodes where the edges should be hidden)
+      -> hide its links
+   concents (concentrates)
+      -> with sel.concents~* pullstrength = 10.0
+      g_pull = 0.1
+
+
+*/
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub resetHighlights(
+
+   with set:highlightedAggs as x do (
+      c:x ::> (
+         itemcolor #realcolor * 0.2;
+         itemflashcolor #realcolor;
+         itemdkcolor #realcolor * 0.2;
+         groupersize 0.0;
+         aggrenowire(@);
+         aggrewirespeed (@ 0.00);
+      );
+   ) end;
+
+   with set:highlightedNodes as x do (
+      c:x ::> (
+         itemcolor #realcolor * 0.2;
+         labelcolor (@ #realcolor );
+         itemflashcolor #realcolor;
+         itemsize #realsize * 0.33;
+         itemtexture name "";
+         ./prelude_node_hideBookmarkButton;
+      );
+   ) end;
+   
+   with set:highlightedEdges as x do (
+      c:x ::> (itemhidden true;
+//                  itemsize #realsize;
+                  itemdkcolor (linktarget::#realcolor * 0.4);
+                  itemcolor (linkorigin::#realcolor * 0.4);
+                  itemchasesize 0.01;
+               );
+   ) end;
+   
+   set:highlightedNodes ::> clear(@);
+   set:highlightedAggs ::> clear(@);
+   set:highlightedEdges ::> clear(@);
+   
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub gesture_groupSelect(
+   this.leader ::> (
+      ./gesture_aggregatorSelect [(focus <- this)];
+   );
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub gesture_aggregatorSelect(
+
+   menudef nodeinfomenu[16](
+      menucolor ((c:focus::#realcolor) * 0.2);
+      menutext (c:focus::itemid);
+      menutext " @ ";
+      menutext (c:focus::#compartment);
+   );
+
+   menushow nodeinfomenu;
+
+   focus <<c: c:focus.leadedGroup.*;
+   ./gesture_selectInner;
+//   ./gesture_select;
+   
+   ./prelude_selectfocus;
+   
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub gesture_goback(
+   backtracksel moo;
+   focus <<c: sel:moo;
+   ./gesture_selectInner;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub highlightCompartment(
+   focus <<c: ((set: c:compartment).*);
+//   trace "highlighting compartment \"" + c:compartment + "\"";
+//   set:(c:compartment).* ::> trace getName(@);
+   ./gesture_selectInner;
+   ./prelude_selectfocus;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub gesture_selectInner(
+
+   ./resetHighlights;
+
+   // Highlight Edges
+   (c:focus~*) + ((c:focus.twins + c:focus).group.*~*) ::> (
+      itemdkcolor (linktarget::#realcolor * 0.2);
+      itemcolor (linkorigin::#realcolor * 0.2);
+      highlightedEdges <<set: this;
+      itemhidden false;
+      itemchasesize #realsize;
+      itemsize #realsize;
+   );
+   
+   (c:focus~*) ::> (
+      itemdkcolor (linktarget::#realcolor * 0.4);
+      itemcolor (linkorigin::#realcolor * 0.4);
+      itemdarkflashcolor (linktarget::#realcolor);
+      itemflashcolor (linkorigin::#realcolor);
+   );
+
+   // Highlight Nodes
+   (c:focus.group.*)  + ((c:focus.twins + c:focus).*)::> (
+      highlightedNodes <<set: this;
+      itemcolor #realcolor;
+      itemsize #realsize;
+      itemtexture name "textures/emptycircle.gif";
+      ./prelude_node_showBookmarkButton;
+   );
+   
+   ((c:focus.twins + c:focus).*^)::> (
+      highlightedNodes <<set: this;
+      labelcolor (@ rgb:255 255 255);
+   );
+   
+   
+   // highlight aggregators
+   (c:focus.group.leader) + ((c:focus.twins.group.leader + c:focus.*).group.leader) ::> (
+      if(#issuper == null) then (
+         highlightedAggs <<set: this;
+         itemcolor #realcolor;
+         groupersize 1.0;
+         aggrewire(@ #realcolor * 0.2);
+         aggrewirespeed (@ 1.0);
+      ) end;
+   );
+   
+   (c:focus.group.leader) ::> (
+      highlightedAggs <<set: this;
+      itemcolor #realcolor;
+      itemdkcolor #realcolor;
+      aggrewire (@ #realcolor * 0.3);
+      aggrewirespeed (@ 1.0);
+      groupersize 1.0;
+   );
+
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub gesture_select(
+
+   ./gesture_selectInner;
+
+   menudef nodeinfomenu[16](
+      menucolor ((c:focus::> #realcolor) * 0.2);
+      menutext (c:focus::> #name);
+      menutext " | ";
+      menutext (c:focus::> #info);
+      menutext " @ ";
+      menutext (c:focus::> #compartment);
+   );
+
+   menushow nodeinfomenu;
+   
+   ./prelude_selectfocus;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+// c:compa, c:compb -- compartments (string)
+sub select_betweenCompartments(
+   focusa <<c: ((set: c:compa).*);
+   focusb <<c: ((set: c:compb).*);
+   ./select_betweenInner;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+// c:focusa -- first focus
+// c:focusb -- second focus
+sub select_betweenInner(
+
+   ./resetHighlights;
+   
+   focusnodesa <<c: ((c:focusa.*) /\ c:focusb);
+   focusnodesb <<c: (c:focusa /\ (c:focusb.*));
+   focusnodes <<c: c:focusnodesa + c:focusnodesb;
+
+
+   // highlight nodes
+//   c:focusnodes.* ::> (
+//      highlightedNodes <<set: this;
+//      itemcolor #realcolor;
+//      itemsize #realsize;
+//      itemtexture name "textures/emptycircle.gif";
+//   );
+   
+   c:focusnodes ::> (
+      highlightedNodes <<set: this;
+      itemcolor #realcolor;
+      itemsize #realsize;
+      itemtexture name "textures/emptycircle.gif";
+      labelcolor (@ rgb:255 255 255);
+      ./prelude_node_showBookmarkButton;
+   );
+   
+   // highlight Aggs
+   /*
+   c:focusnodes.*.group.leader ::> (
+      if(#issuper == null) then (
+         highlightedAggs <<set: this;
+         itemcolor #realcolor;
+         groupersize 1.0;
+         aggrewire(@ #realcolor * 0.4);
+      ) end;
+   );
+   */
+   
+   c:focusnodes.group.leader ::> (
+      if(#issuper == null) then (
+         highlightedAggs <<set: this;
+         itemcolor #realcolor;
+         itemdkcolor #realcolor;
+         aggrewire (@ #realcolor);
+         aggrewirespeed (@ 1.0);
+         groupersize 1.0;
+      ) end;
+   );
+   
+   // Highlight Edges
+//   (c:focusa~* /\ c:focusa) + (c:focusb~* /\ c:focusb) ::> (
+//      itemdkcolor (linktarget::#realcolor * 0.2);
+//      itemcolor (linkorigin::#realcolor * 0.2);
+//      highlightedEdges <<set: this;
+//      itemhidden false;
+//      itemchasesize #realsize;
+//      itemsize #realsize;
+//   );
+   
+   c:focusa~* /\ c:focusb~* ::> (
+   
+      highlightedEdges <<set: this;
+      itemhidden false;
+      itemchasesize #realsize;
+      itemsize #realsize;
+   
+      itemdkcolor (linktarget::#realcolor * 0.4);
+      itemcolor (linkorigin::#realcolor * 0.4);
+      itemdarkflashcolor (linktarget::#realcolor);
+      itemflashcolor (linkorigin::#realcolor);
+   );
+   
+   focus <<c: c:focusnodes;
+   ./prelude_selectfocus;
+   
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub gesture_hideLinks(
+   hiddens <<sel: c:focus;
+   ./reflectSelections;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub gesture_clearSelections(
+   ./resetSelections;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+./loadppi;
+
+with ui:loadingsign do (
+   color (@solid, 0.6);
+   settexture (@ "uitexes/largebuttonbox.png");
+   setmargin (@ 25);
+   align(@ "center", "center");
+   
+   maketextlet(@ loadingbutton);
+   with ui:loadingbutton do (
+      
+      menuicon "bwahaha" "textures/fullcellviewintro.png";
+      mi:link (showgraph; ui:loadingsign ::> hide(@); g_idealresist = 0.3;);
+      mi:size 600 400;
+      mi:hoversize 600 400;
+      
+   ) end;
+   
+) end;
+
+hidegraph;
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+with ui:edgeselector do (
+   color (@solid, 0.6);
+   settexture (@ "uitexes/largebuttonbox.png");
+   setmargin (@ 25);
+   align(@ "start", "start");
+   
+   with ui:conns do (
+   
+      settexture (@ "uitexes/smallbox4.png");
+      setmargin (@ 15);
+   
+      hidden <<# true;
+      with set:interactions as x do (
+         maketextlet(@ c:x);
+         with ui:c:x do (
+            theset <<# c:x;
+            menutext c:x;
+            menutext " ";
+            dynalink "r" ("(./colorgroup [(theset <- " + #theset + "; color <- rgb:130 0 0)] );");
+            menutext "|";
+            dynalink "g" ("(./colorgroup [(theset <- " + #theset + "; color <- rgb:0 120 30)] );");
+            menutext "|";
+            dynalink "b" ("(./colorgroup [(theset <- " + #theset + "; color <- rgb:0 30 120)] );");
+            menutext "|";
+            dynalink "o" ("(./colorgroup [(theset <- " + #theset + "; color <- rgb:120 30 0)] );");
+            menutext "|";
+            dynalink "h" ("(./hideedgegroup [(theset <- " + #theset + ")] );");
+            menutext "|";
+            dynalink "s" ("(./showedgegroup [(theset <- " + #theset + ")] );");
+            menutext "|";
+            dynalink "def" ("(./backtodefaultcolor [(theset <- " + #theset + "; color <- rgb:0 0 0)] );");
+         ) end;
+      ) end;
+      
+      hide(@);
+      
+   ) end;
+   
+   maketextlet(@hider);
+   with ui:hider do (
+      menulink "filters" (./showorhidefilters);
+      menutooltip "Hide or show filters panel";
+      
+      menutext "(";
+      menulink "rst" (./resetHighlights);
+      menutooltip "Reset all color changes";
+      menutext(")");
+      
+      attach (@ conns, "start", "after");
+      
+      
+      
+   ) end;
+   
+) end;
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub hideedgegroup(
+   with set:c:theset as x do (
+      highlightedEdges <<set: this;
+      itemhidden true;
+   ) end;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub showedgegroup(
+   with set:c:theset as x do (
+      highlightedEdges <<set: this;
+      itemhidden false;
+   ) end;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub colorgroup(
+   with set:c:theset as x do (
+      highlightedEdges <<set: this;
+      itemcolor c:color;
+      itemdkcolor c:color;
+   ) end;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub backtodefaultcolor(
+   with set:c:theset as x do (
+      itemdkcolor (linktarget::#realcolor);
+      itemcolor (linkorigin::#realcolor);
+   ) end;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub showorhidefilters(
+   with ui:edgeselector.conns do (
+      if(#hidden) then (
+         unhide(@);
+         hidden <<# false;
+      ) else (
+         hide(@);
+         hidden <<# true;
+      ) end;
+   ) end;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////

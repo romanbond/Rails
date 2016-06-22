@@ -1,0 +1,717 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//./clearproject;
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+g_pull = 1.0;
+g_nodecounttarget = 1500;
+g_sb_brightness = 0.0;
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub exportGroups (
+
+   all aggregators.leadedGroup ::> (
+
+      if((this.leader ::> return #ismarcotte) == true) then (
+
+         this.* ::> (
+            trace ((this.group ::> (return (getName(@)))) + ",marcotte," + (getName(@)));
+         ) ;
+
+      ) else (
+         if(#maverick != true) then (
+            this.* ::> (
+               trace ((this.group ::> (return (getName(@)))) + ",auto," + (getName(@)));
+            ) ;
+         ) end;
+      ) end;
+
+   );
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+// c: dom1
+// c: dom2
+// c: theedge
+sub registerppidoms(
+//   domstarters <<set: c:dom1;
+//   domenders <<set: c:dom2;
+
+   ("domstarter_" + c:dom1) <<set: c:theedge;
+   ("domender_" + c:dom1) <<set: c:theedge;
+
+   ppidoms <<set: c:dom1;
+
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+// c:color
+// c:dom
+sub highlightdom(
+   with set:("domstarter_" + c:dom) as x do (
+      c:x ::> (
+         itemcolor c:color;
+         itemimportance 10.0;
+      );
+   ) end;
+
+   with set:("domender_" + c:dom) as x do (
+      c:x ::> (
+         itemcolor c:color;
+         itemimportance 10.0;
+      );
+   ) end;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub loadppi (
+
+   // the actual PPI data
+   // ----------------------------------------------------------------
+
+   interactions <<set: alledges;
+
+   opencsv ("data/ppi.csv") as "ppi";
+   with df:"ppi" do (
+      for dfline <- 0 .. ~rowsize - 1 do (
+         // ~l:0 -- protein A
+         // ~l:1 -- protein B
+         // ~l:2 -- reference / type of interaction record
+         // ~l:3 -- unique ID, ignore
+         // ~l:4 -- amount of times interaction has been observed
+         theedge <<c: (node:(~l:0) <- interacts -> node:(~l:1));
+         ~l:2 <<set: c:theedge;
+         alledges <<set: c:theedge;
+         interactions <<set: ~l:2;
+
+         thecount <<c: (toint ~l:4);
+
+         c:theedge ::> ag_weight <<@@# 0;
+
+         extraweight <<c: 1;
+         switch(~l:2) do (
+//            FYI -> extraweight <<c: 10;
+            b_affinitycapturems -> extraweight <<c: 3;
+            b_affinitycapturewestern -> extraweight <<c: 3;
+            b_cocrystalstructure -> extraweight <<c: 3;
+            b_twohybrid -> extraweight <<c: 2;
+         ) end;
+
+         c:theedge ::> (
+
+            if(# ("interaction" + ~l:2) == null) then (
+               "interaction" + ~l:2 <<# true;
+               pushhoverlabel (~l:2) + " x " + (c:thecount);
+               ag_weight <<# #ag_weight + ((c:extraweight) * (c:thecount));
+            ) end;
+
+         );
+
+      ) end;
+   ) end;
+
+
+   opencsv ("data/proteinsunlocalised.csv") as "genename";
+   with df:"genename" do (
+      for dfline <- 0 .. ~rowsize - 1 do (
+         // ~l:2 <-- nodeID
+         // ~l:3 <-- long name
+         // ~l:4 <-- readable name
+         with node:(~l:0) do (
+            name <<# ~l:1;
+            nodelabel ~l:1;
+            bookmarkname <<# ~l:1;
+            info <<# ~l:2;
+            bookmarkdesc <<# ~l:2;
+            nodeinfo 0 ~l:2;
+
+            (~l:6) <<group: this;
+
+            if((~l:3) != "") then (
+//               pdbids <<# ~l:3;
+               pdbids <<# pdbmodel ~l:3;
+               ./ppi_showPDBButton;
+            ) end;
+
+            if((~l:4) != "") then (
+               abundance <<# (tofloat ~l:4);
+               abundanceRearranged <<c: sqrt(#abundance);
+
+               halflife <<# (tofloat ~l:5);
+
+               clearcirclechart;
+
+               // abundance
+               if(#halflife > 0.0) then (
+
+                  halfliferot <<c: #halflife / 720.0;
+                  halfliferot <<c: max 1.0 c:halfliferot;
+
+                  circlechart "halflife" 1.0 1.0 + (0.2 / c:halfliferot);
+                  celvalue "halflife" #halflife;
+                  celcolor "halflife" rgb: 0 30 toint (30 + (10.0 * c:halfliferot));
+                  charttotal 720;
+
+                  pushhoverlabel ("half life : " + (#halflife) + " minutes");
+
+               ) end;
+
+               // halflife
+               circlechart "abundance" 1.3 (1.3 + (c:abundanceRearranged / 1500.0));
+               celvalue "abundance" c:abundanceRearranged;
+               celcolor "abundance" rgb: 50 50 30;
+               charttotal 300;
+
+               pushhoverlabel ("protein abundance : " + (#abundance));
+
+            ) end;
+
+
+
+
+
+         ) end;
+      ) end;
+   ) end;
+
+   // calling the autogrouper command
+   // ----------------------------------------------------------------
+//   autogroupdata <<c: new: object;
+//   c:autogroupdata ::> (
+//      ag_highlineweight;
+//   );
+//   autogrouper c:autogroupdata;
+
+
+   // domain domain interactions
+   // ----------------------------------------------------------------
+   /*
+   opencsv ("data/ppidomdom.csv") as "ppidomdom";
+   with df:"ppidomdom" do (
+      for dfline <- 0 .. ~rowsize - 1 do (
+         // ~l:0 -- protein A
+         // ~l:1 -- dom A
+         // ~l:2 -- protein B
+         // ~l:3 -- dom B
+
+         theedge <<c: (node:(~l:0) <- interacts -> node:(~l:2));
+         c:theedge ::> ag_weight <<@@# 0;
+
+         prota <<c: node:(~l:0);
+         protb <<c: node:(~l:2);
+
+         c:theedge ::> (
+            if(linkorigin == c:prota) then (
+               "domstart" + ~l:1 <<# true;
+               "domend" + ~l:3 <<# true;
+               pushhoverlabel (~l:1) + " <--> " + (~l:3);
+               ./registerppidoms [( dom1 <- (~l:1);  dom2 <- (~l:3))];
+            ) else (
+               "domstart" + ~l:3 <<# true;
+               "domend" + ~l:1 <<# true;
+               pushhoverlabel (~l:3) + " <--> " + (~l:1);
+               ./registerppidoms [( dom1 <- (~l:3);  dom2 <- (~l:1))];
+            ) end;
+         );
+
+      ) end;
+   ) end;
+   */
+
+   opencsv ("data/ppigroupsunloc.csv") as "storedgroupings";
+   with df:"storedgroupings" do (
+      for dfline <- 0 .. ~rowsize - 1 do (
+         // ~l:0 -- localised group
+         // ~l:1 -- type (marcotte or auto)
+
+         groupname <<c: ~l:0;
+         switch (~l:1) do (
+            "marcotte" -> (
+               (group:c:groupname) ::> ismarcotte <<# true;
+               (groupleader:c:groupname) ::> ismarcotte <<# true;
+            );
+            "auto"-> (
+               (group:c:groupname) ::> isautogroup <<# true;
+               (groupleader:c:groupname) ::> isautogroup <<# true;
+            );
+            "doubleton"->(
+               (group:c:groupname) ::> isautogroup <<# true;
+               (groupleader:c:groupname) ::> isautogroup <<# true;
+            );
+            default -> (
+               (group:c:groupname) ::> maverick <<# true;
+               (groupleader:c:groupname) ::> maverick <<# true;
+            );
+         ) end;
+
+
+         groupnum <<c: (toint ~l:4);
+         groupsynergy <<c: (tofloat ~l:2);
+         groupbiasedsynergy <<c: (tofloat ~l:3);
+         previewstring <<c: ~l:5;
+
+         group:c:groupname ::> (
+            groupnum <<# c:groupnum;
+            synergy <<# c:groupsynergy;
+            biasedsyn <<# c:groupbiasedsynergy;
+            previewstring <<# c:previewstring;
+         );
+
+         groupleader:c:groupname ::> (
+
+            groupnum <<# c:groupnum;
+            synergy <<# c:groupsynergy;
+            biasedsyn <<# c:groupbiasedsynergy;
+            previewstring <<# c:previewstring;
+
+            this.leadedGroup.* ::> (
+               groupuniqnum <<# c:groupnum;
+               groupid <<# c:groupname;
+            );
+
+            realcolor <<# ./lowNumberColorSplit [(num <- #groupnum)];
+
+            itemcolor #realcolor;
+            itemdkcolor #realcolor;
+            if(#ismarcotte == true) then (
+               extratexture name "ppitexes/membranic.png";
+               itemtexture name "ppitexes/membranic.png";
+            ) else (
+               if((this.leadedGroup ::> return #maverick) == true) then (
+                  itemtexture name "ppitexes/spiraldoubledots.png";
+                  extratexture name "ppitexes/spiraldoubledots.png";
+               ) else (
+                  itemtexture name "ppitexes/dashedoutline.png";
+                  extratexture name "ppitexes/dashedoutline.png";
+               ) end;
+            ) end;
+
+            membercount <<mc: 0;
+            this.leadedGroup.* ::> (membercount <<c: c:membercount + 1);
+            itemsize (sqrt c:membercount) * 3.0;
+
+            itemmass 2.0;
+
+         );
+
+      ) end;
+   ) end;
+
+
+   with all nodes do (
+
+//      trace itemid;
+
+      realcolor <<# ./lowNumberColorSplit [(num <- #groupuniqnum)];
+      itemcolor #realcolor;
+
+      itemsize 3.0;
+      itemtexture name "textures/emptycircle.gif";
+
+      if(#name == null) then (
+         trace ("null name : " + itemid);
+         itemtexture name "textures/xcircle.gif";
+      ) else (
+         pushhoverlabel #name;
+         pushhoverlabel #info;
+      ) end;
+
+//      (#groupid) <<group: (node:itemid);
+
+//      [(thegroupnum <- #groupuniqnum)] with (
+//         with groupleader:(#groupid) do (
+//            groupnum <<# c:thegroupnum;
+//         ) end;
+//      ) end;
+
+      itemgesture r1 gesture_selectProtein "select protein";
+      itemgesture r9 gesture_clearSelections "reset view";
+      itemgesture r7 gesture_hideLinks "hide links";
+
+      itemgesture lL gesture_select "";
+
+   ) end;
+
+   with all edges do (
+//      itemcolor rgb:20 20 20;
+      itemdkcolor (linktarget::#realcolor) * 0.3;
+      itemcolor (linkorigin::#realcolor) * 0.3;
+//      itemdkcolor (linktarget::#realcolor);
+//      itemcolor (linkorigin::#realcolor);
+//      itemtexture name "textures/muda.gif";
+//      itemtexture dx 0.05;
+      itemsize (max 1 (#ag_weight / 2));
+      itemimportance #ag_weight / 5.0;
+      inserthoverlabel 0 ((linktarget::#name) + " <-> " + (linkorigin::#name));
+//      pushhoverlabel #interactionlist;
+   ) end;
+
+   with all aggregators.leadedGroup as y do (
+
+      if(#maverick == true) then (
+         maverickgroups <<set: c:y;
+         setAlwaysCollapsed(@);
+      ) else (
+         if(#ismarcotte == true) then (
+            marcottegroups <<set: c:y;
+         ) else (
+            autogengroups <<set: c:y;
+         ) end;
+      ) end;
+
+   ) end;
+
+
+   ////////////////////////////////////////////////////////////////////////////////////?
+   // keys
+   ////////////////////////////////////////////////////////////////////////////////////?
+
+   with keys:root do(
+      submenu(@ "/m", "bookmarkmenu", "bookmarks menu");
+      submenu(@ "/a", "all", "browse through all");
+      submenu(@ "/i", "infobrowse", "browse through by long protein name");
+      submenu(@ "/l", "locus", "browse through by ordered locus name");
+      submenu(@ "/d", "highlightdoms", "highlight domains");
+      color(@ rgb: 70 50 30);
+      action (@ "/collapse hart",
+                  (> ./collapseSetOfGroups [( setname <- marcottegroups )]; ),
+                  "collapse all the Hart et al complexes");
+      color(@ rgb: 70 50 30);
+      action (@ "/collapse automatic",
+                  (> ./collapseSetOfGroups [( setname <- autogengroups )]; ),
+                  "collapse all the automatically generated groups");
+      color(@ rgb: 30 50 70);
+      action (@ "/expand hart",
+                  (> ./automatischSetOfGroups [( setname <- marcottegroups )]; ),
+                  "expand all the Hart et al complexes");
+      color(@ rgb: 30 50 70);
+      action (@ "/expand automatic",
+                  (> ./automatischSetOfGroups [( setname <- autogengroups )]; ),
+                  "expand all the automatically generated groups");
+   ) end;
+
+   with keys:bookmarkmenu do (
+      color(@ rgb: 20 70 20);
+      action(@ "s", (> ./prelude_showBookmarkList; ), "list bookmarked nodes");
+      color(@ rgb: 70 40 20);
+      action(@ "c", (> ./prelude_copyBookmarkToClipboard; ), "copy bookmarks to clipboard");
+   ) end;
+
+
+   refindex: "/groups" ::> (
+      describe(@"Browse groups", rgb:20 50 20);
+   );
+
+   refindex: "/gauto" ::> (
+      describe(@"Browse high-synergied / larger automatic groups", rgb:20 50 70);
+   );
+
+   refindex: "/stru" ::> (
+      describe(@"Browse proteins with structural data", rgb:20 50 20);
+   );
+
+   with all nodes.group as x do (
+      refindex: "/groups".(getName(@)) ::> (
+         add(@ c:x); // add the group
+         describe(@ "(iso : " + (c:x::#synergy) + ") : " + (c:x::#previewstring), (c:x.*::return #realcolor));
+         addAction(@ "view", "focus on this group", rgb:0 0 50, (> ./select_group [(focus <- this)] ) );
+      );
+   ) end;
+
+   with all nodes as x do (
+      if(#pdbids != null) then (
+         refindex: "/stru".(getName(@)) ::> (
+            add(@ c:x); // add the group
+            describe(@ (c:x::#pdbids), (c:x::#realcolor));
+            addAction(@ "view", "focus on this node", rgb:0 0 50, (> ./gesture_select [(focus <- this)] ) );
+         );
+      ) end;
+   ) end;
+
+   with all nodes.group as x do (
+      if(#isautogroup == true && #biasedsyn > 0.4) then (
+         refindex: "/gauto".(getName(@)) ::> (
+            add(@ c:x); // add the group
+         describe(@ "(iso : " + (c:x::#synergy) + ") : " + (c:x::#previewstring), (c:x.*::return #realcolor));
+            addAction(@ "view", "focus on this group", rgb:0 0 50, (> ./select_group [(focus <- this)] ) );
+         );
+      ) end;
+   ) end;
+
+   with all nodes as y do (
+         // c:y individual nodes
+
+         if(c:y ::> (#name != null && #info != null ) ) then (
+
+            with keys:"all" do (
+                color(@ c:y::(#realcolor* 0.7));
+                action(@ c:y :: (#name),
+                              {"./gesture_select [(focus <- node:\"" + (c:y :: itemid) + "\")]"},
+                              (c:y :: #info) );
+            ) end;
+
+            with keys:"infobrowse" do (
+                color(@ c:y::(#realcolor* 0.7));
+                action(@ c:y :: (#info),
+                              {"./gesture_select [(focus <- node:\"" + (c:y :: itemid) + "\")]"},
+                              (c:y :: #name) );
+            ) end;
+
+            with keys:locus do (
+                color(@ c:y::(#realcolor* 0.7));
+                action(@ c:y :: itemid,
+                              {"./gesture_select [(focus <- node:\"" + (c:y :: itemid) + "\")]"},
+                              (c:y :: #info) );
+            ) end;
+
+         ) end;
+   ) end;
+
+   with set:ppidoms as thedom do (
+
+         with keys:highlightdoms do (
+             action(@ c:thedom,
+                           {"./highlightdom [(dom <- \"" + (c:thedom) + "\"; color <- rgb:120 0 0)]"},
+                           ("highlight interactions with domain: " + c:thedom) );
+         ) end;
+
+   ) end;
+
+
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub ppi_showPDBButton(
+   thenode <<c: this;
+   if(#pdbids != null) then (
+      setemblem(@showpdb, "textures/insurance.gif", rgb:30 30 90, 1.0) ::> (
+         thenode <<# c:thenode;
+         gesture(@lL, ppi_showPDBButton_gestureaction, "display protein structure");
+      );
+   ) end;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub ppi_showPDBButton_gestureaction(
+   c:focus ::> (
+      #thenode ::> (
+         trace "this is : " + getName(@);
+         pdbshow #pdbids;
+      );
+   );
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+// c:setname
+sub collapseSetOfGroups(
+   with set:c:setname as x do (
+      setAlwaysCollapsed(@);
+   ) end;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+// c:setname
+sub automatischSetOfGroups(
+   with set:c:setname as x do (
+      automatischMode(@);
+   ) end;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub select_group(
+
+   menudef nodeinfomenu[16](
+      menucolor ((this.*:: return #realcolor) * 0.1) + rgba:30 30 30 0;
+      menutext (getName(@));
+   );
+
+   menushow nodeinfomenu;
+
+   ./prelude_selectfocus [(focus <- this.*)];
+
+   this.* ::> ./prelude_node_showBookmarkButton;
+
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub gesture_select(
+
+   menudef nodeinfomenu[16](
+      menucolor ((c:focus::#realcolor) * 0.1) + rgba:30 30 30 0;
+      menutext (c:focus::#name);
+      menutext " | ";
+      menutext (c:focus::#info);
+      menutext " @ ";
+      menutext (c:focus::#groupid);
+   );
+
+   menushow nodeinfomenu;
+
+   ./prelude_selectfocus;
+
+   c:focus ::> ./prelude_node_showBookmarkButton;
+
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+/*
+selections:
+   hiddens (nodes where the edges should be hidden)
+      -> hide its links
+   concents (concentrates)
+      -> with sel.concents~* pullstrength = 10.0
+      g_pull = 0.1
+
+
+*/
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub gesture_selectProtein(
+   concents <<sel: c:focus;
+   ./reflectSelections;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub gesture_selectProteinSelfOnly(
+   clearsel concents;
+   concents <<sel: c:focus;
+   ./reflectSelections;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub gesture_hideLinks(
+   hiddens <<sel: c:focus;
+   ./reflectSelections;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub gesture_clearSelections(
+   ./resetSelections;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+./loadppi;
+
+//g_pull = 150.0;
+./collapseSetOfGroups [( setname <- autogengroups )];
+./collapseSetOfGroups [( setname <- marcottegroups )];
+
+with ui:loadingsign do (
+   color (@solid, 0.6);
+   settexture (@ "uitexes/largebuttonbox.png");
+   setmargin (@ 25);
+   align(@ "center", "center");
+
+   maketextlet(@ loadingbutton);
+   with ui:loadingbutton do (
+
+      menuicon "bwahaha" "textures/complexviewintro.png";
+      mi:link (showgraph;
+                ui:loadingsign ::> hide(@);
+                g_pull = 0.05;
+                ./automatischSetOfGroups [( setname <- autogengroups )];
+                ./automatischSetOfGroups [( setname <- marcottegroups )];
+                );
+      mi:size 600 400;
+      mi:hoversize 600 400;
+
+   ) end;
+
+) end;
+
+// hidegraph;
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+with ui:edgeselector do (
+   color (@solid, 0.6);
+   settexture (@ "uitexes/largebuttonbox.png");
+   setmargin (@ 25);
+   align(@ "start", "start");
+
+   with ui:conns do (
+
+      settexture (@ "uitexes/smallbox4.png");
+      setmargin (@ 15);
+
+      hidden <<# true;
+      with set:interactions as x do (
+         maketextlet(@ c:x);
+         with ui:c:x do (
+            theset <<# c:x;
+            menutext c:x;
+            menutext " ";
+            dynalink "r" ("(./colorgroup [(theset <- " + #theset + "; color <- rgb:130 0 0)] );");
+            menutext "|";
+            dynalink "g" ("(./colorgroup [(theset <- " + #theset + "; color <- rgb:0 120 30)] );");
+            menutext "|";
+            dynalink "b" ("(./colorgroup [(theset <- " + #theset + "; color <- rgb:0 30 120)] );");
+            menutext "|";
+            dynalink "o" ("(./colorgroup [(theset <- " + #theset + "; color <- rgb:120 30 0)] );");
+            menutext "|";
+            dynalink "b" ("(./colorgroup [(theset <- " + #theset + "; color <- rgb:0 0 0)] );");
+            menutext "|";
+            dynalink "def" ("(./backtodefaultcolor [(theset <- " + #theset + "; color <- rgb:30 30 30)] );");
+         ) end;
+      ) end;
+
+      hide(@);
+
+   ) end;
+
+   maketextlet(@hider);
+   with ui:hider do (
+      menulink "filters" (./showorhidefilters);
+      menutooltip "Hide or show filters panel";
+
+      menutext "(";
+      menulink "rst" (./resetallcolor);
+      menutooltip "Reset all color changes";
+      menutext(")");
+
+      attach (@ conns, "start", "after");
+
+
+
+   ) end;
+
+) end;
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub colorgroup(
+   with set:c:theset as x do (
+      itemcolor c:color;
+      itemimportance 10.0;
+   ) end;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub backtodefaultcolor(
+   with set:c:theset as x do (
+      itemcolor c:color;
+      itemimportance 1.0;
+   ) end;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub resetallcolor(
+   with all edges do (
+      itemcolor rgb: 30 30 30;
+   ) end;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+sub showorhidefilters(
+   with ui:edgeselector.conns do (
+      if(#hidden) then (
+         unhide(@);
+         hidden <<# false;
+      ) else (
+         hide(@);
+         hidden <<# true;
+      ) end;
+   ) end;
+);
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////

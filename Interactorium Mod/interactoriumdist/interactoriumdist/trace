@@ -1,0 +1,38 @@
+Ready for GLSL
+Ready for OpenGL 2.0
+Framebuffer objects supported
+new frame buffer : 1
+log for shaders/Edgar.frag
+WARNING: 0:11: '' :  #version directive missing
+
+
+log for shaders/Edgar.vert
+WARNING: 0:2: '' :  #version directive missing
+
+
+program info log : 
+
+unable to load texture : skyboxes/fae04dark/pos_x.jpg
+and the error is: Couldn't open skyboxes/fae04dark/pos_x.jpg
+unable to load texture : skyboxes/fae04dark/pos_y.jpg
+and the error is: Couldn't open skyboxes/fae04dark/pos_y.jpg
+unable to load texture : skyboxes/fae04dark/pos_z.jpg
+and the error is: Couldn't open skyboxes/fae04dark/pos_z.jpg
+unable to load texture : skyboxes/fae04dark/neg_x.jpg
+and the error is: Couldn't open skyboxes/fae04dark/neg_x.jpg
+unable to load texture : skyboxes/fae04dark/neg_y.jpg
+and the error is: Couldn't open skyboxes/fae04dark/neg_y.jpg
+unable to load texture : skyboxes/fae04dark/neg_z.jpg
+and the error is: Couldn't open skyboxes/fae04dark/neg_z.jpg
+unable to load texture : skyboxes/matrix/pos_x.jpg
+and the error is: Couldn't open skyboxes/matrix/pos_x.jpg
+unable to load texture : skyboxes/matrix/pos_y.jpg
+and the error is: Couldn't open skyboxes/matrix/pos_y.jpg
+unable to load texture : skyboxes/matrix/pos_z.jpg
+and the error is: Couldn't open skyboxes/matrix/pos_z.jpg
+unable to load texture : skyboxes/matrix/neg_x.jpg
+and the error is: Couldn't open skyboxes/matrix/neg_x.jpg
+unable to load texture : skyboxes/matrix/neg_y.jpg
+and the error is: Couldn't open skyboxes/matrix/neg_y.jpg
+unable to load texture : skyboxes/matrix/neg_z.jpg
+and the error is: Couldn't open skyboxes/matrix/neg_z.jpg

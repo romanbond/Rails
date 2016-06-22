@@ -1,0 +1,38 @@
+start!
+loading texture : fonts/blender48_00.png
+reading from file.. 
+font : blender48 loaded. maxwidth : 33 | maxheight : 48
+start!
+loading texture : fonts/ginga100_00.png
+reading from file.. 
+font : ginga100 loaded. maxwidth : 121 | maxheight : 99
+start!
+loading texture : fonts/kroeger10_00.png
+reading from file.. 
+font : kroeger10 loaded. maxwidth : 16 | maxheight : 10
+start!
+loading texture : fonts/lucida32_00.png
+reading from file.. 
+font : lucida32 loaded. maxwidth : 20 | maxheight : 32
+start!
+loading texture : fonts/verdana12_00.png
+reading from file.. 
+font : verdana12 loaded. maxwidth : 10 | maxheight : 12
+start!
+loading texture : fonts/verdana16_00.png
+reading from file.. 
+font : verdana16 loaded. maxwidth : 13 | maxheight : 16
+start!
+loading texture : fonts/fixed9_00.png
+reading from file.. 
+font : fixed9 loaded. maxwidth : 7 | maxheight : 9
+start!
+loading texture : fonts/teacherspet16_00.png
+reading from file.. 
+font : teacherspet16 loaded. maxwidth : 10 | maxheight : 16
+start!
+loading texture : fonts/subatomic8_00.png
+reading from file.. 
+font : subatomic8 loaded. maxwidth : 6 | maxheight : 8
+[38;5;66mroen[38;5;238m :: [38;5;244mOpening script file : scripts/prelude.van
+[0m
