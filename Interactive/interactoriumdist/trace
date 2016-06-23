@@ -1,14 +1,10 @@
 Ready for GLSL
 Ready for OpenGL 2.0
 Framebuffer objects supported
-new frame buffer : 1
+new frame buffer : 2
 log for shaders/Edgar.frag
-WARNING: 0:11: '' :  #version directive missing
-
 
 log for shaders/Edgar.vert
-WARNING: 0:2: '' :  #version directive missing
-
 
 program info log : 
 
