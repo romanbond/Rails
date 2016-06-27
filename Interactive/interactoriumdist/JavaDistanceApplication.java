@@ -1,3 +1,5 @@
+//Make directory class
+
 package javadistanceapplication;
 
 import java.util.Random;
