@@ -1,6 +1,7 @@
 package javadistanceapplication;
 
 import java.util.Random;
+import java.util.Scanner;
 
 public class JavaDistanceApplication {
     /*public static void main(String[] args) {
@@ -108,15 +109,24 @@ public class JavaDistanceApplication {
         //System.out.println("*** " + obj.convert(-55));
         //System.out.println("TEST GEN ------- TEST GEN");
         Random rand = new Random();
-        int x = 5000;
-        int y = 0;
-        int z = 0;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Enter the amount of NODE LINKS:");
+        int x = in.nextLine();      //x input
+        x = parseInt(x);            //parse node link
+        System.out.println("Enter the y value:");
+        int yIN = in.nextLine();    //y input
+        yIN = parseInt(x);          //parse y value
+        int y = 0;                  //default value
+        System.out.println("Enter the z value:");
+        int zIN = in.nextLine();    //z input
+        zIN = parseInt(x);          //parse z value
+        int z = 0;                  //default value
         for(int i=0; i<x;i++){
             //System.out.println("y value: "+y);
-            y = rand.nextInt(50000) + 1; //Say it's 37
+            y = rand.nextInt(yIN) + 1; //Say it's 37
             //so then 37 links to...
             //System.out.println("z value: "+z);
-            z = rand.nextInt(50000) + 1; //Say it's 13
+            z = rand.nextInt(zIN) + 1; //Say it's 13
             //so then 37 links to 13
             System.out.println(obj.convert(y) + " -- links -> " + obj.convert(z)+";");
 
