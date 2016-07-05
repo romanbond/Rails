@@ -1816,7 +1816,8 @@ sub xoom(
 
 //loadfile "scripts/ppiloc.van";
 
-//with node:one do pdbmodel "1Q0W" end;
+//removed comment on 1820
+with node:one do pdbmodel "1Q0W" end;
 //with node:one do pdbmodel "1J5E" end;
 //with node:one do pdbmodel "1FNN" end;
 //with node:one do pdbmodel "1Q0W" end;
